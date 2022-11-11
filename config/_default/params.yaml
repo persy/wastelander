@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Una guida di sopravvivenza alla Zona contaminata per ogni vagabondo solitario'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
