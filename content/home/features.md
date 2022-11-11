@@ -1,20 +1,21 @@
+
 ---
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Cosa puoi trovare
+subtitle: L'essenziale e qualcosa di più
 feature:
-  - icon: book-open
+  - icon: file-pdf
     icon_pack: fas
-    name: Project Documentation
-    description: For users
-  - icon: question
+    name: Guide
+    description: Da scaricare e consultare offline
+  - icon: globe
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
-  - icon: list-alt
+    name: Voci online
+    description: Per un consulto rapido
+  - icon: map
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: Contenuti extra
+    description: Mappe, tips e curiosità
 ---
