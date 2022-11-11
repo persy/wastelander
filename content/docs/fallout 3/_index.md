@@ -13,3 +13,5 @@ type: book # Do not modify.
 ---
 
 *In allestimento*
+
+![webp](Fallout_3_cover_art.webp.webp)

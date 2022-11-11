@@ -3,11 +3,11 @@ widget: hero
 headless: true
 weight: 10
 title: Guida di sopravvivenza alla Zona contaminata
-hero_media: vaultboy_reading.gif
+hero_media: vaultboy.png
 design:
   background:
-    gradient_start: '#073605'
-    gradient_end: '#199515'
+    gradient_start: '#035ece'
+    gradient_end: '#019bf4'
     text_color_light: true
 cta:
   url: docs/guide/
