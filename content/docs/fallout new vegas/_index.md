@@ -14,4 +14,4 @@ type: book # Do not modify.
 
 *In allestimento*
 
-![webp](../fallout%20new%20vegas/FNV_box_art_29.webp)
+![webp](FNV_box_art_29.webp)

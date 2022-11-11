@@ -21,7 +21,7 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Ladro                        |    2    | PER 4, AGI 4                       |   3   | +5 Scasso, +5 Furtivo                                                                                                   |
 | Allievo sveglio              |    2    | INT 4                              |   3   | +10% EXP ogni volta che si guadagnano EXP                                                                               |
 | Addestramento intensivo      |    2    |                                    |  10   | +1 all'attributo SPECIAL scelto                                                                                         |
-| Bambino dentro               |    4    | CAR 4                              |   1   | SblocCAR molte opzioni di dialogo uniche con i bambini                                                                  |
+| Bambino dentro               |    4    | CAR 4                              |   1   | Sblocca molte opzioni di dialogo uniche con i bambini                                                                  |
 | Comprensione                 |    4    | INT 4                              |   1   | +1 punto abilità aggiuntivo ogni volta che viene letto un libro delle abilità                                           |
 | Esperto                      |    4    | INT 4                              |   1   | +3 punti abilità per livello                                                                                            |
 | Entomologo                   |    4    | INT 4, Scienza 40                  |   1   | +50% danni agli insetti                                                                                                 |
@@ -109,4 +109,5 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Difensore supremo                  | Point Lookout         | Sapori locali                     | Completare la missione                                          | +5 danni e +10 RD quando si è fermi                                                                                                 |
 
 ¹Non bisogna uccidere la formica regina
+
 ²Opzionale

@@ -4,9 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Homepage
     url: /
     weight: 10
-  - name: Voci
-    url: docs/
+  - name: Fallout 3
+    url: docs/fallout-3
     weight: 20
+  - name: Fallout New Vegas
+    url: docs/fallout-new-vegas
+    weight: 30    
