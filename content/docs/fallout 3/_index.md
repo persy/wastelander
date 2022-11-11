@@ -28,4 +28,4 @@ image:
 
 *In allestimento*
 
-![webp](Fallout_3_cover_art.webp.webp)
+![webp](Fallout_3_cover_art.webp)
