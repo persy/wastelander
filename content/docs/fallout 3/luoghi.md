@@ -27,7 +27,7 @@ image:
 
 *In allestimento*
 
-
+{{< toc hide_on="xl" >}}
 
 
 
