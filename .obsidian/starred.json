@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "gennaio",
+      "path": "giardinaggio/calendario/gennaio.md"
+    },
+    {
+      "type": "file",
+      "title": "febbraio",
+      "path": "giardinaggio/calendario/febbraio.md"
+    },
+    {
+      "type": "file",
+      "title": "marzo",
+      "path": "giardinaggio/calendario/marzo.md"
+    },
+    {
+      "type": "file",
+      "title": "aprile",
+      "path": "giardinaggio/calendario/aprile.md"
+    },
+    {
+      "type": "file",
+      "title": "maggio",
+      "path": "giardinaggio/calendario/maggio.md"
+    },
+    {
+      "type": "file",
+      "title": "giugno",
+      "path": "giardinaggio/calendario/giugno.md"
+    },
+    {
+      "type": "file",
+      "title": "luglio",
+      "path": "giardinaggio/calendario/luglio.md"
+    },
+    {
+      "type": "file",
+      "title": "agosto",
+      "path": "giardinaggio/calendario/agosto.md"
+    },
+    {
+      "type": "file",
+      "title": "settembre",
+      "path": "giardinaggio/calendario/settembre.md"
+    },
+    {
+      "type": "file",
+      "title": "ottobre",
+      "path": "giardinaggio/calendario/ottobre.md"
+    },
+    {
+      "type": "file",
+      "title": "novembre",
+      "path": "giardinaggio/calendario/novembre.md"
+    },
+    {
+      "type": "file",
+      "title": "dicembre",
+      "path": "giardinaggio/calendario/dicembre.md"
+    },
+    {
+      "type": "file",
+      "title": "diario 2022",
+      "path": "diario/diario 2022.md"
+    }
+  ]
+}

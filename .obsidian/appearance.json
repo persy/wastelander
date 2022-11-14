@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 15,
+  "theme": "moonstone",
+  "cssTheme": "Everforest",
+  "textFontFamily": "Roboto Flex Normal",
+  "accentColor": "#8c6df3",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "print"
+  ]
+}

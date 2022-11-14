@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "c02701abba214d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b416a0f94bf3e698",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "empty",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4da3012cfc2fd6c8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8970dd7242f67fed",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "623a208955c0f991",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b4f56e4ec0f34e1c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3df2d3655cb74261",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "72514fdd8cd5ac6c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d4ba22eecce3434",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9d22756e5005ee3d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "49934a6bc3b2b8ba",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b416a0f94bf3e698",
+  "lastOpenFiles": [
+    "diario 2021.md",
+    "allegati/IMG_20220107_100109 1.jpg",
+    "diari/diario 2021/dicembre 2021.md",
+    "diari/diario 2021/novembre 2021.md",
+    "diari/diario 2021/ottobre 2021.md",
+    "diari/diario 2021/settembre 2021.md",
+    "diari/diario 2021/agosto 2021.md",
+    "diari/diario 2021/luglio 2021.md",
+    "diari/diario 2021/giugno 2021.md",
+    "diari/diario 2021/maggio 2021.md"
+  ]
+}

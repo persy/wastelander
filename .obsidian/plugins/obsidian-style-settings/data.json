@@ -1,0 +1,8 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
+  "blue-topaz-theme@@remove-table-transition": true,
+  "blue-topaz-theme@@table-style-options": "table-style-one",
+  "blue-topaz-theme@@show-border-table": false,
+  "blue-topaz-theme@@full-width-table": false,
+  "blue-topaz-theme@@fancy-hr": "fancy-hr-no-icon"
+}

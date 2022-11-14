@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "c02701abba214d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e635f21cd8f5039a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "giardinaggio/GrowVeg.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c2c54acaf013f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4197ba68b6e0c521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a361e21484002e30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd2dab83137b3de7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f63425d81be12c07",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cceb72bd02003a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9453b7c58db2f940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0602d6d08e0ba9f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f62d933f89519b61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "giardinaggio/GrowVeg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb1f260ec300e967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "giardinaggio/GrowVeg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91766d7a5a753715",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dba1ba93df2da14e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "giardinaggio/GrowVeg.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e635f21cd8f5039a",
+  "lastOpenFiles": [
+    "giardinaggio/GrowVeg.md",
+    "giardinaggio/appunti di giardinaggio.md",
+    "link/acquisti.md",
+    "allegati/image-1653068835927.jpg4856471703550664383.jpg",
+    "diario.md",
+    "zabaion.md",
+    "diario/diario 2022.md",
+    "diario/diario 2021.md",
+    "2022-05-04.md",
+    "2020-09-29.md"
+  ]
+}

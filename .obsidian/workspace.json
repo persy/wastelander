@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c02701abba214d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e486c9c5f17ac7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "323ab6e78ab806e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "97c0bfdf3653c961",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "a92e0affc5b76c72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c2c54acaf013f6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4197ba68b6e0c521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a361e21484002e30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd2dab83137b3de7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f63425d81be12c07",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "cceb72bd02003a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "9453b7c58db2f940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f62d933f89519b61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb1f260ec300e967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91766d7a5a753715",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dba1ba93df2da14e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "91aef8dc84786b40",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a404dcdbfba4dcb2",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b75b115276127264",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "active": "323ab6e78ab806e4",
+  "lastOpenFiles": [
+    "videogiochi/fallout 3/abilità extra.md",
+    "videogiochi/fallout 3/bamboline.md",
+    "videogiochi/fallout 3/luoghi.md",
+    "videogiochi/fallout 3/missioni.md",
+    "videogiochi/fallout 3/allegati/Calverton_Nikola_Tesla_and_You.jpg",
+    "videogiochi/fallout 3/allegati/Camp_Rho_loc.webp",
+    "videogiochi/fallout 3/nikola-tesla-and-you-evergreen-mills-webp.md",
+    "videogiochi/fallout 3/luoghi_old.md",
+    "videogiochi/fallout 3/soluzione.md",
+    "videogiochi/fallout 3/temp.md"
+  ]
+}
