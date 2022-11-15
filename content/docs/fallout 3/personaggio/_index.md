@@ -15,4 +15,4 @@ commentable: true
 
 *In allestimento*
 
-- [Abilità extra](abilita-extra) o *perk*
+- [Abilità extra](abilita-extra)

@@ -15,4 +15,7 @@ commentable: true
 
 *In allestimento*
 
+- [Luoghi](luoghi)
+- [Personaggio](personaggio)
+
 ![webp](Fallout_3_cover_art.webp)
