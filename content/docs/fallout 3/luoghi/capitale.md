@@ -1,18 +1,18 @@
 ---
 # Title, summary, and page position.
-linktitle: Fallout New Vegas
+linktitle: Capitale
 summary: 
-weight: 40
-icon: radiation
+weight: 20
+icon: map-location-dot
 icon_pack: fas
 
 # Page metadata.
-title: Fallout New Vegas
-date: '2018-09-09T00:00:00Z'
+title: Capitale 
+date: 2022-11-15
 type: book # Do not modify.
 commentable: true
 ---
 
 *In allestimento*
 
-![webp](FNV_box_art_29.webp)
+{{< toc hide_on="xl" >}}

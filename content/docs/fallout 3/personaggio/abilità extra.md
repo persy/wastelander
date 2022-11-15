@@ -1,9 +1,21 @@
 ---
-title: Abilità extra
+# Title, summary, and page position.
 linktitle: Abilità extra
-date: '2022-11-11'
+summary: 
+weight: 10
+icon: brain
+icon_pack: fas
+
+# Page metadata.
+title: Abilità extra
+date: 2022-11-15
 type: book # Do not modify.
+commentable: true
 ---
+
+*In allestimento*
+
+{{< toc hide_on="xl" >}}
 
 
 In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre livelli come succede in Fallout e Fallout 2, o ogni due come in Fallout: New Vegas.
@@ -87,6 +99,7 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Anomalia nucleare            |   30    |                                    |   1   | Ogni volta che la salute è a 20 HP o meno, si emanerà una devastante eslosione nucleare                                 |
 | Quasi perfetto               |   30    |                                    |   1   | Tutti gli attributi SPECIAL inferiori a 9 salgono a 9                                                                   |
 
+
 ## Abilità extra ottenuti con delle missioni
 | Abilità extra                      | DLC                   | Missione                          | Requisiti                                                       | Bonus                                                                                                                               |
 | ---------------------------------- | --------------------- | --------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,6 +121,6 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Potere di Punga!                   | Point Lookout         | Spiriti e fantasmi                | Completare la missione                                          | -10 RAD dal frutto di Punga selvatico e -15 RAD dal frutto di Punga coltivato                                                       |
 | Difensore supremo                  | Point Lookout         | Sapori locali                     | Completare la missione                                          | +5 danni e +10 RD quando si è fermi                                                                                                 |
 
-¹Non bisogna uccidere la formica regina
+<small>¹Non bisogna uccidere la regina delle formiche prima di completare la missione</small>
 
-²Opzionale
+<small>²Opzionale</small>
