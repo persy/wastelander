@@ -15,4 +15,4 @@ commentable: true
 
 *In allestimento*
 
-![webp](FNV_box_art_29.webp)
+

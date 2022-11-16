@@ -2,7 +2,6 @@
 title: Voci
 type: book # Do not modify.
 toc: false
-commentable: true
 ---
 
 *In allestimento*

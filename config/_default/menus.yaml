@@ -4,12 +4,56 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Homepage
-    url: /
-    weight: 10
   - name: Fallout 3
     url: docs/fallout-3
+    identifier: fallout3
+    weight: 10
+  - name: SPECIAL (dead)
+    parent: fallout3
+    url:  
+    weight: 10
+  - name: Abilità (dead)
+    parent: fallout3
+    url:  
     weight: 20
+  - name: Abilità extra
+    parent: fallout3
+    url: docs/fallout-3/personaggio/abilita-extra 
+    weight: 30
+  - name: Companions (dead)
+    parent: fallout3
+    url:  
+    weight: 40
+  - name: Mercanti (dead)
+    parent: fallout3
+    url:  
+    weight: 45
+  - name: Creature e robot (dead)
+    parent: fallout3
+    url:  
+    weight: 50
+  - name: Armi e munizioni (dead)
+    parent: fallout3
+    url:  
+    weight: 55
+  - name: Armature e copricapi (dead)
+    parent: fallout3
+    url:  
+    weight: 60
+  - name: Cibi, bevande e droghe (dead)
+    identifier: consumabili
+    parent: fallout3
+    url:  
+    weight: 70
+  - name: Luoghi (dead)
+    parent: fallout3
+    url: docs/fallout-3/luoghi 
+    weight: 80 
+  - name: Missioni (dead)
+    identifier: missioni
+    parent: fallout3
+    url: 
+    weight: 90 
   - name: Fallout New Vegas
     url: docs/fallout-new-vegas
-    weight: 30    
+    weight: 20    

@@ -1,4 +1,53 @@
 ---
+widget: slider
+weight: 10
+active: true
+headless: false
+
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: true
+  # Duration of transition between slides (in ms)
+  interval: 4800
+
+content:
+  slides:
+    - title: Fallout 3
+      content: 'Washington D.C. e la sua Zona contaminata'
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: Fallout_3_cover_art.webp
+      link:
+        icon: radiation
+        icon_pack: fas
+        text: Entra
+        url: docs/fallout-3/        
+    - title: Fallout New Vegas
+      content: 'New Vegas e il deserto del Mojave'
+      align: center
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: FNV_box_art_29.webp
+      link:
+        icon: radiation
+        icon_pack: fas
+        text: Entra
+        url: docs/fallout-new-vegas/
+---
+
+*In allestimento*
+
+
+<!--
+---
 widget: hero
 headless: true
 weight: 10
@@ -10,15 +59,18 @@ design:
     gradient_end: '#019bf4'
     text_color_light: true
 cta:
-  url: docs/guide/
-  label: Scarica le guide non ufficiali
-  icon_pack: fas
-  icon: download
-cta_alt:
   url: docs/
-  label: Esplora le voci online (in allestimento)
+  label: Consulta le voci online
+  icon_pack: fas
+  icon: globe
+cta_alt:
+  url: docs/guide/
+  label: ...oppure scarica le guide non ufficiali
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
 ---
 
 Benvenuto, vagabondo solitario!
 
-
+-->

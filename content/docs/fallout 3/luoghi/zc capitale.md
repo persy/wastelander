@@ -1585,7 +1585,7 @@ Altri oggetti:
 - Bunker di controllo lanci
 	- **Libro prebellico** e uno **Stealth Boy**, su una scrivania negli alloggi, accanto a una radio
 - Magazzino bombe
-	- 2 **Munizioni nucleare**, una su un tavolo all'angolo dell'ingresso, l'altra sulla scrivania nella stanza in cima alle scale, vicino al ripostiglio chiuso a chiave
+	- 2 **munizioni nucleari**, una su un tavolo all'angolo dell'ingresso, l'altra sulla scrivania nella stanza in cima alle scale, vicino al ripostiglio chiuso a chiave
 	- Rastrello, dietro una porta chiusa (Scasso 100)
 
 
@@ -2087,17 +2087,13 @@ Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a
 
 | Immagine                                         | Oggetto e posizione                                                                                                              |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="DC_Journal_of_IM_Oasis_sunken_chambers.webp">}} | **Giornale di medicina interna del D.C.** vicino a una nicchia nel muro, dentro  una scatola di legno con un  guanto da baseball |
+| {{<figure src="DC_Journal_of_IM_Oasis_sunken_chambers.webp">}} | **Giornale di medicina interna del D.C.**, due **Stealth Boy**, **libro prebellico**, in una nicchia, vicino a uno scheletro seduto a un tavolo. Il libro è in una scatola di legno, sotto un guantone da baseball |
 | {{<figure src="Sunken_chambers_mini_nuke.webp">}}              | **Munizione nucleare**, sul fondo dello stagno settentrionale, in fondo alla pozza d'acqua                                       | 
 
 Altri oggetti:
-- **Veste di Acero** - ricompensa per aver completato la missione Oasis in favore di Birch
+- **Veste di Acero**, come ricompensa per aver completato la missione Oasis in favore di Birch
 - **Cappuccio di Betulla** e **armatura atomica dei Rinnegati di Linden**, come ricompense per aver completato la missione *Oasi* in favore di Madre foglia Edera
-- Camere sommerse
-	- **Libro prebellico**, sul baule accanto al tavolo
-	- 2 **Stealth Boy**, sul tavolo tra alcune droghe e vicino ad alcuni funghi luminescenti
-- Grotta umida
-	- **Nuka-Cola Quantum**, sul lato destro della grotta
+- **Nuka-Cola Quantum**, grotta umida, sul lato destro
 
 
 ### Ossario
@@ -2132,7 +2128,7 @@ Paradise Falls è il quartier generale per tutte le attività degli schiavisti d
 | {{<figure src="V_77_Suit_and_Tape.webp">}}  | **Tuta del Vault 77** , su uno scaffale all'interno della caserma degli schiavisti, insieme a un olonastro |
 | {{<figure src="FindingTheBreak.webp">}}     | **La spaccata**, sul tavolo da biliardo appena fuori dalla casa di Eulogy                                  |
 | {{<figure src="Eulogy_Jones_hat_PF.webp">}} | **Cappello di Eulogy Jones**, sul tavolo col proiettore all'interno dalla casa di Eulogy                   |
-| {{<figure src="20221114045917_1.jpg">}}     | 5 **Nuka-Cola Quantum** nella casa di Eulogy, in una cassa sotto le scale (vanno rubate)                   |
+| {{<figure src="NCQ_Paradise_Falls.jpg">}}     | 5 **Nuka-Cola Quantum**, nella casa di Eulogy, in una cassa sotto le scale (vanno rubate)                   |
 
 Altri oggetti:
 - **Libro prebellico**, su un tavolo nella casa degli schiavi
@@ -2307,7 +2303,7 @@ Altri oggetti:
 - 49 siringhe, nella sala principale
 
 ### Ripetitore KB5
-Il ripetitore KB5 è una ripetitore e si trova ad ovest del santuario Deathclaw.
+Il ripetitore KB5 si trova ad ovest del santuario Deathclaw.
 
 | Mappa                | Panoramica                    | Ingressi camera di drenaggio         |
 | -------------------- | ----------------------------- | ------------------------------------ |
@@ -2420,7 +2416,7 @@ Rivet City è una città situata all'interno del relitto di una portaerei a Wash
 | {{<figure src="Fo3_DC_Journal_of_IM_Pinkerton_lab.webp">}}  | **Giornale di medicina interna del D.C.**, nella sala operatoria, sotto gli schermi per i raggi X                                                   |
 | {{<figure src="DE_and_BB_of_Science_Rivet_City_bow.webp">}} | **Elettronica di Dean** e **Il grande libro della scienza**, nel laboratorio di Pinkerton, su un tavolo e sullo scaffale vicino                     |
 | {{<figure src="Seagraves'_incriminating_letter.webp">}}     | **Lettera incriminante di Seagrave**, negli alloggi di Seagrave Holmes sul ponte centrale della nave, dietro l'armadietto ai piedi della sua branda |
-
+|  {{<figure src="PP_personal_journals_X123_Better_Days.webp">}} | **Diario Progetto purezza** (**voci 1**, **3** e **5**), su un tavolo negli alloggi personali della Dottoressa  Li, sul ponte superiore, vicino al laboratorio scientifico  |
 Altri oggetti:
 
 - **Schemi - Lanciatutto**, nell'armeria (Scasso 100)

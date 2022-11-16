@@ -18,4 +18,3 @@ commentable: true
 - [Luoghi](luoghi)
 - [Personaggio](personaggio)
 
-![webp](Fallout_3_cover_art.webp)
