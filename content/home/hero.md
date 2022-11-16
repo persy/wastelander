@@ -19,7 +19,7 @@ content:
       content: 'Washington D.C. e la sua Zona contaminata'
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: Fallout_3_cover_art.webp
