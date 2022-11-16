@@ -5,5 +5,7 @@
     ],
     "spellright.language": [
         "it"
-    ]
+    ],
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true
 }

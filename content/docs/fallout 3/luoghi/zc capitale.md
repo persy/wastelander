@@ -1403,7 +1403,7 @@ Altri oggetti:
 
 
 ### Evergreen Mills
-Evergreen Mills è una vecchia fabbrica nel quadrante sud-ovest della Zona contaminata della Capitale, appena ad est del garage di Smith Casey. È abitata da un gran numero di predoni, alcuni schiavi prigionieri e uno dei pochi super mutanti behemoth. 
+Evergreen Mills è una vecchia fabbrica nel quadrante sud-ovest della Zona contaminata della Capitale, appena ad est del garage di Smith Casey. È abitata da un gran numero di predoni, alcuni schiavi prigionieri e uno dei pochi super mutanti behemoth, rinchiuso in un recinto elettrificato. 
 
 | Mappa                         | Mappa locale                      | Mappa locale fonderia                 | Mappa locale bazaar                  |
 | ----------------------------- | --------------------------------- | ------------------------------------- | ------------------------------------ |
@@ -1413,31 +1413,33 @@ Evergreen Mills è una vecchia fabbrica nel quadrante sud-ovest della Zona conta
 | ------------------------- | -------------------- | ----------------------- |
 | {{<figure src="Evergreen_Mills.webp">}} | {{<figure src="EM_brothel.webp">}} | {{<figure src="EM_bazaar_int.webp">}} |
 
-| Baracca nord                     | Baracca sud                     | Posto di guardia             |
+| Baracca settentrionale                     | Baracca meridionale                     | Posto di guardia             |
 | -------------------------------- | ------------------------------- | ---------------------------- |
 | {{<figure src="EM_Northern_shack_int1.webp">}} | {{<figure src="EM_southern_shack_int.webp">}} | {{<figure src="EM_guard_house_int.webp">}} |
 
 
 | Immagine                                           | Oggetto e posizione                                                                                                                                                           |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="US_Army_HFR_southern_shack.webp">}}               | **U.S. Army: 30 pratiche ricette per lanciafiamme**, baracca sud, accanto alla cassetta di pronto soccorso, nella stanza con il letto                                         |
+| {{<figure src="US_Army_HFR_southern_shack.webp">}}               | **U.S. Army: 30 pratiche ricette per lanciafiamme**, baracca meridionale, accanto alla cassetta di pronto soccorso, nella stanza con il letto                                         |
 | {{<figure src="Duck_and_Cover!_Evergreen_Mills_foundry.webp">}}  | **Al riparo!**, fonderia, accanto a un cadavere su una sporgenza, sopra il terminale rotto al piano terra; bisogna saltare giù dalle scale fino alla sporgenza                |
 | {{<figure src="EM_Barter_bobblehead.webp">}}                     | **Bambolina - Baratto**, bazaar, su uno scaffale in una piccola nicchia nel negozio di Jack il sorridente, sulla destra rispetto l'entrata                                    |
 | {{<figure src="Nikola_Tesla_and_You_Evergreen_Mills.webp">}}     | **Tu e Nikola Tesla**, bazaar, in una delle celle nel bordello di Madame, sul letto a castello                                                                                |
-| {{<figure src="Evergreen_Mills_Foundry_storage_room_key.webp">}} | **Chiavi del magazzino**, in una scrivania all'ultimo piano della fonderia, in una stanza sul lato destro                                                                     |
+| {{<figure src="Evergreen_Mills_Foundry_storage_room_key.webp">}} | **Chiavi del magazzino**, fonderia, in una scrivania all'ultimo piano                                                                     |
 | {{<figure src="Fat_Man_Evergreen_Mills.webp">}}                  | **Fat Man**, in cima alle scale, all'interno di una stanza chiusa a chiave; la chiave è su una scrivania nella stanza dall'altra parte del corridoio (la stanza con la radio) |
 | {{<figure src="EM_bazaar_bottlecap_mine.webp">}}                 | **Mina da tappo**, bazaar, sul banco da lavoro vicino alla **Bambolina - Baratto**                                                                                            |
-| {{<figure src="EM_northern_shack_bottlecap_mine.webp">}}         | **Mina da tappo** , baracca nord, sul banco da lavoro nella stanza sul retro al piano terra                                                                                   | 
+| {{<figure src="EM_northern_shack_bottlecap_mine.webp">}}         | **Mina da tappo** , baracca settentrionale, sul banco da lavoro nella stanza sul retro al piano terra                                                                                   | 
 
 Altri oggetti:
 - Fonderia
-	- **Nuka-grenade**, in cima al banco da lavoro, nella stessa stanza della chiave e della radio
+	- **Granata Nuka**, in cima al banco da lavoro, nella stessa stanza della chiave e della radio
 - Bazaar
 	- **Nuka-Cola Quantum**, dietro il bancone in una cassa di legno
 	- **Il terribile fucile**, posseduto da Jack il sorridente
 	- **Chiave del baule di Jack il sorridente**, posseduto da Jack il sorridente
 	- 6 **macchine fotografiche**, sparse qua e là, quattro vicino alle celle  di Madame
 
+Note:
+- Sparando al generatore vicino alla gabbia farà liberare il behemoth
 
 ## F
 
