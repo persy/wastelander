@@ -43,7 +43,7 @@ content:
         url: docs/fallout-new-vegas/
 ---
 
-*In allestimento*
+TODO
 
 
 <!--

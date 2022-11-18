@@ -13,7 +13,7 @@ type: book # Do not modify.
 commentable: true
 ---
 
-*In allestimento*
+TODO
 
 - [Luoghi](luoghi)
 - [Personaggio](personaggio)

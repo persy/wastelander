@@ -16,6 +16,9 @@ cascade:
       path: /docs/**
     editable: true
     show_breadcrumb: true
+    reading_time: false
+    show_related: false
+    show_date: false
 
 ############################
 ## LANGUAGE

@@ -13,6 +13,6 @@ type: book # Do not modify.
 commentable: true
 ---
 
-*In allestimento*
+TODO
 
 - [Abilità extra](abilita-extra)

@@ -1,0 +1,28 @@
+---
+# Titolo, sommario, posizione e icona
+linktitle: Molo dello sciacallo
+summary: "Il molo dello sciacallo è una località non contrassegnata e si trova a sud del molo di Wilhelm e ad ovest dell'Anchorage Memorial."
+weight: 10
+icon: location-dot # in alternativa location-question
+icon_pack: fas
+
+# Metadata pagina
+title: Molo dello sciacallo
+date: 2022-11-17
+type: book # Non modificare
+commentable: true
+tags: "Luoghi della Zona contaminata della Capitale"
+hidden: true
+---
+
+
+
+Il molo dello sciacallo è una località non contrassegnata e si trova a sud del molo di Wilhelm e ad ovest dell'Anchorage Memorial.
+
+| Mappa                                       | Panoramica                             |
+| ------------------------------------------- | -------------------------------------- |
+| {{<figure src="Scavengers_dock_loc.webp">}} | {{<figure src="ScavengersDock.webp">}} |
+
+
+Altri oggetti:
+- ?
