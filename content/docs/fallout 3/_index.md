@@ -16,5 +16,5 @@ commentable: true
 TODO
 
 - [Luoghi](luoghi)
-- [Personaggio](personaggio)
+- [Personaggio](personaggio) TODO
 

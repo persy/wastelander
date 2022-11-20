@@ -35,18 +35,18 @@ Lo stabilimento Nuka-Cola è un grande edificio industriale a tre piani situato 
 | {{<figure src="BB_of_Science_Nuka-Cola_plant.webp">}}      | **Il grande libro della scienza**, uffici, a nord del cadavere di Winger Mercier, su un tavolo                                         |
 | {{<figure src="FO3_LCS_Nuka_Cola_Plant.webp">}}            | **Stile da congresso, menzognero**, uffici, in cima a una cassaforte proprio accanto a un terminale                                    |
 | {{<figure src="Tumblers_Today_Nuka-Cola_plant.webp">}}     | **Lo scassinatore moderno**, spedizione, nella stessa stanza di Milo, su una mensola sotto la cassaforte                               |
+| {{<figure src="NCQ_Nuka_Cola_Plant.jpg">}}                 | 3 **Nuka-Cola Quantum**, area produzione, tramite il terminale della linea di confezionamento                                          |
 | {{<figure src="US_Army_HFR_Dot's_Diner.webp">}}            | **U.S. Army: 30 pratiche ricette per lanciafiamme**, al Dot's Diner a nord dell'impianto, su un tavolo                                 |
 | {{<figure src="FO3_Nuka_Cola_Plant_Quantum_truck.webp">}}  | **Nuka-Cola Quantum**, sul lato sud dello stabilimento, all'interno del rimorchio di un camion, insieme a dieci bottiglie di Nuka-Cola |
 
 
 Altri oggetti:
 - Fabbrica
-	- **Formula della Nuka-Cola Clear**, in una cassaforte a muro. La chiave può essere ottenuta da Milo
+	- **Formula della Nuka-Cola Clear**, in una cassaforte a muro. La chiave può essere ottenuta da Milo, il  Mister Handy che si trova al livello più basso della fabbrica
 - Vasche di stoccaggio e miscelazione
 	- **Benvenuti nella famiglia Nuka-Cola!**, a sinistra del computer che attiva il protettore
 - Uffici
 	- **Aiutami**, su uno dei numerosi scheletri all'interno di un armadio al primo piano, dietro una porta chiusa (Scasso 75)
-	- **Stealth Boy** e **Trovare la Formula**. vicino al cadavere di Winger Mercier
-- Spedizione
-	- 3 **Nuka-Cola Quantum**, tramite Il terminale della linea di confezionamento
+	- **Stealth Boy** e **Trovare la Formula**, vicino al cadavere di Winger Mercier
+
 

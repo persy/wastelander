@@ -16,7 +16,7 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-- [Zona contaminata della Capitale](zona-contaminata-della-capitale) TODO
+- [Zona contaminata della Capitale](zona-contaminata-della-capitale) 
     - [Insediamenti](insediamenti-della-zona-contaminata-della-capitale)
     - [Vault della Zona contaminata della Capitale](vault-della-zona-contaminata-della-capitale)
     - [Stazioni metropolitane](stazioni-metropolitane) TODO

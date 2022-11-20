@@ -22,10 +22,10 @@ La casa di Dukov è un hotel prebellico situato vicino all'Anchorage Memorial e 
 | ---------------------------------------- | ------------------------------------ |
 | {{<figure src="Dukovs_Place_loc.webp">}} | {{<figure src="Dukovs_Place.webp">}} |
 
-| Immagine                                                    | Oggetto e posizione                                                                                  |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_PI_Dukov's_Place.webp">}}                | **Pugilato illustrato**, nella camera da letto al piano superiore, sulla libreria dietro la testiera |
-| {{<figure src="Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, nell'accampamento dei predoni a sud dell'edificio, su un tavolino                    |
+| Immagine                                                    | Oggetto e posizione                                                                                                              |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| {{<figure src="FO3_PI_Dukov's_Place.webp">}}                | **Pugilato illustrato** e una **Nuka-Cola Quantum**, nella camera da letto al piano superiore, sulla libreria dietro la testiera |
+| {{<figure src="Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, nell'accampamento dei predoni a sud dell'edificio, su un tavolino                                                |
 
 
 Altri oggetti:

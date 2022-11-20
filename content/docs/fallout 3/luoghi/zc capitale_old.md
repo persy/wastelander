@@ -459,7 +459,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 
 
-*Vedi [Stazione di trasmissione WKML](#stazione-di-trasmissione-wkml)*
+*Vedi [Stazione di trasmissione WKML](../stazione-di-trasmissione-wkml)*
 
 
 #### Segnale Oscar Zulu (OZ)
@@ -471,7 +471,7 @@ E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 
 | ------------------------------------ | --------------------------------------------------- |
 | {{<figure src="RT_KX_B8_loc.webp">}} | {{<figure src="Entrance_-_drainage_chamber.webp">}} |
 
-*Vedi [Ripetitore KX-B8-11](#ripetitore-kx-b8-11)*
+*Vedi [Ripetitore KX-B8-11](../ripetitore-kx-b8-11)*
 
 
 
@@ -485,7 +485,7 @@ E' nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ove
 | ---------------------------------- | -------------------------------------------------- |
 | {{<figure src="BT_KB5_loc.webp">}} | {{<figure src="Alfa_Lima_Drainage_chamber.webp">}} |
 
-*Vedi [Ripetitore KB5](#ripetitore-kb5)*
+*Vedi [Ripetitore KB5](../ripetitore-kb5)*
 
 #### Signal Echo Foxtrot (EF)
 Si trova nei pressi del ripetitore LP8, vicino al bordo nord della mappa, a sud dell'Oasi.
@@ -497,7 +497,7 @@ Si trova nei pressi del ripetitore LP8, vicino al bordo nord della mappa, a sud 
 | {{<figure src="BT_LP8_loc.webp">}} | {{<figure src="EchoFoxtrot.webp">}} |
 
 
-Vedi *[Ripetitore LP8](#ripetitore-lp8)*
+Vedi *[Ripetitore LP8](../ripetitore-lp8)*
 
 
 #### Segnale Oscar Tango (OT)
@@ -508,7 +508,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 | {{<figure src="Jury_Street_MS_loc.webp">}} | {{<figure src="Oscar_Tango_dr._chamber_exterior.webp">}} |
 
 
-*Vedi [Stazione metropolitana di Jury Street](#stazione-metropolitana-di-jury-street)*
+*Vedi [Stazione metropolitana di Jury Street](../stazione-metropolitana-di-jury-street)*
 
 
 
@@ -521,7 +521,7 @@ E' sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little 
 | ----------------------------------- | ------------------------------------------- |
 | {{<figure src="BT_KT_8_loc.webp">}} | {{<figure src="Broadcast_Tower_KT8.webp">}} |
 
-Vedi *[Ripetitore KT8](#ripetitore-kt8)*
+Vedi *[Ripetitore KT8](../ripetitore-kt8)*
 
 
 
@@ -532,7 +532,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 | ----------------------------------------------- | ----------------------------------------------------------- |
 | {{<figure src="Signal_Yankee_Bravo_map.webp">}} | {{<figure src="Broadcast_tower_Signal_Yankee_Bravo.webp">}} |
 
-*Vedi [Fabbrica Corvega](#fabbrica-corvega)*
+*Vedi [Fabbrica Corvega](../fabbrica-corvega)*
 
 
 #### Segnale Sierra Victor (SV)
@@ -542,7 +542,7 @@ E' nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e riforni
 | ------------------------------------------------ | -------------------------------------------- |
 | {{<figure src="Signal_Sierra_Victor_map.webp">}} | {{<figure src="SVS_drainage_chamber.webp">}} |
 
-*Vedi [Centrale elettrica VAPL-66](#centrale-elettrica-vapl-66)*
+*Vedi [Centrale elettrica VAPL-66](../centrale-elettrica-vapl-66)*
 
 
 #### Segnale Papa November (PN)
@@ -552,7 +552,7 @@ Si trova a ovest di Megaton, vicino al bordo occidentale della mappa, presso una
 | ------------------------------------------------ | -------------------------------------------- |
 | {{<figure src="Signal_Papa_November_map.webp">}} | {{<figure src="Signal_Papa_November.webp">}} |
 
-*Vedi [Ossario](#ossario)*
+*Vedi [Ossario](../ossario)*
 
 
 
@@ -905,7 +905,7 @@ Altri oggetti:
 	- **Libro prebellico**, sul tavolo accanto al letto nella tenda
 
 Note:
-- La caverna degli Yao Guai non va confusa con il [Tunnel di Yao Guai](#tunnel-di-yao-guai), che contiene la **Bambolina - Furtivo**
+- La caverna degli Yao Guai non va confusa con il [Tunnel di Yao Guai](../tunnel-di-yao-guai), che contiene la **Bambolina - Furtivo**
 
 
 
@@ -1042,7 +1042,7 @@ La centrale elettrica VAPL-58 è un insieme di linee elettriche recintate e tras
 | {{<figure src="VAPL_58_nuka_cola_quantum.webp">}}                                  | **Nuka-Cola Quantum**, sul banco di lavoro                                                                                                                                                                |
 | {{<figure src="Shelter_with_Nuka_Cola_Quantum_SE_of_VAPL-58_power_station.webp">}} | **Nuka-Cola Quantum**, in una baracca dietro una barricata appena a sud-est della stazione                                                                                                                |
 | {{<figure src="VAPL_58_Mini_Nuke.webp">}}                                          | **Munizione nucleare**, sopra la lampada appesa al soffitto                                                                                                                                               |
-| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}}                  | **Trascrizione famiglia Keller 1 di 5**, su una libreria nella [capanna del traliccio](#capanna-del-traliccio), che si trova sotto il terzo pilone partendo dalla centrale elettrica e andando verso nord |
+| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}}                  | **Trascrizione famiglia Keller 1 di 5**, su una libreria nella [capanna del traliccio](../capanna-del-traliccio), che si trova sotto il terzo pilone partendo dalla centrale elettrica e andando verso nord |
 
 
 
@@ -1242,10 +1242,10 @@ Altri oggetti:
 
 Note: 
 - Per ottenere l'accesso all'armeria è necessario completare la missione nascosta *Rifugio della famiglia Keller*. I luoghi in cui trovare le cinque trascrizioni sono:
-	- 1 di 5, [Capanna del traliccio](#capanna-del-traliccio), su uno scaffale
-	- 2 di 5, [Cimitero di Hallowed Moors](#cimitero-di-hallowed-moors), sul leggio della chiesa
-	- 3 di 5, [Grisly diner](#grisly-diner), sul tavolo nel retro
-	- 4 di 5, [Baracca del cecchino](#baracca-del-cecchinobaracca-abbandonata), sul banco da lavoro
+	- 1 di 5, [Capanna del traliccio](../capanna-del-traliccio), su uno scaffale
+	- 2 di 5, [Cimitero di Hallowed Moors](../cimitero-di-hallowed-moors), sul leggio della chiesa
+	- 3 di 5, [Grisly diner](../grisly-diner), sul tavolo nel retro
+	- 4 di 5, [Baracca del cecchino](../baracca-del-cecchinobaracca-abbandonata), sul banco da lavoro
 	- 5 di 5, [Anchorage Memorial](../capitale/#anchorage-memorial), vicino a un semirimorchio oltre il fiume, su un tavolo vicino a una radio
 
 
@@ -1284,7 +1284,7 @@ La discarica di Mason Dixon è una località della Zona contaminata della Capita
 | Immagine                                                              | Oggetto e posizione                                                                                                              |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="MDS_East_abandoned_shack_Tumblers_Today.webp">}}       | **Lo scassinatore moderno**, nella baracca sud accanto al letto                                                                  |
-| {{<figure src="MDS_West_abandoned_shack_Nikola_Tesla_and_You.webp">}} | 2 **Tu e Nikola Tesla**: uno nella baracca nord, su un tavolo; l'altro a nord-est, nella [tenda abbandonata](#tenda-abbandonata) |
+| {{<figure src="MDS_West_abandoned_shack_Nikola_Tesla_and_You.webp">}} | 2 **Tu e Nikola Tesla**: uno nella baracca nord, su un tavolo; l'altro a nord-est, nella [tenda abbandonata](../tenda-abbandonata) |
 | {{<figure src="DC_Journal_of_IM_Mason_Dixon_Salvage.webp">}}          | **Giornale di medicina interna del D.C.**, nella baracca nord, sul pavimento, accanto ad un secchio                              |
 
 
@@ -1481,11 +1481,11 @@ La fabbrica Red Racer è una fabbrica di tricicli Red Racer prebellica alla peri
 | {{<figure src="Nikola_Tesla_and_You_Red_Racer_factory.webp">}}  | **Tu e Nikola Tesla**, uffici CEO, su uno scaffale dietro una porta chiusa a chiave, vicino all'ingresso                                                                                       |
 | {{<figure src="RR_factory_bottlecap_mine.webp">}}               | **Mina da tappo**, su un banco da lavoro in un corridoio a nord-est della sala riunioni                                                                                                        |
 
-*Vedi [Negozio del predatore](#negozio-del-predatore)*
+*Vedi [Negozio del predatore](../negozio-del-predatore)*
 
 Altri oggetti:
 - Esterno
-	- **Maschera da hockey di Ledoux**, indossata da Ledoux, ottenibile solo dopo aver preso la **Formula della Nuka-Cola Clear** dallo [stabilimento Nuka-Cola](#stabilimento-nuka-cola), in cambio di 250-400 tappi
+	- **Maschera da hockey di Ledoux**, indossata da Ledoux, ottenibile solo dopo aver preso la **Formula della Nuka-Cola Clear** dallo [stabilimento Nuka-Cola](../stabilimento-nuka-cola), in cambio di 250-400 tappi
 		- Non è possibile fare lo scambio se si ha già portato a termine la missione *La sfida di Nuka Cola* per Sierra Petrovita
 - Fabbrica
 	- Orsacchiotto insolitamente grande, sopra un enorme triciclo sospeso sul soffitto vicino alla copia di **Elettronica di Dean**
@@ -1577,7 +1577,7 @@ Fort Constantine è una grande base militare contenente un deposito di bombe ato
 | {{<figure src="Personnel_offices_Grognak_the_Barbarian.webp">}}               | **Grognak il barbaro**, uffici del personale, in un ripostiglio chiuso a chiave (Scasso 75) al piano terra, a est, vicino                                                                                                                                                        |
 | {{<figure src="Launch_Control_bunker_Big_Book_of_Science.webp">}}             | **Il grande libro della scienza**, bunker di controllo lanci, in un ufficio su una scrivania vicino a un terminale rotto                                                                                                                                                         |
 | {{<figure src="Launch_Control_bunker_Duck_and_Cover!.webp">}}                 | **Al riparo!**, bunker di controllo lanci, nell'ufficio sulla scrivania con il terminale di controllo lanci                                                                                                                                                                      |
-| {{<figure src="T-51b_Constantine.webp">}}                                     | **Armatura T-51b**, bunker di controllo lanci, all'interno di un campo di stasi. Il campo di stasi deve essere disattivato utilizzando il terminale. Sono necessarie le chiavi ottenibili nella missione *Devi mirare alla testa* data dal Signor Crowley agli [Inferi](#inferi) |
+| {{<figure src="T-51b_Constantine.webp">}}                                     | **Armatura T-51b**, bunker di controllo lanci, all'interno di un campo di stasi. Il campo di stasi deve essere disattivato utilizzando il terminale. Sono necessarie le chiavi ottenibili nella missione *Devi mirare alla testa* data dal Signor Crowley agli [Inferi](../inferi) |
 | {{<figure src="Bomb_Storage_Guns_and_Bullets.webp">}}                         | **Pistole e proiettili**, magazzino bombe, dietro una porta chiusa (Scasso 100)                                                                                                                                                                                                  |
 | {{<figure src="TarasCorpse.webp">}}                                           | **Chiave del magazzino testate**, magazzino bombe, sul cadavere di Tara                                                                                                                                                                                                          |
 | {{<figure src="Bomb_Storage_Most_notable_loot.webp">}}                        | **Giornale di medicina interna del D.C.**, **Fat Man**, due **Munizioni nucleari**, magazzino bombe, su un tavolo proprio accanto al campo di stasi dell'armatura atomica T-51b                                                                                                  |
@@ -1691,7 +1691,7 @@ Altri oggetti:
 ### Germantown
 Germantown è una città in rovina e fa parte dell'area prebellica di Washington, D.C. E' ora abitata dai supermutanti.
 
-*Vedi [Centrale di polizia di Germantown](#centrale-di-polizia-di-germantown)*
+*Vedi [Centrale di polizia di Germantown](../centrale-di-polizia-di-germantown)*
 
 ### Girdershade
 Girdershade è un piccolo insediamento e si trova nell'estremo sud-ovest della Zona contaminata della Capitale, a sud-ovest di Evergreen Mills. 
@@ -1757,7 +1757,7 @@ Il gruppo satelliti SatCom NN-03d è un gruppo di satelliti che si trova tra For
 ### Gruppo satelliti SatCom NW-05a
 Il gruppo satelliti SatCom NW-05a è un gruppo di satelliti che si trova a nord-ovest della Zona contaminata della Capitale,  a ovest del gruppo satelliti SatCom NN-03d, tra Fort Constantine e la centrale elettrica MDPL-05. 
 
-*Vedi [Molo dei predatori](#molo-dei-predatori)
+*Vedi [Molo dei predatori](../molo-dei-predatori)
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
@@ -1780,9 +1780,9 @@ Il gruppo satelliti SatCom NW-07c è un gruppo di satelliti nell'estremo nord-ov
 
 | Immagine                                                     | Oggetto e posizione                                                                                                                                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Duck_and_Cover!_Array,_Power_Station.webp">}} | Appena a nord del [furgone che esplode dello scienziato](#furgone-che-esplode-dello-scienziato), giù nella valle vicino ad alcuni relitti d'auto, accanto a uno scheletro e delle scatole di munizioni |
+| {{<figure src="Duck_and_Cover!_Array,_Power_Station.webp">}} | Appena a nord del [furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato), giù nella valle vicino ad alcuni relitti d'auto, accanto a uno scheletro e delle scatole di munizioni |
 
-*Vedi [Camion di internamento](#camion-di-internamento)*
+*Vedi [Camion di internamento](../camion-di-internamento)*
 
 ## I
 
@@ -2074,7 +2074,7 @@ Il negozio del predatore è una località non contrassegnata e si trova in un vi
 
 
 ### Oasi
-Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](#baracche-sul-promontorio). 
+Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](../baracche-sul-promontorio). 
 
 
 | Mappa                             | Mappa locale caverne                      | Mappa locale camere sprofondate                   |
@@ -2108,7 +2108,7 @@ L'ossario è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a n
 | {{<figure src="Charnel_House_Duck_and_Cover.webp">}} | **Al riparo!**, al piano superiore, sul pavimento vicino al camino e alla fessura nel muro |
 
 Altri oggetti:
-- **Pugilato illustrato**, nella camera di drenaggio a ovest, seguendo il [Segnale Papa November (PN)](#segnale-papa-november-pn)
+- **Pugilato illustrato**, nella camera di drenaggio a ovest, seguendo il [Segnale Papa November (PN)](../camere-di-drenaggio)
 - **Nuka-Cola Quantum** e due **libri prebellici**, nella casa dello sciacallo
 
 
@@ -2323,7 +2323,7 @@ Altri oggetti:
 - **Il grande libro della scienza** e **munizione nucleare**, in un rimorchio, a ovest del ripetitore, sul ponte oltre il campo dei predoni. Il libro è posseduto dallo scienziato che si fa saltare in aria 
 
 
-*Vedi [[Forte delle auto abbandonate](#forte-delle-auto-abbandonate); [Furgone che esplode dello scienziato](#furgone-che-esplode-dello-scienziato)*
+*Vedi [[Forte delle auto abbandonate](../forte-delle-auto-abbandonate); [Furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato)*
 
 
 
@@ -2342,7 +2342,7 @@ Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale
 | {{<figure src="Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina a sud-est                                                                                   |
 | {{<figure src="Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, su un barile di materiale nucleare a sud-est                                                               |
 
-*Vedi [Rovine della fattoria sulla collina](#rovine-della-fattoria-sulla-collina)*
+*Vedi [Rovine della fattoria sulla collina](../rovine-della-fattoria-sulla-collina)*
 
 ### Ripetitore KT8
 Il ripetitore KT8 è una ripetitore e si trova a nord-est del Vault 87 e a sud di Shalebridge.
@@ -2700,7 +2700,7 @@ La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazional
 | ------------------------------------------ | --------------------------------------------- |
 | {{<figure src="Rockbreaker_LG_loc.webp">}} | {{<figure src="Rockbreakers_Last_Gas.webp">}} |
 
-*Vedi [Baracca del cecchino](#baracca-del-cecchinobaracca-abbandonata)*
+*Vedi [Baracca del cecchino](../baracca-del-cecchinobaracca-abbandonata)*
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in cima a un distributore automatico Nuka-Cola all'interno dell'area recintata
@@ -2717,7 +2717,7 @@ La stazione di trasmissione WKML si trova nella parte nord-ovest della Zona cont
 | {{<figure src="Sealed_cistern_WKML_bobblehead.webp">}} | **Bambolina - Esplosivi** e **Stealth Boy**, all'interno della cisterna sigillata, vicino alla radio amatoriale |
 
 
-*Vedi [Segnale Kilo Bravo (KB)](#segnale-kilo-bravo-kb)*
+*Vedi [Segnale Kilo Bravo (KB)](../camere-di-drenaggio)*
 
 
 
@@ -2730,10 +2730,10 @@ La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del
 
 | Immagine                                                   | Oggetto e posizione                                                                                                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](#accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
+| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](../accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
 | {{<figure src="Sewer_waystation_Nuka-Cola_Quantum.webp">}} | **Nuka-Cola Quantum**, nell'ufficio in un frigorifero rotto accanto a uno scheletro                                                              |
 
-*Vedi [Accampamento compagnia Artiglio](#accampamento-compagnia-artiglio)*
+*Vedi [Accampamento compagnia Artiglio](../accampamento-compagnia-artiglio)*
 
  Altri oggetti:
 - 21 orsacchiotti, sui nastri trasportatori e sul pavimento
@@ -2753,7 +2753,7 @@ La stazione metropolitana di Jury Street è una località della Zona contaminata
 | {{<figure src="Dean's_Electronics_Jury_St_Station.webp">}} | **Elettronica di Dean** e una **mina da tappo**, all'interno della stazione, sul banco di lavoro                                |
 | {{<figure src="BB_of_Science_drainage_chamber_SOT.webp">}} | **Il grande libro della scienza**, nella camera di drenaggio a sud della stazione, su un tavolo vicino a una radio trasmittente |
 
-*Vedi anche [Alimentari Fiocco d'oro](#alimentari-fiocco-doro), [Segnale Oscar Tango (OT)](#segnale-oscar-tango-ot), [Calverton](#calverton) e [Tunnel di Jury St.](../capitale#tunnel-di-jury-st)*
+*Vedi anche [Alimentari Fiocco d'oro](../alimentari-fiocco-doro), [Segnale Oscar Tango (OT)](../camere-di-drenaggio), [Calverton](../calverton) e [Tunnel di Jury St.](../capitale#tunnel-di-jury-st)*
 
 
 
@@ -2768,7 +2768,7 @@ La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situ
 | --------------------------------------------- | ----------------------------------------- |
 | {{<figure src="Meresti_Trainyard_loc.webp">}} | {{<figure src="Meresti_Trainyard.webp">}} |
 
-*Vedi [Cratere del villaggio](#cratere-del-villaggio)*
+*Vedi [Cratere del villaggio](../cratere-del-villaggio)*
 
 
 
@@ -2802,7 +2802,7 @@ Il Super-Duper Mart è un negozio di alimentari situato vicino al fiume Potomac,
 | {{<figure src="FO3_Super-Duper_Mart_(3).webp">}}                     | 3 **Nuka-Cola Quantum**, **munizione nucleare** e **ID impiegati ufficio**, nel magazzino col protettore    |
 | {{<figure src="SDM_bottlecap_mine_2_and_3.webp">}}                   | Tre **Mina da tappo**, sui due banconi                                                                      |
 
-*Vedi [Campo abbandonato](#campo-abbandonato)*
+*Vedi [Campo abbandonato](../campo-abbandonato)*
 
 Altri oggetti:
 - 10 bottiglie di Nuka-Cola sul pavimento e in scatole nel magazzino col protettore

@@ -25,6 +25,6 @@ La discarica di Mason Dixon è una località della Zona contaminata della Capita
 | Immagine                                                              | Oggetto e posizione                                                                                                              |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="MDS_East_abandoned_shack_Tumblers_Today.webp">}}       | **Lo scassinatore moderno**, nella baracca sud accanto al letto                                                                  |
-| {{<figure src="MDS_West_abandoned_shack_Nikola_Tesla_and_You.webp">}} | 2 **Tu e Nikola Tesla**: uno nella baracca nord, su un tavolo; l'altro a nord-est, nella [tenda abbandonata](#tenda-abbandonata) |
+| {{<figure src="MDS_West_abandoned_shack_Nikola_Tesla_and_You.webp">}} | 2 **Tu e Nikola Tesla**: uno nella baracca nord, su un tavolo; l'altro a nord-est, nella [tenda abbandonata](../tenda-abbandonata) |
 | {{<figure src="DC_Journal_of_IM_Mason_Dixon_Salvage.webp">}}          | **Giornale di medicina interna del D.C.**, nella baracca nord, sul pavimento, accanto ad un secchio                              |
 

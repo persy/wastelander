@@ -26,10 +26,12 @@ Il tunnel di Yao Guai è una località a ovest dell'ossario e a nord-ovest del g
 
 | Immagine                                                       | Oggetto e posizione                                                                                               |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="YaoGuai_tunnels_Sneak_Bobblehead.webp">}}       | **Bambolina - Furtivo**, sul lato nord-est del pilastro centrale vicino al cadavere colono                        |
-| {{<figure src="Grognak_the_Barbarian_yao_guai_tunnels.webp">}} | **Grognak il barbaro**, nella sezione meridionale vicino a un predone morto, su una sporgenza                     |
-| {{<figure src="Yao_guai_den_note.webp">}}                      | **Nota sul covo degli Yao Guai**, sul cadavere di un colono morto che galleggia in una pozza di acqua radioattiva |
+| {{<figure src="YaoGuai_tunnels_Sneak_Bobblehead.jpg">}}       | **Bambolina - Furtivo**, nel covo, sul lato nord-est del pilastro centrale vicino al cadavere colono                        |
+| {{<figure src="Grognak_the_Barbarian_yao_guai_tunnels.webp">}} | **Grognak il barbaro**, nella sezione meridionale vicino a un predone morto, su una sporgenza vicino all'uscita dal covo                    |
+| {{<figure src="Yao_guai_den_note.webp">}}                      | **Nota sul covo degli Yao Guai**, nel covo, sul cadavere di un colono morto che galleggia in una pozza di acqua radioattiva |
+| {{<figure src="NCQ_Yao_Guai_Tunnels.jpg">}}                     | **Nuka-Cola Quantum** su un tavolo vicino a una radio                                                             |
+
 
 Altri oggetti:
-- **Libro prebellico** sul tavolo da picnic vicino all'ingresso del tunnel.
-- **Nuka-Cola Quantum** su un tavolo vicino a una radio, sulla strada per prendere il **Bambolina - Furtivo**.
+- **Libro prebellico** sul tavolo da picnic vicino all'ingresso del tunnel
+

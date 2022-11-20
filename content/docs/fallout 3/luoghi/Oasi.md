@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Oasi
-summary: "Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](#baracche-sul-promontorio)."
+summary: "Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](../baracche-sul-promontorio)."
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas
@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](#baracche-sul-promontorio). 
+Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](../baracche-sul-promontorio). 
 
 
 | Mappa                             | Mappa locale caverne                      | Mappa locale camere sprofondate                   |

@@ -29,7 +29,7 @@ La stazione metropolitana di Jury Street è una località della Zona contaminata
 | {{<figure src="Dean's_Electronics_Jury_St_Station.webp">}} | **Elettronica di Dean** e una **mina da tappo**, all'interno della stazione, sul banco di lavoro                                |
 | {{<figure src="BB_of_Science_drainage_chamber_SOT.webp">}} | **Il grande libro della scienza**, nella camera di drenaggio a sud della stazione, su un tavolo vicino a una radio trasmittente |
 
-*Vedi anche [Alimentari Fiocco d'oro](#alimentari-fiocco-doro), [Segnale Oscar Tango (OT)](#segnale-oscar-tango-ot), [Calverton](#calverton) e [Tunnel di Jury St.](../capitale#tunnel-di-jury-st)*
+*Vedi anche [Alimentari Fiocco d'oro](../alimentari-fiocco-doro), [Segnale Oscar Tango (OT)](../camere-di-drenaggio), [Calverton](../calverton) e [Tunnel di Jury St.](../capitale#tunnel-di-jury-st)*
 
 
 

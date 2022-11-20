@@ -29,7 +29,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 
 
-*Vedi [Stazione di trasmissione WKML](#stazione-di-trasmissione-wkml)*
+*Vedi [Stazione di trasmissione WKML](../stazione-di-trasmissione-wkml)*
 
 
 #### Segnale Oscar Zulu (OZ)
@@ -41,7 +41,7 @@ E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 
 | ------------------------------------ | --------------------------------------------------- |
 | {{<figure src="RT_KX_B8_loc.webp">}} | {{<figure src="Entrance_-_drainage_chamber.webp">}} |
 
-*Vedi [Ripetitore KX-B8-11](#ripetitore-kx-b8-11)*
+*Vedi [Ripetitore KX-B8-11](../ripetitore-kx-b8-11)*
 
 
 
@@ -55,7 +55,7 @@ E' nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ove
 | ---------------------------------- | -------------------------------------------------- |
 | {{<figure src="BT_KB5_loc.webp">}} | {{<figure src="Alfa_Lima_Drainage_chamber.webp">}} |
 
-*Vedi [Ripetitore KB5](#ripetitore-kb5)*
+*Vedi [Ripetitore KB5](../ripetitore-kb5)*
 
 #### Signal Echo Foxtrot (EF)
 Si trova nei pressi del ripetitore LP8, vicino al bordo nord della mappa, a sud dell'Oasi.
@@ -67,7 +67,7 @@ Si trova nei pressi del ripetitore LP8, vicino al bordo nord della mappa, a sud 
 | {{<figure src="BT_LP8_loc.webp">}} | {{<figure src="EchoFoxtrot.webp">}} |
 
 
-Vedi *[Ripetitore LP8](#ripetitore-lp8)*
+Vedi *[Ripetitore LP8](../ripetitore-lp8)*
 
 
 #### Segnale Oscar Tango (OT)
@@ -78,7 +78,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 | {{<figure src="Jury_Street_MS_loc.webp">}} | {{<figure src="Oscar_Tango_dr._chamber_exterior.webp">}} |
 
 
-*Vedi [Stazione metropolitana di Jury Street](#stazione-metropolitana-di-jury-street)*
+*Vedi [Stazione metropolitana di Jury Street](../stazione-metropolitana-di-jury-street)*
 
 
 
@@ -91,7 +91,7 @@ E' sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little 
 | ----------------------------------- | ------------------------------------------- |
 | {{<figure src="BT_KT_8_loc.webp">}} | {{<figure src="Broadcast_Tower_KT8.webp">}} |
 
-Vedi *[Ripetitore KT8](#ripetitore-kt8)*
+Vedi *[Ripetitore KT8](../ripetitore-kt8)*
 
 
 
@@ -102,7 +102,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 | ----------------------------------------------- | ----------------------------------------------------------- |
 | {{<figure src="Signal_Yankee_Bravo_map.webp">}} | {{<figure src="Broadcast_tower_Signal_Yankee_Bravo.webp">}} |
 
-*Vedi [Fabbrica Corvega](#fabbrica-corvega)*
+*Vedi [Fabbrica Corvega](../fabbrica-corvega)*
 
 
 #### Segnale Sierra Victor (SV)
@@ -112,7 +112,7 @@ E' nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e riforni
 | ------------------------------------------------ | -------------------------------------------- |
 | {{<figure src="Signal_Sierra_Victor_map.webp">}} | {{<figure src="SVS_drainage_chamber.webp">}} |
 
-*Vedi [Centrale elettrica VAPL-66](#centrale-elettrica-vapl-66)*
+*Vedi [Centrale elettrica VAPL-66](../centrale-elettrica-vapl-66)*
 
 
 #### Segnale Papa November (PN)
@@ -122,4 +122,4 @@ Si trova a ovest di Megaton, vicino al bordo occidentale della mappa, presso una
 | ------------------------------------------------ | -------------------------------------------- |
 | {{<figure src="Signal_Papa_November_map.webp">}} | {{<figure src="Signal_Papa_November.webp">}} |
 
-*Vedi [Ossario](#ossario)*
+*Vedi [Ossario](../ossario)*

@@ -33,11 +33,11 @@ La fabbrica Red Racer è una fabbrica di tricicli Red Racer prebellica alla peri
 | {{<figure src="Nikola_Tesla_and_You_Red_Racer_factory.webp">}}  | **Tu e Nikola Tesla**, uffici CEO, su uno scaffale dietro una porta chiusa a chiave, vicino all'ingresso                                                                                       |
 | {{<figure src="RR_factory_bottlecap_mine.webp">}}               | **Mina da tappo**, su un banco da lavoro in un corridoio a nord-est della sala riunioni                                                                                                        |
 
-*Vedi [Negozio del predatore](#negozio-del-predatore)*
+*Vedi [Negozio del predatore](../negozio-del-predatore)*
 
 Altri oggetti:
 - Esterno
-	- **Maschera da hockey di Ledoux**, indossata da Ledoux, ottenibile solo dopo aver preso la **Formula della Nuka-Cola Clear** dallo [stabilimento Nuka-Cola](#stabilimento-nuka-cola), in cambio di 250-400 tappi
+	- **Maschera da hockey di Ledoux**, indossata da Ledoux, ottenibile solo dopo aver preso la **Formula della Nuka-Cola Clear** dallo [stabilimento Nuka-Cola](../stabilimento-nuka-cola), in cambio di 250-400 tappi
 		- Non è possibile fare lo scambio se si ha già portato a termine la missione *La sfida di Nuka Cola* per Sierra Petrovita
 - Fabbrica
 	- Orsacchiotto insolitamente grande, sopra un enorme triciclo sospeso sul soffitto vicino alla copia di **Elettronica di Dean**

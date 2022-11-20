@@ -23,7 +23,7 @@ La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazional
 | ------------------------------------------ | --------------------------------------------- |
 | {{<figure src="Rockbreaker_LG_loc.webp">}} | {{<figure src="Rockbreakers_Last_Gas.webp">}} |
 
-*Vedi [Baracca del cecchino](#baracca-del-cecchinobaracca-abbandonata)*
+*Vedi [Baracca del cecchino](../baracca-del-cecchinobaracca-abbandonata)*
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in cima a un distributore automatico Nuka-Cola all'interno dell'area recintata

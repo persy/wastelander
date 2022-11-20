@@ -31,7 +31,7 @@ La centrale elettrica VAPL-58 è un insieme di linee elettriche recintate e tras
 | {{<figure src="VAPL_58_nuka_cola_quantum.webp">}}                                  | **Nuka-Cola Quantum**, sul banco di lavoro                                                                                   |
 | {{<figure src="Shelter_with_Nuka_Cola_Quantum_SE_of_VAPL-58_power_station.webp">}} | **Nuka-Cola Quantum**, in una baracca dietro una barricata appena a sud-est della stazione                                   |
 | {{<figure src="VAPL_58_Mini_Nuke.webp">}}                                          | **Munizione nucleare**, sopra la lampada appesa al soffitto                                                                  |
-| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}}                  |  **Trascrizione famiglia Keller 1 di 5**, su una libreria nella [capanna del traliccio](#capanna-del-traliccio), che si trova sotto il terzo pilone partendo dalla centrale elettrica e andando verso nord                                                                                                                            |
+| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}}                  |  **Trascrizione famiglia Keller 1 di 5**, su una libreria nella [capanna del traliccio](../capanna-del-traliccio), che si trova sotto il terzo pilone partendo dalla centrale elettrica e andando verso nord                                                                                                                            |
 
 
 

@@ -25,10 +25,10 @@ La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del
 
 | Immagine                                                   | Oggetto e posizione                                                                                                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](#accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
+| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](../accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
 | {{<figure src="Sewer_waystation_Nuka-Cola_Quantum.webp">}} | **Nuka-Cola Quantum**, nell'ufficio in un frigorifero rotto accanto a uno scheletro                                                              |
 
-*Vedi [Accampamento compagnia Artiglio](#accampamento-compagnia-artiglio)*
+*Vedi [Accampamento compagnia Artiglio](../accampamento-compagnia-artiglio)*
 
  Altri oggetti:
 - 21 orsacchiotti, sui nastri trasportatori e sul pavimento

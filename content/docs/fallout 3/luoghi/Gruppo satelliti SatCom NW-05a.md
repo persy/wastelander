@@ -19,7 +19,7 @@ hidden: true
 
 Il gruppo satelliti SatCom NW-05a è un gruppo di satelliti che si trova a nord-ovest della Zona contaminata della Capitale,  a ovest del gruppo satelliti SatCom NN-03d, tra Fort Constantine e la centrale elettrica MDPL-05. 
 
-*Vedi [Molo dei predatori](#molo-dei-predatori)
+*Vedi [Molo dei predatori](../molo-dei-predatori)
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |

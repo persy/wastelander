@@ -32,7 +32,7 @@ Il Super-Duper Mart è un negozio di alimentari situato vicino al fiume Potomac,
 | {{<figure src="FO3_Super-Duper_Mart_(3).webp">}}                     | 3 **Nuka-Cola Quantum**, **munizione nucleare** e **ID impiegati ufficio**, nel magazzino col protettore    |
 | {{<figure src="SDM_bottlecap_mine_2_and_3.webp">}}                   | Tre **Mina da tappo**, sui due banconi                                                                      |
 
-*Vedi [Campo abbandonato](#campo-abbandonato)*
+*Vedi [Campo abbandonato](../campo-abbandonato)*
 
 Altri oggetti:
 - 10 bottiglie di Nuka-Cola sul pavimento e in scatole nel magazzino col protettore

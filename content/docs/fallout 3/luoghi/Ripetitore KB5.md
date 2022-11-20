@@ -36,5 +36,5 @@ Altri oggetti:
 - **Il grande libro della scienza** e **munizione nucleare**, in un rimorchio, a ovest del ripetitore, sul ponte oltre il campo dei predoni. Il libro è posseduto dallo scienziato che si fa saltare in aria 
 
 
-*Vedi [[Forte delle auto abbandonate](#forte-delle-auto-abbandonate); [Furgone che esplode dello scienziato](#furgone-che-esplode-dello-scienziato)*
+*Vedi [[Forte delle auto abbandonate](../forte-delle-auto-abbandonate); [Furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato)*
 

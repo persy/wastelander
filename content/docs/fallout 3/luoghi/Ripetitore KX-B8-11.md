@@ -31,4 +31,4 @@ Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale
 | {{<figure src="Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina a sud-est                                                                                   |
 | {{<figure src="Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, su un barile di materiale nucleare a sud-est                                                               |
 
-*Vedi [Rovine della fattoria sulla collina](#rovine-della-fattoria-sulla-collina)*
+*Vedi [Rovine della fattoria sulla collina](../rovine-della-fattoria-sulla-collina)*

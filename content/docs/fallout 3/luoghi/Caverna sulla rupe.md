@@ -28,15 +28,15 @@ La caverna sulla rupe, conosciuta anche come caverna degli Yao Guai, è una gran
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="FO3_CA_SOTM_Cliffside.webp">}}                  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, in cima a una piccola libreria nella caverna a nord-est, sulla strada per la tenda |
 | {{<figure src="Grognak_the_Barbarian_Cliffside_Cavern.webp">}} | **Grognak il barbaro**, dietro un generatore                                                                                                  |
-| (immagine mancante)                                            | **Schemi - Granata Nuka**, nella parte inferiore della grotta, vicino la parete nord-ovest circondata da numerosi scheletri                   |
+| {{<figure src="Nuka_Grenade_Schematics_Cliffside_Cavern.jpg">}}                                            | **Schemi - Granata Nuka**, nella parte inferiore della grotta, vicino la parete nord-ovest circondata da numerosi scheletri                   |
 | {{<figure src="Cliffside_Cavern_mini_nuke.webp">}}             | **Munizione nucleare**, nella tenda nella caverna nord-est, in cima a una delle casseforti                                                    |
+| !{{<figure src="NCQ_Cliffside_Cavern.jpg">}}                    | **Nuka-Cola Quantum**, vicino all'uscita sud, sopra un tavolo su una piattaforma con due generatori                                           |
 
 Altri oggetti:
 - Avamposto dei predoni
-	- **Nuka-Cola Quantum**, vicino all'uscita sud, sopra un tavolo su una piattaforma con due generatori
 	- **Libro prebellico**, sul tavolo accanto al letto nella tenda
 
 Note:
-- La caverna degli Yao Guai non va confusa con il [Tunnel di Yao Guai](#tunnel-di-yao-guai), che contiene la **Bambolina - Furtivo**
+- La caverna degli Yao Guai non va confusa con il [Tunnel di Yao Guai](../tunnel-di-yao-guai), che contiene la **Bambolina - Furtivo**
 
 

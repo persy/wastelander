@@ -23,6 +23,6 @@ La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situ
 | --------------------------------------------- | ----------------------------------------- |
 | {{<figure src="Meresti_Trainyard_loc.webp">}} | {{<figure src="Meresti_Trainyard.webp">}} |
 
-*Vedi [Cratere del villaggio](#cratere-del-villaggio)*
+*Vedi [Cratere del villaggio](../cratere-del-villaggio)*
 
 
