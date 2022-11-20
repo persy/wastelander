@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Luoghi di Fallout 3
+linktitle: Luoghi
 summary: 'TODO'
 weight: 10
 icon: map-location-dot
 icon_pack: fas
 
 # Page metadata.
-title: Luoghi di Fallout 3
+title: Luoghi
 date: 2022-11-15
 type: book # Do not modify.
 hidden: false # Visibile nella sidebar

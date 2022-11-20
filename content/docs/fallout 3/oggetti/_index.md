@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Personaggio
+linktitle: Oggetti
 summary: 'TODO'
-weight: 20
-icon: user
+weight: 30
+icon: prescription-bottle
 icon_pack: fas
 
 # Page metadata.
-title: Personaggio
+title: Oggetti
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -17,7 +17,13 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-- S.P.E.C.I.A.L.
-- Abilità primarie
-- Abilità derivate
-- [Abilità extra](abilita-extra)
+- Armi
+- Armature e vestiti
+- Copricapi
+- Consumabili:
+    - Droghe
+    - Libri delle abilità
+    - Cibi e bevande
+- Creazione:
+    - Schemi
+

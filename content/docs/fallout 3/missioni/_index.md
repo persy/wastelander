@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Personaggio
+linktitle: Missioni
 summary: 'TODO'
-weight: 20
-icon: user
+weight: 40
+icon: diagram-project
 icon_pack: fas
 
 # Page metadata.
-title: Personaggio
+title: Missioni
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -17,7 +17,8 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-- S.P.E.C.I.A.L.
-- Abilità primarie
-- Abilità derivate
-- [Abilità extra](abilita-extra)
+- Missioni principali
+- Misisoni secondarie
+- Missioni nascoste
+- Missioni ripetibili
+

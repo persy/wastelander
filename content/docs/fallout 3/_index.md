@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Fallout 3
-summary: 
+summary: 'TODO'
 weight: 30
 icon: radiation
 icon_pack: fas
@@ -15,6 +15,8 @@ commentable: true
 
 TODO
 
-- [Luoghi](luoghi)
+- [Luoghi](luoghi) IN CORSO
 - [Personaggio](personaggio) TODO
+- [Oggetti](oggetti) TODO
+- [Missioni](missioni) TODO
 
