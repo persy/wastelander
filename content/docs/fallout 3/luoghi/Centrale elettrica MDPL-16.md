@@ -20,7 +20,7 @@ hidden: true
 
 
 
-### Centrale elettrica MDPL-16
+
 La centrale elettrica MDPL-16 si trova a est del caseificio Chaste Acres e a sud della Repubblica di Dave.
 
 | Mappa                    | Panoramica                      |

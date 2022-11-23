@@ -17,7 +17,7 @@ private: true
 
 TODO
 
-Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare.
+Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare. Per i distretti e gli edifici della Capitale vai [qui](../washington)
 
 {{< toc hide_on="xl" >}}
 
@@ -177,7 +177,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Stazione di trasmissione WKML](../stazione-di-trasmissione-wkml)
 - [Stazione fognaria](../stazione-fognaria)
 - [Stazione metropolitana di Jury Street](../stazione-metropolitana-di-jury-street)
-- [Stazione metropolitana di Meresti](../)
+- [Deposito di Meresti](../deposito-di-meresti)
 - [Stazione ripetitore del satellite (Broken Steel)](../stazione-ripetitore-del-satellite-broken-steel)
 - [Super-Duper Mart](../super-duper-mart)
 ## T

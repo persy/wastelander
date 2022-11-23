@@ -17,7 +17,7 @@ hidden: true
 
 
 
-### Casa sull'albero in cemento
+
 La casa sull'albero in cemento è una piccola casa di fortuna non contrassegnata sulla mappa, a sud-est di Fort Independence, a metà strada tra le rovine di Fairfax e Andale.
 
 | Mappa                                          | Panoramica                                 |

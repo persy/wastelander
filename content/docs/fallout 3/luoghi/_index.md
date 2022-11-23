@@ -19,8 +19,8 @@ TODO
 - [Zona contaminata della Capitale](zona-contaminata-della-capitale) 
     - [Insediamenti](insediamenti-della-zona-contaminata-della-capitale)
     - [Vault della Zona contaminata della Capitale](vault-della-zona-contaminata-della-capitale)
-    - [Stazioni metropolitane](stazioni-metropolitane) TODO
-    - [Washington D.C.](washington) TODO
+    - [Stazioni metropolitane](stazioni-metropolitane) 
+    - [Washington D.C.](washington) 
 
 - [DLC](dlc)
     - [Operation: Anchorage](dlc-anchorage) TODO

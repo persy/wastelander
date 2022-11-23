@@ -14,7 +14,7 @@ commentable: true
 tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
-### Arefu
+
 Arefu è un piccolo insediamento composto da quattro case situate in cima a un ponte fatiscente a nord-ovest del Vault 106.
 
 | Mappa               | Mappa locale              | Panoramica      |

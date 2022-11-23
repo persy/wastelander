@@ -29,6 +29,8 @@ La Cittadella è il quartier generale della Confraternita d'Acciaio nella Zona c
 | {{<figure src="Duck_and_Cover!_Citadel_lab.webp">}} | **Al riparo!**, in una cassa nel bagno del laboratorio                                 |
 | {{<figure src="Guns_and_Bullets_Citadel.webp">}}    | **Pistole e proiettili** sotto il letto più a destra nell'area "The Den" dell'anello A |
 
+<!--TODO: aggiorna immagini -->
+
 Altri oggetti:
 - 3 **registri personali dell'Anziano Lyons**, uno nel laboratorio, due nella sua stanza personale
 - **Fine del contrabbandiere**, nella cassaforte di Lyons, nell'anello B della "The Solar" area (Scasso 100)

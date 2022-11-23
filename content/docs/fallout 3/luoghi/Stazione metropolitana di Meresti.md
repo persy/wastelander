@@ -1,9 +1,9 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione metropolitana di Meresti
-summary: "La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situato nel centro della Zona contaminata della Capitale. È una delle vie d'accesso alla metropolitana di Meresti, usato come covo sotterraneo della Famiglia, e si collega con la stazione Seneca Nord ovest. "
+summary: "La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. E' accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti."
 weight: 10
-icon: location-dot # in alternativa location-question
+icon: train-subway # in alternativa location-question
 icon_pack: fas
 
 # Metadata pagina
@@ -11,18 +11,26 @@ title: Stazione metropolitana di Meresti
 date: 2022-11-17
 type: book # Non modificare
 commentable: true
-tags: "Luoghi della Zona contaminata della Capitale"
+tags: "Metro della Capitale"
 hidden: true
 ---
 
 
 
-La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situato nel centro della Zona contaminata della Capitale. È una delle vie d'accesso alla metropolitana di Meresti, usato come covo sotterraneo della Famiglia, e si collega con la stazione Seneca Nord ovest. 
+La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. E' accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti.
 
-| Mappa                                         | Panoramica                                |
-| --------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Meresti_Trainyard_loc.webp">}} | {{<figure src="Meresti_Trainyard.webp">}} |
+| Mappa | Mappa locale | Panoramica |
+| ----- | ------------ | ---------- |
+| {{<figure src="Meresti_Trainyard_loc.webp">}}  | {{<figure src="Meresti_Metro_Station_loc.webp">}}  | {{<figure src="Meresti_Metro_Station.webp">}}  |
 
-*Vedi [Cratere del villaggio](../cratere-del-villaggio)*
+| Immagine                                  | Oggetto e posizione                                                                                 |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| {{<figure src="FO3_LCS_Meresti.webp">}}                 | **Stile da congresso, menzognero**, sotto una scatola in cima alla carrozza del treno               |
+| {{<figure src="Mini_nuke_Meresti_Metro_Station.webp">}} | **Munizione nucleare**, in cima a una sporgenza, sopra a un  banco di lavoro                        |
+| {{<figure src="Vampire's_Edge.webp">}}                  | **Spada del vampiro**, nell'armadietto nella stanza di Vance (la chiave è nell'inventario di Vance) |
 
 
+Altri oggetti:
+- **Mina da tappo**, su un banco da lavoro vicino a un terminale informativo al piano terra, a nord sulla mappa
+- **Cappotto di Vance**, indossato da Vance
+- **Schemi - Shishkebab**, nell'inventario di Vance; può essere ottenuto uccidendolo o terminando *Legami di sangue* in suo favore

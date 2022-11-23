@@ -17,7 +17,7 @@ hidden: true
 
 
 
-### Fort Independence
+
 Fort Independence è il quartier generale dei Rinnegati della Confraternita ed è situato a ovest delle rovine di Fairfax e a nord di Andale.
 
 | Mappa                                         | Panoramica                                |

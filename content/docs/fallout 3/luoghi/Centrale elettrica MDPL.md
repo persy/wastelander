@@ -17,7 +17,7 @@ hidden: true
 
 
 
-### Centrale elettrica MDPL
+
 La centrale elettrica MDPL si trova a sud dell'Accademia Roosevelt e ad est dell'area di ristoro Five Axles.
 
 | Mappa                                | Panoramica                                      |

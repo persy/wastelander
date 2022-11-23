@@ -18,7 +18,7 @@ hidden: true
 
 
 
-### Campo dei predatori della metro allagata
+
 Il campo dei predatori della metro allagata è un accampamento di predoni non contrassegnato e si trova a sud-est della metro allagata.
 
 | Mappa                                         | Panoramica                                        |

@@ -17,7 +17,7 @@ hidden: true
 
 
 
-### Forte delle auto abbandonate
+
 Il forte delle auto abbandonate è un piccolo forte improvvisato e si trova immediatamente a nord-est di Shalebridge, a nord-ovest del Area di ristoro Five Axles e a sud-est del Gruppo satelliti SatCom NW-07c.
 
 | Mappa                                          | Panoramica                                 |
