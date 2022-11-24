@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Seguendo le sue orme
-summary: 'TODO'
-weight: 40
+summary: "Seguendo le sue orme è la quinta missione principale del gioco. Si svolge fra il Vault 101, Megaton, la piazza dell'edificio GNR, Rivet City e Chevy Chase ed è data non appena terminata la missione Scappa!."
+weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
@@ -13,14 +13,11 @@ type: book # Do not modify.
 commentable: true
 tags: "Missioni principali di Fallout 3"
 hidden: true # Visibile nella sidebar
-private: true # Nascosto dalle ricerche
+private: false # Nascosto dalle ricerche
 ---
 
-Seguendo le sue orme è la quinta missione principale del gioco.
+*Seguendo le sue orme* è la quinta missione principale del gioco. Si svolge fra il Vault 101, Megaton, la piazza dell'edificio GNR, Rivet City e Chevy Chase ed è data non appena terminata la missione *Scappa!*.
 
-| Luogo/i | Data da | Ricompensa | 
-| ------- | ------- | ---------- | 
-| Vault 101, Megaton, piazza dell'edificio GNR, Rivet City, Chevy Chase        |  -       |    Indizi sulla posizione di James, 300 PE        | 
 
 ```mermaid
 graph TD;

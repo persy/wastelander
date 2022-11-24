@@ -1,0 +1,52 @@
+---
+# Title, summary, and page position.
+linktitle: Ricerca Giardino dell'Eden
+summary: "Ricerca Giardino dell'Eden è la decima missione principale el gioco. Si svolge fra il Vault 87 e Raven Rock ed è data dallo Scriba Rothchild."
+weight: 40
+icon: messages # message-question per le missioni nascoste
+icon_pack: fas
+
+# Page metadata.
+title: Ricerca Giardino dell'Eden
+date: 2022-11-15
+type: book # Do not modify.
+commentable: true
+tags: "Missioni principali di Fallout 3"
+hidden: true # Visibile nella sidebar
+private: false # Nascosto dalle ricerche
+---
+
+*Ricerca Giardino dell'Eden* è la decima missione principale el gioco. Si svolge fra il Vault 87 e Raven Rock ed è data dallo Scriba Rothchild.
+
+
+
+```mermaid
+graph TD;
+    id1[<b>Ricerca Giardino dell'Eden</b>]:::questfo3
+    id2[Entra nel Vault 87]
+    id3[Procedi per i Test Labs]
+    id4[Ignora Fawkes]
+    id5[Libera Fawkes]  
+    id6["Ottieni il K.R.E.G."]
+    id7[Affronta il Colonnello Autumn]
+    id8[1000 PE]:::rewardfo3
+    id9[Prossima missione: <b>Il sogno americano</b>]:::questfo3
+    id1-->id2-->id3-->id4-->id6-->id7-->id8-->id9
+    id3-->id5-->id6
+    click id2 "../../luoghi/vault-87"
+    click id9 "../il-sogno-americano"
+    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
+    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+```
+
+| Tappe |       Stato        | Descrizione                                             |
+| :---: | :----------------: | ------------------------------------------------------- |
+|  10   |                    | Trova l'ingresso sotterraneo del Vault 87.              |
+|  15   |                    | Recupera il K.R.E.G.                                    |
+|  20   |                    | (Facoltativo) Salva Fawkes dalle celle di osservazione. |
+|  30   | :white_check_mark: | Fuggi dal Vault 87.                                     |
+
+
+Note:
+- E' richiesta Scienza 50 e 75 per sbloccare tutti i terminali
+- Nella camera a destra a quella in cui si ottiene il K.R.E.G. c'è una tuta antiradiazioni avanzata

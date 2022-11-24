@@ -168,6 +168,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 ## S
 - [Santuario dei Deathclaw](../santuario-dei-deathclaw)
 - [Segnale autoguidato alieno](../segnale-autoguidato-alieno)
+- [Sentiero della Morte](../sentiero-della-morte)
 - [Scuola di Springvale](../scuola-di-springvale)
 - [Shalebridge](../shalebridge)
 - [Smaltimento rifiuti Fratelli Jalbert](../smaltimento-rifiuti-fratelli-jalbert)

@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Scappa!
-summary: 'TODO'
-weight: 40
+summary: "Scappa! è la quarta missione principale del gioco. Si svolge nel Vault 101 ed è data da Amata."
+weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
@@ -13,14 +13,11 @@ type: book # Do not modify.
 commentable: true
 tags: "Missioni tutorial di Fallout 3"
 hidden: true # Visibile nella sidebar
-private: true # Nascosto dalle ricerche
+private: false # Nascosto dalle ricerche
 ---
 
-Scappa! è la quarta missione principale del gioco.
+*Scappa!* è la quarta missione principale del gioco. Si svolge nel Vault 101 ed è data da Amata.
 
-| Luogo/i | Data da | Ricompensa | 
-| ------- | ------- | ---------- | 
-| Vault 101       |  Amata       | Accesso alla zona contaminata, 200 PE; karma positivo, Vestito da serpente del tunnel (opzionale)            | 
 
 ```mermaid
 graph TD;

@@ -29,8 +29,8 @@ Il Vault 112 è un Vault della Vault-Tec situato nella parte sud-occidentale del
 
 
 
-Altri oggetti:
-- **Codice di esito-certo**, va composto nella casa abbandonata interagendo con (nell'ordine): 
+Note:
+- Il codice di esito-certo va composto nella casa abbandonata interagendo con (nell'ordine): 
 	1. la radio rotta
 	2. la brocca di vetro
 	3. lo gnomo da giardino

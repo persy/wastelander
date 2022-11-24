@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Primi passi
-summary: 'TODO'
-weight: 40
+summary: "Primi passi è la prima missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
@@ -13,14 +13,12 @@ type: book # Do not modify.
 commentable: true
 tags: "Missioni tutorial di Fallout 3"
 hidden: true # Visibile nella sidebar
-private: true # Nascosto dalle ricerche
+private: false # Nascosto dalle ricerche
 ---
 
-Primi passi è la prima missione principale del gioco.
+*Primi passi* è la prima missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
 
-| Luogo/i   | Data da | Ricompensa                        | 
-| --------- | ------- | --------------------------------- | 
-| Vault 101 | James   | Assegnamento punti S.P.E.C.I.A.L. | 
+
 
 ```mermaid
 graph TD;
@@ -44,3 +42,6 @@ graph TD;
 |  30   |                    | Esci dalla culla.                 |
 |  40   |                    | Consulta il libro S.P.E.C.I.A.L.. |
 |  80   | :white_check_mark: | Segui papà                        |
+
+Note:
+- Gli S.P.E.C.I.A.L. potranno essere riassegnati prima di abbandonare il Vault 101

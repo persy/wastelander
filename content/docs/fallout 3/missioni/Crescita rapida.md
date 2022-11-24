@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Crescita rapida
-summary: 'TODO'
-weight: 40
+summary: "Crescita rapida è la seconda missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
@@ -16,12 +16,9 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-Crescita rapida è la seconda missione principale del gioco.
+*Crescita rapida* è la seconda missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
 
-| Luogo/i   | Data da | Ricompensa                                                              | 
-| --------- | ------- | ----------------------------------------------------------------------- | 
-| Vault 101 | James   | Pip-Boy 3000, Grognak il barbaro, fucile ad aria compressa, 50 piombini |              
-|           |         |                                                                         |              
+           
 
 ```mermaid
 graph TD;

@@ -49,10 +49,10 @@ main:
     parent: fallout3
     url: docs/fallout-3/luoghi 
     weight: 9 
-  - name: Missioni TODO
+  - name: Missioni
     identifier: missioni
     parent: fallout3
-    url: 
+    url: docs/fallout-3/missioni
     weight: 90
   - name: <b>Pagina principale</b>
     parent: fallout3

@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Futuro imperfetto
-summary: 'TODO'
-weight: 40
+summary: "Futuro imperfetto è la terza missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
@@ -16,11 +16,9 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-Futuro imperfetto è la terza missione principale del gioco.
+*Futuro imperfetto* è la terza missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
 
-| Luogo/i | Data da | Ricompensa | 
-| ------- | ------- | ---------- | 
-|  Vault 101       |  James       |  Specializzazione in 3 abilità           | 
+
 
 ```mermaid
 graph TD;
