@@ -39,7 +39,7 @@ TODO
 | [Liberazione dal Paradiso](liberazione-dal-paradiso)   | Little Lamplight, Paradise Falls                            | Sindaco MacCready, Sammy   | 900 PE, accesso a Little Lamplight                                                                            |
 | [Ricerca Giardino dell'Eden](ricerca-giardino-delleden) | Vault 87, Raven Rock                                        | Scriba Rothchild           | 1000 PE, accesso a Raven Rock                                                                                 |
 | [Il sogno americano](il-sogno-americano)         | Raven Rock, Cittadella                                      | Presidente Eden            | 1100 PE, armatura ed elmo atomici/armatura ed elmo da ricognizione                                            |
-| [Riprenditelo!](riprendetelo)              | Cittadella, Jefferson Memorial                              | Lyons l'Anziano            | Finale di gioco, 1200 PE                                                                                      |
+| [Riprenditelo!](riprenditelo)              | Cittadella, Jefferson Memorial                              | Lyons l'Anziano            | Finale di gioco, 1200 PE                                                                                      |
 | [Progetto impurità](progetto-impurita)          | Jefferson Memorial                                          | Presidente Eden            | Finale di gioco, -1000 karma                                                                                  |
 
 ## Missioni secondarie

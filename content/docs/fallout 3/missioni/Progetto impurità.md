@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Progetto impurità
-summary: "TODO"
+summary: "Progetto impurità è una missione principale del gioco. Si svolge al Jefferson Memorial ed è data dal presidente Eden. E' correlata con la missione Riprenditelo!"
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas

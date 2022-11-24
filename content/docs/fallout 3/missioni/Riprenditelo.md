@@ -53,6 +53,7 @@ graph TD;
     classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
 ```
 
+
 | Tappe |       Stato        | Descrizione                                                    |
 | :---: | :----------------: | -------------------------------------------------------------- |
 |   1   |                    | Segui Lyons l'Anziano nel Laboratorio della Cittadella.        |
