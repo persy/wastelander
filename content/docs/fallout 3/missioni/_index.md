@@ -21,16 +21,16 @@ TODO
 
 | Nome              | Luoghi    | Data da        | Ricompensa                                                              |
 | ----------------- | --------- | -------------- | ----------------------------------------------------------------------- |
-| [Primi passi](../primi-passi)       | Vault 101 | James          | Assegnamento punti SPECIAL                                                         |
-| Crescita rapida   | Vault 101 | Soprintendente | Pip-Boy 3000, rotolo dolce, Grognak il barbaro, fucile ad aria compressa, 50 piombini |
-| Futuro imperfetto | Vault 101 | James          | Specializzazione in 3 abilità                                           |
+| [Primi passi](primi-passi)       | Vault 101 | James          | Assegnamento punti SPECIAL                                                         |
+| [Crescita rapida](crescita-rapida)   | Vault 101 | Soprintendente | Pip-Boy 3000, rotolo dolce, Grognak il barbaro, fucile ad aria compressa, 50 piombini |
+| [Futuro imperfetto](futuro-imperfetto) | Vault 101 | James          | Specializzazione in 3 abilità                                           |
 
 ## Missioni principali
 
 | Nome                       | Luoghi                                                      | Data da                    | Ricompensa                                                                                                    |
 | -------------------------- | ----------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Scappa!                    | Vault 101                                                   | Amata                      | Accesso alla zona contaminata, 200 PE; karma positivo, Vestito da serpente del tunnel (opzionale)             |
-| Seguendo le sue orme       | Megaton                                                     | Completare Scappa!         | Indizio sulla posizione di James, 300 PE                                                                      |
+| [Scappa!](scappa)                    | Vault 101                                                   | Amata                      | Accesso alla zona contaminata, 200 PE; karma positivo, Vestito da serpente del tunnel (opzionale)             |
+| [Seguendo le sue orme](seguendo-le-sue-orme)       | Megaton                                                     | Completare Scappa!         | Indizio sulla posizione di James, 300 PE                                                                      |
 | Galaxy News Radio          | Galaxy News Radio, Museo di Tecnologia, Washington Monument | Tre Cani                   | 400 PE, indizio sulla posizione di James o chiave per scorta di armi, maggior copertura per Galaxy News Radio |
 | Ricerche scientifiche      | Rivet City                                                  | Tre Cani, Dottoressa Li    | 500 PE, indizio sulla posizione di James                                                                      |
 | Tranquility Lane           | Vault 112                                                   | Robocervello nel Vault 112 | 600 PE, riunione con James                                                                                    |

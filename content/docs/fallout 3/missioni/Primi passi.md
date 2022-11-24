@@ -11,16 +11,16 @@ title: Primi passi
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
-tags: "Missioni principali di Fallout 3"
+tags: "Missioni tutorial di Fallout 3"
 hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-Primi passi è la prima missione principale.
+Primi passi è la prima missione principale del gioco.
 
-| Luogo/i   | Data da | Ricompensa                        | Sfide abilità | Prossima missione | Note |
-| --------- | ------- | --------------------------------- | ------------- | ----------------- | ---- |
-| Vault 101 | James   | Assegnamento punti S.P.E.C.I.A.L. | -             | [Crescita rapida](../crescita-rapida)                  |      |
+| Luogo/i   | Data da | Ricompensa                        | 
+| --------- | ------- | --------------------------------- | 
+| Vault 101 | James   | Assegnamento punti S.P.E.C.I.A.L. | 
 
 ```mermaid
 graph TD;

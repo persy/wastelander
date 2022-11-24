@@ -40,7 +40,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Repubblica di Dave](../repubblica-di-dave)
 - [Rivet City](../rivet-city)
 - [Rovine di Fairfax](../rovine-di-fairfax)
-- [Stazione di Warrington](../stazione-di-warrington) TODO
+- [Stazione di Warrington](../stazione-di-warrington)
 - [Tempio dell'Unione](../tempio-dellunione)
 - [Torre Tenpenny](../torre-tenpenny)
 - [Vault 101](../vault-101)

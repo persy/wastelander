@@ -64,7 +64,7 @@ TODO
 - [Museo di Tecnologia](../museo-di-tecnologia)
 - [Nido dei Mirelurk](../nido-dei-mirelurk)
 - [Ospedale Nostra Signora della Speranza](../ospedale-nostra-signora-della-speranza)
-- [Piazza dell'edificio di GNR](../piazza-dell'edificio-di-gnr)
+- [Piazza dell'edificio di GNR](../piazza-delledificio-di-gnr)
 - [Piazza della Casa Bianca](../piazza-della-casa-bianca)
 - [Quartier generale Vault-Tec](../quartier-generale-vault-tec)
 - [Rivendita d'auto Takoma](../rivendita-dauto-takoma)
