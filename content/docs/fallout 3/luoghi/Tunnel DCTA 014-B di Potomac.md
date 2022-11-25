@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel DCTA 014-B di Potomac
-summary: "Il tunnel DCTA 014-B di Potomac fa parte del sistema metropolitano sotto la Zona contaminata della Capitale. Collega la centrale di Arlington alla stazione Foggy Bottom. È infestato dai mirelurk."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

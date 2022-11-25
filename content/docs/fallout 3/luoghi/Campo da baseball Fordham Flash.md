@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo da baseball Fordham Flash
-summary: "Il campo da baseball Fordham Flash è un campo da baseball e si trova a est di Arefu, vicino al cinema all'aperto Moonbeam."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ripetitore KX-B8-11
-summary: "Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

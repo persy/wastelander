@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Casa Bianca
-summary: "La Casa Bianca è la residenza prebellica del presidente degli Stati Uniti a Washington, D.C. Fa parte del distretto di Pennsylvania Avenue."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

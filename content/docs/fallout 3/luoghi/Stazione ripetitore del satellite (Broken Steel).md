@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione ripetitore del satellite (Broken Steel)
-summary: "La stazione ripetitore del satellite è un grande edificio abitato dalle truppe dell'Enclave e da alcuni robot e si raggiunge dal Rockland Car Tunnel."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

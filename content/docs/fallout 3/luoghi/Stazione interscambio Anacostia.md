@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione interscambio Anacostia
-summary: "La stazione intercambio Anacostia è una stazione metropolitana ed è la fermata più meridionale della linea rossa. Si trova direttamente a nord di Rivet City."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

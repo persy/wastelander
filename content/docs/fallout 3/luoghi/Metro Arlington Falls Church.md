@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Arlington/Falls Church
-summary: "La Metro Arlington/Falls Church è una stazione della linea bianca metropolitana che collega Falls Church e il cimitero di Arlington."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

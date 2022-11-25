@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Entrata fogna
-summary: "L'entrata fogna è una località non contrassegnata situata a Vernon Square, nelle rovine di Washington, D.C. Si trova nella strada a fondo cieco vicino al cinema a nord dell'area."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

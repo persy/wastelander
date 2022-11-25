@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Il sogno americano
-summary: "Il sogno americano è l'undicesima missione principale del gioco. Si svolge a Raven Rock ed è data dal Presidente Eden."
+summary: ""
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,12 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il sogno americano* è l'undicesima missione principale del gioco. Si svolge a Raven Rock ed è data dal Presidente Eden.
+*Il sogno americano* è l'undicesima missione principale di Fallout 3. Si svolge a Raven Rock ed è data dal Presidente Eden.
 
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Il sogno americano</b>]:::questfo3
     id2[Svegliati a Raven Rock e parla <br />con il Colonnello Autumn]
@@ -38,8 +39,8 @@ graph TD;
     click id2 "../../luoghi/raven-rock"
     click id9 "../../luoghi/cittadella"
     click id11 "../riprenditelo"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                      |

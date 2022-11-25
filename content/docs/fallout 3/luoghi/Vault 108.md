@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 108
-summary: "Il Vault 108 è un Vault della Vault-Tec situato a sud di Canterbury Commons e a nord-est della fabbrica Corvega."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

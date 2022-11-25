@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fogna sommersa
-summary: "La fogna sommersa è un luogo sotterraneo irradiato e infestato dai ghoul selvatici. Può essere raggiunto dalla parte settentrionale del Dupont Circle."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

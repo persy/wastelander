@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Friendship Heights
-summary: "Friendship Heights è un grande complesso di appartamenti con annessa stazione della metropolitana ed è situato nella periferia nord di Washington, D.C. Fornisce l'accesso alla stazione di Tenleytown / Friendship e tramite, la metropolitana, alla piazza dell'edificio di GNR."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

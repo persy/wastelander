@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: In cerca di indizi
-summary: "In cerca di indizi è la nona missione principale del gioco. Si svolge tra la Cittadella e Little Lamplight ed è data da Lyons l'Anziano."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*In cerca di indizi* è la nona missione principale del gioco. Si svolge tra la Cittadella e Little Lamplight ed è data da Lyons l'Anziano.
+*In cerca di indizi* è la nona missione principale di Fallout 3. Si svolge tra la Cittadella e Little Lamplight ed è data da Lyons l'Anziano.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>In cerca di indizi</b>]:::questfo3
     id2[Accompagna la Dottoressa <br />Li all'interno della Cittadella. ]
@@ -36,8 +37,8 @@ graph TD;
     click id6 "../../luoghi/sentiero-della-morte"
     click id8 "../../luoghi/vault-87"
     click id10 "../ricerca-giardino-delleden"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                                                          |

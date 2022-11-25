@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vecchio Olney
-summary: "Il Vecchio Olney è una città abbandonata infestata dai deathclaw."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

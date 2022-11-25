@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: "Metro Arlington/Zona contaminata"
-summary: "La Metro Arlington/Zona contaminata, chiamata anche erroneamente metropolitana allagata, è una stazione della linea blu metropolitana e collega la Zona contaminata, presso il molo di Wilhelm, e la metropolitana allagata, con il cimitero di Arlington."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

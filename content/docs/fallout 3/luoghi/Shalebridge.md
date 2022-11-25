@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Shalebridge
-summary: "Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-ovest del forte delle auto abbandonate. E' costituita da una torre di trasmissione diroccata, una serie  tunnel e da Shalebridge Hill. Questi ultimi ospitano colonie di formiche rivali."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

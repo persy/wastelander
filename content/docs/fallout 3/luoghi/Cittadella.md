@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Cittadella
-summary: "La Cittadella è il quartier generale della Confraternita d'Acciaio nella Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

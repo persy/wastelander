@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Museo di Tecnologia
-summary: "Il Museo di Tecnologia è un edificio di Washington, DC, posto sul lato meridionale del Mall. Si trova a breve distanza dall'uscita orientale della stazione per il museo."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

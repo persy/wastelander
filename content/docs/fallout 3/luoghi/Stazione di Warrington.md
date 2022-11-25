@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Warrington
-summary: "La stazione di Warrington è una stazione della metropolitana della Zona contaminata della Capitale. L'ingresso alla stazione si trova a sud-ovest della Torre Tenpenny e si connette, attraverso il tunnel di Warrington, al deposito di Warrington."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

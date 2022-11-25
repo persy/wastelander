@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Relitto della monorotaia
-summary: "Il relitto della monorotaia è un luogo non contrassegnato e si trova a nord-est della centrale di polizia di Germantown."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

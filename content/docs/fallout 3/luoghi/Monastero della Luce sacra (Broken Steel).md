@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Monastero della Luce sacra (Broken Steel)
-summary: "Il monastero della Luce sacra è un piccolo insediamento abitato dagli Apostoli della Luce eterna e si trova a nord di Megaton e a est del Vault 101."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

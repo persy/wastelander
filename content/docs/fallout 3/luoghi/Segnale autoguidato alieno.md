@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Segnale autoguidato alieno
-summary: "Il segnale autoguidato alieno è un luogo non contrassegnato equidistante dalle baracche sul promontorio a nord-ovest e dalla discarica di Greener Pastures a sud-est. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

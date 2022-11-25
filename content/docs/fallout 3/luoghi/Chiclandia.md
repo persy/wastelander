@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Chiclandia
-summary: "Chiclandia è un banco dei pegni e si trova al Parco Takoma, in Washington, D.C."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

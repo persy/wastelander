@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fort Independence
-summary: "Fort Independence è il quartier generale dei Rinnegati della Confraternita ed è situato a ovest delle rovine di Fairfax e a nord di Andale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

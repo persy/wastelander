@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area dei mercenari di Reilly
-summary: "L'area dei mercenari è un edificio semidiroccato che funge da quartier generale alla compagnia mercenaria di Reilly. Può essere raggiunto dalla stazione interscambio Anacostia e da Seward Square."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

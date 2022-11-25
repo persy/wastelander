@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Statesman Hotel
-summary: "Lo Statesman Hotel è un edificio di dodici piani situato a Vernon Square nelle rovine di Washington, D.C. Per raggiungerlo si deve passare attraverso l'ospedale Nostra Signora della Speranza e attraversare il traliccio caduto. L'edificio è infestato da supermutanti e centauri."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Chevy Chase
-summary: "Il distretto di Chevy Chase è situato nella parte nord di Washington, D.C. E' raggiungibile dalla metro Tenleytown/Friendship e dalla metro Junction (metro Chevy Chase/Vernon Sq.), mentre a sud è collegata alla piazza dell'edificio di GNR."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

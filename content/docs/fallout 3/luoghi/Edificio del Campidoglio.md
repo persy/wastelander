@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Edificio del Campidoglio
-summary: "L'edificio del Campidoglio ospitava parlamento federale del governo degli Stati Uniti e si trova nel cuore di Washington, D.C., in cima a Capitol Hill, all'estremità orientale di The Mall, affacciato a Seward Square. E' il campo di battaglia tra i supermutanti e i mercenari della Compagnia dell'Artiglio."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

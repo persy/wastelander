@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area campeggio nazionale Everglow
-summary: "L'area campeggio nazionale Everglow si trova a nord-est di Little Lamplight e ad ovest del villaggio abbandonato."
+summary: ""
 weight: 10
 
 # Page metadata.

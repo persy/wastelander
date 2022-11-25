@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Gruppo satelliti SatCom NW-05a
-summary: "Il gruppo satelliti SatCom NW-05a è un gruppo di satelliti che si trova a nord-ovest della Zona contaminata della Capitale,  a ovest del gruppo satelliti SatCom NN-03d, tra Fort Constantine e la centrale elettrica MDPL-05."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

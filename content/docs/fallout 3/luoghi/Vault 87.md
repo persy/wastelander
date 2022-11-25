@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 87
-summary: "Il Vault 87 è un Vault della Vault-tec e si trova a nord-ovest di Little Lamplight e a sud-ovest della torre di trasmissione KT8. È il luogo di origine dei supermutanti e dei centauri della Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

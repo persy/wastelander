@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Discarica di Greener Pastures
-summary: "La discarica di Greener Pastures è una delle più grandi aree radioattive della Zona contaminata della Capitale e si trova a nord-ovest del Tempio dell'Unione, a sud-ovest del Vecchio Olney e a nord-est della centrale elettrica MDPL-13. E' infestata da molteplici creature mutate tra cui yao guai e scorpioni radioattivi."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

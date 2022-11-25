@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo dei predatori della metro allagata
-summary: "Il campo dei predatori della metro allagata è un accampamento di predoni non contrassegnato e si trova a sud-est della metro allagata."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

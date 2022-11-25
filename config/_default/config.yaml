@@ -17,7 +17,7 @@ cascade:
     editable: true
     show_breadcrumb: true
     reading_time: false
-    show_related: false
+    show_related: true
     show_date: false
 
 ############################
@@ -44,7 +44,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 30
+summaryLength: 10
 paginate: 25
 enableEmoji: true
 enableRobotsTXT: true

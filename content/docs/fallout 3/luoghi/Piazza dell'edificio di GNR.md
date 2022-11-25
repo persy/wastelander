@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Piazza dell'edificio di GNR
-summary: "La piazza dell'edificio di GNR ospita la sede dell'omonima trasmissione radiofonica ed è anche una base della Confraternita d'Acciaio. Al centro, appena entrati, comparirà un supermutante behemoth."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

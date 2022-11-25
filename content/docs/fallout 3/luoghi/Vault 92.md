@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 92
-summary: "Il Vault 92 è un Vault della Vault-Tec e si trova a nord-ovest del Vecchio Olney."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

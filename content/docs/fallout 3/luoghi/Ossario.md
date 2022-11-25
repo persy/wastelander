@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ossario
-summary: "L'ossario è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a nord-ovest di Evergreen Mills e ad est del tunnel yao guai."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

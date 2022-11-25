@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Futuro imperfetto
-summary: "Futuro imperfetto è la terza missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Futuro imperfetto* è la terza missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
-
+*Futuro imperfetto* è la terza missione principale di Fallout 3. Si svolge nel Vault 101 ed è data da James.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Futuro imperfetto</b>]:::questfo3-->id2[Vai in classe e parla al Sig. Brotch del G.O.A.T.]
     id2-->id3[Fai il G.O.A.T.]
@@ -32,8 +32,8 @@ graph TD;
     id4-->id7
     id7-->id8[Prossima missione: <b>Scappa!</b>]:::questfo3
     click id8 "../scappa"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe | Stato              | Descrizione                                       |

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel di Warrington
-summary: "Il tunnel di Warrington connette la stazione di Warrington e il deposito di Warrington. E' infestato dai ghoul e conduce al nascondiglio di Roy Phillips e dei suoi seguaci."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

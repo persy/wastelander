@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centro smaltimento materiali pericolosi L5
-summary: "Il centro smaltimento materiali pericolosi L5 è un sistema di caverne usate come discarica per delle scorie radioattive e che collegano L'Enfant al Mall. E' infestata dai ghoul."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

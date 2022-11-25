@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Baracche sul promontorio
-summary: "Le baracche sul promontorio fanno parte di un accampamento di medie dimensioni e si trovano a sud-est dell'Oasi e ad ovest del Vault 92."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

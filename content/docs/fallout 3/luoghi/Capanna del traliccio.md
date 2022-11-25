@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Capanna del traliccio
-summary: "La capanna del traliccio è una località non contrassegnata, situata a nord della centrale elettrica VAPL-58 e ad ovest di Arefu."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

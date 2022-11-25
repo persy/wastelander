@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tenda abbandonata
-summary: "La tenda abbandonata è un luogo non contrassegnato situato a nord della discarica di Mason Dixon e a sud-est del Gruppo satelliti SatCom NN-03d. Si trova approssimativamente a metà strada fra la discarica di Mason Dixon e la centrale elettrica MDPL-21."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

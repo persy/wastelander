@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Liberazione dal Paradiso
-summary: "*Liberazione dal Paradiso* è una missione secondaria data dal Sindaco MacCready o da Sammy e si svolge tra Little Lamplight e Paradise Falls. A seconda delle scelte nelle altre missioni correlate diventa essenziale superarla per progredire nella trama principale."
+summary: ""
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -20,6 +20,7 @@ private: false # Nascosto dalle ricerche
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Liberazione dal Paradiso</b>]:::questfo3
     id2["(Opzionale) Parla con il <br />Sindaco MacCready"]
@@ -42,8 +43,8 @@ graph TD;
     id3-->id10-->id11-->id12
     id7-->id14-->id15-->id12
     click id3 "../../luoghi/paradise-falls"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                                     |

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Grayditch
-summary: "Grayditch è un insediamento situato alla periferia delle rovine di Washington, D.C., a sud del Super-Duper Mart. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

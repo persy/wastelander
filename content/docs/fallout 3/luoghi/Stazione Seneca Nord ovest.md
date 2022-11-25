@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione Seneca Nord ovest
-summary: "La stazione Seneca Nord Ovest fa parte del sistema metropolitano nella Zona contaminata della Capitale. L'ingresso è appena a nord di Arefu, sulla riva opposta del fiume Potomac."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

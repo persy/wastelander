@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rockland Car Tunnel (Broken Steel)
-summary: "Il Rockland Car Tunnel è una sezione di un tunnel stradale crollato situato nell'angolo sud-ovest della Zona contaminata della Capitale. E' spesso infestato da deathclaw o scorpioni radioattivi giganti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

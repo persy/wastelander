@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rovine della Bethesda
-summary: "Le rovine di Bethesda si trovano a nord-ovest di Washington, D.C. Sono abitate da predoni e ghoul e divise in tre sezioni: uffici Bethesda ovest, uffici Bethesda est e la stazione metropolitana Bethesda."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Girdershade
-summary: "Girdershade è un piccolo insediamento e si trova nell'estremo sud-ovest della Zona contaminata della Capitale, a sud-ovest di Evergreen Mills. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

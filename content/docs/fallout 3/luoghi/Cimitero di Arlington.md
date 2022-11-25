@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Cimitero di Arlington
-summary: "Il cimitero di Arlington occupa la maggior parte di quello che resta del distretto di Arlington,  si trova a sud di Mamma Dolce ed è collegato alla Zona contaminata tramite la metro Arlington, il cui ingresso è posto a sud del molo di Wilhem."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

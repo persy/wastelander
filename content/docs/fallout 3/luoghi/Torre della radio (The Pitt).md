@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Torre della radio (The Pitt)
-summary: "La torre della radio The Pitt è una località aggiunta dal DLC *The Pitt* ed è la fonte del segnale di soccorso di Wernher."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

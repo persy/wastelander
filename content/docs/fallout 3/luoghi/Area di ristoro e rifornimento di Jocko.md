@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area di ristoro e rifornimento di Jocko
-summary: "L'area du ristoro e rifornimento di Jocko è una baracca isolata nella parte sud-ovest della Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione fognaria
-summary: "La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del Super-Duper Mart. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fabbrica Red Racer
-summary: "La fabbrica Red Racer è una fabbrica di tricicli Red Racer prebellica alla periferia sud-occidentale di Washington, DC, a nord-est dello stabilimento Nuka-Cola e a sud-sud-ovest di Grayditch. L'edificio, di medie dimensioni, è infestato dai ghoul. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

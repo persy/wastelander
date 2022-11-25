@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Deposito della Guardia nazionale
-summary: "Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. E'  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

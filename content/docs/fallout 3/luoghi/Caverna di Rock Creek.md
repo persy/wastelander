@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Caverna di Rock Creek
-summary: "La caverna di Rock Creek è composta da un grande tunnel metropolitano infestato dai mirelurk e da un'unica camera interna."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

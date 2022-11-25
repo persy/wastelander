@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Dupont Circle
-summary: "La stazione di Dupont Circle è una stazione della linea rossa e collega il tunnel crollato con la metropolitana centrale. E' abitata dai predatori."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

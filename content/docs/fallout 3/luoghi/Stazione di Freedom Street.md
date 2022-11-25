@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Freedom Street
-summary: "La stazione di Freedom Street fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega Vernon Square a Pennsylvania Avenue. E' infestata dai ghoul."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

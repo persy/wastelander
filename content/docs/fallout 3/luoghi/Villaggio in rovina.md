@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Villaggio in rovina
-summary: "Il villaggio in rovina è un luogo non contrassegnato, situato a nord dello smaltimento rifiuti Fratelli Jalbert ed è costituito da quattro baracche, tre delle quali accessibili."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

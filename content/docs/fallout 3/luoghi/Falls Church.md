@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Falls Church
-summary: "Falls Church è un luogo di Washington, D.C., subito a sud di Grayditch."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Santuario dei Deathclaw
-summary: "Il santuario degli Deathclaw è una caverna e la sua entrata si trova tra la cappella del tabernacolo di Dickerson e il ripetitore KB5. Può essere raggiunto viaggiando a sud-ovest da Fort Constantine, a sud dal gruppo satelliti SatCom NW-05a, o ad est dal gruppo satelliti SatCom NW-07c. Come suggerisce il nome, è la tana di numerosi deathclaw."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

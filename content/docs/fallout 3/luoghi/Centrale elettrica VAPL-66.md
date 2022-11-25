@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica VAPL-66
-summary: "La centrale elettrica VAPL-66 si trova a sud-ovest dell'aea di ristoro e rifornimento di Jocko e a nord-est dell'edificio Dunwich."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

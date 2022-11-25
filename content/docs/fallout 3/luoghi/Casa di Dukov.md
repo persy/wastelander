@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Casa di Dukov
-summary: "La casa di Dukov è un hotel prebellico situato vicino all'Anchorage Memorial e alle fogne tiepide, ora utilizzato come abitazione da Dukov e dalle sue due compagne, Cherry e Fantasia. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

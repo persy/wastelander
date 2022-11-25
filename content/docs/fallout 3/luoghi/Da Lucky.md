@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Da Lucky
-summary: "Da Lucky è un avamposto commerciale non contrassegnato nella Zona contaminata della Capitale ed è abitato da uno sciacallo. Si trova a sud-ovest della Torre Tenpenny e della stazione Warrington."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

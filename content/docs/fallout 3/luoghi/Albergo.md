@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Albergo
-summary: "L'albergo è un edificio di Washington, D.C. utilizzato dalla Confraternita d'Acciaio come avamposto. Si trova a Pennsylvania Avenue, vicino alla metropolitana di Penn Ave/Georgetown e alla Casa Bianca."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

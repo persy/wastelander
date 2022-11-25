@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica MDPL-21
-summary: "La centrale elettrica MDPL-21 si trova a nord-est del gruppo satelliti SatCom NN-03d."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

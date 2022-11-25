@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Quartier generale Vault-Tec
-summary: "Il quartier generale Vault-Tec si trova a Vernon Square nelle rovine di Washington, D.C., ad est di una stazione metropolitana omonima."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Molo dei predatori
-summary: "Il molo dei predatori è una località non contrassegnata vicino al gruppo satelliti SatCom Array NW-05a. È popolato da predoni e mirelurk."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

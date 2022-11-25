@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Biblioteca di Arlington
-summary: "La biblioteca di Arlington, ufficialmente la Biblioteca del Congresso, è un edificio  per lo più intatto situato nella parte meridionale della mappa, a sud-ovest di Alexandria Arms. È in gran parte occupata da predatori, mentre l'atrio è presieduto dalla Confraternita d'Acciaio. Si suddivide in tre aree: l'ingresso, la sezione bambini e gli archivi multimediali."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

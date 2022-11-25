@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: "Avamposto Rinnegati (Operation: Anchorage)"
-summary: "L'avamposto Rinnegati è un piccolo complesso dei Rinnegati della Confraternita situato in un bunker militare prebellico. Si raggiunge dalla Metro incrocio di Bailey, a nord-est della Fabbrica RedRacer. Da questo luogo è possibile iniziare il DLC Operation: Anchorage."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

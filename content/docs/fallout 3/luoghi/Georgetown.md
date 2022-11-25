@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Georgetown
-summary: "Il distretto di Georgetown è un quartiere di Washington, D.C. situato nella parte settentrionale della città. E' accessibile dalle fogne tiepide, dal tunnel DCTA 014-B di Potomac, dalla stazione di Foggy Bottom, dalla Metro Ave/Georgetown e dalla Metro Georgetown/Il Mall."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

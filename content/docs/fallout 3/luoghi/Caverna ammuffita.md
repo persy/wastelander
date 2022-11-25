@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Caverna ammuffita
-summary: "La caverna ammuffita è una località non contrassegnata, situata ad est della discarica di Mason Dixon."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

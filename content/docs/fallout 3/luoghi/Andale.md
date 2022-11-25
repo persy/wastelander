@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Andale
-summary: "Andale è una località nella zona meridionale della Zona contaminata della Capitale. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

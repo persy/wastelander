@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Ricerche scientifiche
-summary: "Ricerche scientifiche è la sesta missione principale del gioco. Si svolge tra Rivet City e il Jefferson Memorial ed è data da Tre cani o dalla Dottoressa Li."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Ricerche scientifiche* è la sesta missione principale del gioco. Si svolge tra Rivet City e il Jefferson Memorial ed è data da Tre cani o dalla Dottoressa Li.
+*Ricerche scientifiche* è la sesta missione principale di Fallout 3. Si svolge tra Rivet City e il Jefferson Memorial ed è data da Tre cani o dalla Dottoressa Li.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Ricerche scientifiche</b>]:::questfo3
     id2[Ottieni l'accesso a Rivet City]
@@ -32,8 +33,8 @@ graph TD;
     click id2 "../../luoghi/rivet-city"
     click id5 "../../luoghi/vault-112"
     click id7 "../tranquility-lane"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                         |

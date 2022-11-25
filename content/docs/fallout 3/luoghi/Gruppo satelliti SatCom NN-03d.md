@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Gruppo satelliti SatCom NN-03d
-summary: "Il gruppo satelliti SatCom NN-03d è un gruppo di satelliti che si trova tra Fort Constantine e la centrale elettrica MDPL-21."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

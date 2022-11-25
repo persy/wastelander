@@ -1,13 +1,13 @@
 ---
 # Titolo, sommario, posizione e icona
-linktitle: Drowned Devil's Crossing
-summary: "Drowned Devil's Crossing è un ponte crollato e si trova tra il drive-in Silver Lining e la discarica di Mason Dixon."
+linktitle: "Drowned Devil's Crossing"
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas
 
 # MetadatDrowned Devil's Crossinga pagina
-title: 
+title: "Drowned Devil's Crossing"
 date: 2022-11-17
 type: book # Non modificare
 commentable: true

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Inferi
-summary: "Gli inferi sono un insediamento di ghoul all'interno del Museo di Storia di Washington, DC."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

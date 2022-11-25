@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Little Lamplight
-summary: "Little Lamplight è un insediamento ricavato da una serie di caverne un tempo attrazione, gestita e popolata interamente da bambini di età inferiore ai 16 anni."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

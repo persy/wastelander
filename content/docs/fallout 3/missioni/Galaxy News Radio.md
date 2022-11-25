@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Galaxy News Radio
-summary: "Galaxy News Radio è una missione principale del gioco. Si svolge tra la piazza dell'edificio di GNR, il Museo di Tecnologia e il Washington Monument ed è data da Tre cani."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Galaxy News Radio* è una missione principale del gioco. Si svolge tra la piazza dell'edificio di GNR, il Museo di Tecnologia e il Washington Monument ed è data da Tre cani.
+*Galaxy News Radio* è una missione principale di Fallout 3. Si svolge tra la piazza dell'edificio di GNR, il Museo di Tecnologia e il Washington Monument ed è data da Tre cani.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Galaxy News Radio</b>]:::questfo3
     id2[Trova il Museo di Tecnologia]
@@ -38,8 +39,8 @@ graph TD;
     click id4 "../../luoghi/washington-memorial"
     click id7 "../ricerche-scientifiche"
     click id9 "../../nascondiglio-di-hamilton"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                        |

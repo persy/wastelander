@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Crescita rapida
-summary: "Crescita rapida è la seconda missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,12 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Crescita rapida* è la seconda missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
+*Crescita rapida* è la seconda missione principale di Fallout 3. Si svolge nel Vault 101 ed è data da James.
 
            
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Crescita rapida</b>]:::questfo3-->id2[Divertiti alla festa e parla con gli ospiti]
     id2-->id3[Incontra Jonas al Livello reattore]
@@ -29,8 +30,8 @@ graph TD;
     id5-->id6[Pip-Boy 3000, Grognak il barbaro, fucile ad aria compressa, 50 piombini]:::rewardfo3  
     id6-->id7[Prossima missione: <b>Futuro imperfetto</b>]:::questfo3
     click id7 "../futuro-imperfetto"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe | Stato              | Descrizione                                                              |

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centro riparazione robot
-summary: "Il centro riparazione robot è un edificio a sud-sud-ovest di Canterbury Commons."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

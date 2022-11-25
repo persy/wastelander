@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Baracca abbandonata
-summary: "La baracca abbandonata, conosciuta anche come baracca del cecchino, è un edificio posto su una rupe a ovest della stazione di servizio Rockbreaker."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

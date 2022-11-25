@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Negozio del predatore
-summary: "Il negozio del predatore è una località non contrassegnata e si trova in un vicolo cieco a est della fabbrica Red Racer."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

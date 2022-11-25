@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Progetto impurità
-summary: "Progetto impurità è una missione principale del gioco. Si svolge al Jefferson Memorial ed è data dal presidente Eden. E' correlata con la missione Riprenditelo!"
+summary: ""
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,12 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Progetto impurità* è una missione principale del gioco. Si svolge al Jefferson Memorial ed è data dal presidente Eden. E' correlata con la missione *[Riprenditelo!](../riprenditelo)*
+*Progetto impurità* è una missione principale di Fallout 3. Si svolge al Jefferson Memorial ed è data dal presidente Eden. E' correlata con la missione *[Riprenditelo!](../riprenditelo)*
 
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Progetto impurità</b>]:::questfo3
     id2[Viaggia fino al Jefferson Memorial]
@@ -28,8 +29,8 @@ graph TD;
     id4[Karma -1000]:::rewardfo3
     id1-->id2-->id3-->id4
     click id2 "../../luoghi/jefferson-memorial"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe | Stato              | Descrizione |

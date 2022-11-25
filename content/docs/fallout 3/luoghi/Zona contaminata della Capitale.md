@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Zona contaminata della Capitale
-summary: "TODO"
+summary: ""
 weight: 9
 
 # Page metadata.

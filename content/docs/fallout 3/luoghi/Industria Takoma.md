@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Industria Takoma
-summary: "Industria Takoma è quello che resta di un edificio industriale abbastanza isolato  tra le rovine di Washington, D.C., e si può raggiungere solo attraverso la metropolitana Vernon Est / Parco Takoma e attraversando il Parco Takoma e una casa abbandonata. A sud est è presente un supermutante behemoth."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

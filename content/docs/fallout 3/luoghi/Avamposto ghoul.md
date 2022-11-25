@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Avamposto ghoul
-summary: "L'avamposto ghoul è un piccolo accampamento all'interno di un edificio situato a sud-ovest della stazione di Marigold ed è infestato dai ghoul."
+summary: ""
 weight: 10
 icon: location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rovine della fattoria sulla collina
-summary: "Le rovine della fattoria sulla collina sono un luogo non contrassegnato della Zona contaminata della Capitale. Sono a sud del ripetitore KX-B8-11, a nord-est del Tempio dell'Unione e a nord di Canterbury Commons."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

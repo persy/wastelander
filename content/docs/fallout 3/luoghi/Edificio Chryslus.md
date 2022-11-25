@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Edificio Chryslus
-summary: "L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia di Washington, DC., a nord-est del Super-Duper Mart, oltre il Potomac. E' infestato da supermutanti e centauri."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

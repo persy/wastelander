@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Caseificio Chaste Acres
-summary: "Il caseificio Chaste Acres è quel che resta di una piccola fattoria e si trova nella sezione nord-orientale della mappa, a sud-ovest della Repubblica di Dave."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

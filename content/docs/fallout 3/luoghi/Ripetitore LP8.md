@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ripetitore LP8
-summary: "Il ripetitore LP8 è una ripetitore e si trova a nord-est del Bacino della contea di Montgomery e a sud dell'Oasi."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

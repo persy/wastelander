@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Penn. Ave/Seward Sq.
-summary: "La Metro Penn. Ave/Seward Sq.  fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Pennsylvania Avenue e Seward Square."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

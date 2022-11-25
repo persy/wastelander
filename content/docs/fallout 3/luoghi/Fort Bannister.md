@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fort Bannister
-summary: "Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. E' la base operativa dei mercenari della Compagnia dell'Artiglio."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

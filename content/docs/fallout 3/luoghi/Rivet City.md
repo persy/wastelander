@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rivet City
-summary: "Rivet City è una città situata all'interno del relitto di una portaerei a Washington, D.C. È il più grande insediamento nella Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

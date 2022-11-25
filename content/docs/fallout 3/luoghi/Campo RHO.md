@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo RHO
-summary: "Camp RHO è un piccolo campo dell'Enclave situato nella parte orientale della Zona contaminata della Capitale, vicino a Canterbury Commons, a nord-ovest del Vault 108 e a sud-ovest del centro riparazione dei robot."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

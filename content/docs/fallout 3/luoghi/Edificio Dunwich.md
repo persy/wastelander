@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Edificio Dunwich
-summary: "L'edificio Dunwich è un edificio di  uffici in rovina situato nel punto più sud-ovest della mappa, a sud di Girdershade e all'estremo ovest della Torre Tenpenny. E' infestato dai ghoul."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

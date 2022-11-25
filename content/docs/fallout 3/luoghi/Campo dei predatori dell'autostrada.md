@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo dei predatori dell'autostrada
-summary: "Il campo dei predatori dell'autostrada è una fortezza dei predoni in cima a un'autostrada appena a nord del Vault 101."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

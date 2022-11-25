@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica MDPL-16
-summary: "La centrale elettrica MDPL-16 si trova a est del caseificio Chaste Acres e a sud della Repubblica di Dave."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

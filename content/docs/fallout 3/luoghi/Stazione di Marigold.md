@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Marigold
-summary: "La stazione di Marigold è una delle stazioni della metropolitana sulla Linea Blu e si trova a Grayditch. È il percorso più semplice da prendere per raggiungere Falls Church. E' infestato dalle formiche di fuoco."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

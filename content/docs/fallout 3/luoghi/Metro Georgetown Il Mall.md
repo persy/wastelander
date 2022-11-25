@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Georgetown/Il Mall
-summary: "La Metro Georgetown/Il Mall è una stazione metropolitana crollata e collega Georgetown con il Mall."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

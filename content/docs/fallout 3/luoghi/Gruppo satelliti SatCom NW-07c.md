@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Gruppo satelliti SatCom NW-07c
-summary: "Il gruppo satelliti SatCom NW-07c è un gruppo di satelliti nell'estremo nord-ovest della Zona contaminata della Capitale nel 2277. Si trova a ovest dal santuario degli artigli della morte e a nord-ovest del forte automobilistico abbandonato."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

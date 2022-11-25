@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Calverton
-summary: "Calverton è un luogo non contrassegnato, costituito da una piccola città abbandonata con una cappella, posizionato a sud-ovest della stazione metropolitana di Jury Street. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

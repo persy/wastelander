@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro incrocio di Bailey
-summary: "La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di Washington, D.C. e si trova a nord-est della fabbrica Red Racer. E' infestata dai ghoul."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

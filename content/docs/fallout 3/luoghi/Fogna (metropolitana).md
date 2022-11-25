@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fogna (metropolitana)
-summary: "La fogna (metropolitana) è un collegamento sotterraneo tra Pennsylvania Avenue e Seward Square. Fa parte del sistema metropolitano sotto la Zona contaminata della Capitale, ma gli ngressi principali sono stati distrutti e vi si può accedere solo dalle griglie fognarie."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

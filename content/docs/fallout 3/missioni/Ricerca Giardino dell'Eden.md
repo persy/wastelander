@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Ricerca Giardino dell'Eden
-summary: "Ricerca Giardino dell'Eden è la decima missione principale el gioco. Si svolge fra il Vault 87 e Raven Rock ed è data dallo Scriba Rothchild."
+summary: ""
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -21,6 +21,7 @@ private: false # Nascosto dalle ricerche
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Ricerca Giardino dell'Eden</b>]:::questfo3
     id2[Entra nel Vault 87]
@@ -35,8 +36,8 @@ graph TD;
     id3-->id5-->id6
     click id2 "../../luoghi/vault-87"
     click id9 "../il-sogno-americano"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                             |

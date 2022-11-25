@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rockopolis
-summary: "Rockopolis è una località non segnalata sul bordo occidentale della Zona contaminata della Capitale, a nord di Girdershade, a est del garage di Smith Casey e a sud-est del Tunnel yao guai. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

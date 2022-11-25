@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel crollato
-summary: "Il tunnel crollato fa parte del sistema metropolitano di Washington, D.C. ed è situato direttamente sotto Dupont Circle. E' infestato dai ghoul."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

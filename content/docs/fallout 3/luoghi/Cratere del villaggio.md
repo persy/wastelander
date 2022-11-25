@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Cratere del villaggio
-summary: "Il cratere del villaggio è un luogo non contrassegnato e si trova a sud della stazione metropolitana di Meresti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

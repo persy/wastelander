@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Garage di Smith Casey
-summary: "Il garage di Smith Casey è un garage abbandonato al cui interno possibile accedere al Vault 112, attraverso una porta nel pavimento."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

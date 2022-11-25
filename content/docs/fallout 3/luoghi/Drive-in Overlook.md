@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Drive-in Overlook
-summary: "Il drive-in Overlook si trova ad est della caverna sulla rupe."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

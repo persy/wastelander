@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Falò dei supermutanti
-summary: "Il falò dei supermutanti è una località non contrassegnata e si trova a nord-ovest di Rivet City."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

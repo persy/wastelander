@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 106
-summary: "Il Vault 106 è un Vault della Vault-Tec situato all'interno di una grande caverna a sud-est di Arefu, direttamente a sud del Bed & Breakfast di Kaelyn e a nord della stazione metropolitana di Jury Street."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

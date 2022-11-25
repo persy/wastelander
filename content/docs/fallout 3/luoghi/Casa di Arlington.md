@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Casa di Arlington
-summary: "La casa di Arlington è un edificio di medie dimensioni e si trova al centro del cimitero di Arlington."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

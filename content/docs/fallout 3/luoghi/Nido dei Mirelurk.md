@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Nido dei Mirelurk
-summary: "Il nido dei Mirelurk è una caverna accessibile attraverso una grata nella parte meridionale del Mall, vicino alla metro per il centro smaltimento materiali pericolosi L5."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

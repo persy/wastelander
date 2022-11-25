@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Impianto di Olney (Broken Steel)
-summary: "L'impianto di Olney è una vecchia centrale elettrica accessibile attraverso le fogne e si trova a sud-est del Vault 92 e a nord-ovest del caseificio Chaste Acres."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

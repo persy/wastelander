@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rifugio
-summary: "Il rifugio è una località non contrassegnata e si trova a sud dell'edificio Chryslus e ad est della stazione metropolitana Farragut Ovest. L'ingresso è una porta sotto a un ponte."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

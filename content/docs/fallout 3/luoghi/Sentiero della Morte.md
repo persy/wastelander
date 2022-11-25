@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Sentiero della Morte
-summary: "Il Sentiero della Morte è una località non contrassegnata all'interno di Little Lamplight e connette quest'ultimo al Vault 87. E' abitato da numerosi supermutanti."
+summary: ""
 weight: 10
 icon: location-question
 icon_pack: fas

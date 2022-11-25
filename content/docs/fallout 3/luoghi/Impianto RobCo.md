@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Impianto RobCo
-summary: "L'impianto RobCo è una fabbrica ndi robot e si trova leggermente a nord-est rispetto la Torre Tenpenny e a sud-ovest di Fort Independence."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

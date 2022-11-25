@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Junction
-summary: "La Metro Junction, chiamata anche Metro Chevy Chase/Vernon Sq., fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Dupont Circle, Vernon Square e Chevy Chase. È una sezione metropolitana relativamente piccola, infestata dai ghoul."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

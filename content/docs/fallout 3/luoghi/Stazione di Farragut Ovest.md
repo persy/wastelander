@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Farragut Ovest
-summary: "La stazione di Farragut Ovest fa parte del sistema di tunnel metropolitani della Zona contaminata della Capitale e è collegata alla stazione di Tenleytown/Friendship. L'ingresso principale si trova a est del Super-Duper Mart."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

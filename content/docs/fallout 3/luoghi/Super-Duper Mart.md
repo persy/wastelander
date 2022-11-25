@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Super-Duper Mart
-summary: "Il Super-Duper Mart è un negozio di alimentari situato vicino al fiume Potomac, a nord-est di Megaton e a nord-ovest di Grayditch. È completamente invaso dai predatori."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

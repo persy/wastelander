@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Camere di drenaggio
-summary: "Ci sono sette camere di drenaggio e due cisterne sigillate sparse per la Zona contaminata della Capitale. Tutte ospitano stazioni radio che trasmettono in codice Morse (tranne il segnale Oscar Zulu e Yankee Bravo) un segnale di soccorso."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

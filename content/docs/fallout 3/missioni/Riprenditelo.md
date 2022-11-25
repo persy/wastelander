@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Riprenditelo!
-summary: "Riprenditelo! è la dodicesima missione principale del gioco. Si svolge tra la Cittadella e il Jefferson Memorial ed è data da Lyons l'Anziano."
+summary: ""
 weight: 40
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,12 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Riprenditelo!* è la dodicesima missione principale del gioco. Si svolge tra la Cittadella e il Jefferson Memorial ed è data da Lyons l'Anziano.
+*Riprenditelo!* è la dodicesima missione principale di Fallout 3. Si svolge tra la Cittadella e il Jefferson Memorial ed è data da Lyons l'Anziano.
 
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Riprenditelo!</b>]:::questfo3
     id2[Preparati per la battaglia, <br />quindi fai rapporto a Sarah Lyons]
@@ -36,7 +37,7 @@ graph TD;
     id12[Contamina l'acqua <br />con la fiala di FEV] 
     id13[1200 PE, finale di gioco]:::rewardfo3 
     id14["Prossima missione: <br /><b>Morte dall'alto</b> (Broken Steel)"]:::questfo3
-    id15[Completamento <br />del gioco]:::questfo3 
+    id15[Completamento <br />di Fallout 3]:::questfo3 
     id16[Karma +2000]:::rewardfo3
     id17[Karma -1000]:::rewardfo3  
     id1-->id2-->id3-->id4-->id5-->id7-->id8-->id12
@@ -49,8 +50,8 @@ graph TD;
     id8-->id16-->id13
     id12-->id17-->id13
     click id14 "../morte-dallalto" %%TODO%%
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 

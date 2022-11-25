@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Armeria di Wheaton
-summary: "L'armeria di Wheaton si trova ad est del Scrapyard."
+summary: ""
 weight: 10
 icon: llocation-question
 icon_pack: fas

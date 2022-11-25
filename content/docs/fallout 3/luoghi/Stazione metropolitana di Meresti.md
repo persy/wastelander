@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione metropolitana di Meresti
-summary: "La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. E' accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

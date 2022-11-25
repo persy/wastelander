@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di trasmissione WKML
-summary: "La stazione di trasmissione WKML si trova nella parte nord-ovest della Zona contaminata della Capitale, appena a sud di Fort Constantine, a nord delle tenute di Faded Pomp, a nord-ovest del drive-in Silver Lining, a ovest di Drowned Devil's Crossing e ad est della cappella del tabernacolo di Dickerson."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

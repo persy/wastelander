@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fogna secca
-summary: "La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. È un punto d'accesso per l'ospedale Nostra Signora della Speranza. E' pattugliata dai mercenari della Compagnia dell'Artiglio."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

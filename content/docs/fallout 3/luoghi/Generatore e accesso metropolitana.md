@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Generatore e accesso metropolitana
-summary: "Il generatore e accesso metropolitana è un piccolo tunnel di accesso che collega la Torre Tenpenny alla stazione Warrington."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione metropolitana Bethesda
-summary: "Stazione metropolitana Bethesda è situata nelle rovine di Bethesda. L'ingresso principale si trova a nord-est degli uffici Bethesda est e è infestata dai ghoul."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

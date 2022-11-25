@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Trono del Re degli scarafaggi
-summary: "Il Trono del Re degli scarafaggi è una località non contrassegnata situata a nord-est di Minefield. È abitata dal Re degli scarafaggi."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

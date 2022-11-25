@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica MDPL-05
-summary: "La centrale elettrica MDPL-05 è una delle centrali elettriche situate nella Zona contaminata della Capitale e si trova nell'angolo nord-ovest della mappa, a sud-est di Raven Rock, a nord-est del gruppo satelliti SatCom Array NW-07c e a ovest del gruppo satelliti SatCom NW-05a."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

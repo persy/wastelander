@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Paradise Falls
-summary: "Paradise Falls è il quartier generale per tutte le attività degli schiavisti di tutta la Zona contaminata della Capitale, sorto dalle rovine di un centro commerciale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

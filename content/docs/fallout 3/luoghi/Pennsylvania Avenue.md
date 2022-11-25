@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Pennsylvania Avenue
-summary: "Il distretto di Pennsylvania Avenue è immediatamente ad est di quella che una volta era la Casa Bianca. E' accessibile dalla Metro Ave/Georgetown, dalla stazione di Freedom Street, dalla metropolitana centrale, dalla Metro Penn. Ave/Il Mall e dalla  Metro Chevy Ave/Seward Sq. E' un territorio conteso fra i supermutanti e la Confraternita d'Acciaio."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

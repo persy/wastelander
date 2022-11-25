@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Springvale
-summary: "Springvale è costituita da una serie di case in rovine, subito a est del Vault 101."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

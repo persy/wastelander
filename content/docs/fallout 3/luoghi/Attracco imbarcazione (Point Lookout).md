@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Attracco imbarcazione
-summary: "L'attracco imbarcazione è il luogo dal quale parte il traghetto Duchess Gambit per raggiungere Point Lookout, dell'omonimo DLC."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

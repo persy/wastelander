@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metropolitana irradiata
-summary: "La metropolitana irradiata fa parte della Linea Blu del sistema metropolitano della Zona contaminata della Capitale. Questi tunnel collegano la Zona contaminata sul lato est del ponte vicino alla Cittadella a L'Enfant sud."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Casa di Agatha
-summary: "La casa di Agatha è una piccola casa con una sola stanza e si trova a ovest del Rottamaio e a nord-est della Stazione metropolitana di Meresti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

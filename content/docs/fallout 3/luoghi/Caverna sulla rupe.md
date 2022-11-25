@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Caverna sulla rupe
-summary: "La caverna sulla rupe, conosciuta anche come caverna degli Yao Guai, è una grande caverna posta ad est della Torre Tenpenny e direttamente ad ovest di Andale. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

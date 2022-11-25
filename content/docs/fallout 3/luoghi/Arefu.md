@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Arefu
-summary: "Arefu è un piccolo insediamento composto da quattro case situate in cima a un ponte fatiscente a nord-ovest del Vault 106."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

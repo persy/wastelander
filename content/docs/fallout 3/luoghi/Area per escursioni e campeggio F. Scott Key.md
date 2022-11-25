@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area per escursioni e campeggio F. Scott Key
-summary: "L'area per escursioni e campeggio F. Scott Key è un campeggio situato a sud di Girdershade e a nord dell'edificio Dunwich."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

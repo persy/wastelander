@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ripetitore KB5
-summary: "Il ripetitore KB5 si trova ad ovest del santuario Deathclaw."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

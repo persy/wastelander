@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel di Jury St.
-summary: "Il tunnel di Jury St. è un sistema di tunnel che può essere raggiunto attraverso la stazione di Jury St."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

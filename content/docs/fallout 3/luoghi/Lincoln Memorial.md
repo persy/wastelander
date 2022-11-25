@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Lincoln Memorial
-summary: "Il  Lincoln Memorial è un edificio commemorativo situato all'estremità occidentale del Mall a Washington, DC."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

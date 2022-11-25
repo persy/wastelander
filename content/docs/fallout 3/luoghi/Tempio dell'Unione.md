@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tempio dell'Unione
-summary: "Il Tempio dell'Unione è un luogo nella Zona contaminata della Capitale situato a nord-ovest di Canterbury Commons e a sud del Grisly diner."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Cinema all'aperto Moonbeam
-summary: "Il cinema all'aperto Moonbeam si trova tra il  campo da baseball Fordham Flash a sud-ovest, il nascondiglio di Hamilton a nord-ovest e Big Town a sud-est."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

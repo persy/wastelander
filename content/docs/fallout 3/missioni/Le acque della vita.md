@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Le acque della vita
-summary: "Le acque della vita è l'ottava missione principale del gioco. Si svolge tra il Jefferson Memorial e la Cittadella ed è data da James."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Le acque della vita* è l'ottava missione principale del gioco. Si svolge tra il Jefferson Memorial e la Cittadella ed è data da James.
+*Le acque della vita* è l'ottava missione principale di Fallout 3. Si svolge tra il Jefferson Memorial e la Cittadella ed è data da James.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Le acque della vita</b>]:::questfo3
     id2[Parla con gli scienziati a Rivet City]
@@ -46,8 +47,8 @@ graph TD;
     click id3 "../../luoghi/jefferson-memorial"
     click id8 "../../luoghi/cittadella"
     click id10 "../in-cerca-di-indizi"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                               |

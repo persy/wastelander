@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica MDPL-13
-summary: "La centrale elettrica MDPL-13 è una grande centrale elettrica abbandonata situata a metà strada tra Germantown e la discarica di Greener Pastures e a nord di Minefield."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

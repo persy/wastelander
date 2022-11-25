@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Covo di AntAgonizer
-summary: "Il covo di AntAgonizer è il nascondiglio dell'AntAgonizer e si trova a nord-ovest di Canterbury Commons. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

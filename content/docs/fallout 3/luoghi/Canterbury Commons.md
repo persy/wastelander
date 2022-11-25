@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Canterbury Commons
-summary: "Canterbury Commons è un grande insediamento commerciale situato sul bordo orientale della Zona contaminata della Capitale. È a nord di Washington, D.C., a nord del Vault 108 e a sud-est del Tempio dell'Unione."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Big Town
-summary: "Big Town è un insediamento di medie dimensioni circondato da un muro di fortuna e si trova a nord del Vault 101 e a sud-est del Moonbeam Outdoor Cinema."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

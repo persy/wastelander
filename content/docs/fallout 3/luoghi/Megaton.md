@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Megaton
-summary: "Megaton è un insediamento fortificato, costruito attorno a un cratere generato da una bomba atomica inesplosa. Protetta da grandi pareti metalliche realizzate con vari materiali di recupero, è la seconda città più popolosa della Zona contaminata della Capitale, superata solo da Rivet City."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

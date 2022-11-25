@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Scappa!
-summary: "Scappa! è la quarta missione principale del gioco. Si svolge nel Vault 101 ed è data da Amata."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Scappa!* è la quarta missione principale del gioco. Si svolge nel Vault 101 ed è data da Amata.
+*Scappa!* è la quarta missione principale di Fallout 3. Si svolge nel Vault 101 ed è data da Amata.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Scappa!</b>]:::questfo3-->id2[Parla con Amata del suo piano per fuggire dal Vault]
     id2-->id3[Fatti strada nel Vault]
@@ -31,8 +32,8 @@ graph TD;
     id8-->id4
     id9-->id10[Prossima missione: <b>Seguendo le sue orme</b>]:::questfo3
     click id10 "../seguendo-le-sue-orme"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                        |

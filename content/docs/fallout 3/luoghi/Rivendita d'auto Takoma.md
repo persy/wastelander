@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rivendita d'auto Takoma
-summary: "La rivendita d'auto Takoma è una piccola officina situata nel Parco Takoma, in Washington. D.C."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

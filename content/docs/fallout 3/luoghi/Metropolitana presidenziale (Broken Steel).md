@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metropolitana presidenziale
-summary: "La metropolitana presidenziale collega i vari edifici governativi nell'area di Washington D.C., tra cui la Casa Bianca, il Campidoglio e la Base aeronautica Adams."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Primi passi
-summary: "Primi passi è la prima missione principale del gioco. Si svolge nel Vault 101 ed è data da James."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,11 +16,12 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Primi passi* è la prima missione principale del gioco. Si svolge nel Vault 101 ed è data da James.
+*Primi passi* è la prima missione principale di Fallout 3. Si svolge nel Vault 101 ed è data da James.
 
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Primi passi</b>]:::questfo3-->id2[Cammina verso papà e impara a muoverti]
     id2-->id3[Apri la porta del box]
@@ -31,8 +32,8 @@ graph TD;
     id7-->id8[Ricompensa: Punti S.P.E.C.I.A.L. assegnati, progresso all'età di 10 anni]:::rewardfo3
     id8-->id9[Prossima missione: <b>Crescita rapida</b>]:::questfo3
     click id9 "../crescita-rapida"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                       |

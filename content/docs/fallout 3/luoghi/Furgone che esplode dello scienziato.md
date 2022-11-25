@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Furgone che esplode dello scienziato
-summary: "Il furgone che esplode dello scienziato è un luogo non contrassegnato e si trova a ovest del ripetitore KB5. L'area sottostante è infestata dai mirelurk."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

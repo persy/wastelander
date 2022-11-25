@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rovine di Fairfax
-summary: "Le rovine di Fairfax sono costituite da negozi e abitazioni diroccate. Si trovano a sud del Vault 101, a est di Fort Independence e a nord di Andale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

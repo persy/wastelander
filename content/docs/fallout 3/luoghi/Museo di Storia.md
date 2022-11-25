@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Museo di Storia
-summary: "Il Museo di Storia è un edificio di Washington, D.C. posto sul lato settentrionale del Mall. È stato in parte convertito in un insediamento da alcuni ghoul pacifici. Si raggiunge tramite la stazione interscambio Anacostia."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

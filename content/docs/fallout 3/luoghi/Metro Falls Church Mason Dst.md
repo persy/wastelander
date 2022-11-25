@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Falls Church/Mason Ds
-summary: "La Metro Falls Church/Mason Dst, chiamata anche stazione Franklin, è una stazione della metropolitana sulla Linea Blu, posta a est di Falls Church Metro e a ovest della metropolitana allagata. E' collegata alla centrale metropolitana Franklin."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

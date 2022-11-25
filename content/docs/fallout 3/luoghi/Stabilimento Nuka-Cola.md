@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stabilimento Nuka-Cola
-summary: "Lo stabilimento Nuka-Cola è un grande edificio industriale a tre piani situato all'estremità meridionale ed è infestato da nukalurk e protettori."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Tranquillity Lane
-summary: "Tranquillity Lane è la settima missione principale del gioco. Si svolge nel Vault 112 ed è data dal robocervello dell'omonimo vault."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Tranquillity Lane* è la settima missione principale del gioco. Si svolge nel Vault 112 ed è data dal robocervello dell'omonimo vault. 
+*Tranquillity Lane* è la settima missione principale di Fallout 3. Si svolge nel Vault 112 ed è data dal robocervello dell'omonimo vault. 
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Tranquillity Lane</b>]:::questfo3
     id2[Parla con Betty]
@@ -35,8 +36,8 @@ graph TD;
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10
     id2-->id11-->id7
     click id10 "../le-acque-della-vita"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe |       Stato        | Descrizione                                                                         |

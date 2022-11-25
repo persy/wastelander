@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ponte dello sciacallo
-summary: "Il ponte dello sciacallo è una posizione non contrassegnata a nord della fabbrica Red Racer."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

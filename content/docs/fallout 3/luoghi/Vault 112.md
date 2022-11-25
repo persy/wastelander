@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 112
-summary: "Il Vault 112 è un Vault-Tec Vault situato nella parte sud-occidentale della regione, sotto il garage di Smith Casey, a ovest di Evergreen Mills e a sud dell'Ossario. Da qui è possibile accedere alla simulazione di Tranquillity Lane."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

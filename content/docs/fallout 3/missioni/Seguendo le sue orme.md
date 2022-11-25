@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Seguendo le sue orme
-summary: "Seguendo le sue orme è la quinta missione principale del gioco. Si svolge fra il Vault 101, Megaton, la piazza dell'edificio GNR, Rivet City e Chevy Chase ed è data non appena terminata la missione Scappa!."
+summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
@@ -16,10 +16,11 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Seguendo le sue orme* è la quinta missione principale del gioco. Si svolge fra il Vault 101, Megaton, la piazza dell'edificio GNR, Rivet City e Chevy Chase ed è data non appena terminata la missione *Scappa!*.
+*Seguendo le sue orme* è la quinta missione principale di Fallout 3. Si svolge fra il Vault 101, Megaton, la piazza dell'edificio GNR, Rivet City e Chevy Chase ed è data non appena terminata la missione *Scappa!*.
 
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1[<b>Seguendo le sue orme</b>]:::questfo3-->id2[Investiga nella vicina città di Megaton per raccogliere informazioni su papà]
     id2-->id3[Parla di papà con Colin Moriarty]
@@ -40,8 +41,8 @@ graph TD;
     click id7 "../../luoghi/piazza-delledificio-di-gnr"
     click id11 "../galaxy-news-radio"
     click id12 "../ricerche-scientifiche"
-    classDef rewardfo3 fill:#f1ff8a66, stroke:#56700087;
-    classDef questfo3 fill:#5f9bd35e, stroke:#255b8d91;
+    classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
+    classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
 | Tappe | Stato              | Descrizione                                                                   |

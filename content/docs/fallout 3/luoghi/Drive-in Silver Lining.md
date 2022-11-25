@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Drive-in Silver Lining
-summary: "Il drive-in Silver Lining è un cinema drive-in e si trova a nord-ovest di Paradise Falls e a nord-est dell'Accademia Roosevelt."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

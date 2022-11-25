@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fort Constantine
-summary: "Fort Constantine è una grande base militare contenente un deposito di bombe atomiche e un impianto di lancio, posta nella parte nord-ovest della Zona contaminata della Capitale, tra il gruppo satelliti SatCom NW-05a e il gruppo satelliti SatCom NN-03d. E' sorvegliato da un'ampia varietà di robot."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

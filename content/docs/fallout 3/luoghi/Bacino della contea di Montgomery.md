@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Bacino della contea di Montgomery
-summary: "Il bacino della contea di Montgomery è un impianto di trattamento delle acque abbandonato e si trova a nord-ovest del casa di riposo Reclining Groves."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

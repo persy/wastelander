@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Repubblica di Dave
-summary: "La Repubblica di Dave è un piccolo insediamento agricolo nell'estremo angolo nord-orientale della Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

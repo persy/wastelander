@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Metro Tenleytown/Friendship
-summary: "La Metro Tenleytown/Friendship è un tunnel della Linea Rossa della metropolitana che collega le stazioni di Friendship e Tenleytown. Deve essere attraversato per raggiungere la piazza dell'edicifio GNR, attraverso l'uscita Chevy Chase Nord a sud."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

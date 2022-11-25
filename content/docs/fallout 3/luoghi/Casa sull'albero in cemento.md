@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Casa sull'albero in cemento
-summary: "La casa sull'albero in cemento è una piccola casa di fortuna non contrassegnata sulla mappa, a sud-est di Fort Independence, a metà strada tra le rovine di Fairfax e Andale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

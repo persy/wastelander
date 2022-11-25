@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Bed & Breakfast di Kaelyn
-summary: "Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

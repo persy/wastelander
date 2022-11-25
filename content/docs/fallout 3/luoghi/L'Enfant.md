@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: L'Enfant
-summary: "L'Enfant Plaza e L'Enfant South fanno parte di Washington, D.C. e possono essere raggiunti attraverso il sito di smaltimento Hazmat L5, dal Mall sudovest e dalla metropolitana irradiata."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

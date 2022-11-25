@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel di Yao Guai
-summary: "Il tunnel di Yao Guai è una località a ovest dell'ossario e a nord-ovest del garage di Smith Casey."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

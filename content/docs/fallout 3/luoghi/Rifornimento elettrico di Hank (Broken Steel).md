@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rifornimento elettrico di Hank (Broken Steel)
-summary: "Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazione metropolitana di Jury Street. E' occupato dai predoni."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

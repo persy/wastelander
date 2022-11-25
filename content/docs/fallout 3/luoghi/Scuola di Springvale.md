@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Scuola di Springvale
-summary: "La scuola di Springvale è un edificio occupato dai predatori ed situato a nord di Springvale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

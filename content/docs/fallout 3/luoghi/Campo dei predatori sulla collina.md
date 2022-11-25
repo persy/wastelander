@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo dei predatori sulla collina
-summary: "Il campo dei predatori sulla collina è una località non contrassegnata e si trova appena ad ovest del ripetitore KB5."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

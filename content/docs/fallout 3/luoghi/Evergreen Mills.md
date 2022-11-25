@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Evergreen Mills
-summary: "Evergreen Mills è una vecchia fabbrica nel quadrante sud-ovest della Zona contaminata della Capitale, appena ad est del garage di Smith Casey. È abitata da un gran numero di predoni, alcuni schiavi prigionieri e uno dei pochi super mutanti behemoth, rinchiuso in un recinto elettrificato. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

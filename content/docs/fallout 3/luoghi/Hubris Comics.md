@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Hubris Comics
-summary: "Hubris Comics è un edificio del distretto di Mason, vicino al tunnel metropolitano di Falls Church/Mason Dst."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

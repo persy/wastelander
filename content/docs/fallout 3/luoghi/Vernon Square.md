@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vernon Square
-summary: "Vernon Square è una sezione di Washington, D.C., fra il Parco Takoma a est e la piazza dell'edificio GNR a ovest. Fra gli edifici principali ci sono il quartier generale Vault-Tec, a nord-est, lo Statesman Hotel e l'Ospedale Nostra Signora della Speranza, a sud."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

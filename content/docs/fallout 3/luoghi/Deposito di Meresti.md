@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Deposito di Meresti
-summary: "La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situato nel centro della Zona contaminata della Capitale. È una delle vie d'accesso alla metropolitana di Meresti, usato come covo sotterraneo della Famiglia, e si collega con la stazione Seneca Nord ovest."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Mamma Dolce
-summary: "Mamma Dolce è un edificio del distretto di Arlington e può essere raggiunto sia attraverso la metropolitana di Arlington, partendo dalla Zona contaminata, sia attraverso quella di Arlington / Falls Church, partendo da Falls Church."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

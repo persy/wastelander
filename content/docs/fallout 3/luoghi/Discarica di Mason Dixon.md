@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Discarica di Mason Dixon
-summary: "La discarica di Mason Dixon è una località della Zona contaminata della Capitale e si trova a nord-ovest di Paradise Falls e a sud-ovest del gruppo satelliti SatCom NN-03d. E' infestata dai supermutanti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

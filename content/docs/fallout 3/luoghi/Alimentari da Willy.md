@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Alimentari da Willy
-summary: "Alimentari da Willy è un minimarket situato ad est della Torre Tenpenny."
+summary: ""
 weight: 10
 icon: location-question
 icon_pack: fas

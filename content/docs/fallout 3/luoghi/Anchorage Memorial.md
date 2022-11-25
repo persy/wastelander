@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Anchorage Memorial
-summary: "L'Anchorage Memorial è un monumento situato nel quadrante sud-est della Zona contaminata della Capitale. All'interno ci sono diversi livelli e un'area di manutenzione  infestati dai mirelurk."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

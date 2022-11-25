@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Alexandria Arms
-summary: "Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della biblioteca di Arlington e occupato di predatori."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area di ristoro Five Axles
-summary: "L'area di ristoro Five Axles si trova direttamente a nord della stazione di servizio Rockbreaker."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

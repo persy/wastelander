@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Torre Tenpenny
-summary: "La Torre Tenpenny è un insediamento fortificato costituito da un unico grattacielo e si trova nelle rovine a ovest di DC, direttamente a sud-ovest dell'Impianto RobCo."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

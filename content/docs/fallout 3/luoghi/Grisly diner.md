@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Grisly diner
-summary: "Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell'Unione e a sud-ovest del ripetitore KX-B8-11. E' usato dai predoni per tendere imboscate."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

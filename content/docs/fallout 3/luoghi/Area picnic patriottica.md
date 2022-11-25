@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Area picnic patriottica
-summary: "L'area picnic patriottica è una località non contrassegnata situata a nord-est della metropolitana di Jury Street, a sud del Vault 106 e a nord-ovest della Vault 101."
+summary: ""
 weight: 10
 icon: location-question
 icon_pack: fas

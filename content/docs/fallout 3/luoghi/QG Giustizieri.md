@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: QG Giustizieri
-summary: "Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. E' accessibile solo con l'abilità extra Portatore di legge."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

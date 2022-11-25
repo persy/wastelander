@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tenute di Faded Pomp
-summary: "Le tenute di Faded Pomp sono una serie di case in rovina si trovano a nord della Accademia Roosevelt e a sud della stazione di trasmissione WKML e del drive-in Silver Lining."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

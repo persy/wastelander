@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Rivendita auto
-summary: "La rivendita auto è una posizione non contrassegnata che si trova a nord-est delle Rovine di Fairfax e a nord-ovest della Fabbrica Red Racer."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

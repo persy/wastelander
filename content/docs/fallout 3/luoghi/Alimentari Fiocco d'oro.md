@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Alimentari Fiocco d'oro
-summary: "Il Fiocco d'oro è un negozio d'alimentari all'interno di Jury Street, a nord-ovest della stazione metropolitana di Jury Street."
+summary: ""
 weight: 10
 
 # Page metadata.

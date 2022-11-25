@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale elettrica VAPL-58
-summary: "La centrale elettrica VAPL-58 è un insieme di linee elettriche recintate e trasformatori accanto a una sottostazione elettrica. Si trova a sud-ovest di Arefu, a nord della stazione della metropolitana di Jury Street e ad ovest di Vault 106, dove le due linee elettriche da nord e da est si intersecano."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Baracca dello sciacallo
-summary: "La baracca dello sciacallo è una località non contrassegnata e si trova ad est di Arefu, lungo il fiume Potomac."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

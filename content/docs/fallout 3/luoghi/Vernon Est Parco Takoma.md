@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vernon Est/Parco Takoma 
-summary: "Vernon Est/Parco Takoma è un tunnel metropolitano che collega Vernon Square e Parco Takoma."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

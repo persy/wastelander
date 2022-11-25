@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Jefferson Memorial
-summary: "Il Jefferson Memorial è un monumento situato a ovest di Rivet City e affacciato sul Potomac."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

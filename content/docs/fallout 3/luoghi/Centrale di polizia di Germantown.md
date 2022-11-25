@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale di polizia di Germantown
-summary: "Germantown è una città in rovina e fa parte dell'area prebellica di Washington, D.C."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

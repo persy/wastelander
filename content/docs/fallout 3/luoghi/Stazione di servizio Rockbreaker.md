@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di servizio Rockbreaker
-summary: "La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazionale Everglow, a sud dell'area di ristoro Five Axles e ad est del Vault 87 e della torre di trasmissione KT8."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

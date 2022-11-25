@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: L.O.B. Imprese
-summary: "L.O.B. Imprese è un edificio situato a Falls Church, raggiungibile attraverso la stazione di Marigold fino alla metropolitana Falls Church / Mason Dst o viaggiando attraverso la stazione di Foggy Bottom, il Mason District e la metropolitana Falls Church / Mason Dst. Si trova accanto al marcatore della mappa di Falls Church East."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

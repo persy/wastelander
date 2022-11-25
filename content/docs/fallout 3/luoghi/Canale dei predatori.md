@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Canale dei predatori
-summary: "Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

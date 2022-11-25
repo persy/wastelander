@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Archivi nazionali
-summary: "Gli Archivi nazionali si trovano nella parte nord-est del Mall, a est del Museo di Storia e a nord del Museo di Tecnologia, oltre il campo trincerato."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

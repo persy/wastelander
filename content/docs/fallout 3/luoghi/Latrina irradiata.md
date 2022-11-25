@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Latrina irradiata
-summary: "La latrina irradiata è un luogo non contrassegnato e si trova a sud-ovest del caseificio Chaste Acres."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

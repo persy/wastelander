@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Smaltimento rifiuti Fratelli Jalbert
-summary: "Lo smaltimento rifiuti Fratelli Jalbert è una discarica di rifiuti radioattivi e si trova a nord del Fort Bannister, a sud-est  dell'area campeggio nazionale Everglow e della stazione di servizio Rockbreaker, a ovest della centrale elettrica VAPL-58."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

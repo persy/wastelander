@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Centrale di Arlington
-summary: "La centrale di Arlington fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega il cimitero di Arlington e il tunnel DCTA 014-B di Potomac."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

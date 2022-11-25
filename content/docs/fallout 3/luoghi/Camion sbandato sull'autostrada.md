@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Camion sbandato sull'autostrada
-summary: "Il camion sbandato sull'autostrada è un luogo non contrassegnato che si trova a nord-est dell'armeria di Wheaton e ad est del QG Giustizieri."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Vault 101
-summary: "Il Vault 101 è un Vault della Vault-Tec situato nella zona nord-ovest di Washington, D.C. vicino a Megaton e ad ovest di Springvale. È la casa natale del Vagabondo Solitario."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

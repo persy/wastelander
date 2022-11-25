@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Nascondiglio di Hamilton
-summary: "Il nascondiglio di Hamilton è una piccola caverna a nord del cinema all'aperto Moonbeam e a sud-est della stazione metropolitana di Meresti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

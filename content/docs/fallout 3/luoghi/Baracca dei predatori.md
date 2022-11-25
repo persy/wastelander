@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Baracca dei predatori
-summary: "Baracca dei predatori è una località non contrassegnata e si trova a est delle rovine di Bethesda, a nord dell'edificio Chryslus e a sud dell'Armeria di Wheaton"
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

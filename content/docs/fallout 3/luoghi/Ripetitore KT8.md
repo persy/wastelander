@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Ripetitore KT8
-summary: "Il ripetitore KT8 è una ripetitore e si trova a nord-est del Vault 87 e a sud di Shalebridge."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

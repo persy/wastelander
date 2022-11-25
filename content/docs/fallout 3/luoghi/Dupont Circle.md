@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Dupont Circle
-summary: "Il distretto di Dupont Circle si trova nella parte settentrionale di Washington, D.C.. E' raggiungibile dal tunnel crollato, dalla Metro Junction, dalla piazza dell'edificio di GNR, e dalla fogna secca."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

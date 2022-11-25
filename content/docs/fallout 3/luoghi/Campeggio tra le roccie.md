@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campeggio tra le roccie
-summary: "Il campeggio tra le roccie è una località non contrassegnata nella Zona contaminata della Capitale. Si trova sul bordo della mappa, a sud-ovest dei tunnel yao guai e ad ovest di Rockopolis."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

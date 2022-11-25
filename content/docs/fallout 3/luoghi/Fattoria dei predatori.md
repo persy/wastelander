@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fattoria dei predatori
-summary: "La fattoria dei predatori è una località non contrassegnata ed situata a nord della discarica di Greener Pastures e ad ovest del Vecchio Olney."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

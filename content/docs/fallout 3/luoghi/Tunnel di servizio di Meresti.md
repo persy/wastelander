@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Tunnel di servizio di Meresti
-summary: "Il tunnel di servizio di Meresti è il tunnel di accesso che collega il deposito di Meresti alla stazione della metropolitana Meresti, dove risiede la famiglia. È disseminato di vari tipi di trappole."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

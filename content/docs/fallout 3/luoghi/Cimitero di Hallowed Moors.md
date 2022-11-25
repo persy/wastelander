@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Cimitero di Hallowed Moors
-summary: "Il cimitero di Hallowed Moors si trova a nord di Big Town, a nord-ovest della stazione metropolitana di Meresti e a nord-est del Vault 106 attraverso il Potomac."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

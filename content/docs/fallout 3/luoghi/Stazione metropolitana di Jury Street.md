@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione metropolitana di Jury Street
-summary: "La stazione metropolitana di Jury Street è una località della Zona contaminata della Capitale e si trova a ovest del Vault 101, a sud del Vault 106 e a nord-est di Calverton. "
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

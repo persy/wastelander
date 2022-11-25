@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Accampamento festivo dei predoni
-summary: "L'accampamento festivo dei predoni è un piccolo campo di predoni non contrassegnato direttamente a sud della casa di Dukov."
+summary: ""
 weight: 10
 icon: location-question
 icon_pack: fas

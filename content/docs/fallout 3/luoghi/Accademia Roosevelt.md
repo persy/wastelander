@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Accademia Roosevelt
-summary: "L'Accademia Roosevelt è una base dei supermutanti e si trova appena a sud delle tenute di Faded Pomp e a nord della centrale elettrica MDPL."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

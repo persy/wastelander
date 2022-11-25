@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Camion di internamento
-summary: "Il camion di internamento è una località non contrassegnata  e può essere trovato su un'autostrada a est del gruppo satelliti SatCom NW-07c e a nord-ovest del forte delle auto abbandonate."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

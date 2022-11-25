@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Campo abbandonato
-summary: "Il campo abbandonato è un luogo non contrassegnato della Zona contaminata della Capitale ed è situato sotto il ponte a nord del Super-Duper Mart."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione di Foggy Bottom
-summary: "La stazione di Foggy Bottom è una stazione metropolitana sulla Linea Bianca e fa parte del sistema metropolitano sotto le rovine di Washington, D.C. Connette Dupont a Georgetown."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas

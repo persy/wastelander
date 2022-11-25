@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Edificio autorità del museo
-summary: "L'edificio autorità del museo è una struttura di medie dimensioni nel Mall di Washington, DC. I soci di Griffon stanno usando questo luogo come loro quartier generale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Washington Monument
-summary: "Il  Washington Monument è un grande obelisco prebellico posizionato al centro del Mall di Washington, D.C."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

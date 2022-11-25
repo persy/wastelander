@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Fabbrica Corvega
-summary: "La fabbrica Corvega si trova a sud-ovest del Vault 108 nella Zona contaminata della Capitale. E' infestata dalle formiche giganti."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

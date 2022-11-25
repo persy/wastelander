@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Raven Rock
-summary: "Raven Rock (noto come Sito R) è la principale base operativa dell'Enclave ed è posta nella zona più a nord della Zona contaminata della Capitale."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

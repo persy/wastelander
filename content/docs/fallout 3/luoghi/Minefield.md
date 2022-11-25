@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Minefield
-summary: "Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. E' situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione."
+summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

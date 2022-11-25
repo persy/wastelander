@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Stazione per il museo
-summary: "La stazione per il museo fa parte del sistema metropolitano della Zona contaminata della Capitale e funge da passaggio sotterraneo tra il Museo di Storia e il Museo della Tecnologia. Originariamente faceva parte della Linea Rossa e connette la stazione interscambio Anacostia e la metropolitana centrale."
+summary: ""
 weight: 10
 icon: train-subway # in alternativa location-question
 icon_pack: fas
