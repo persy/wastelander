@@ -22,13 +22,13 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Ricerche scientifiche</b>]:::questfo3
-    id2[Ottieni l'accesso a Rivet City]
-    id3[Parla con la Dottoressa Li <br/>di papà e del Progetto purezza]
-    id4[Cerca papà nella sala di <br/>controllo del Progetto purezza]
-    id5[Ottieni l'accesso al Vault 112]  
-    id6[500 PE]:::rewardfo3
-    id7[Prossima missione: <b>Tranquillity Lane</b>]:::questfo3
+    id1(<b>Ricerche scientifiche</b>):::questfo3
+    id2(Ottieni l'accesso a Rivet City)
+    id3(Parla con la Dottoressa Li <br/>di papà e del Progetto purezza)
+    id4(Cerca papà nella sala di <br/>controllo del Progetto purezza)
+    id5(Ottieni l'accesso al Vault 112)  
+    id6(500 PE):::rewardfo3
+    id7(Prossima missione: <b>Tranquillity Lane</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7
     click id2 "../../luoghi/rivet-city"
     click id5 "../../luoghi/vault-112"

@@ -1,58 +1,77 @@
 ---
 # Title, summary, and page position.
-linktitle: 
+linktitle: Mercenari di Reilly
 summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
 # Page metadata.
-title: 
+title: Mercenari di Reilly
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
 tags: "Missioni secondarie di Fallout 3"
 hidden: true # Visibile nella sidebar
-private: true # Nascosto dalle ricerche
+private: false # Nascosto dalle ricerche
 ---
 
-Breve descrizione
+*Mercenari di Reilly* è una missione secondaria di Fallout 3. Si svolge tra gli Inferi, l'ospedale Nostra Signora della Speranza, lo Statesman Hotel e l'area dei mercenari di Reilly E' data da Reilly o Butcher.
 
 
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>TODO</b>]:::questfo3
-    id2[TODO]
-    id3[TODO]
-    id4[TODO]
-    id5[TODO]
-    id6[TODO]
-    id7[TODO] 
-    id8[TODO]
-    id9[TODO]
-    id10[TODO]
-    id11[TODO]
-    id12[TODO]
-    id13[TODO] 
-    id[TODO]:::rewardfo3
-    id[Prossima missione: <b>TODO</b>]:::questfo3
-    id-->id-->id-->id-->id-->id-->id
-    click id "../TODO"
+    id1(<b>Mercenari di Reilly</b>):::questfo3
+    id2(Ricevi il segnale di emergenza <br />del ranger)
+    id3(Trova e sveglia Reilly <br />nell'infermeria degli Inferi)
+    id4(Accetta di assisterla e <br />ottieni il codice della <br />scatola delle munizioni)
+    id5(Trova l'area dei <br />mercenari di Reilly)
+    id6(Esplora l'ospedale Nostra <br />Signora della Speranza e <br />cerca un accesso <br />allo Statesman Hotel)
+    id7(Individua il cadavere <br />di Theo e la cassa di <br />munizioni) 
+    id8(Ottieni una batteria a <br />fissione dal rottame del <br />protettore per riparare <br />l'ascensore)
+    id9(Conduci in salvo <br />i Mercenari di Reilly <br />sul tetto dell'hotel)
+    id10(Distribuisci le <br />munizione e aiuta <br />i mercenari)
+    id11(Ignora o uccidi <br />i mercenari)
+    id12(Dai la batteria a <br />fissione a Donovan e <br />ripara l'ascensore)
+    id13(Ripara 75) 
+    id14(Usa la chiave <br />inglese di Donovan)
+    id15(Recupera la chiave <br />inglese di Donovan <br />dal suo cadavere)
+    id16(Lascia lo Statesman <br />Hotel e torna da Reilly)
+    id17(Armatura da battaglia <br />da mercenario o Eugene <br />e modulo geomapper):::rewardfo3
+    id18(Prossima missione: <br /><b>Geomappare per Reilly</b>):::questfo3
+    id1-->id2-->id3-->id4-->id5
+    id2-->id5-->id6-->id7-->id8-->id9
+    id9-->id10-->id12-->id13 & id14-->id16
+    id9-->id11-->id15-->id16-->id17-->id18
+    click id5 "../../area-dei-mercenari-di-reilly"
+    click id6 "../../luoghi/ospedale-nostra-signora-della-speranza"
+    click id3 "../../luoghi/inferi"
+    click id18 "../geomappare-per-reilly"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-| Tappe | Stato              | Descrizione |
-| :-----: | :------------------: | ----------- |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       | :white_check_mark: |             |
+| Tappe |       Stato        | Descrizione                                                |
+| :---: | :----------------: | ---------------------------------------------------------- |
+|   5   |                    | Trova Reilly negli Inferi all'interno del Museo di Storia. |
+|  10   |                    | Trova l'Ospedale Nostra Signora della Speranza.            |
+|  12   |                    | (Facoltativo) Affrettati verso l'Area dei mercenari.       |
+|  15   |                    | (Facoltativo) Trova la cassa di munizioni dei mercenari.   |
+|  20   |                    | Trova i Mercenari di Reilly.                               |
+|  25   |                    | Trova una batteria a fissione.                             |
+|  28   |                    | Dai una batteria a fissione a Donovan.                     |
+|  30   |                    | Conduci in salvo i Mercenari di Reilly.                    |
+|  40   |                    | Raggiungi l'uscita dello Statesman Hotel.                  |
+|  50   | :white_check_mark: | Torna a Reilly all'Area dei mercenari.                     |
+
 
 Note:
-- 
+- Se si perde la batteria a fissione, l'ascensore diventerà inutilizzabile e sarà impossibile lasciare l'hotel
+- Il geomapper è retroattivo e tutti i luoghi  già esplorati verranno conteggiati
+- Dopo aver completato *Broken Steel* e ottenuto l'analizzatore di sangue supermutante per la missione nascosta *Confraternita di sangue*, è possibile ottenere 50 tappi e 10 PE per ogni campione di sangue supermutante consegnato al Paladino Tristan. In questa missione è possibile raccoglierne più di 50
+- Dopo aver riparato l'ascensore, è possibile lasciare che i supermutanti uccidano Brick per poter ottenere Eugene e l'armatura da battaglia da mercenario senza essere costretti a sceglierne uno come ricompensa finendo la missione
+- E' possibile uccidere Brick personalmente senza che glia altri mercenari diventino ostili
+- Se tutti i mercenari muoiono, non verrà data alcuna ricompensa, nemmeno il modulo del geomapper
+- E' possibile ottenere sia Eugene che l'armatura da battaglia del mercenario applicando il reverse-pickpocketing a Brick e Donovan

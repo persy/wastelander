@@ -23,27 +23,27 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Legami di sangue</b>]:::questfo3
-    id2[Parla con Evan King <br />ad Arefu a proposito <br />dei loro problemi <br />con la Famiglia]
-    id3[Parla con Lucy West <br />a Megaton e accetta di <br />aiutarla a portare un <br />messaggio ad Arefu]
-    id4[Controlla i residenti <br />di Arefu e trova i <br />cadaveri dei West]
-    id5[Fai rapporto ad Evan King <br />e trova la Famiglia]
-    id6[Cerca nel nascondiglio <br />di Hamilton]
-    id7[Cerca al cinema <br />all'aperto Moonbeam] 
-    id8[Cerca alla stazione <br />Seneca nord ovest]
-    id9[Cerca al deposito <br />di Meresti]
-    id10[Trova la Famiglia, <br />convinci Robert a <br />farti passare e <br />cerca Ian West]
-    id11[Parla con i membri <br />della Famiglia <br />per ottenere la <br />password del <br />terminale]
-    id12[Convinci Vance <br />a darti la <br />password del <br />terminale]
-    id13[Fai una ricerca <br />sui modi del vampiro e <br />parla con Vance] 
-    id21[Uccidi la Famiglia]
-    id14[Parla con Ian]
-    id15[Ian decide di <br />lasciare la famiglia]
-    id16[Ian decide di rimanere]
-    id17[Informa Vance della <br />decisione di Ian e <br />stipula una tregua con Arefu]
-    id18[Schemi - Shishkebab]:::rewardfo3
-    id19[Torna da Evan King e finalizza la tregua]
-    id20[300 PE, karma positivo]:::rewardfo3
+    id1(<b>Legami di sangue</b>):::questfo3
+    id2(Parla con Evan King <br />ad Arefu a proposito <br />dei loro problemi <br />con la Famiglia)
+    id3(Parla con Lucy West <br />a Megaton e accetta di <br />aiutarla a portare un <br />messaggio ad Arefu)
+    id4(Controlla i residenti <br />di Arefu e trova i <br />cadaveri dei West)
+    id5(Fai rapporto ad Evan King <br />e trova la Famiglia)
+    id6(Cerca nel nascondiglio <br />di Hamilton)
+    id7(Cerca al cinema <br />all'aperto Moonbeam) 
+    id8(Cerca alla stazione <br />Seneca nord ovest)
+    id9(Cerca al deposito <br />di Meresti)
+    id10(Trova la Famiglia, <br />convinci Robert a <br />farti passare e <br />cerca Ian West)
+    id11(Parla con i membri <br />della Famiglia <br />per ottenere la <br />password del <br />terminale)
+    id12(Convinci Vance <br />a darti la <br />password del <br />terminale)
+    id13(Fai una ricerca <br />sui modi del vampiro e <br />parla con Vance) 
+    id21(Uccidi la Famiglia)
+    id14(Parla con Ian)
+    id15(Ian decide di <br />lasciare la famiglia)
+    id16(Ian decide di rimanere)
+    id17(Informa Vance della <br />decisione di Ian e <br />stipula una tregua con Arefu)
+    id18(Schemi - Shishkebab):::rewardfo3
+    id19(Torna da Evan King e <br />finalizza la tregua)
+    id20(300 PE, karma positivo):::rewardfo3
     id1-->id2
     id3-->id2
     id1-->id3

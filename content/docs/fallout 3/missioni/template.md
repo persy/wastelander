@@ -23,21 +23,21 @@ private: true # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>TODO</b>]:::questfo3
-    id2[TODO]
-    id3[TODO]
-    id4[TODO]
-    id5[TODO]
-    id6[TODO]
-    id7[TODO] 
-    id8[TODO]
-    id9[TODO]
-    id10[TODO]
-    id11[TODO]
-    id12[TODO]
-    id13[TODO] 
-    id[TODO]:::rewardfo3
-    id[Prossima missione: <b>TODO</b>]:::questfo3
+    id1(<b>TODO</b>):::questfo3
+    id2(TODO)
+    id3(TODO)
+    id4(TODO)
+    id5(TODO)
+    id6(TODO)
+    id7(TODO) 
+    id8(TODO)
+    id9(TODO)
+    id10(TODO)
+    id11(TODO)
+    id12(TODO)
+    id13(TODO) 
+    id(TODO):::rewardfo3
+    id(Prossima missione: <b>TODO</b>):::questfo3
     id-->id-->id-->id-->id-->id-->id
     click id "../TODO"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;

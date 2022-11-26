@@ -23,17 +23,17 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Il sogno americano</b>]:::questfo3
-    id2[Svegliati a Raven Rock e parla <br />con il Colonnello Autumn]
-    id3[Liberati e recupera l'equipaggiamento]
-    id4[Passa attraverso i livelli 3 e 2 <br />fino alla sala di controllo ]
-    id5[Parla con il presidente Eden e <br />recupera la fiala di FEV modificato] 
-    id6[Forza o convinci Eden <br />ad autodistruggersi]
-    id7[Lascia Eden intatto]
-    id8[Attraversa il livello 1 <br />ed esci da Raven Rock] 
-    id9[Torna alla Cittadella e <br />parla con Lyons l'Anziano]
-    id10[Armatura atomica o <br />armatura da ricognizione]:::rewardfo3
-    id11[Prossima missione: <b>Riprenditelo!</b>]:::questfo3
+    id1(<b>Il sogno americano</b>):::questfo3
+    id2(Svegliati a Raven Rock e parla <br />con il Colonnello Autumn)
+    id3(Liberati e recupera l'equipaggiamento)
+    id4(Passa attraverso i livelli 3 e 2 <br />fino alla sala di controllo )
+    id5(Parla con il presidente Eden e <br />recupera la fiala di FEV modificato) 
+    id6(Forza o convinci Eden <br />ad autodistruggersi)
+    id7(Lascia Eden intatto)
+    id8(Attraversa il livello 1 <br />ed esci da Raven Rock) 
+    id9(Torna alla Cittadella e <br />parla con Lyons l'Anziano)
+    id10(Armatura atomica o <br />armatura da ricognizione):::rewardfo3
+    id11(Prossima missione: <b>Riprenditelo!</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id8-->id9-->id10-->id11
     id5-->id7-->id8
     click id2 "../../luoghi/raven-rock"

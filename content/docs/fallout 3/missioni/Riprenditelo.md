@@ -23,23 +23,23 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Riprenditelo!</b>]:::questfo3
-    id2[Preparati per la battaglia, <br />quindi fai rapporto a Sarah Lyons]
-    id3[Segui Liberty Prime mentre <br />si fa strada verso <br />il Progetto purezza]
-    id4[Combatti fino alla rotonda <br />e parla con il colonnello Autumn]
-    id5[Affrontalo e uccidilo]
-    id6[Convincilo ad andarsene] 
-    id7[Parla con la Dottoressa Li <br />attraverso l'intercom] 
-    id8[Sacrificati] 
-    id9[Sacrifica <br />Sarah Lyons] 
-    id10["Sacrifica un seguace <br />(Broken Steel)"] 
-    id11[Non fare nulla] 
-    id12[Contamina l'acqua <br />con la fiala di FEV] 
-    id13[1200 PE, finale di gioco]:::rewardfo3 
-    id14["Prossima missione: <br /><b>Morte dall'alto</b> (Broken Steel)"]:::questfo3
-    id15[Completamento <br />di Fallout 3]:::questfo3 
-    id16[Karma +2000]:::rewardfo3
-    id17[Karma -1000]:::rewardfo3  
+    id1(<b>Riprenditelo!</b>):::questfo3
+    id2(Preparati per la battaglia, <br />quindi fai rapporto a Sarah Lyons)
+    id3(Segui Liberty Prime mentre <br />si fa strada verso <br />il Progetto purezza)
+    id4(Combatti fino alla rotonda <br />e parla con il colonnello Autumn)
+    id5(Affrontalo e uccidilo)
+    id6(Convincilo ad andarsene) 
+    id7(Parla con la Dottoressa Li <br />attraverso l'intercom) 
+    id8(Sacrificati) 
+    id9(Sacrifica <br />Sarah Lyons) 
+    id10("Sacrifica un seguace <br />(Broken Steel)") 
+    id11(Non fare nulla) 
+    id12(Contamina l'acqua <br />con la fiala di FEV) 
+    id13(1200 PE, finale di gioco):::rewardfo3 
+    id14("Prossima missione: <br /><b>Morte dall'alto</b> (Broken Steel)"):::questfo3
+    id15(Completamento <br />di Fallout 3):::questfo3 
+    id16(Karma +2000):::rewardfo3
+    id17(Karma -1000):::rewardfo3  
     id1-->id2-->id3-->id4-->id5-->id7-->id8-->id12
     id13-->id15
     id13-->id14

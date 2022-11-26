@@ -23,15 +23,15 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Ricerca Giardino dell'Eden</b>]:::questfo3
-    id2[Entra nel Vault 87]
-    id3[Procedi per i Test Labs]
-    id4[Ignora Fawkes]
-    id5[Libera Fawkes]  
-    id6["Ottieni il K.R.E.G."]
-    id7[Affronta il Colonnello Autumn]
-    id8[1000 PE]:::rewardfo3
-    id9[Prossima missione: <b>Il sogno americano</b>]:::questfo3
+    id1(<b>Ricerca Giardino dell'Eden</b>):::questfo3
+    id2(Entra nel Vault 87)
+    id3(Procedi per i Test Labs)
+    id4(Ignora Fawkes)
+    id5(Libera Fawkes)  
+    id6("Ottieni il K.R.E.G.")
+    id7(Affronta il Colonnello Autumn)
+    id8(1000 PE):::rewardfo3
+    id9(Prossima missione: <b>Il sogno americano</b>):::questfo3
     id1-->id2-->id3-->id4-->id6-->id7-->id8-->id9
     id3-->id5-->id6
     click id2 "../../luoghi/vault-87"

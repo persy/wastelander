@@ -22,29 +22,29 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Capo di Stato</b>]:::questfo3
-    id2[Fiancheggia gli abolizionisti]
-    id3[Fiancheggia gli schiavisti]
-    id4[Trova il Tempio dell'Unione <br />e parla con Hannibal Hamlin]
-    id5[Ottieni l'accesso <br />al Lincoln Memorial <br />parlando con Silas <br />e ascolta Leroy Walker]
-    id6[Diventa membro del Tempio <br />e accetta di aiutare Hannibal]
-    id7[Ignora o perdi la sfida <br />Eloquenza con Leroy] 
-    id8[Vinci la sfida Eloquenza <br />con Leroy]
-    id9[Trova il Lincoln Memorial <br />e uccidi tutti i supermutanti <br />e gli schiavisti]
-    id10[Trova il Museo di Storia e impossessati degli oggetti di Lincoln]
-    id11[Nuka-Cola Quantum]:::rewardfo3
-    id12[Fucile, cappello, voce, diario, <br />antica collezione di monete di Lincoln, <br />pupazzo di Action Abe, <br />poster della guerra civile, <br />poster segnaletico del tavolo di John Wilkes, <br />Nuka-ColaQuantum]:::rewardfo3
-    id13[Torna al Tempio dell'Unione]
-    id14[Trova il Tempio dell'Unione <br />e riferisci la sua posizione <br />a Leroy] 
-    id15[Torna al Lincoln Memorial <br />con gli abolizionisti]
-    id16[100 tappi]:::rewardfo3
-    id17[Conquista il Memorial <br />con gli abolizionisti]
-    id18[Assalta il Tempio <br />con gli schiavisti]
-    id19[300 PE, Schemi - Pistola a dardi]:::rewardfo3
-    id20[Uccidi Hannibal]
-    id21[Lascia che sia Leroy <br />ad uccidere Hannibal]
-    id22[300 PE, 50 tappi]:::rewardfo3
-    id23[300 PE, 100 tappi]:::rewardfo3
+    id1(<b>Capo di Stato</b>):::questfo3
+    id2(Fiancheggia gli abolizionisti)
+    id3(Fiancheggia gli schiavisti)
+    id4(Trova il Tempio dell'Unione <br />e parla con Hannibal Hamlin)
+    id5(Ottieni l'accesso <br />al Lincoln Memorial <br />parlando con Silas <br />e ascolta Leroy Walker)
+    id6(Diventa membro del Tempio <br />e accetta di aiutare Hannibal)
+    id7(Ignora o perdi la sfida <br />Eloquenza con Leroy) 
+    id8(Vinci la sfida Eloquenza <br />con Leroy)
+    id9(Trova il Lincoln Memorial <br />e uccidi tutti i supermutanti <br />e gli schiavisti)
+    id10(Trova il Museo di Storia e impossessati degli oggetti di Lincoln)
+    id11(Nuka-Cola Quantum):::rewardfo3
+    id12(Fucile, cappello, voce, diario, <br />antica collezione di monete di Lincoln, <br />pupazzo di Action Abe, <br />poster della guerra civile, <br />poster segnaletico del tavolo di John Wilkes, <br />Nuka-ColaQuantum):::rewardfo3
+    id13(Torna al Tempio dell'Unione)
+    id14(Trova il Tempio dell'Unione <br />e riferisci la sua posizione <br />a Leroy) 
+    id15(Torna al Lincoln Memorial <br />con gli abolizionisti)
+    id16(100 tappi):::rewardfo3
+    id17(Conquista il Memorial <br />con gli abolizionisti)
+    id18(Assalta il Tempio <br />con gli schiavisti)
+    id19(300 PE, Schemi - Pistola a dardi):::rewardfo3
+    id20(Uccidi Hannibal)
+    id21(Lascia che sia Leroy <br />ad uccidere Hannibal)
+    id22(300 PE, 50 tappi):::rewardfo3
+    id23(300 PE, 100 tappi):::rewardfo3
     id1-->id2 & id3
     id3-->id5-->id7 & id8
     id2-->id4-->id6-->id9 & id10
@@ -82,4 +82,10 @@ graph TD;
 |  100  | :white_check_mark: | Trova gli schiavi fuggitivi.                                   |
 
 Note:
--
+- Se casualmente dei mercenari della Compagnia dell'Artiglio dovessero uccidere Hannibal, sarà impossibile completare la missione
+- Dopo aver completato la missione in favore di Hannibal, sarà impossibile parlare con gli altri schiavi
+- Tutti gli oggetti nella stanza di manutenzione sotto il Lincoln Memorial possono essere presi senza perdere karma
+- Uccidere gli schiavisti al Lincoln Memorial non renderà ostili quelli a Paradise Falls. Tuttavia se gli schiavisti di Paradise Falls sono già stati uccisi, quelli al Lincoln Memorial saranno ostili
+- Se l'Enclave ha già preso possesso del Jefferson Memorial, sarà impossibile completare la missione poiché saranno presenti delle barriere laser lungo il percorso della carovana
+- Se si parla prima con Leroy senza sapere del Tempio dell'Unione, la missione chiederà semplicemente al giocatore di trovare gli schiavi in fuga, se uccidono gli schiavisti. Si può semplicemente andare da Hannibal, quindi parlare con Caleb a casa sua e la missione continuerà da sola
+- Alcuni soldati dell'Enclave potrebbero comparire lungo la strada degli schiavisti. Nel conflitto gli schiavisti potrebbero diventare ostili al giocatore

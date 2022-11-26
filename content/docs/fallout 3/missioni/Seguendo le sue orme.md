@@ -22,19 +22,19 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Seguendo le sue orme</b>]:::questfo3-->id2[Investiga nella vicina città di Megaton per raccogliere informazioni su papà]
-    id2-->id3[Parla di papà con Colin Moriarty]
-    id3-->id4[Occupati di Silver a Springvale]
-    id4-->id5[Paga 100 tappi a Moriarty per ottenere degli indizi su tuo papà]
+    id1(<b>Seguendo le sue orme</b>):::questfo3-->id2(Investiga nella vicina <br />città di Megaton per <br />raccogliere informazioni <br />su James)
+    id2-->id3(Parla di James <br />con Colin Moriarty)
+    id3-->id4(Occupati di Silver <br />a Springvale)
+    id4-->id5(Paga 100 tappi a <br />Moriarty per ottenere <br />degli indizi su James)
     id3-->id5
-    id3-->id6[Ottieni le informazioni dal terminale di Moriarty]
-    id5-->id7[Raggiungi Galaxy News Radio]
+    id3-->id6(Ottieni le informazioni <br />dal terminale di <br />Moriarty)
+    id5-->id7(Raggiungi Galaxy News Radio)
     id6-->id7
-    id7-->id8[Aiuta la Confraternita d'Acciaio a sconfiggere i supermutanti]
-    id8-->id9[Parla con Tre cani a proposito di tuo padre]
-    id9-->id10[Supera una sfida Eloquenza]
-    id9-->id11[Completa la missione <b>Galaxy News Radio</b>]
-    id10-->id12[Prossima missione: <b>Ricerche scientifiche</b>]:::questfo3
+    id7-->id8(Aiuta la Confraternita <br />d'Acciaio a sconfiggere <br />i supermutanti)
+    id8-->id9(Parla con Tre cani <br />a proposito di James)
+    id9-->id10(Supera una sfida <br />Eloquenza)
+    id9-->id11(Completa la missione <br /><b>Galaxy News Radio</b>)
+    id10-->id12(Prossima missione: <b>Ricerche scientifiche</b>):::questfo3
     id11-->id12
     click id2 "../../luoghi/megaton"
     click id4 "../../luoghi/springvale"

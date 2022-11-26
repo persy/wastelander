@@ -22,16 +22,16 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>In cerca di indizi</b>]:::questfo3
-    id2[Accompagna la Dottoressa <br />Li all'interno della Cittadella. ]
-    id3[Chiedi allo Scriba Rothchild <br />l'accesso al computer]
-    id4[Chiedi allo Scriba Rothchild <br />informazioni sul Vault 87]
-    id5[Ottieni l'accesso a Little Lamplight]  
-    id6[Attraversa il <br />Sentiero della Morte]
-    id7[Accedi al terminale per <br />la camera del reattore]
-    id8[Entra nel Vault 87]
-    id9[800 PE]:::rewardfo3
-    id10[Prossima missione: <b>Ricerca Giardino dell'Eden</b>]:::questfo3
+    id1(<b>In cerca di indizi</b>):::questfo3
+    id2(Accompagna la Dottoressa <br />Li all'interno della Cittadella. )
+    id3(Chiedi allo Scriba Rothchild <br />l'accesso al computer)
+    id4(Chiedi allo Scriba Rothchild <br />informazioni sul Vault 87)
+    id5(Ottieni l'accesso a Little Lamplight)  
+    id6(Attraversa il <br />Sentiero della Morte)
+    id7(Accedi al terminale per <br />la camera del reattore)
+    id8(Entra nel Vault 87)
+    id9(800 PE):::rewardfo3
+    id10(Prossima missione: <b>Ricerca Giardino dell'Eden</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id8--->id9-->id10
     id5-->id7-->id8
     click id6 "../../luoghi/sentiero-della-morte"

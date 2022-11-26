@@ -23,12 +23,12 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Crescita rapida</b>]:::questfo3-->id2[Divertiti alla festa e parla con gli ospiti]
-    id2-->id3[Incontra Jonas al Livello reattore]
-    id3-->id4[Colpisci tutti e tre i bersagli e lo scarafaggio radioattivo con il fucile ad aria compressa]
-    id4-->id5[Stai accanto a papà in modo che Jonas possa scattare la foto]
-    id5-->id6[Pip-Boy 3000, Grognak il barbaro, fucile ad aria compressa, 50 piombini]:::rewardfo3  
-    id6-->id7[Prossima missione: <b>Futuro imperfetto</b>]:::questfo3
+    id1(<b>Crescita rapida</b>):::questfo3-->id2(Divertiti alla festa e parla con gli ospiti)
+    id2-->id3(Incontra Jonas al Livello reattore)
+    id3-->id4(Colpisci tutti e tre <br />i bersagli e lo <br />scarafaggio radioattivo con <br />il fucile ad aria compressa)
+    id4-->id5(Stai accanto a papà <br />in modo che Jonas possa <br />scattare la foto)
+    id5-->id6(Pip-Boy 3000, Grognak il barbaro, <br />fucile ad aria compressa, 50 piombini):::rewardfo3  
+    id6-->id7(Prossima missione: <b>Futuro imperfetto</b>):::questfo3
     click id7 "../futuro-imperfetto"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;

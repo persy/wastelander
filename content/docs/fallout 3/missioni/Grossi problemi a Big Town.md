@@ -23,24 +23,24 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Grossi problemi a Big Town</b>]:::questfo3
-    id2[Parla con Sticky <br />a Little Lamplight. <br />Raggiungi la città con <br />o senza Sticky]
-    id3[Trova Big Town]
-    id4[Parla con Red <br />a Germantown]
-    id5[Chiedi agli abitanti <br />di Big Town informazioni <br />sui loro amici catturati ]
-    id6["Libera Red e <br />Tappo (opzionale) <br />dalla centrale di <br />polizia di Germantown"]
-    id7[Red è sopravvissuto] 
-    id8[Red e Tappo <br />sono sopravvissuti]
-    id9[Nè Red nè Tappo <br />sono sopravvissuti]
-    id10[Parla con Red]
-    id11[Parla con Papi]
-    id12[300 PE, 300-500 tappi, <br />karma positivo]:::rewardfo3
-    id13[200 tappi]:::rewardfo3
-    id14[Attacco dei supermutanti]
-    id15[Respingi l'attacco]
-    id16["(Opzionale) Use le tue abilità <br />Esplosivi, Scienza, Furtivo <br />e/o Armi leggere per preparare <br />la città all'attacco"]
-    id17[Ignora l'attacco]
-    id18["Cure da Red, <br />riparazioni da Pappy <br />e scorte medicinali"]:::rewardfo3
+    id1(<b>Grossi problemi a Big Town</b>):::questfo3
+    id2(Parla con Sticky <br />a Little Lamplight. <br />Raggiungi la città con <br />o senza Sticky)
+    id3(Trova Big Town)
+    id4(Parla con Red <br />a Germantown)
+    id5(Chiedi agli abitanti <br />di Big Town informazioni <br />sui loro amici catturati )
+    id6("Libera Red e <br />Tappo (opzionale) <br />dalla centrale di <br />polizia di Germantown")
+    id7(Red è sopravvissuto) 
+    id8(Red e Tappo <br />sono sopravvissuti)
+    id9(Nè Red nè Tappo <br />sono sopravvissuti)
+    id10(Parla con Red)
+    id11(Parla con Papi)
+    id12(300 PE, 300-500 tappi, <br />karma positivo):::rewardfo3
+    id13(200 tappi):::rewardfo3
+    id14(Attacco dei supermutanti)
+    id15(Respingi l'attacco)
+    id16("(Opzionale) Use le tue abilità <br />Esplosivi, Scienza, Furtivo <br />e/o Armi leggere per preparare <br />la città all'attacco")
+    id17(Ignora l'attacco)
+    id18("Cure da Red, <br />riparazioni da Pappy <br />e scorte medicinali"):::rewardfo3
     id1-->id2 & id3 & id4
     id2 & id3-->id5
     id4 & id5-->id6

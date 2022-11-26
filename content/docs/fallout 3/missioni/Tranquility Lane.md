@@ -22,17 +22,17 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Tranquillity Lane</b>]:::questfo3
-    id2[Parla con Betty]
-    id11[Trova e attiva il computer Esito-certo]
-    id3[Fai piangere Timmy]
-    id4[Rovina il matrimonio dei Rockwells]
-    id5[Uccidi Mabel Henderson] 
-    id6[Uccidi tutti i residenti] 
-    id7[Esci da Tranquility Lane]
-    id8[Parla con papà]
-    id9[600 PE]:::rewardfo3
-    id10[Prossima missione: <b>Le acque della vita</b>]:::questfo3
+    id1(<b>Tranquillity Lane</b>):::questfo3
+    id2(Parla con Betty)
+    id11(Trova e attiva il computer Esito-certo)
+    id3(Fai piangere Timmy)
+    id4(Rovina il matrimonio dei Rockwells)
+    id5(Uccidi Mabel Henderson) 
+    id6(Uccidi tutti i residenti) 
+    id7(Esci da Tranquility Lane)
+    id8(Parla con papà)
+    id9(600 PE):::rewardfo3
+    id10(Prossima missione: <b>Le acque della vita</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10
     id2-->id11-->id7
     click id10 "../le-acque-della-vita"

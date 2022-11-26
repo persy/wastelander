@@ -22,21 +22,21 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Liberazione dal Paradiso</b>]:::questfo3
-    id2["(Opzionale) Parla con il <br />Sindaco MacCready"]
-    id3[Ottieni l'accesso <br />a Paradise Falls]
-    id4[Parla con Scoiattolo]
-    id5[Riconnetti il terminale di <br />Scoiattolo alla rete]  
-    id6[Distrai o uccidi Quaranta]
-    id7[Aiuta Rory e <br />Penny]
-    id8[Parla con Eulogy]
-    id9[Compra i bambini <br />da Eulogy]
-    id10[Uccidi gli schiavisti]
-    id11[Libera i bambini <br />dalle gabbie]
-    id12[Incontra i bambini fuori <br />da Paradise Fall e <br />accompagnali a Little Lamplight]
-    id13[900 PE <br />Accesso a Little Lamplight]:::rewardfo3
-    id14[Abbandona Rory]
-    id15[Karma negativo]:::rewardfo3
+    id1(<b>Liberazione dal Paradiso</b>):::questfo3
+    id2("(Opzionale) Parla con il <br />Sindaco MacCready")
+    id3(Ottieni l'accesso <br />a Paradise Falls)
+    id4(Parla con Scoiattolo)
+    id5(Riconnetti il terminale di <br />Scoiattolo alla rete)  
+    id6(Distrai o uccidi Quaranta)
+    id7(Aiuta Rory e <br />Penny)
+    id8(Parla con Eulogy)
+    id9(Compra i bambini <br />da Eulogy)
+    id10(Uccidi gli schiavisti)
+    id11(Libera i bambini <br />dalle gabbie)
+    id12(Incontra i bambini fuori <br />da Paradise Fall e <br />accompagnali a Little Lamplight)
+    id13(900 PE <br />Accesso a Little Lamplight):::rewardfo3
+    id14(Abbandona Rory)
+    id15(Karma negativo):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id12-->id13
     id1-->id3
     id3-->id8-->id9-->id12

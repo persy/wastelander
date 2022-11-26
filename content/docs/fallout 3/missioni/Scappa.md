@@ -22,15 +22,15 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Scappa!</b>]:::questfo3-->id2[Parla con Amata del suo piano per fuggire dal Vault]
-    id2-->id3[Fatti strada nel Vault]
-    id3-->id4[Entra nell'ufficio del Soprintendente e <br/>usa il computer del Soprintendente <br/>per accedere al tunnel segreto]
-    id4-->id5[Apri la porta del Vault e fuggi]
-    id3-->id7[Aiuta Butch a salvare sua madre]  
-    id7-->id8[Vestito da serpente del tunnel<br/>karma positivo]:::rewardfo3
-    id5-->id9[Accesso alla zona contaminata, 200 PE]:::rewardfo3
+    id1(<b>Scappa!</b>):::questfo3-->id2(Parla con Amata <br />del suo piano per fuggire <br />dal Vault)
+    id2-->id3(Fatti strada nel Vault)
+    id3-->id4(Entra nell'ufficio del <br />Soprintendente e <br/>usa il computer per <br />accedere al tunnel segreto)
+    id4-->id5(Apri la porta del <br />Vault e fuggi)
+    id3-->id7(Aiuta Butch a <br />salvare sua madre)  
+    id7-->id8(Vestito da serpente del tunnel<br/>karma positivo):::rewardfo3
+    id5-->id9(Accesso alla zona contaminata, 200 PE):::rewardfo3
     id8-->id4
-    id9-->id10[Prossima missione: <b>Seguendo le sue orme</b>]:::questfo3
+    id9-->id10(Prossima missione: <b>Seguendo le sue orme</b>):::questfo3
     click id10 "../seguendo-le-sue-orme"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;

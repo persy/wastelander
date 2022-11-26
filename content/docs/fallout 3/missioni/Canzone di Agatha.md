@@ -23,16 +23,16 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Canzone di Agatha</b>]:::questfo3
-    id2[Incontra Agatha <br />nella sua casa]
-    id3["(Opzionale) Trova il <br />quartier generale <br />della Vault-Tec"]
-    id4[Scopri la posizione del Vault 92]
-    id5[Recupera il Soil Stradivari]
-    id6[Dai il violino <br />ad Agatha]
-    id7[Vendi il violino <br />a qualcun altro] 
-    id8[Karma positivo, <br />nuova frequenza radio]:::rewardfo3
-    id9["200 tappi <br />(300 con Eloquenza)"]:::rewardfo3
-    id[TODO]
+    id1(<b>Canzone di Agatha</b>):::questfo3
+    id2(Incontra Agatha <br />nella sua casa)
+    id3("(Opzionale) Trova il <br />quartier generale <br />della Vault-Tec")
+    id4(Scopri la posizione del Vault 92)
+    id5(Recupera il Soil Stradivari)
+    id6(Dai il violino <br />ad Agatha)
+    id7(Vendi il violino <br />a qualcun altro) 
+    id8(Karma positivo, <br />nuova frequenza radio):::rewardfo3
+    id9("200 tappi <br />(300 con Eloquenza)"):::rewardfo3
+    id(TODO)
     id1-->id2--->id4-->id5-->id6-->id8
     id2-->id3-->id4
     id5-->id7-->id9

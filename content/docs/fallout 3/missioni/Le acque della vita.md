@@ -22,21 +22,21 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1[<b>Le acque della vita</b>]:::questfo3
-    id2[Parla con gli scienziati a Rivet City]
-    id3[Elimina ogni minaccia mutante <br />residua dal Progetto purezza]
-    id4[Sostituisci i fusibili danneggiati <br />nel computer centrale]
-    id5[Scarica i tubi di aspirazione <br />e torna alla sala di controllo]  
-    id6[Accompagna gli scienziati <br />alla Cittadella attraverso <br />il Tunnel di Taft]
-    id7["Risolvi la #quot;situazione#quot; <br />di Garza"]
-    id8[Raggiungi la Cittadella]
-    id9[700 PE]:::rewardfo3
-    id10[Prossima missione: <b>In cerca di indizi</b>]:::questfo3
-    id11[Uccidi Garza]
-    id12[Karma negativo]:::rewardfo3
-    id13[Dagli 5 stimpak]
-    id14[Dagli 3 buffout]
-    id15[Abbandonalo o <br />lascialo indietro]
+    id1(<b>Le acque della vita</b>):::questfo3
+    id2(Parla con gli scienziati a Rivet City)
+    id3(Elimina ogni minaccia mutante <br />residua dal Progetto purezza)
+    id4(Sostituisci i fusibili danneggiati <br />nel computer centrale)
+    id5(Scarica i tubi di aspirazione <br />e torna alla sala di controllo)  
+    id6(Accompagna gli scienziati <br />alla Cittadella attraverso <br />il Tunnel di Taft)
+    id7("Risolvi la #quot;situazione#quot; <br />di Garza")
+    id8(Raggiungi la Cittadella)
+    id9(700 PE):::rewardfo3
+    id10(Prossima missione: <b>In cerca di indizi</b>):::questfo3
+    id11(Uccidi Garza)
+    id12(Karma negativo):::rewardfo3
+    id13(Dagli 5 stimpak)
+    id14(Dagli 3 buffout)
+    id15(Abbandonalo o <br />lascialo indietro)
     id1-->id2-->id3-->id4-->id5-->id6-->id7
     id7-->id11-->id12-->id8
     id7-->id13-->id8

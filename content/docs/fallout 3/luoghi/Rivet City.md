@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Rivet City è una città situata all'interno del relitto di una portaerei a Washington, D.C. È il più grande insediamento nella Zona contaminata della Capitale. 
+Rivet City è una città situata all'interno del relitto di una portaerei a Washington, D.C. È il più grande insediamento nella Zona contaminata della Capitale. La prua, staccata dal resto della nave, è infestata dai mirelurk e racchiude il laboratorio segreto di Pinkerton.
 
 | Mappa                                  | Mappa locale ponte superiore                       | Mappa locale ponte intermedio                    |
 | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
@@ -39,7 +39,6 @@ Altri oggetti:
 
 - **Schemi - Lanciatutto**, nell'armeria (Scasso 100)
 - **Mina da tappo**, su un banco da lavoro a destra del Potomac Attire
-- 3 **buffout** , sugli scaffali del Quick Fix nel mercato di Rivet City
 - 6 **bombe di zucchero**: una sui tavoli accanto a Gary's Galley nel mercato, due scatole nella stanza di Staley nel ponte centrale della nave e altre tre scatole nella stanza di Belle Bonnie nel bar Muddy Rudder
 - **Fucile al plasma di A3-21**, ricompensa per aver completato *L'uomo replicato* in favore di Harkness
 - **Schemi - Guanto da Deathclaw** , ricompensa per la missione nascosta *Posto nel consiglio*, se ci si schiera in favore di Bannon
