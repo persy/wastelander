@@ -5,7 +5,7 @@
 
 main:
   - name: Fallout 3
-    url: docs/fallout-3
+    url: voci/fallout-3
     identifier: fallout3
     weight: 10
   - name: SPECIAL TODO
@@ -18,7 +18,7 @@ main:
     weight: 20
   - name: Abilità extra
     parent: fallout3
-    url: docs/fallout-3/personaggio/abilita-extra 
+    url: voci/fallout-3/personaggio/abilita-extra 
     weight: 30
   - name: Companions TODO
     parent: fallout3
@@ -47,17 +47,17 @@ main:
     weight: 70
   - name: Luoghi 
     parent: fallout3
-    url: docs/fallout-3/luoghi 
+    url: voci/fallout-3/luoghi 
     weight: 9 
   - name: Missioni
     identifier: missioni
     parent: fallout3
-    url: docs/fallout-3/missioni
+    url: voci/fallout-3/missioni
     weight: 90
   - name: <b>Pagina principale</b>
     parent: fallout3
-    url: docs/fallout-3
+    url: voci/fallout-3
     weight: 8
   - name: Fallout New Vegas
-    url: docs/fallout-new-vegas
+    url: voci/fallout-new-vegas
     weight: 20    

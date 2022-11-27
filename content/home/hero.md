@@ -27,7 +27,7 @@ content:
         icon: radiation
         icon_pack: fas
         text: Entra
-        url: docs/fallout-3/        
+        url: voci/fallout-3/        
     - title: Fallout New Vegas
       content: 'New Vegas e il deserto del Mojave'
       align: center
@@ -40,7 +40,7 @@ content:
         icon: radiation
         icon_pack: fas
         text: Entra
-        url: docs/fallout-new-vegas/
+        url: voci/fallout-new-vegas/
 ---
 
 TODO
