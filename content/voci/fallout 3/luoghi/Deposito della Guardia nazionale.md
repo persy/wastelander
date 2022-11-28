@@ -52,5 +52,5 @@ Note:
 	- 1 di 5, [Capanna del traliccio](../capanna-del-traliccio), su uno scaffale
 	- 2 di 5, [Cimitero di Hallowed Moors](../cimitero-di-hallowed-moors), sul leggio della chiesa
 	- 3 di 5, [Grisly diner](../grisly-diner), sul tavolo nel retro
-	- 4 di 5, [Baracca del cecchino](../baracca-del-cecchinobaracca-abbandonata), sul banco da lavoro
+	- 4 di 5, [Baracca del cecchino](../baracca-abbandonata), sul banco da lavoro
 	- 5 di 5, [Anchorage Memorial](../anchorage-memorial), nel campo dei supermutanti a nord, vicino a un semirimorchio oltre il fiume, su un tavolo vicino a una radio

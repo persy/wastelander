@@ -16,6 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+
 *Capo di Stato* è una missione secondaria di Fallout 3. E' data da Hannibal Hamlin al Tempio dell'Unione e da Leroy Walker al Lincoln Memorial.
 
 
@@ -31,9 +32,9 @@ graph TD;
     id7(Ignora o perdi la sfida <br />Eloquenza con Leroy) 
     id8(Vinci la sfida Eloquenza <br />con Leroy)
     id9(Trova il Lincoln Memorial <br />e uccidi tutti i supermutanti <br />e gli schiavisti)
-    id10(Trova il Museo di Storia e impossessati degli oggetti di Lincoln)
+    id10(Trova il Museo di Storia e <br />impossessati degli oggetti <br />di Lincoln)
     id11(Nuka-Cola Quantum):::rewardfo3
-    id12(Fucile, cappello, voce, diario, <br />antica collezione di monete di Lincoln, <br />pupazzo di Action Abe, <br />poster della guerra civile, <br />poster segnaletico del tavolo di John Wilkes, <br />Nuka-ColaQuantum):::rewardfo3
+    id12(Fucile, cappello, voce, diario, <br />antica collezione di monete di Lincoln, <br />pupazzo di Action Abe, <br />poster della guerra civile, <br />poster segnaletico del tavolo di John Wilkes, <br />poster del Lincoln Memorial <br />Nuka-ColaQuantum):::rewardfo3
     id13(Torna al Tempio dell'Unione)
     id14(Trova il Tempio dell'Unione <br />e riferisci la sua posizione <br />a Leroy) 
     id15(Torna al Lincoln Memorial <br />con gli abolizionisti)
@@ -87,5 +88,5 @@ Note:
 - Tutti gli oggetti nella stanza di manutenzione sotto il Lincoln Memorial possono essere presi senza perdere karma
 - Uccidere gli schiavisti al Lincoln Memorial non renderà ostili quelli a Paradise Falls. Tuttavia se gli schiavisti di Paradise Falls sono già stati uccisi, quelli al Lincoln Memorial saranno ostili
 - Se l'Enclave ha già preso possesso del Jefferson Memorial, sarà impossibile completare la missione poiché saranno presenti delle barriere laser lungo il percorso della carovana
-- Se si parla prima con Leroy senza sapere del Tempio dell'Unione, la missione chiederà semplicemente al giocatore di trovare gli schiavi in fuga, se uccidono gli schiavisti. Si può semplicemente andare da Hannibal, quindi parlare con Caleb a casa sua e la missione continuerà da sola
+- Se si parla prima con Leroy senza sapere del Tempio dell'Unione, la missione consisterà nel trovare gli schiavi in fuga, se si ha intenzione di uccidere gli schiavisti. Si può semplicemente andare da Hannibal, quindi parlare con Caleb
 - Alcuni soldati dell'Enclave potrebbero comparire lungo la strada degli schiavisti. Nel conflitto gli schiavisti potrebbero diventare ostili al giocatore

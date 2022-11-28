@@ -70,9 +70,9 @@ features:
       positive: 'Ti è piaciuto, eh? [Hai in mente qualche miglioria?](https://github.com/persy/wastelander/issues/new).'
       negative: 'Mannaggia,  ci spiace.. [Dicci cosa non va](https://github.com/persy/wastelander/issues/new).'
   comment:
-    provider: giscus
+    provider: disqus
     disqus:
-      shortname: ''
+      shortname: wastelander
       show_count: true
     commento:
       url: ''

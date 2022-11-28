@@ -27,8 +27,9 @@ La centrale elettrica MDPL-16 si trova a est del caseificio Chaste Acres e a sud
 | ------------------------ | ------------------------------- |
 | {{<figure src="MDPL_16_PS_loc.webp">}} | {{<figure src="MDPL-16_Power_Station.webp">}} |
 
+| Immagine                              | Oggetto e posizione                                                                                                                                           |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|{{<figure src="NCQ_MDPL-16.jpg">}} | **Nuka-Cola Quantum** e **mina da tappo**, sul banco di lavoro                                                 |
 
 
-Altri oggetti:
-- **Nuka-Cola Quantum** e **mina da tappo**, sul banco di lavoro
 

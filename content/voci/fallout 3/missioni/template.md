@@ -3,7 +3,7 @@
 linktitle: TODO
 summary: ""
 weight: 10
-icon: messages # message-question per le missioni nascoste
+icon: message-question
 icon_pack: fas
 
 # Page metadata.
@@ -11,12 +11,12 @@ title: TODO
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
-tags: "Missioni secondarie di Fallout 3"
+tags: "Missioni nascoste di Fallout 3"
 hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-*TODO* è una missione secondaria di Fallout 3. E' data da TODO a TODO.
+*TODO* è una missione nascosta di Fallout 3. E' data da TODO a TODO.
 
 
 
@@ -39,20 +39,10 @@ graph TD;
     id(TODO):::rewardfo3
     id(Prossima missione: <b>TODO</b>):::questfo3
     id-->id-->id-->id-->id-->id-->id
-    click id "../TODO"
+    click id2 "../../luoghi/TODO"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
-
-| Tappe | Stato              | Descrizione |
-| :-----: | :------------------: | ----------- |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       |                    |             |
-|       | :white_check_mark: |             |
 
 Note:
 - 

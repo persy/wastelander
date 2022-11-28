@@ -9,5 +9,13 @@
     "workbench.editor.enablePreviewFromQuickOpen": true,
     "workbench.editor.enablePreviewFromCodeNavigation": true,
     "markdown.math.enabled": false,
-    "markdown-preview-github-styles.colorTheme": "system"
+    "markdown-preview-github-styles.colorTheme": "system",
+    "cSpell.ignoreWords": [
+        "webp"
+    ],
+    "cSpell.words": [
+        "olonastro",
+        "supermutante",
+        "supermutanti"
+    ]
 }

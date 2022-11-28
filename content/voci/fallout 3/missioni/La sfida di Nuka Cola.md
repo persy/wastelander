@@ -43,10 +43,10 @@ graph TD;
     id16(Torta Mississippi Quantum):::rewardfo3
     id17(40 tappi <br />per bottiglia):::rewardfo3 
     id18(40-80 tappi <br />per bottiglia):::rewardfo3
-    id19(Missione nascosta <br /><b>Sudden-Death Overtime</b>):::questfo3
+    id19(Missione nascosta <br /><b>Per il gusto</b>):::questfo3
     id20(Trova la cassaforte <br />nel locale uffici)
-    id21(Formula Nuka-Cola Clear)
-    id24(Vai all'entrata <br />della Fabbrica Red Racer)
+    id21(Prendi la formula della <br />Nuka-Cola Clear)
+    id24(Vai all'entrata della <br />Fabbrica Red Racer)
     id25(Affronta o mettiti <br />d'accordo con <br />il portiere Ledoux)
     id26(250-400 tappi, <br />maschera da hockey di Ledoux):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id22 
@@ -59,7 +59,7 @@ graph TD;
     id15-->id18
     id19-->id20-->id6-->id23-->id21-->id24-->id25-->id26
     id5-->id20
-    click id "../TODO"
+    click id "../../luoghi/girdershade"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```

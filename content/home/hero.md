@@ -22,7 +22,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7
-        media: Fallout_3_cover_art.webp
+        media: fo3GIF.gif
       link:
         icon: radiation
         icon_pack: fas
@@ -35,7 +35,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: FNV_box_art_29.webp
+        media: fonvGIF.gif
       link:
         icon: radiation
         icon_pack: fas
