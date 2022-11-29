@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Un bel giorno per un bel matrimonio* è una missione nascosta di Fallout 3. E' data da Angela Staley a Rivet City.
+*Un bel giorno per un bel matrimonio* è una missione nascosta di Fallout 3. È data da Angela Staley a Rivet City.
 
 
 

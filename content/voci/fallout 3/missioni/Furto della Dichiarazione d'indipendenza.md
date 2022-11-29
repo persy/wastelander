@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Furto della Dichiarazione d'Indipendenza* è una missione secondaria di Fallout 3. E' data da Abraham Washington a Rivet City e da Sydney agli Archivi nazionali.
+*Furto della Dichiarazione d'Indipendenza* è una missione secondaria di Fallout 3. È data da Abraham Washington a Rivet City e da Sydney agli Archivi nazionali.
 
 
 
@@ -47,7 +47,7 @@ graph TD;
     id21(Accetta d'aiutarlo)
     id22(Karma negativo):::rewardfo3
     id23(Karma positivo):::rewardfo3
-    id24(Trova il contenitore per l'inchiostro alla biblioteca di Arlington)
+    id24(Trova il contenitore per l'inchiostro alla Biblioteca di Arlington)
     id24(Convinci Gwinnett <br />a continuare <br />la lotta)
     id25(Ordina a Gwinnett <br />di autodistruggersi)
     id30(Karma <br />positivo):::rewardfo3
@@ -87,5 +87,5 @@ Note:
 - Per disattivare le torrette è necessario Ripara 60, ma per poter accedere al generatore è necessario riparare la porta con Scienza 67
 - Sydney non si comporta come un normale companion e la sua salute non si ripristinerà finita la battaglia ma bisognerà fornirle costantemente stimpak
     - Con il reverse-pickpocketing è possibile darle un'armatura più resistente
-- E' possibile ottenere la "Super" mitragliatrice da 10mm di Sydney dandole a fine missione la nota "Una nota dal padre di Little Moonbeam"
+- È possibile ottenere la "Super" mitragliatrice da 10mm di Sydney dandole a fine missione la nota "Una nota dal padre di Little Moonbeam"
   - La nota si trova al piano intermedio dello Statesman Hotel

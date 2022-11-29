@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Impero mercantile* è una missione nascosta di Fallout 3. E' data da Zio Roe a Canterbury Commons.
+*Impero mercantile* è una missione nascosta di Fallout 3. È data da Zio Roe a Canterbury Commons.
 
 
 
@@ -45,5 +45,5 @@ graph TD;
 ```
 
 Note:
-- E' possibile investire i propri tappi su qualsiasi mercante in qualsiasi ordine
+- È possibile investire i propri tappi su qualsiasi mercante in qualsiasi ordine
 - L'inventario verrà migliorato solo dopo il secondo investimento e dopo che sono  trascorse almeno 72 ore di gioco

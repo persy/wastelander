@@ -33,7 +33,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 
 #### Segnale Oscar Zulu (OZ)
-E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 e a nord-est del Tempio dell'Unione.
+È nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 e a nord-est del Tempio dell'Unione.
 
 
 
@@ -47,7 +47,7 @@ E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 
 
 
 #### Segnale Alfa Lima (AL)
-E' nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ovest del santuario dei Deathclaw.
+È nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ovest del santuario dei Deathclaw.
 
 
 
@@ -83,7 +83,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 
 
 #### Segnale Sierra Romeo (SR)
-E' sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little Lamplight e a nord-est del Vault 87.
+È sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little Lamplight e a nord-est del Vault 87.
 
 
 
@@ -106,7 +106,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 
 
 #### Segnale Sierra Victor (SV)
-E' nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e rifornimento di Jocko e a est della centrale elettrica VAPL-66.
+È nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e rifornimento di Jocko e a est della centrale elettrica VAPL-66.
 
 | Mappa                                            | Panoramica                                   |
 | ------------------------------------------------ | -------------------------------------------- |

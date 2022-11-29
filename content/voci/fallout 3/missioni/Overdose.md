@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Overdose* è una missione nascosta di Fallout 3. E' data da Paulie Cantelli a Rivet City.
+*Overdose* è una missione nascosta di Fallout 3. È data da Paulie Cantelli a Rivet City.
 
 
 

@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Riprenditelo!* è la dodicesima missione principale di Fallout 3. E' data da Lyons l'Anziano alla Cittadella.
+*Riprenditelo!* è la dodicesima missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
 
 

@@ -10,6 +10,7 @@ icon_pack: fas
 title: Accademia Roosevelt
 date: 2022-11-17
 type: book # Do not modify.
+commentable: true
 tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---

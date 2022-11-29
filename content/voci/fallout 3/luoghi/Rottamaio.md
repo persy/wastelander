@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. E' il luogo dove è possibile incontrare e reclutare Dogmeat.
+Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. È il luogo dove è possibile incontrare e reclutare Dogmeat.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |

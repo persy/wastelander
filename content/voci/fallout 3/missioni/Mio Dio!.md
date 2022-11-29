@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Mio Dio!* è una missione secondaria di Fallout 3. E' data da Bryan Wilks a Grayditch.
+*Mio Dio!* è una missione secondaria di Fallout 3. È data da Bryan Wilks a Grayditch.
 
 
 ```mermaid

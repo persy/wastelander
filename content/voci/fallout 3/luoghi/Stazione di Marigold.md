@@ -17,7 +17,7 @@ hidden: true
 
 
 
-La stazione di Marigold è una delle stazioni della metropolitana sulla Linea Blu e si trova a Grayditch. È il percorso più semplice da prendere per raggiungere Falls Church. E' infestato dalle formiche di fuoco.
+La stazione di Marigold è una delle stazioni della metropolitana sulla Linea Blu e si trova a Grayditch. È il percorso più semplice da prendere per raggiungere Falls Church. È infestato dalle formiche di fuoco.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

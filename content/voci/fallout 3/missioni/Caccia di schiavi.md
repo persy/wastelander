@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Caccia di schiavi* è una missione nascosta di Fallout 3. E' data da Mei Wong a Rivet City.
+*Caccia di schiavi* è una missione nascosta di Fallout 3. È data da Mei Wong a Rivet City.
 
 
 

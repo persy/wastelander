@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Ricerca Giardino dell'Eden* è la decima missione principale el gioco. E' data dallo Scriba Rothchild alla Cittadella.
+*Ricerca Giardino dell'Eden* è la decima missione principale el gioco. È data dallo Scriba Rothchild alla Cittadella.
 
 
 
@@ -49,5 +49,5 @@ graph TD;
 
 
 Note:
-- E' richiesta Scienza 50 e 75 per sbloccare tutti i terminali
+- È richiesta Scienza 50 e 75 per sbloccare tutti i terminali
 - Nella camera a destra a quella in cui si ottiene il K.R.E.G. c'è una tuta antiradiazioni avanzata

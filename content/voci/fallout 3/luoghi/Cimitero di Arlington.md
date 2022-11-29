@@ -26,4 +26,4 @@ Il cimitero di Arlington occupa la maggior parte di quello che resta del distret
 
 | Immagine                 | Oggetto e posizione                                                                                                                                                           | 
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Dead_Regulator.webp">}} | **Avviso taglia: Junders Plunkett**, sul cadavere di un giustiziere all'ingresso della stazione settentrionale di Arlington. E' necessaria l'abilità extra Portatore di legge |
+| {{<figure src="Dead_Regulator.webp">}} | **Avviso taglia: Junders Plunkett**, sul cadavere di un giustiziere all'ingresso della stazione settentrionale di Arlington. È necessaria l'abilità extra Portatore di legge |

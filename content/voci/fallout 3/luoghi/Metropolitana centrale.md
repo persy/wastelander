@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-La metropolitana centrale fa parte del sistema metropolitano sotterraneo della Zona contaminata della Capitale ed la più grande stazione della metropolitana della regione. In questa stazione si incontrano la Linea Rossa e la Linea Bianca, connettendo fra di loro Dupont Circle e le stazioni di Foggy Bottom e di Freedom Street e quella per il Museo. E' infestata dai ghoul.
+La metropolitana centrale fa parte del sistema metropolitano sotterraneo della Zona contaminata della Capitale ed la più grande stazione della metropolitana della regione. In questa stazione si incontrano la Linea Rossa e la Linea Bianca, connettendo fra di loro Dupont Circle e le stazioni di Foggy Bottom e di Freedom Street e quella per il Museo. È infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

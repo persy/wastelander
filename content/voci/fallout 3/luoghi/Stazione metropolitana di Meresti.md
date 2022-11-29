@@ -17,7 +17,7 @@ hidden: true
 
 
 
-La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. E' accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti.
+La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. È accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

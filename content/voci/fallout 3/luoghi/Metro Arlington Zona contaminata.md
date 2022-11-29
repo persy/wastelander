@@ -24,4 +24,4 @@ La Metro Arlington/Zona contaminata, chiamata anche erroneamente "metropolitana 
 | {{<figure src="Arlington_Wasteland_Metro_loc.webp">}}  | {{<figure src="Metro_Arlington_Wasteland_Metro.webp">}}  | {{<figure src="Flooded_Metro_near_WW.webp">}}  |
 
 Note:
-- La vera metropolitana allagata collega la biblioteca di Arlington e la fabbrica Red Racer
+- La vera metropolitana allagata collega la Biblioteca di Arlington e la fabbrica Red Racer

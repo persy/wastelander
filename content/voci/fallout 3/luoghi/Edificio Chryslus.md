@@ -18,7 +18,7 @@ hidden: true
 
 
 
-L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia di Washington, DC., a nord-est del Super-Duper Mart, oltre il Potomac. E' infestato da supermutanti e centauri.
+L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia di Washington, DC., a nord-est del Super-Duper Mart, oltre il Potomac. È infestato da supermutanti e centauri.
 
 
 | Mappa                                         | Panoramica                                | Interno                                            |

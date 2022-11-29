@@ -18,7 +18,7 @@ hidden: true
 
 
 
-Il distretto di Dupont Circle si trova nella parte settentrionale di Washington, D.C.. E' raggiungibile dal tunnel crollato, dalla Metro Junction, dalla piazza dell'edificio di GNR, e dalla fogna secca.
+Il distretto di Dupont Circle si trova nella parte settentrionale di Washington, D.C.. È raggiungibile dal tunnel crollato, dalla Metro Junction, dalla piazza dell'edificio di GNR, e dalla fogna secca.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

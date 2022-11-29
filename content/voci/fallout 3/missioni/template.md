@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-*TODO* è una missione nascosta di Fallout 3. E' data da TODO a TODO.
+*TODO* è una missione nascosta e ripetibile di Fallout 3. È data da TODO a TODO.
 
 
 

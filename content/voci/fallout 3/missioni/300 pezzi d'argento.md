@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*300 pezzi d'argento* è una missione nascosta di Fallout 3. E' data da Silver a Springvale o da Moriarty a Megaton.
+*300 pezzi d'argento* è una missione nascosta di Fallout 3. È data da Silver a Springvale o da Moriarty a Megaton.
 
 
 

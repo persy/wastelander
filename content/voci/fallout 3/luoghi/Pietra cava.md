@@ -29,5 +29,5 @@ Altri oggetti:
 - Fucile da cecchino,  **Stealth Boy**, nota "Come richiesto", all'interno della pietra cava
 
 Note:
-- E' possibile usare Dogmeat per trovare velocemente la posizione della pietra cava
+- È possibile usare Dogmeat per trovare velocemente la posizione della pietra cava
 - Una volta preso il fucile da cecchino, potrebbe apparire Sam Warrick

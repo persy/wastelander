@@ -236,7 +236,7 @@ L'area per escursioni e campeggio F. Scott Key è un campeggio situato a sud di 
 
 
 ### Area picnic patriottica
-L'area picnic patriottica è una località non contrassegnata situata a nord-est della metropolitana di Jury Street, a sud del Vault 106 e a nord-ovest della Vault 101. E' spesso frequentata dagli yao guai.
+L'area picnic patriottica è una località non contrassegnata situata a nord-est della metropolitana di Jury Street, a sud del Vault 106 e a nord-ovest della Vault 101. È spesso frequentata dagli yao guai.
 
 | Mappa                                 | Panoramica                                    |
 | ------------------------------------- | --------------------------------------------- |
@@ -261,7 +261,7 @@ Arefu è un piccolo insediamento composto da quattro case situate in cima a un p
 | Immagine                                                | Oggetto e posizione                                                                                                                                                                                                                     |
 | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="Repair_bobblehead_Evan_King_res.webp">}} | **Bambolina - Ripara**, sul tavolo al piano di sotto, all'interno della casa di Evan King                                                                                                                                               |
-| {{<figure src="FO3_PI_Abandoned_Shack_Arefu.webp">}}    | **Pugilato illustrato**, su un tavolo nella residenza abbandonata, vicino al recinto dei bramini. E' accessibile solo dopo aver completato la missione *Legami di sangue* e informato Vance dell'accordo con Arefu (deve essere rubato) |
+| {{<figure src="FO3_PI_Abandoned_Shack_Arefu.webp">}}    | **Pugilato illustrato**, su un tavolo nella residenza abbandonata, vicino al recinto dei bramini. È accessibile solo dopo aver completato la missione *Legami di sangue* e informato Vance dell'accordo con Arefu (deve essere rubato) |
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in cima ad un palo del molo a sud-est di Arefu 
@@ -390,7 +390,7 @@ Altri oggetti:
 
 
 ### Bed & Breakfast di Kaelyn
-Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. E' presieduto dai predatori.
+Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. È presieduto dai predatori.
 
 | Mappa                                 | Panoramica                        |
 | ------------------------------------- | --------------------------------- |
@@ -463,7 +463,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 
 #### Segnale Oscar Zulu (OZ)
-E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 e a nord-est del Tempio dell'Unione.
+È nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 e a nord-est del Tempio dell'Unione.
 
 
 
@@ -477,7 +477,7 @@ E' nel quadrante nord-est della mappa, un po' a sud-est del ripetitore KX-B8-11 
 
 
 #### Segnale Alfa Lima (AL)
-E' nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ovest del santuario dei Deathclaw.
+È nel quadrante nord-ovest della mappa, presso il ripetitore KB5, appena ad ovest del santuario dei Deathclaw.
 
 
 
@@ -513,7 +513,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 
 
 #### Segnale Sierra Romeo (SR)
-E' sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little Lamplight e a nord-est del Vault 87.
+È sul bordo occidentale della mappa presso il ripetitore KT8, a nord di Little Lamplight e a nord-est del Vault 87.
 
 
 
@@ -536,7 +536,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 
 
 #### Segnale Sierra Victor (SV)
-E' nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e rifornimento di Jocko e a est della centrale elettrica VAPL-66.
+È nel quadrante sud-ovest della mappa, a sud-est dell'area di ristoro e rifornimento di Jocko e a est della centrale elettrica VAPL-66.
 
 | Mappa                                            | Panoramica                                   |
 | ------------------------------------------------ | -------------------------------------------- |
@@ -695,7 +695,7 @@ Altri oggetti:
 
 
 ### Canale dei predatori
-Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. E' pattugliato da predatori e supermutanti.
+Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. È pattugliato da predatori e supermutanti.
 
 | Mappa                                        | Panoramica                           |
 | -------------------------------------------- | ------------------------------------ |
@@ -747,7 +747,7 @@ Altri oggetti:
 
 
 ### Cappella del tabernacolo di Dickerson
-La cappella del tabernacolo di Dickerson è una chiesa in rovina nell'angolo nord-ovest della Zona contaminata della Capitale e si trova tra il santuario dei Deathclaw, la stazione di trasmissione WKML e l'area campeggio Mount Mabel. E' sorvegliata da un cecchino.
+La cappella del tabernacolo di Dickerson è una chiesa in rovina nell'angolo nord-ovest della Zona contaminata della Capitale e si trova tra il santuario dei Deathclaw, la stazione di trasmissione WKML e l'area campeggio Mount Mabel. È sorvegliata da un cecchino.
 
 | Mappa                                    | Panoramica                                          |
 | ---------------------------------------- | --------------------------------------------------- |
@@ -885,7 +885,7 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, in una cassa di legno (B) 
 
 ### Caverna sulla rupe/Caverna degli Yao Guai
-La caverna sulla rupe è una grande caverna, ad est della Torre Tenpenny e direttamente ad ovest di Andale. E' occupata dai predoni e numerosi yao guai. 
+La caverna sulla rupe è una grande caverna, ad est della Torre Tenpenny e direttamente ad ovest di Andale. È occupata dai predoni e numerosi yao guai. 
 
 
 | Mappa                                        | Mappa locale                                 | Panoramica                               |
@@ -1212,7 +1212,7 @@ Altri oggetti:
 
 
 ### Deposito della Guardia nazionale
-Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. E'  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
+Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. È  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
 
 | Mappa                                            | Mappa locale                                     | Panoramica                                   |
 | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
@@ -1250,7 +1250,7 @@ Note:
 
 
 ### Discarica di Greener Pastures
-La discarica di Greener Pastures è una delle più grandi aree radioattive della Zona contaminata della Capitale e si trova a nord-ovest del Tempio dell'Unione, a sud-ovest del Vecchio Olney e a nord-est della centrale elettrica MDPL-13. E' infestata da molteplici creature mutate tra cui yao guai e scorpioni radioattivi.
+La discarica di Greener Pastures è una delle più grandi aree radioattive della Zona contaminata della Capitale e si trova a nord-ovest del Tempio dell'Unione, a sud-ovest del Vecchio Olney e a nord-est della centrale elettrica MDPL-13. È infestata da molteplici creature mutate tra cui yao guai e scorpioni radioattivi.
 
 
 | Mappa                                        | Panoramica                                          |
@@ -1275,7 +1275,7 @@ Oggetti utili:
 
 
 ### Discarica di Mason Dixon
-La discarica di Mason Dixon è una località della Zona contaminata della Capitale e si trova a nord-ovest di Paradise Falls e a sud-ovest del gruppo satelliti SatCom NN-03d. E' infestata dai supermutanti.
+La discarica di Mason Dixon è una località della Zona contaminata della Capitale e si trova a nord-ovest di Paradise Falls e a sud-ovest del gruppo satelliti SatCom NN-03d. È infestata dai supermutanti.
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
@@ -1332,7 +1332,7 @@ Drowned Devil's Crossing è un ponte crollato e si trova tra il drive-in Silver 
 
 
 ### Edificio Chryslus
-L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia di Washington, DC., a nord-est del Super-Duper Mart, oltre il Potomac. E' infestato da supermutanti e centauri.
+L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia di Washington, DC., a nord-est del Super-Duper Mart, oltre il Potomac. È infestato da supermutanti e centauri.
 
 
 | Mappa                                         | Panoramica                                | Interno                                            |
@@ -1446,7 +1446,7 @@ Note:
 
 
 ### Fabbrica Corvega
-La fabbrica Corvega si trova a sud-ovest del Vault 108 nella Zona contaminata della Capitale. E' infestata da formiche giganti.
+La fabbrica Corvega si trova a sud-ovest del Vault 108 nella Zona contaminata della Capitale. È infestata da formiche giganti.
 
 | Mappa                                       | Mappa locale                                | Panoramica                              |
 | ------------------------------------------- | ------------------------------------------- | --------------------------------------- |
@@ -1537,7 +1537,7 @@ Questa fogna è un luogo non contrassegnato costituita da una piccola serie  di 
 
 
 ### Fort Bannister
-Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. E' la base operativa dei mercenari della Compagnia dell'Artiglio.
+Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. È la base operativa dei mercenari della Compagnia dell'Artiglio.
 
 | Mappa                                      | Mappa locale                                     | Panoramica                             |
 | ------------------------------------------ | ------------------------------------------------ | -------------------------------------- |
@@ -1563,7 +1563,7 @@ Altri oggetti:
 
 
 ### Fort Constantine
-Fort Constantine è una grande base militare contenente un deposito di bombe atomiche e un impianto di lancio, posta nella parte nord-ovest della Zona contaminata della Capitale, tra il gruppo satelliti SatCom NW-05a e il gruppo satelliti SatCom NN-03d. E' sorvegliato da un'ampia varietà di robot.
+Fort Constantine è una grande base militare contenente un deposito di bombe atomiche e un impianto di lancio, posta nella parte nord-ovest della Zona contaminata della Capitale, tra il gruppo satelliti SatCom NW-05a e il gruppo satelliti SatCom NN-03d. È sorvegliato da un'ampia varietà di robot.
 
 | Mappa                                       | Mappa locale                                 | Panoramica                                        |
 | ------------------------------------------- | -------------------------------------------- | ------------------------------------------------- |
@@ -1689,7 +1689,7 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, dietro un bidone contenente molte lattine piegate e bottiglie di soda vuote
 
 ### Germantown
-Germantown è una città in rovina e fa parte dell'area prebellica di Washington, D.C. E' ora abitata dai supermutanti.
+Germantown è una città in rovina e fa parte dell'area prebellica di Washington, D.C. È ora abitata dai supermutanti.
 
 *Vedi [Centrale di polizia di Germantown](../centrale-di-polizia-di-germantown)*
 
@@ -1722,7 +1722,7 @@ Altri oggetti:
 
 
 ### Grisly diner
-Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell'Unione e a sud-ovest del ripetitore KX-B8-11. E' usato dai predoni per tendere imboscate.
+Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell'Unione e a sud-ovest del ripetitore KX-B8-11. È usato dai predoni per tendere imboscate.
 
 | Mappa                                    | Panoramica                             |
 | ---------------------------------------- | -------------------------------------- |
@@ -1922,7 +1922,7 @@ Altri oggetti:
 
 
 ### Minefield
-Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. E' situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
+Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. È situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -2172,7 +2172,7 @@ Altri oggetti:
 - Fucile da cecchino,  **Stealth Boy**, nota "Come richiesto", all'interno della pietra cava
 
 Note:
-- E' possibile usare Dogmeat per trovare velocemente la posizione della pietra cava
+- È possibile usare Dogmeat per trovare velocemente la posizione della pietra cava
 - Una volta preso il fucile da cecchino, potrebbe apparire Sam Warrick
 
 
@@ -2198,7 +2198,7 @@ Altri oggetti:
 
 
 ### QG Giustizieri
-Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. E' accessibile solo con l'abilità extra Portatore di legge (liv. 14).
+Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. È accessibile solo con l'abilità extra Portatore di legge (liv. 14).
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
@@ -2276,7 +2276,7 @@ Altri oggetti:
 
 
 ### Rifornimento elettrico di Hank (Broken Steel)
-Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazione metropolitana di Jury Street. E' occupato dai predoni.
+Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazione metropolitana di Jury Street. È occupato dai predoni.
 
 
 | Mappa                                      | Panoramica                                      |
@@ -2436,7 +2436,7 @@ Altri oggetti:
 
 
 ### Rockland Car Tunnel (Broken Steel)
-Il Rockland Car Tunnel è una sezione di un tunnel stradale crollato situato nell'angolo sud-ovest della Zona contaminata della Capitale. E' spesso infestato da deathclaw o scorpioni radioattivi giganti.
+Il Rockland Car Tunnel è una sezione di un tunnel stradale crollato situato nell'angolo sud-ovest della Zona contaminata della Capitale. È spesso infestato da deathclaw o scorpioni radioattivi giganti.
 
 | Mappa                                           | Mappa locale                                          | Panoramica                                  |
 | ----------------------------------------------- | ----------------------------------------------------- | ------------------------------------------- |
@@ -2460,7 +2460,7 @@ Rockopolis è una località non segnalata sul bordo occidentale della Zona conta
 
 
 ### Rottamaio
-Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. E' il luogo dove è possibile incontrare e reclutare Dogmeat.
+Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. È il luogo dove è possibile incontrare e reclutare Dogmeat.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -2607,7 +2607,7 @@ La scuola di Springvale è un edificio occupato dai predatori ed situato a nord 
 
 
 ### Shalebridge
-Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-ovest del forte delle auto abbandonate. E' costituita da una torre di trasmissione diroccata, una serie  tunnel e da Shalebridge Hill. Questi ultimi ospitano colonie di formiche rivali.
+Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-ovest del forte delle auto abbandonate. È costituita da una torre di trasmissione diroccata, una serie  tunnel e da Shalebridge Hill. Questi ultimi ospitano colonie di formiche rivali.
 
 | Mappa                                   | Mappa locale tunnel                             | Panoramica                          |
 | --------------------------------------- | ----------------------------------------------- | ----------------------------------- |

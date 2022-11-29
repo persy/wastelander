@@ -7,7 +7,7 @@ icon: message-question
 icon_pack: fas
 
 # Page metadata.
-title: TODO
+title: Elezioni
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Elezioni* è una missione nascosta di Fallout 3. E' data da Dave alla Repubblica di Dave.
+*Elezioni* è una missione nascosta di Fallout 3. È data da Dave alla Repubblica di Dave.
 
 
 

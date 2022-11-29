@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-**L'uomo duplicato** è una missione secondaria di Fallout 3. E' data dal Dottor Zimmer.a Rivet City.
+**L'uomo duplicato** è una missione secondaria di Fallout 3. È data dal Dottor Zimmer.a Rivet City.
 
 
 
@@ -61,7 +61,7 @@ graph TD;
 | 200 |   :white_check_mark:    |   <Non visibile al giocatore>                                                                                                |
 
 Note:
-- E' possibile trovare gli indizi in giro per tutta la mappa 
+- È possibile trovare gli indizi in giro per tutta la mappa 
   - Rapporti medici
     - Dottor Banfield, Torre Tenpenny
     - Dott. Church, Megaton
@@ -85,8 +85,8 @@ Note:
     - Padre Clifford, Rivet City
     - Herbert Dashwood, Torre Tenpenny
     - Tulip, Inferi
-- E' possibile ottenere l'arma unica di Harkness e l'abilità extra da Zimmer semplicemente rivelando ad Harkness che è un androide e, prima di selezionare qualsiasi altro dialogo, offrirci di uccidere Zimmer dicendo "Cosa farai con Zimmer? È da lui che stai scappando." e "A dire il vero, speravo che mi avresti permesso di ucciderlo.". 
+- È possibile ottenere l'arma unica di Harkness e l'abilità extra da Zimmer semplicemente rivelando ad Harkness che è un androide e, prima di selezionare qualsiasi altro dialogo, offrirci di uccidere Zimmer dicendo "Cosa farai con Zimmer? È da lui che stai scappando." e "A dire il vero, speravo che mi avresti permesso di ucciderlo.". 
   - In questo modo Harkness ci consegnerà l'arma e, una volta raggiunto Zimmer, invece di ucciderlo subito sarà possibile rivelargli l'identità dell'androide e ottenere l'abilità extra, finendo la missione. 
-  - E' poi ancora possibile scegliere se uccidere Zimmer o lasciare che resetti e porti via Harkness
+  - È poi ancora possibile scegliere se uccidere Zimmer o lasciare che resetti e porti via Harkness
 - Una volta che Zimmer lascerà Rivet City, sparirà dal gioco
 - Per entrare nella prua della nave è necessario attraversare una porta a tenuta stagna che risulta sommersa

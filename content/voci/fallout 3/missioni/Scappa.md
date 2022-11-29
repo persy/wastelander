@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Scappa!* è la quarta missione principale di Fallout 3. E' data da Amata al Vault 101.
+*Scappa!* è la quarta missione principale di Fallout 3. È data da Amata al Vault 101.
 
 
 ```mermaid
@@ -50,6 +50,6 @@ graph TD;
 
 Note:
 - A prescindere dall'esperienza guadagnata durante questa missione, non si salirà di livello fintanto che non si lascia il Vault
-- E' possibile cambiare l'aspetto fisico e riassegnare gli S.P.E.C.I.A.L. e le specialità poco prima di uscire dal Vault
+- È possibile cambiare l'aspetto fisico e riassegnare gli S.P.E.C.I.A.L. e le specialità poco prima di uscire dal Vault
 - Tutti possono essere uccisi, tranne Amata, Andy e Stanley
   - Se il Soprintendente muore, Amata sarà arrabbiata con il protagonista; Butch avrà la stessa reazione se Ellen muore

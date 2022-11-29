@@ -17,7 +17,7 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Canzone di Agatha* è una missione secondaria di Fallout 3. E' data da Agatha alla casa di Agatha.
+*Canzone di Agatha* è una missione secondaria di Fallout 3. È data da Agatha alla casa di Agatha.
 
 
 ```mermaid
@@ -54,7 +54,7 @@ graph TD;
 
 Note:
 - Sei si è scortesi con Agatha non sarà possibile ottenere la missione
-- E' possibile chiedere ad Agatha la chiave della scatola di munizioni proprio all'inizio della missione
-- E' possibile vendere il Soil Stradivari ad Ahrukhal, agli Inferi, o ad Abraham Washington, a Rivet City
+- È possibile chiedere ad Agatha la chiave della scatola di munizioni proprio all'inizio della missione
+- È possibile vendere il Soil Stradivari ad Ahrukhal, agli Inferi, o ad Abraham Washington, a Rivet City
 - Dopo averlo venduto anche se si ricompra il Soil Stradivari la missione non permetterà di consegnarlo ad Agatha
 - Vendere il violino, anche se non si ha mai interagito con Agatha, la renderà furiosa e la missione non sarà più ottenibile

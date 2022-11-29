@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. E'  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
+Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. È  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
 
 | Mappa                                            | Mappa locale                                     | Panoramica                                   |
 | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |

@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Bottino di Jiggs* è una missione nascosta di Fallout 3. E' data da Prime attraverso i terminali del Museo di Tecnologia.
+*Bottino di Jiggs* è una missione nascosta di Fallout 3. È data da Prime attraverso i terminali del Museo di Tecnologia.
 
 
 

@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Buon compleanno* è una missione nascosta di Fallout 3. E' data da Sticky a Little Lamplight.
+*Buon compleanno* è una missione nascosta di Fallout 3. È data da Sticky a Little Lamplight.
 
 
 

@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*In cerca di indizi* è la nona missione principale di Fallout 3. E' data da Lyons l'Anziano alla Cittadella.
+*In cerca di indizi* è la nona missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
 
 ```mermaid

@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-La biblioteca di Arlington, ufficialmente la Biblioteca del Congresso, è un edificio  per lo più intatto situato nella parte meridionale della mappa, a sud-ovest di Alexandria Arms. È in gran parte occupata da predatori, mentre l'atrio è presieduto dalla Confraternita d'Acciaio. Si suddivide in tre aree: l'ingresso, la sezione bambini e gli archivi multimediali.
+La Biblioteca di Arlington, ufficialmente la Biblioteca del Congresso, è un edificio  per lo più intatto situato nella parte meridionale della mappa, a sud-ovest di Alexandria Arms. È in gran parte occupata da predatori, mentre l'atrio è presieduto dalla Confraternita d'Acciaio. Si suddivide in tre aree: l'ingresso, la sezione bambini e gli archivi multimediali.
 
 | Mappa                           | Panoramica                  |
 | ------------------------------- | --------------------------- |
@@ -53,4 +53,4 @@ Altri oggetti:
 	- ** Mina da tappo ** su un banco da lavoro nell'avamposto della Compagnia dell'Artiglio a sud-ovest
 
 Note:
-- E' possibile consegnare i libri prebellici allo Scriba Yearling (missione nascosta *Voglia di apprendimento*). Per ogni libro consegnato si guadagnano 100 tappi e 10 PE
+- È possibile consegnare i libri prebellici allo Scriba Yearling (missione nascosta *Voglia di apprendimento*). Per ogni libro consegnato si guadagnano 100 tappi e 10 PE

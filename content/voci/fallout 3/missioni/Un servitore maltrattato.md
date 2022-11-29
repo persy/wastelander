@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Un servitore maltrattato* è una missione nascosta di Fallout 3. E' data da interagendo con il cadavere di Argyle a Rockopolis.
+*Un servitore maltrattato* è una missione nascosta di Fallout 3. È data da interagendo con il cadavere di Argyle a Rockopolis.
 
 
 
@@ -39,5 +39,5 @@ graph TD;
 
 
 Note:
-- E' necessario parlare con Herbert Dashwood prima di far entrare o uccidere Roy Phillips e i suoi ghoul nella missione *Torre Tenpenny*, altrimenti lo ritroveremo già morto o si rifiuterà di parlarci
+- È necessario parlare con Herbert Dashwood prima di far entrare o uccidere Roy Phillips e i suoi ghoul nella missione *Torre Tenpenny*, altrimenti lo ritroveremo già morto o si rifiuterà di parlarci
   - In entrambi i casi sarà impossibile ottenere la chiave (borseggio o saccheggiando il cadavere)

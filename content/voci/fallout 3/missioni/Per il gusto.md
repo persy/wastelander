@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Per il gusto* è una missione nascosta di Fallout 3. E' data interagendo con il corpo di Winger Mercier allo stabilimento Nuka-Cola.
+*Per il gusto* è una missione nascosta di Fallout 3. È data interagendo con il corpo di Winger Mercier allo stabilimento Nuka-Cola.
 
 
 

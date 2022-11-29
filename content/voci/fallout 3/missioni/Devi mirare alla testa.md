@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Devi mirare alla testa* è una missione secondaria di Fallout 3. E' data dal Sig. Crowley agli Inferi.
+*Devi mirare alla testa* è una missione secondaria di Fallout 3. È data dal Sig. Crowley agli Inferi.
 
 
 
@@ -78,9 +78,9 @@ graph TD;
 |  100  | :white_check_mark: | Recupera la ricompensa da Alistair Tenpenny              |
 
 Note:
-- E' possibile completare la missione dando le chiavi a Crowley per poi ucciderlo e impossessarcene di nuovo
+- È possibile completare la missione dando le chiavi a Crowley per poi ucciderlo e impossessarcene di nuovo
   - Ucciderlo fuori dagli Inferi, come per esempio nell'atrio del Museo di Storia, non renderà ostili i suoi residenti
-- E' possibile completare la missione *Torre Tenpenny* in maniera pacifica se non si dice a Tenpenny che siamo i sicari di Crowley
+- È possibile completare la missione *Torre Tenpenny* in maniera pacifica se non si dice a Tenpenny che siamo i sicari di Crowley
   - Per ottenere il bonus del colpo alla testa bisogna ucciderlo prima di far entrare i ghoul dal seminterrato, altrimenti saranno loro ad ucciderlo
 - Sono necessarie solo tre chiavi per completare la missione e si possono consegnare in qualsiasi ordine, una alla volta o tutte assieme
 - Se ci si rifiuta di dargli le chiavi, Crowley diventerà ostile, come tutto il resto degli Inferi

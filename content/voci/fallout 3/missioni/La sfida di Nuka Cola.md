@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*La sfida di Nuka Cola* è una missione secondaria di Fallout 3. E' data da Sierra Petrovita a Girdershade.
+*La sfida di Nuka Cola* è una missione secondaria di Fallout 3. È data da Sierra Petrovita a Girdershade.
 
 
 
@@ -74,7 +74,7 @@ graph TD;
 |  45   | :white_check_mark: | (Facoltativo) Recupera 30 bottiglie di Nuka Cola Quantum e portale a Ronald Laren        |
 
 Note:
-- E' possibile ottenere la maschera da hockey di Ledoux solo durante questa missione
+- È possibile ottenere la maschera da hockey di Ledoux solo durante questa missione
   - Non è possibile ottenerla se si ha già consegnato le 30 Nuka-Cola Quantum a Sierra
 - Con l'abilità extra Chimico quantico (liv. 22) è possibile ottenere una Nuka-Cola Quantum ogni dieci bottiglie di Nuka-Cola normali
   - Le Nuka-Cola non possono essere convertite

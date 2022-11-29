@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Manufatti di Lincoln* è una missione nascosta di Fallout 3. E' data da Abraham Washington a Rivet City, Leroy Walker al Lincoln Memorial o da Hannibal Hamlin al Tempio dell'Unione.
+*Manufatti di Lincoln* è una missione nascosta di Fallout 3. È data da Abraham Washington a Rivet City, Leroy Walker al Lincoln Memorial o da Hannibal Hamlin al Tempio dell'Unione.
 
 
 
@@ -47,7 +47,7 @@ graph TD;
 
 
 Note:
-- E' possibile borseggiare gli oggetti venduti a Hannibal e rivenderli a Abraham Washington, ma senza poter chiedere un prezzo maggiorato
+- È possibile borseggiare gli oggetti venduti a Hannibal e rivenderli a Abraham Washington, ma senza poter chiedere un prezzo maggiorato
 - Dando il poster del Lincoln Memorial a Caleb non sarà più possibile venderlo a Leroy Walker
 - La vendita di almeno un oggetto a Leroy garantirà il libero accesso al Lincoln Memorial quando questi è sotto dominio degli schiavisti
 - Barattando con Hannibal sarà necessario superare per ogni oggetto un sfida Eloquenza separata

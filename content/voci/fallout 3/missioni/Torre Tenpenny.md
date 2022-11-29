@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Torre Tenpenny* è una missione secondaria di Fallout 3. E' data da Capo Gustavo alla Torre Tenpenny o Roy Phillips alla stazione di Warrington.
+*Torre Tenpenny* è una missione secondaria di Fallout 3. È data da Capo Gustavo alla Torre Tenpenny o Roy Phillips alla stazione di Warrington.
 
 
 
@@ -71,11 +71,11 @@ Note:
 - Rubare dalle casseforti dei negozi all'interno della torre renderà impossibile completare la missione
 - Può succedere che Roy Philips venga ucciso  durante il suo rientro alla stazione di Warrington da alcuni predatori
 - Se si ha già attiva la missione *Devi mirare alla testa* è necessario uccidere con un colpo Tenpenny non appena ci ha dato la ricompensa per aver ottenuto l'accordo pacifico. In caso contrario Roy e i ghoul lo uccideranno e non sarà possibile ottenere il bonus tappi
-- E' possibile comprare gli **Schemi - Pistola a dardi** da Lydia Montenegro, o rubandoli dalla sua cassaforte una volta uccisa
+- È possibile comprare gli **Schemi - Pistola a dardi** da Lydia Montenegro, o rubandoli dalla sua cassaforte una volta uccisa
 - Herbert Dashwood ci darà gli **Schemi - Mina da tappo** una volta che lo informeremo della morte di Argyle
   - Il cadavere di Argyle si trova a Rockopolis
-- E' possibile uccidere i residenti della torre anche dopo aver siglato l'accordo con i ghoul, per ottenere importante loot e tappi
-- E' possibile risolvere la missione pacificamente, senza interferire con *Devi mirare alla testa* e *Solo affari*, ottenere 500 tappi e la maschera da ghoul nel seguente modo: 
+- È possibile uccidere i residenti della torre anche dopo aver siglato l'accordo con i ghoul, per ottenere importante loot e tappi
+- È possibile risolvere la missione pacificamente, senza interferire con *Devi mirare alla testa* e *Solo affari*, ottenere 500 tappi e la maschera da ghoul nel seguente modo: 
     1. Entra nella Torre Tenpenny, senza dire a Capo Gustavo di voler risolvere il problema dei ghoul
     2. Parla con Herbert Dashwood a proposito di Argyle, per ottenere gli **Schemi - Mina da tappo**
     3. Schiavizza Susan Lancaster per la missione *Solo affari*
@@ -83,7 +83,7 @@ Note:
     5 . Vai da Roy Phillips alla stazione di Warrinton e proporre un accordo paicifico
     5. Vai da Allistair Tenpenny e convincerlo di far entrare i ghoul. Evita di parlare del Sig. Crawley
     6. Convinci Lydia Montenegro a far entrare i ghoul e poi ucciderla
-       1. E' possibile spingerla nei bagni e ucciderla silenziosamente senza allerta gli altri residenti)
+       1. È possibile spingerla nei bagni e ucciderla silenziosamente senza allerta gli altri residenti)
        2. Nella sua cassaforte sarà possibile ottenere gli **Schemi - Pistola a dardi** e 300 tappi
     7. Convinci Anthony King a far entrare i ghoul e poi ucciderlo. Nella sua cassaforte saranno presenti 300 tappi
     8. Convinci Millicent Wellington ed Edgar Wellington III

@@ -17,7 +17,7 @@ hidden: true
 
 
 
-La caverna sulla rupe, conosciuta anche come caverna degli Yao Guai, è una grande caverna posta ad est della Torre Tenpenny e direttamente ad ovest di Andale. E' occupata dai predoni e numerosi yao guai. 
+La caverna sulla rupe, conosciuta anche come caverna degli Yao Guai, è una grande caverna posta ad est della Torre Tenpenny e direttamente ad ovest di Andale. È occupata dai predoni e numerosi yao guai. 
 
 
 | Mappa                                        | Mappa locale                                 | Panoramica                               |

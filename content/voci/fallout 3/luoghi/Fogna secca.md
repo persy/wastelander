@@ -17,7 +17,7 @@ hidden: true
 
 
 
-La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. È un punto d'accesso per l'ospedale Nostra Signora della Speranza. E' pattugliata dai mercenari della Compagnia dell'Artiglio.
+La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. È un punto d'accesso per l'ospedale Nostra Signora della Speranza. È pattugliata dai mercenari della Compagnia dell'Artiglio.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

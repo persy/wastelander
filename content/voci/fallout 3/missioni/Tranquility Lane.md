@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Tranquillity Lane* è la settima missione principale di Fallout 3. E' data dal robocervello al Vault 112, sotto il garage di Smith Casey.
+*Tranquillity Lane* è la settima missione principale di Fallout 3. È data dal robocervello al Vault 112, sotto il garage di Smith Casey.
 
 
 ```mermaid

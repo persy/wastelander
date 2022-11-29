@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Primi passi* è la prima missione principale di Fallout 3. E' data da James al Vault 101.
+*Primi passi* è la prima missione principale di Fallout 3. È data da James al Vault 101.
 
 
 

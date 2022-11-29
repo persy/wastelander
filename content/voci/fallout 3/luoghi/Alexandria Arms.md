@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della biblioteca di Arlington e occupato di predatori.
+Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della Biblioteca di Arlington e occupato di predatori.
 
 
 | Mappa | Mappa locale | Panoramica |

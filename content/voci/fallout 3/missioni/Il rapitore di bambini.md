@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il rapitore di bambini* è una missione nascosta di Fallout 3. E' data da Eulogy Jones a Paradise Falls.
+*Il rapitore di bambini* è una missione nascosta di Fallout 3. È data da Eulogy Jones a Paradise Falls.
 
 
 

@@ -17,7 +17,7 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Capo di Stato* è una missione secondaria di Fallout 3. E' data da Hannibal Hamlin al Tempio dell'Unione e da Leroy Walker al Lincoln Memorial.
+*Capo di Stato* è una missione secondaria di Fallout 3. È data da Hannibal Hamlin al Tempio dell'Unione e da Leroy Walker al Lincoln Memorial.
 
 
 ```mermaid

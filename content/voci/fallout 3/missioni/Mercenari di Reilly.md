@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Mercenari di Reilly* è una missione secondaria di Fallout 3. E' data da Reilly agli Inferi o da Butcher allo Statesman Hotel.
+*Mercenari di Reilly* è una missione secondaria di Fallout 3. È data da Reilly agli Inferi o da Butcher allo Statesman Hotel.
 
 
 
@@ -72,6 +72,6 @@ Note:
 - Il geomapper è retroattivo e tutti i luoghi  già esplorati verranno conteggiati
 - Dopo aver completato *Broken Steel* e ottenuto l'analizzatore di sangue supermutante per la missione nascosta *Confraternita di sangue*, è possibile ottenere 50 tappi e 10 PE per ogni campione di sangue supermutante consegnato al Paladino Tristan. In questa missione è possibile raccoglierne più di 50
 - Dopo aver riparato l'ascensore, è possibile lasciare che i supermutanti uccidano Brick per poter ottenere Eugene e l'armatura da battaglia da mercenario senza essere costretti a sceglierne uno come ricompensa finendo la missione
-- E' possibile uccidere Brick personalmente senza che glia altri mercenari diventino ostili
+- È possibile uccidere Brick personalmente senza che glia altri mercenari diventino ostili
 - Se tutti i mercenari muoiono, non verrà data alcuna ricompensa, nemmeno il modulo del geomapper
-- E' possibile ottenere sia Eugene che l'armatura da battaglia del mercenario applicando il reverse-pickpocketing a Brick e Donovan
+- È possibile ottenere sia Eugene che l'armatura da battaglia del mercenario applicando il reverse-pickpocketing a Brick e Donovan

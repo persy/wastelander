@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il sogno americano* è l'undicesima missione principale di Fallout 3. E' data dal Presidente Eden a Raven Rock.
+*Il sogno americano* è l'undicesima missione principale di Fallout 3. È data dal Presidente Eden a Raven Rock.
 
 
 

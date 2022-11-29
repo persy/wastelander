@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. E' la base operativa dei mercenari della Compagnia dell'Artiglio.
+Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. È la base operativa dei mercenari della Compagnia dell'Artiglio.
 
 | Mappa                                      | Mappa locale                                     | Panoramica                             |
 | ------------------------------------------ | ------------------------------------------------ | -------------------------------------- |

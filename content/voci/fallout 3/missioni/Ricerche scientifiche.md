@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Ricerche scientifiche* è la sesta missione principale di Fallout 3. E' data da Tre cani all'edificio di GNR o dalla Dottoressa Li a Rivet City.
+*Ricerche scientifiche* è la sesta missione principale di Fallout 3. È data da Tre cani all'edificio di GNR o dalla Dottoressa Li a Rivet City.
 
 
 ```mermaid
@@ -49,4 +49,4 @@ graph TD;
 | 70      | :white_check_mark: | Siediti nella "Poltrona rilassante" libera.                         |
 
 Note:
-- E' possibile saltare buona parte di questa missione parlando direttamente con la Dottoressa Li o dirigendoci al Vault 112 o al Jefferson Memorial
+- È possibile saltare buona parte di questa missione parlando direttamente con la Dottoressa Li o dirigendoci al Vault 112 o al Jefferson Memorial

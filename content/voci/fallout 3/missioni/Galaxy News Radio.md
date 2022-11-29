@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Galaxy News Radio* è una missione principale di Fallout 3. E' data da Tre cani all'edificio di GNR.
+*Galaxy News Radio* è una missione principale di Fallout 3. È data da Tre cani all'edificio di GNR.
 
 
 ```mermaid

@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. E' situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
+Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. È situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |

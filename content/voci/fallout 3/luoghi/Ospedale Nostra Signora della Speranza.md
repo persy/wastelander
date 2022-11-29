@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-L'ospedale Nostra Signora della Speranza si trova vicino alla stazione di Vernon Square nelle rovine di Washington, DC. E' collegato tramite la fogna secca a Dupont Circle. E' infestato dai supermutanti e robot.
+L'ospedale Nostra Signora della Speranza si trova vicino alla stazione di Vernon Square nelle rovine di Washington, DC. È collegato tramite la fogna secca a Dupont Circle. È infestato dai supermutanti e robot.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

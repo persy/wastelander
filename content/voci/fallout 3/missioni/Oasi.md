@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Oasi* è una missione secondaria di Fallout 3. E' data da Harold all'Oasi.
+*Oasi* è una missione secondaria di Fallout 3. È data da Harold all'Oasi.
 
 
 ```mermaid
@@ -65,4 +65,4 @@ graph TD;
 Note:
 - Con le abilità Donatore di vita e Amico degli Animali saranno sbloccate altre opzioni di dialogo con Pioppo
 - Uccidere Harold è considerato un atto così abominevole da essere citato nel finale del gioco, a meno che non si sia fatta esplodere la bomba di Megaton o ucciso gli abitanti di Rivet City, considerati atti ancora più crudeli
-- E' possibile uccidere Harold dopo aver completato la missione
+- È possibile uccidere Harold dopo aver completato la missione

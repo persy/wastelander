@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Guida di sopravvivenza della Zona contaminata* è una missione secondaria di Fallout 3. E' data da Moira Brown a Megaton.
+*Guida di sopravvivenza della Zona contaminata* è una missione secondaria di Fallout 3. È data da Moira Brown a Megaton.
 
 
 
@@ -325,7 +325,7 @@ Note:
   - Tutte le ricompense che riguardano oggetti non unici (es. stimpak, droghe, cibo...) vengono assegnate in quantità proporzionata al livello del giocatore
   - Al giocatore vengono fornite delle opzioni di dialogo in base a tutte le sue statistiche SPECIAL che hanno un valore minimo di 7 (es. per avere le opzioni di dialogo Stamina, bisogna vere la Stamina ≥ 7)
     - Se si hanno più statistiche al livello 7 o superiori, saranno disponibili più opzioni di dialogo
-    - E' possibile aumentare temporaneamente gli SPECIAL (con vestiti o droghe) per sbloccare le opzioni di dialogo aggiuntive
+    - È possibile aumentare temporaneamente gli SPECIAL (con vestiti o droghe) per sbloccare le opzioni di dialogo aggiuntive
   - Le opzioni di dialogo scelte dal giocatore influenzano sia lo stile del libro sia il grado dell'abilità extra Esperto in sopravvivenza ottenuta: un libro completo (con tutti gli obiettivi facoltativi completati) farà ottenere il massimo del bonus (Guru di sopravvivenza), mentre un libro standard (con solo alcuni o nessun obiettivo facoltativo completato) farà guadagnare un bonus parziale o bonus molto basso (Esperto di sopravvivenza o Superstite sopravvissuto)
   - La caratterizzazione del bonus fornito da questa abilità si ricava sulla maggioranza di dialoghi scelti della stessa tipologia:
     - Maggioranza di risposte standard: aumento HP

@@ -18,7 +18,7 @@ hidden: true
 
 
 
-Il centro smaltimento materiali pericolosi L5 è un sistema di caverne usate come discarica per delle scorie radioattive e che collegano L'Enfant al Mall. E' infestata dai ghoul.
+Il centro smaltimento materiali pericolosi L5 è un sistema di caverne usate come discarica per delle scorie radioattive e che collegano L'Enfant al Mall. È infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

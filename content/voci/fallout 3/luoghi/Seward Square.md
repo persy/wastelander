@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-Il distretto di Seward Square è una zona posta al centro di Washington, D.C. Può essere raggiunto dalla stazione interscambio Anacostia, dalla rete fognaria da Pennsylvania Ave e attraverso il Campidoglio dal Mall. E' il campo di battaglia tra i supermutanti e i mercenari della Compagnia dell'Artiglio.
+Il distretto di Seward Square è una zona posta al centro di Washington, D.C. Può essere raggiunto dalla stazione interscambio Anacostia, dalla rete fognaria da Pennsylvania Ave e attraverso il Campidoglio dal Mall. È il campo di battaglia tra i supermutanti e i mercenari della Compagnia dell'Artiglio.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

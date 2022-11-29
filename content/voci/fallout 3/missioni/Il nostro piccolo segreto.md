@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il nostro piccolo segreto* è una missione nascosta di Fallout 3. E' data dall'Anziano signor Harris ad Andale.
+*Il nostro piccolo segreto* è una missione nascosta di Fallout 3. È data dall'Anziano signor Harris ad Andale.
 
 
 

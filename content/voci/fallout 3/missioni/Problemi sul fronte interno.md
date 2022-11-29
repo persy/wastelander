@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Problemi sul fronte interno* è una missione secondaria di Fallout 3. E' data dal segnale d'emergenza del Vault 101.
+*Problemi sul fronte interno* è una missione secondaria di Fallout 3. È data dal segnale d'emergenza del Vault 101.
 
 
 

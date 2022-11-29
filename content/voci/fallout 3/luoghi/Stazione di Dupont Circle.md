@@ -18,7 +18,7 @@ hidden: true
 
 
 
-La stazione di Dupont Circle è una stazione della linea rossa e collega il tunnel crollato con la metropolitana centrale. E' abitata dai predatori.
+La stazione di Dupont Circle è una stazione della linea rossa e collega il tunnel crollato con la metropolitana centrale. È abitata dai predatori.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

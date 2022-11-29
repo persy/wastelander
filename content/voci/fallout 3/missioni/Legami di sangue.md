@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Legami di sangue* è una missione secondaria di Fallout 3. E' data da Lucy West a Megaton e da Evan King ad Arefu.
+*Legami di sangue* è una missione secondaria di Fallout 3. È data da Lucy West a Megaton e da Evan King ad Arefu.
 
 
 

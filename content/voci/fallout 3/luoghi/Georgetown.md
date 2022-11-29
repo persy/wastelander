@@ -18,7 +18,7 @@ hidden: true
 
 
 
-Il distretto di Georgetown è un quartiere di Washington, D.C. situato nella parte settentrionale della città. E' accessibile dalle fogne tiepide, dal tunnel DCTA 014-B di Potomac, dalla stazione di Foggy Bottom, dalla Metro Ave/Georgetown e dalla Metro Georgetown/Il Mall.
+Il distretto di Georgetown è un quartiere di Washington, D.C. situato nella parte settentrionale della città. È accessibile dalle fogne tiepide, dal tunnel DCTA 014-B di Potomac, dalla stazione di Foggy Bottom, dalla Metro Ave/Georgetown e dalla Metro Georgetown/Il Mall.
 
 
 | Mappa | Mappa locale | Panoramica |

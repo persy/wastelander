@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Trattamento* è una missione nascosta di Fallout 3. E' data da Walter a Megaton.
+*Trattamento* è una missione nascosta di Fallout 3. È data da Walter a Megaton.
 
 
 

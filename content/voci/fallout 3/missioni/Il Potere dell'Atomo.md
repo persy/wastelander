@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il Potere dell'Atomo* è una missione secondaria di Fallout 3. E' data da Lucas Simms a Megaton e da Mister Burke alla Torre Tenpenny.
+*Il Potere dell'Atomo* è una missione secondaria di Fallout 3. È data da Lucas Simms a Megaton e da Mister Burke alla Torre Tenpenny.
 
 
 ```mermaid
@@ -62,8 +62,8 @@ graph TD;
 
 Note:
 - Superando una sfida Eloquenza è possibile ottenre ben 500 tappi da Simms nel caso  si volesse disinnescare la bomba
-- E' possibile accettare la proposta di Simms, parlare con Burke, denunciarlo a Simms e lasciare che Burke uccida lo sceriffo per ottenere così lo spolverino da sceriffo unico e la chiave della sua residenza (dove è possibile trovare la **Bambolina - Forza**)
-- E' possibile uccidere in qualunque momento il Sig. Burke senza rendere ostili gli abitanti di Megaton
+- È possibile accettare la proposta di Simms, parlare con Burke, denunciarlo a Simms e lasciare che Burke uccida lo sceriffo per ottenere così lo spolverino da sceriffo unico e la chiave della sua residenza (dove è possibile trovare la **Bambolina - Forza**)
+- È possibile uccidere in qualunque momento il Sig. Burke senza rendere ostili gli abitanti di Megaton
 - Per ottenere sia la ricompensa in tappi che il karma positivo bisogna disinnescare la bomba prima di parlare con Simms
 - Scegliendo di far esplodere Megaton, Moira diventerà un ghoul e sarà ancora possibile iniziare/completare la missione *Guida di sopravvivenza della Zona contaminata
   - Non sarà invece possibile recuperare la **Bambolina - Forza**

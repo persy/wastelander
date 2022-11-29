@@ -15,7 +15,7 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Il Sentiero della Morte è una località non contrassegnata all'interno di Little Lamplight e connette quest'ultimo al Vault 87. E' abitato da numerosi supermutanti.
+Il Sentiero della Morte è una località non contrassegnata all'interno di Little Lamplight e connette quest'ultimo al Vault 87. È abitato da numerosi supermutanti.
 
 
 
@@ -31,4 +31,4 @@ Il Sentiero della Morte è una località non contrassegnata all'interno di Littl
 
 
 Note:
-- E' possibile evitare questa zona accedendo al terminale per la sala dele reattore del Vault 87
+- È possibile evitare questa zona accedendo al terminale per la sala dele reattore del Vault 87

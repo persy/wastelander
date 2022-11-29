@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Grossi problemi a Big Town* è una missione secondaria di Fallout 3. E' data da Dusty a Big Town.
+*Grossi problemi a Big Town* è una missione secondaria di Fallout 3. È data da Dusty a Big Town.
 
 
 
@@ -69,5 +69,5 @@ graph TD;
 
 Note:
 - Con *Broken Steel* installato è possibile che un supermutante overlord compaia proprio fuori dall'uscita
-- Non è possibile completare questa missione se Red è già stato schiavizzato per la missione *Solo affari*. E' necessario rimuovere il collare o ucciderlo
+- Non è possibile completare questa missione se Red è già stato schiavizzato per la missione *Solo affari*. È necessario rimuovere il collare o ucciderlo
 - Avere Fawkes come seguace consente al giocatore di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi TODO

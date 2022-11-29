@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Umorismo da patibolo* è una missione nascosta di Fallout 3. E' data dalla Sentinella Lyons (o da un altro membro della Squadra Pride) alla Cittadella.
+*Umorismo da patibolo* è una missione nascosta di Fallout 3. È data dalla Sentinella Lyons (o da un altro membro della Squadra Pride) alla Cittadella.
 
 
 

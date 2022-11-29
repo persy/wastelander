@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Tossicodipendenza di Leo* è una missione nascosta di Fallout 3. E' data dal Dott. Church a Megaton.
+*Tossicodipendenza di Leo* è una missione nascosta di Fallout 3. È data dal Dott. Church a Megaton.
 
 
 

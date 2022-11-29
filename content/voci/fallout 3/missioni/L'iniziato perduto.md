@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*L'iniziato perduto* è una missione nascosta di Fallout 3. E' data dal Paladino Hoss a Falls Church.
+*L'iniziato perduto* è una missione nascosta di Fallout 3. È data dal Paladino Hoss a Falls Church.
 
 
 

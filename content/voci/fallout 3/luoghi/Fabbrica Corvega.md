@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-La fabbrica Corvega si trova a sud-ovest del Vault 108 nella Zona contaminata della Capitale. E' infestata dalle formiche giganti.
+La fabbrica Corvega si trova a sud-ovest del Vault 108 nella Zona contaminata della Capitale. È infestata dalle formiche giganti.
 
 | Mappa                                       | Mappa locale                                | Panoramica                              |
 | ------------------------------------------- | ------------------------------------------- | --------------------------------------- |

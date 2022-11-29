@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Aiuto mercenario* è una missione nascosta di Fallout 3. E' data da Ahzrukhal al Nono Cerchio o agli Inferi.
+*Aiuto mercenario* è una missione nascosta di Fallout 3. È data da Ahzrukhal al Nono Cerchio o agli Inferi.
 
 
 

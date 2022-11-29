@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. E' accessibile solo con l'abilità extra Portatore di legge.
+Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. È accessibile solo con l'abilità extra Portatore di legge.
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |

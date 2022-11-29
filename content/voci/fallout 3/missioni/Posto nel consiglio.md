@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Posto nel consiglio* è una missione nascosta di Fallout 3. E' data da Bannon a Rivet City.
+*Posto nel consiglio* è una missione nascosta di Fallout 3. È data da Bannon a Rivet City.
 
 
 

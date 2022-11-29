@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di Washington, D.C. e si trova a nord-est della fabbrica Red Racer. E' infestata dai ghoul.
+La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di Washington, D.C. e si trova a nord-est della fabbrica Red Racer. È infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

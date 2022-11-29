@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Pacco di Grady* è una missione nascosta di Fallout 3. E' data interagendo con il cadavere di Grady alla stazione di Marigold.
+*Pacco di Grady* è una missione nascosta di Fallout 3. È data interagendo con il cadavere di Grady alla stazione di Marigold.
 
 
 

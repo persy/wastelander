@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazione metropolitana di Jury Street. E' occupato dai predoni.
+Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazione metropolitana di Jury Street. È occupato dai predoni.
 
 
 | Mappa                                      | Panoramica                                      |

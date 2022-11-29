@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Seguendo le sue orme* è la quinta missione principale di Fallout 3. E' data non appena terminata la missione *Scappa!*, fuori dal Vault 101.
+*Seguendo le sue orme* è la quinta missione principale di Fallout 3. È data non appena terminata la missione *Scappa!*, fuori dal Vault 101.
 
 
 ```mermaid
@@ -58,5 +58,5 @@ graph TD;
 
 
 Note:
-- E' possibile saltare questa missione andando direttamente a Rivet City e incontrando la Dottoressa Li
-- E' possibile estorcere i tappi a Silver e poi ucciderla comunque, perdendo karma, ma raccogliendo in totale ben 500 tappi
+- È possibile saltare questa missione andando direttamente a Rivet City e incontrando la Dottoressa Li
+- È possibile estorcere i tappi a Silver e poi ucciderla comunque, perdendo karma, ma raccogliendo in totale ben 500 tappi

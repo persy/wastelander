@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. E' pattugliato da predatori e supermutanti.
+Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. È pattugliato da predatori e supermutanti.
 
 | Mappa                                        | Panoramica                           |
 | -------------------------------------------- | ------------------------------------ |

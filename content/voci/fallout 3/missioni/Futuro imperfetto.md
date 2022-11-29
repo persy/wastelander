@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Futuro imperfetto* è la terza missione principale di Fallout 3. E' data da James al Vault 101
+*Futuro imperfetto* è la terza missione principale di Fallout 3. È data da James al Vault 101
 
 
 ```mermaid
@@ -45,5 +45,5 @@ graph TD;
 
 
 Note:
-- E' possibile bypassare il G.O.A.T. semplicemente parlando al Sig. Brotch prima di entrare in classe
-- E' possibile cambiare le specialità dopo aver fatto il G.O.A.T. e poco prima di abbandonare il Vault, durante la missione *Scappa!*
+- È possibile bypassare il G.O.A.T. semplicemente parlando al Sig. Brotch prima di entrare in classe
+- È possibile cambiare le specialità dopo aver fatto il G.O.A.T. e poco prima di abbandonare il Vault, durante la missione *Scappa!*

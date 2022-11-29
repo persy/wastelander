@@ -17,7 +17,7 @@ hidden: true
 
 
 
-Il tunnel di Warrington connette la stazione di Warrington e il deposito di Warrington. E' infestato dai ghoul e conduce al nascondiglio di Roy Phillips e dei suoi seguaci.
+Il tunnel di Warrington connette la stazione di Warrington e il deposito di Warrington. È infestato dai ghoul e conduce al nascondiglio di Roy Phillips e dei suoi seguaci.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

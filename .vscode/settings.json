@@ -11,11 +11,17 @@
     "markdown.math.enabled": false,
     "markdown-preview-github-styles.colorTheme": "system",
     "cSpell.ignoreWords": [
+        "commentable",
+        "linktitle",
+        "questfo",
         "webp"
     ],
     "cSpell.words": [
+        "olomedagliette",
         "olonastro",
+        "rewardfo",
         "supermutante",
         "supermutanti"
-    ]
+    ],
+    "cSpell.language": "en,it,it-IT"
 }

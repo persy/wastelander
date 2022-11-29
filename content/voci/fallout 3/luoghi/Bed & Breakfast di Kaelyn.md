@@ -16,7 +16,7 @@ hidden: true
 ---
 
 
-Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. E' presieduto dai predatori.
+Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. È presieduto dai predatori.
 
 | Mappa                   | Panoramica          |
 | ----------------------- | ------------------- |

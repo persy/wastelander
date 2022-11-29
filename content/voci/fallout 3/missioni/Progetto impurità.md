@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Progetto impurità* è una missione principale di Fallout 3. E' data dal presidente Eden al Jefferson Memorial ed è correlata con la missione *[Riprenditelo!](../riprenditelo)*.
+*Progetto impurità* è una missione principale di Fallout 3. È data dal presidente Eden al Jefferson Memorial ed è correlata con la missione *[Riprenditelo!](../riprenditelo)*.
 
 
 
@@ -41,5 +41,5 @@ graph TD;
 
 
 Note:
-- E' possibile finire il gioco con un karma positivo anche se si infetta il purificatore, basta che il giocatore lo avvii personalmente (-1000 + +2000 karma)
+- È possibile finire il gioco con un karma positivo anche se si infetta il purificatore, basta che il giocatore lo avvii personalmente (-1000 + +2000 karma)
 - Se il giocatore dà la fiala a Lyons l'Anziano non sarà possibile infettare il purificatore

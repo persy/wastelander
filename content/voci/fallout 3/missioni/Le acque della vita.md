@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Le acque della vita* è l'ottava missione principale di Fallout 3. E' data da James al Jefferson Memorial.
+*Le acque della vita* è l'ottava missione principale di Fallout 3. È data da James al Jefferson Memorial.
 
 
 ```mermaid

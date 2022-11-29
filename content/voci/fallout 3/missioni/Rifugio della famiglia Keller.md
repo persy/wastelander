@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. E' data da TODO a TODO.
+*Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. È data da TODO a TODO.
 
 
 

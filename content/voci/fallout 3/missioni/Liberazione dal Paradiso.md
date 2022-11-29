@@ -67,5 +67,5 @@ graph TD;
 
 
 Note:
-- E' possibile completare questa missione anche senza aver ottenuta in precedenza da MacCready: è sufficiente uccidere gli schiavisti e liberare i bambini dalle gabbie
+- È possibile completare questa missione anche senza aver ottenuta in precedenza da MacCready: è sufficiente uccidere gli schiavisti e liberare i bambini dalle gabbie
 - Con l'abilità extra Bambino dentro o superando una sfida Eloquenza con MacCready, è possibile saltare completamente questa missione

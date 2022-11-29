@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Il gambetto superumano* è una missione secondaria di Fallout 3. E' data da Zio Roe a Canterbury Commons.
+*Il gambetto superumano* è una missione secondaria di Fallout 3. È data da Zio Roe a Canterbury Commons.
 
 
 
@@ -57,4 +57,4 @@ graph TD;
 
 Note:
 - Uccidendo uno dei due o entrambi i rivali, appena arrivati a Canterbury Commons, Zio Roe ci consegnerà subito 400 tappi, ringraziandoci
-- E' possibile che, ad alti livelli, un deathclaw o uno scorpione albino uccida tutti gli abitanti della città
+- È possibile che, ad alti livelli, un deathclaw o uno scorpione albino uccida tutti gli abitanti della città
