@@ -10,7 +10,7 @@ icon_pack: fas
 title: Stazioni metropolitane
 date: 2022-11-15
 type: book # Do not modify.
-hidden: false # Visibile nella sidebar
+hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 

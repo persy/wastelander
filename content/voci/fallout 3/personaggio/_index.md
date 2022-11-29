@@ -17,7 +17,7 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-- S.P.E.C.I.A.L.
-- Abilità primarie
-- Abilità derivate
-- [Abilità extra](abilita-extra)
+
+| {{< cta cta_text="S.P.E.C.I.A.L." cta_link="TODO" cta_new_tab="false" >}} | {{< cta cta_text="Abilità" cta_link="abilita" cta_new_tab="false" >}} | {{< cta cta_text="Abilità extra" cta_link="abilita-extra" cta_new_tab="false" >}} | {{< cta cta_text="TODO" cta_link="" cta_new_tab="false" >}} |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|                                                                              |                                                                       |                                                                                   |                                                                       |

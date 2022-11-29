@@ -25,5 +25,3 @@ Il molo di Wilhelm, noto anche come Captain Paglia Dockside Bar & Grill, è un p
 
 
 
-Altri oggetti:
-- ???

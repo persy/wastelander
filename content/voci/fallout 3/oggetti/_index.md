@@ -17,13 +17,9 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-- Armi
-- Armature e vestiti
-- Copricapi
-- Consumabili:
-    - Droghe
-    - Libri delle abilità
-    - Cibi e bevande
-- Creazione:
-    - Schemi
+
+| {{< cta cta_text="Armi" cta_link="TODO" cta_new_tab="false" >}} | {{< cta cta_text="Armature e vestiti" cta_link="TODO" cta_new_tab="false" >}} | {{< cta cta_text="Consumabili" cta_link="TODO" cta_new_tab="false" >}} | {{< cta cta_text="Creazione" cta_link="TODO" cta_new_tab="false" >}} |
+| :--------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|                                                                              |                                                                       |                                                                                   |                                                                       |
+
 

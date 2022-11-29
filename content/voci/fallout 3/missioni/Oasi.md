@@ -66,3 +66,4 @@ Note:
 - Con le abilità Donatore di vita e Amico degli Animali saranno sbloccate altre opzioni di dialogo con Pioppo
 - Uccidere Harold è considerato un atto così abominevole da essere citato nel finale del gioco, a meno che non si sia fatta esplodere la bomba di Megaton o ucciso gli abitanti di Rivet City, considerati atti ancora più crudeli
 - È possibile uccidere Harold dopo aver completato la missione
+- Sapling Yew darà il suo orsetto dopo una sfida Eloquenza o con l'abilità Bambino dentro, prima del completamento della missione. Possedere l'orsetto fa guadagnare un bonus permanente di 10 punti all'Eloquenza

@@ -16,6 +16,8 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+
+
 *Voglio bere il tuo sangue* è una missione nascosta e ripetibile di Fallout 3. È data da Vance alla stazione metropolitana di Meresti.
 
 
@@ -28,6 +30,7 @@ graph TD;
     id3(Cerca le sacche di sangue)
     id4(Dai a Vance le sacche di sangue)
     id5(15 tappi per ogni sacca di sangue):::rewardfo3
+    id1-->id2-->id3-->id4-->id5
     click id2 "../../luoghi/stazione-metropolitana-di-meresti"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;

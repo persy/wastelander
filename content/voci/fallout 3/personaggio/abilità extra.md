@@ -11,11 +11,11 @@ title: Abilità extra
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
+hidden: true
 ---
 
 TODO
 
-{{< toc hide_on="xl" >}}
 
 
 In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre livelli come succede in Fallout e Fallout 2, o ogni due come in Fallout: New Vegas.
@@ -43,15 +43,15 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Stomaco di piombo            |    6    | STA 5                              |   1   | -50% di radiazioni prese ogni volta che si beve da una fonte d'acqua                                                    |
 | Durezza                      |    6    | STA 5                              |   1   | +10% resistenza ai danni                                                                                                |
 | Cercatore fortunato          |    6    | FRT  5                             |   1   | Nei contenitori si troveranno molti più tappi                                                                           |
-| Pistolero                    |    6    |                                    |   1   | +25% di precisione INT S.P.A.V. con armi a una mano                                                                     |
-| Esperto INT demolizione      |    6    | Esplosivi 50                       |   3   | +20% danno con esplosivi                                                                                                |
-| Commando                     |    8    |                                    |   1   | +25% di precisione INT S.P.A.V. con armi a due mani                                                                     |
+| Pistolero                    |    6    |                                    |   1   | +25% di precisione in S.P.A.V. con armi a una mano                                                                     |
+| Esperto in demolizione      |    6    | Esplosivi 50                       |   3   | +20% danno con esplosivi                                                                                                |
+| Commando                     |    8    |                                    |   1   | +25% di precisione in S.P.A.V. con armi a due mani                                                                     |
 | Resistenza alle radiazioni   |    8    | STA 5                              |   1   | +25% di resistenza alle radiazioni                                                                                      |
-| Scroccone                    |    8    | FRT  5                             |   1   | Più munizioni INT contenitori                                                                                           |
+| Scroccone                    |    8    | FRT  5                             |   1   | Più munizioni nei contenitori                                                                                           |
 | Le dimensioni contano        |    8    | STA 5                              |   3   | +15 armi pesanti                                                                                                        |
 | Schiena resistente           |    8    | FRZ 5, STA 5                       |   1   | +50 peso trasportabile                                                                                                  |
 | Mediazione imparziale        |    8    | CAR 5                              |   1   | +30 Eloquenza con karma neutrale                                                                                        |
-| Amico degli animali          |   10    | CAR 6                              |   2   | Gli animali ostili diventano amichevoli (un grado) e vengono INT tuo aiuto tranne che contro altri animali (due gradi). |
+| Amico degli animali          |   10    | CAR 6                              |   2   | Gli animali ostili diventano amichevoli (un grado) e vengono in tuo aiuto tranne che contro altri animali (due gradi). |
 | Finezza                      |   10    |                                    |   1   | +5% probabilità colpi letali                                                                                            |
 | Mister Sandman               |   10    | Furtivo 60                         |   1   | Può uccidere istantaneamente un personaggio addormentato e guadagnare più EXP                                           |
 | Misterioso estraneo          |   10    | FRT  6                             |   1   | Possibilità che il misterioso estraneo finisca un bersaglio in S.P.A.V.                                                 |
@@ -61,7 +61,7 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Piromane                     |   12    | Esplosivi 60                       |   1   | +50% danni con armi da fuoco                                                                                            |
 | Cannibale                    |   12    |                                    |   1   | Si possono mangiare cadaveri per ripristinare 25 HP ma perdere 1 karma                                                  |
 | Donatore di vita             |   12    | STA 6                              |   1   | +30 HP                                                                                                                  |
-| Esperto di robotiCAR         |   12    | Scienza 50                         |   1   | +25% di danni ai robot; si possono spegnere i robot avvicinandosi furtivi                                               |
+| Esperto di robotica         |   12    | Scienza 50                         |   1   | +25% di danni ai robot; si possono spegnere i robot avvicinandosi furtivi                                               |
 | Cecchino                     |   12    | PER 6, AGI 6                       |   1   | +25% precisione per colpi alla testa in S.P.A.V.                                                                        |
 | Corsa silenziosa             |   12    | AGI 6, Furtivo 50                  |   1   | +10 Furtivo, velocità e peso dell'armatura non influenzano la furtività                                                 |
 | Metabolismo veloce           |   12    |                                    |   1   | +20% HP ripristinati con gli stimpak                                                                                    |
@@ -71,11 +71,11 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Cyborg                       |   14    | Medicina 60, Scienza 60            |   1   | +10 armi a energia, +10% alla resistenza ai danni, alle radiazioni e al veleno                                          |
 | Passo leggero                |   14    | PER 6, AGI 6                       |   1   | Le trappole a inciampo e le mine non verranno attivate se calpestate                                                    |
 | Abile commerciante           |   14    | CAR 6, Baratto 60                  |   1   | Gli oggetti dei mercanti costano il 25% in meno                                                                         |
-| Scheletro di adamante        |   14    |                                    |   1   | -50% danni subiti agli arti                                                                                             |
+| Scheletro di adamantio        |   14    |                                    |   1   | -50% danni subiti agli arti                                                                                             |
 | Specialità                   |   16    |                                    |   1   | Si può specializzare un'altra abilità (+10 punti abilità)                                                               |
 | Colpo letale migliore        |   16    | PER 6, FRT  6                      |   1   | +50% danni con colpi letali                                                                                             |
 | Uomo d'azione/Donna d'azione |   16    | AGI 6                              |   1   | +25 PA                                                                                                                  |
-| Resistente alle Medicina     |   16    | Medicina 60                        |   1   | Dimezza la probabilità di diventare dipendenti dalle droghe                                                             |
+| Resistente alle medicine     |   16    | Medicina 60                        |   1   | Dimezza la probabilità di diventare dipendenti dalle droghe                                                             |
 | Infiltrato                   |   18    | PER 7, Scasso 70                   |   1   | Puoi scassinare una serratura già rotta                                                                                 |
 | Mago del computer            |   18    | INT 7, Scienza 70                  |   1   | Si può hackerare un terminale già bloccato                                                                              |
 | Fuoco concentrato            |   18    | Armi a energia 60, Armi leggere 60 |   1   | +5% di precisione in S.P.A.V. per ogni attacco in successione                                                           |

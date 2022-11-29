@@ -11,7 +11,7 @@ type: book # Do not modify.
 commentable: true
 tags: "Luoghi di Fallout 3"
 show_date: false # Nascondi data
-hidden: false # Visibile nella sidebar
+hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
