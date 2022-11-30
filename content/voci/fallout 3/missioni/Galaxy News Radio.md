@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Galaxy News Radio* è una missione principale di Fallout 3. È data da Tre cani all'edificio di GNR.
+*Galaxy News Radio* è una missione principale di Fallout 3. È data da Tre Cani all'edificio di GNR.
 
 
 ```mermaid
@@ -27,7 +27,7 @@ graph TD;
     id3(Recupera il disco ripetitore <br />per le comunicazioni)
     id4(Trova il Washington Monument <br/>e ripara il ripetitore radio danneggiato)
     id11(Karma positivo):::rewardfo3
-    id5(Parla con Tre cani)  
+    id5(Parla con Tre Cani)  
     id6(400 PE):::rewardfo3
     id7(Prossima missione: <b>Ricerche scientifiche</b>):::questfo3
     id8(Vinci una sfida Eloquenza<br/> o se sai già dov'è papà)
@@ -49,7 +49,7 @@ graph TD;
 |  20   |                    | Recupera il disco ripetitore per le comunicazioni. |
 |  30   |                    | Trova il Washington Monument.                      |
 |  40   |                    | Ripara il ripetitore radio danneggiato.            |
-|  50   | :white_check_mark: | Parla di papà con Tre cani.                        |
+|  50   | :white_check_mark: | Parla di papà con Tre Cani.                        |
 |  55   |                    | Parla a Tre Cani del deposito di armi              |
 
 

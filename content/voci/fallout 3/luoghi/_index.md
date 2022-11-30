@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Luoghi
 summary: 'TODO'
-weight: 10
+weight: 20
 icon: map-location-dot
 icon_pack: fas
 

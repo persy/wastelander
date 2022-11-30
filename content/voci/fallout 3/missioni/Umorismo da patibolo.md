@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Umorismo da patibolo* è una missione nascosta di Fallout 3. È data dalla Sentinella Lyons (o da un altro membro della Squadra Pride) alla Cittadella.
+*Umorismo da patibolo* è una missione nascosta di Fallout 3. È data dalla Sentinella Lyons (o da un altro membro della Lyons Pride) alla Cittadella.
 
 
 
@@ -24,7 +24,7 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Umorismo da patibolo</b>):::questfo3
-    id2(Parla con Sarah Lyons <br />alla Cittadella o con <br />un membro della <br />Squadra Pride)
+    id2(Parla con Sarah Lyons <br />alla Cittadella o con <br />un membro della <br />Lyons Pride)
     id3(Vinci una sfida <br />Eloquenza con il capitano <br />cavaliere Gallows per <br />scoprire il suo vero nome)
     id4(Comunica al Paladino <br />Glade il vero nome di Gallows)
     id5(1000 tappi):::rewardfo3

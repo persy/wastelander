@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Missioni
 summary: 'TODO'
-weight: 40
+weight: 30
 icon: diagram-project
 icon_pack: fas
 

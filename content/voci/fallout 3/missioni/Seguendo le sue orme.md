@@ -31,7 +31,7 @@ graph TD;
     id5-->id7(Raggiungi Galaxy News Radio)
     id6-->id7
     id7-->id8(Aiuta la Confraternita <br />d'Acciaio a sconfiggere <br />i supermutanti)
-    id8-->id9(Parla con Tre cani <br />a proposito di James)
+    id8-->id9(Parla con Tre Cani <br />a proposito di James)
     id9-->id10(Supera una sfida <br />Eloquenza)
     id9-->id11(Completa la missione <br /><b>Galaxy News Radio</b>)
     id10-->id12(Prossima missione: <b>Ricerche scientifiche</b>):::questfo3
@@ -54,7 +54,7 @@ graph TD;
 | 40    |                    | Trova Galaxy News Radio.                                                      |
 | 60    |                    | Recupera il Fat Man dal soldato della Confraternita morto.                    |
 | 65    |                    | Aiuta a sconfiggere il Supermutante Behemoth.                                 |
-|  70     | :white_check_mark: | Chiedi a Tre cani informazioni su papà.                                       |
+|  70     | :white_check_mark: | Chiedi a Tre Cani informazioni su papà.                                       |
 
 
 Note:

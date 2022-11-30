@@ -42,7 +42,7 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 | Carneficina                  |    6    |                                    |   1   | +5% danni complessivi, animazioni di morte più violente                                                                 |
 | Stomaco di piombo            |    6    | STA 5                              |   1   | -50% di radiazioni prese ogni volta che si beve da una fonte d'acqua                                                    |
 | Durezza                      |    6    | STA 5                              |   1   | +10% resistenza ai danni                                                                                                |
-| Cercatore fortunato          |    6    | FRT  5                             |   1   | Nei contenitori si troveranno molti più tappi                                                                           |
+| Cercatore fortunato          |    6    | FRT 5                             |   1   | Nei contenitori si troveranno molti più tappi                                                                           |
 | Pistolero                    |    6    |                                    |   1   | +25% di precisione in S.P.A.V. con armi a una mano                                                                     |
 | Esperto in demolizione      |    6    | Esplosivi 50                       |   3   | +20% danno con esplosivi                                                                                                |
 | Commando                     |    8    |                                    |   1   | +25% di precisione in S.P.A.V. con armi a due mani                                                                     |

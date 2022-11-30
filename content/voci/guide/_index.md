@@ -11,6 +11,8 @@ title: Guide
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 toc: false
+hidden: true
+private: true
 ---
 
 
