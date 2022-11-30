@@ -17,6 +17,9 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
+{{< toc hide_on="xl" >}}
+
+
 ## Missioni tutorial
 
 | Nome                                   | Luoghi    | Data da        | Ricompensa                                                                            |

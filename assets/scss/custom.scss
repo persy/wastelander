@@ -10,6 +10,11 @@
 */
 
 /*Nascondi sottotitolo dei risultati di ricerca*/
+
+.docs-article-container {
+    max-width: 1320px;
+}
+
 .search-hit-type {
     display: none;
 }
@@ -20,6 +25,7 @@
 
 table {
     width: 100%;
+    overflow-x: scroll!important;
 }
 
 table thead {
@@ -29,3 +35,5 @@ table thead {
 .middot-divider {
     display: none;
 }
+
+

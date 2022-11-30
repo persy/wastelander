@@ -16,6 +16,9 @@ hidden: true
 
 In Fallout 3 è possibile creare diverse armi partendo da oggetti comuni. Per poterlo fare è necessario recarsi a un banco da lavoro e avere in possesso almeno uno schema del corrispettivo oggetto.
 
+## Schemi e oggetti necessari
+
+
 | Schema              | Oggetti necessari                                                                                                                           | Dove trovare gli schemi                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mina da tappo       | 10x tappi <br />1x petardi <br />1x cestino del cibo <br />1x modulo sensore                                                                | - Ricompensa della missione *Guida di sopravvivenza della zona contaminata* di Moira Brown, se si completa l'obiettivo opzionale di riportarle una mina da Minefield <br />- Area di ristoro e rifornimento di Jocko <br />- Venduto e posseduto da Knick Knack a Little Lamplight <br />- Ricompensa della missione nascosta *Un servitore maltrattato* se gli si racconta del destino di Argyle a Rockopolis; si può trovare nella sua cassaforte alla Torre Tenpenny |
@@ -25,7 +28,46 @@ In Fallout 3 è possibile creare diverse armi partendo da oggetti comuni. Per po
 | Sparachiodi         | - 1x stampella<br />- 1x batteria a fissione<br />- 1x pentola a pressione<br />- 1x gruppo manometro                                       | - Venduto da Tulipano alla Moda degli Inferi<br />- Ricompensa della missione *Furto della Dichiarazione d'indipendenza* di Abraham Washington, a Rivet City<br />- Centrale elettrica MDPL-13<br />                                                                                                                                                                                                                                                                    |
 | Lanciatutto         | - Oggetti necessari:<br />- 1x conduttore<br />- 1x bocchetta della pompa antincendio<br />- 1x soffiafoglie<br />- 1x aspirapolvere        | - Venduto/posseduto da Wolfgang il pazzo<br />- Venduto da Moira Brown a spaccio di Craterside<br />- Armeria di Rivet City<br />- Ufficio medico del Vault 101, all'interno del quadro con la citazione biblica<br /><br />                                                                                                                                                                                                                                            |
 | Shishkebab          | - Oggetti necessari:<br />- 1x lama di falciatrice<br />- 1x serbatoio motocicletta<br />- 1x leva freno motocicletta<br />- 1x luce pilota | - Venduto/posseduto da Lucky Harith<br />- Ricompensa della missione *Legami di sangue* di Vance alla Stazione metropolitana di Meresti<br />- Baracca dei Rinnegati della Confraternita (non contrassegnata), a ovest del Gruppo satelliti SatCom NN-03d                                                                                                                                                                                                               |
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+## Oggetti utili
+
+* aspiratutto: per costruire il **Lanciatutto**
+* batteria a fissione: per costruire lo **Sparachiodi**
+* bocchetta antincendio: per costruire il **Lanciatutto**
+* bombe di zucchero: da vendere a Murphy alla Stazione Seneca
+* cestino del cibo: per costruire la **Mina da tappo**
+* cintura in pelle: per costruire il **Guanto Deathclaw**
+* colla prodigiosa: per costruire il **Guanto Deathclaw**
+* conduttore: per costruire il **Lanciatutto**
+* detergente Abraxo: per costruire la **Granata Nuka**
+* ghiandola velenifera scorpione radioattivo: per costruire la **Pistola a dardi**
+* gruppo manometro: per costruire lo **Sparachiodi**
+* lama falciatrice: per costruire lo **Shishkebab**
+* lattina: per costruire la **Granata Nuka**, solo quelle intatte
+* leva freno motocicletta: per costruire lo **Shishkebab**
+* luce pilota: per costruire lo **Shishkebab**, spesso nei forni
+* macchina fotografica: da vendere allo scriba Rothchild dopo aver terminato il DLC 
+* macchinina: per costruire la **Pistola a dardi**
+* mano di Deathclaw: per costruire il **Guanto Deathclaw**
+* modulo sensori: per costruire la **Mina da tappo**
+* Nuka Cola Quantum: per costruire la **Granata Nuka**
+* orsacchiotto: da dare a Midea nel Pitt, dopo aver completato il DLC
+* pacchi di sigarette, da vendere
+* pentola a pressione: per costruire lo **Sparachiodi**
+* petardi: per costruire la **Mina da tappo**
+* pistola a vernice: per costruire la **Pistola a dardi**
+* rottami di ferro, da vendere a Walter a Megaton per esperienza e tappi/karma
+* serbatoio motocicletta: per costruire lo **Shishkebab**
+* soffiafoglie: per costruire il **Lanciatutto**
+* stampella: per costruire lo **Sparachiodi**
+* tappo: per costruire la **Mina da tappo**
+* trementina: per costruire la **Granata Nuka**
+* tubi chirurgici: per costruire la **Pistola a dardi**
+* tutore medico: per costruire il **Guanto Deathclaw**
+
+
+
 
 Note:
 - Avendo Ripara a 100 con un solo schema si crea un'arma al 75% di condizione
