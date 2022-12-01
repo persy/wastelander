@@ -14,8 +14,6 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-{{< toc hide_on="xl" >}}
-
 
 TODO
 

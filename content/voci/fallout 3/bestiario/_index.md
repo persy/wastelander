@@ -17,8 +17,7 @@ TODO
 
 {{< cta cta_text="Seguaci" cta_link="#" cta_new_tab="false" >}} 
 {{< cta cta_text="Mercanti" cta_link="mercanti" cta_new_tab="false" >}} 
-{{< cta cta_text="Creature" cta_link="#" cta_new_tab="false" >}}
-{{< cta cta_text="Robot" cta_link="#" cta_new_tab="false" >}}
+{{< cta cta_text="Creature e robot" cta_link="creature-e-robot" cta_new_tab="false" >}}
 
 
  
