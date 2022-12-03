@@ -22,6 +22,8 @@ private: false # Nascosto dalle ricerche
 
 ### Armature leggere
 
+<div class="scrollwrapper">
+
 | Armature                                            | SD  | Peso | Valore | Condizione |       Missione       | Limite |                              Effetto                               |         Fazione         |
 | --------------------------------------------------- | :-: | :--: | :----: | :--------: | :------------------: | :----: | :----------------------------------------------------------------: | :---------------------: |
 | Armatura Blastmaster da Predatore                   |  4  |  15  |  180   |    100     |          No          |   No   |                                 -                                  |            -            |
@@ -79,7 +81,11 @@ private: false # Nascosto dalle ricerche
 | Vestito degli Zampabianca                           |  5  |  5   |  150   |     80     |          No          |   No   |                           Res. fuoco +15                           |            -            |
 | Vestito dei Tormenti                                |  2  |  2   |   75   |     50     |          No          |   No   |                          Sopravvivenza +5                          |            -            |
 
+</div>
+
 ### Armature medie
+
+<div class="scrollwrapper">
 
 | Armature                                            | SD  | Peso | Valore | Condizione |       Missione       | Limite |                              Effetto                               |         Fazione         |
 | --------------------------------------------------- | :-: | :--: | :----: | :--------: | :------------------: | :----: | :----------------------------------------------------------------: | :---------------------: |
@@ -110,7 +116,11 @@ private: false # Nascosto dalle ricerche
 | Attrezzatura antisommossa d'élite                   | 22  |  23  | 12500  |    750     |          No          |   1    |              Occ. colpo letale +5%, Armi +10, CAR +1               |            -            |
 | Tuta mimetica Mk II                                 | 14  |  25  |  7500  |    500     |          No          |   1    |     Furtivo +15-20, PER +1, AGI +1, velocità da abbassati +20%     |            -            |
 
+</div>
+
 ### Armature pesanti
+
+<div class="scrollwrapper">
 
 | Armature                                            | SD  | Peso | Valore | Condizione |       Missione       | Limite |                              Effetto                               |         Fazione         |
 | --------------------------------------------------- | :-: | :--: | :----: | :--------: | :------------------: | :----: | :----------------------------------------------------------------: | :---------------------: |
@@ -128,8 +138,12 @@ private: false # Nascosto dalle ricerche
 | Armatura metallica con parti di geco rinforzata     | 20  |  35  |  5750  |    425     |          No          |   No   | AGI -1<br>res. fuoco +15<br>res. veleno +15<br>res. radiazioni +15 |            -            |
 | Armatura metallica rinforzata                       | 16  |  30  |  3500  |    250     |          No          |   No   |                               AGI -1                               |            -            |
 
+</div>
+
 
 ## Vestiti
+
+<div class="scrollwrapper">
 
 | Vestito                                       | SD | Peso | Valore | Condizione |     Missione    | Limite |                Effetto               |         Fazione         |
 |-----------------------------------------------|:--:|:----:|:------:|:----------:|:---------------:|:------:|:------------------------------------:|:-----------------------:|
@@ -224,9 +238,13 @@ private: false # Nascosto dalle ricerche
 | Vestito semplice Powder Gang                  |  0 |   3  |   15   |     100    |        No       |   No   |                   -                  |      Powder Ganger      |
 | Viva Las Vegas                                |  5 |   1  |    6   |     100    |        No       |    1   |                   -                  |            -            |
 
+</div>
+
 ## Copricapi
 
 ### Occhiali
+
+<div class="scrollwrapper">
 
 | Occhiali                     | SD  | Peso | Valore | Condizione | Missione | Limite |                    Effetto                     |
 | ---------------------------- | :-: | :--: | :----: | :--------: | :------: | :----: | :--------------------------------------------: |
@@ -241,7 +259,11 @@ private: false # Nascosto dalle ricerche
 | Occhiali del Dr. Mobius      |  1  | 0.25 |  1500  |    150     |    No    |   1    | Esplosivi +10, INT +2, PER +2 (Quattro occhi)  |
 | Occhiali Tortiseshell        |  0  |  0   |   8    |    150     |    No    |   1    |             PER +2 (Quattro occhi)             |
 
+</div>
+
 ### Cappelli
+
+<div class="scrollwrapper">
 
 | Cappello                              | SD  | Peso | Valore | Condizione |        Missione        | Limite |           Effetto            |
 | ------------------------------------- | :-: | :--: | :----: | :--------: | :--------------------: | :----: | :--------------------------: |
@@ -290,7 +312,11 @@ private: false # Nascosto dalle ricerche
 | Fedora                                |  0  |  1   |   8    |     15     |           No           |   No   |            PER +1            |
 | Vecchio cappello da coy               |  1  |  1   |   8    |     15     |           No           |   No   |            PER +1            |
 
+</div>
+
 ### Elmi
+
+<div class="scrollwrapper">
 
 | Elmo                                                |  SD  | Peso | Valore | Condizione |              Missione               | Limite |                 Effetto                  |
 | --------------------------------------------------- | :--: | :--: | :----: | :--------: | :---------------------------------: | :----: | :--------------------------------------: |
@@ -346,7 +372,11 @@ private: false # Nascosto dalle ricerche
 | Motore-Elmo Runner                                  |  2   |  1   |   8    |     15     |          Taglia tre carte           |   1    |        Armi da mischia +5, PER +1        |
 | Sciarpa da schiavo                                  |  0   |  1   |   8    |     15     |                 No                  |   No   |                  PER +1                  |
 
+</div>
+
 ### Miscellanea
+
+<div class="scrollwrapper">
 
 | Copricapo                                |  SD  | Peso | Valore | Condizione |              Missione               | Limite |            Effetto             |
 | ---------------------------------------- | :--: | :--: | :----: | :--------: | :---------------------------------: | :----: | :----------------------------: |
@@ -365,11 +395,15 @@ private: false # Nascosto dalle ricerche
 | Oscillatore triradiale a valenza atomica |  4   |  1   |  5000  |    100     |                 No                  |   3    |    STA +1, rigenerazione TP    |
 | Pimp-Boy 3 miliardi                      |  0   |  0   |   0    |     1      |        Che poco ne sappiamo         |   1    |               -                |
 
+</div>
+
 
 
 ## Armature e vestiti unici
 
 ### Vestiti
+
+<div class="scrollwrapper">
 
 | Indossabile unico                          |       DLC       |                                 Variante comune/come si ripara                                 | Luogo                                                                                                                                                                                  |
 | ------------------------------------------ | :-------------: | :--------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -382,7 +416,7 @@ private: false # Nascosto dalle ricerche
 | Impermeabile                               |        -        |                                            Nessuna                                             | Indossata da Jay Barnes all'Ultra-Luxe. Non può essere indossata                                                                                                                       |
 | Pigiama sexy                               |        -        |                                   Vari indumenti prebellici                                    | Acquistabile da Negozio di Mick e Ralph                                                                                                                                                |
 | Pigiama sexy                               |        -        |                                          Pigiama sexy                                          | Nell'Attico dell'Ultra-Luxe, deve essere rubato                                                                                                                                        |
-| Smoking di Dean                            |   Dead Money    |                               Abiti eleganti prebellici sporchi                                | Indossati da Dean Domino. Si può prendere una volta fatto nostro seguace o dopo il duello a Il Tampico                                                                                 |
+| Smoking di Dean                            |   Dead Money    |                               Abiti eleganti prebellici sporchi                                | Indossati da Dean Domino. Si può prendere una volta fatto nostro Seguace o dopo il duello a Il Tampico                                                                                 |
 | Spolverino da sceriffo                     |        -        |                                        Super-meccanico                                         | Nell'ufficio dello sceriffo a Primm; sparisce dopo aver completato La città che mi piace                                                                                               |
 | Tuta di Benny                              |        -        |                               Abiti eleganti prebellici sporchi                                | Indossata da Benny                                                                                                                                                                     |
 | Tuta Robco                                 |        -        |                                        Super-meccanico                                         | Indossata da Dermot a Westside nella sua stanza al Appartamenti Casa Madrid o al Westside Co-op                                                                                        |
@@ -398,7 +432,11 @@ private: false # Nascosto dalle ricerche
 | Vestito di Vera                            |   Dead Money    |                                          Pigiama sexy                                          | Appartemento di Vera, nelle suite del Sierra Madre; vicino a un cadavere nella stanza in cui troviamo Christine                                                                        |
 | Viva Las Vegas                             |        -        |                                        Super-meccanico                                         | Indossata dal Re, nella King's School of Impersonation; ottenuta uccidendolo o con il ''reverse pickpocketing''                                                                        |
 
+</div>
+
 ### Armature
+
+<div class="scrollwrapper">
 
 | Indossabile unico                                   |       DLC       |                                      Variante comune/come si ripara                                       | Luogo                                                                                                                                                                        |
 | --------------------------------------------------- | :-------------: | :-------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -430,7 +468,11 @@ private: false # Nascosto dalle ricerche
 | Tuta multiuso                                       |        -        |                                           Vestito da scienziato                                           | Nel Rifugio dei Seguaci. La chiave è ottenibile da Julie Farkas dopo essere divenuti idolatrati dai Seguaci dell'Apocalisse                                                  |
 | Tuta spaziale                                       |        -        |                                            Tuta antiradiazioni                                            | Nel Sito test REPCONN, nell'area che dà all'hangar con i missili, durante la missione Vola con me                                                                            |
 
+</div>
+
 ### Copricapi e occhiali
+
+<div class="scrollwrapper">
 
 | Indossabile unico                               |       DLC       |                        Variante comune/come si ripara                         | Luogo                                                                                                                                                                        |
 | ----------------------------------------------- | :-------------: | :---------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -465,14 +507,18 @@ private: false # Nascosto dalle ricerche
 | Occhiali del Dr. Klein                          | Old World Blues |                           Tutti i tipi di occhiali                            | Nel Serbatoio del pensiero a Big MT, sulle scale a sinistra, con un laboratorio chimico                                                                                      |
 | Occhiali del Dr. Mobius                         | Old World Blues |                           Tutti i tipi di occhiali                            | Nella stanza più a est del Serbatoio del pensiero a Big MT. Assieme al Camice del Dottor Mobius, sbloccherà la sfida La Strip di Mobius                                      |
 
+</div>
+
 ### Altri
+
+<div class="scrollwrapper">
 
 | Indossabile unico   |      DLC      | Variante comune/come si ripara | Luogo                                                                                                          |
 | ------------------- | :-----------: | :----------------------------: | -------------------------------------------------------------------------------------------------------------- |
 | Maschera di Ulysses | Lonesome Road |        Super-meccanico         | Indossata da Ulysses o nell'armadietto vicino ai Rottami del canyon, dopo aver completato il DLC Lonesome Road |
 | Pimp-Boy 3 miliardi |       -       |               -                | Nella missione nascosta per Mick e Ralph per determinare perché gli Omerta hanno smesso di rifornirsi da loro  |
 
-
+</div>
 
 
 

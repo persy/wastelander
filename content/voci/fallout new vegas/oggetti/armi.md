@@ -20,6 +20,9 @@ private: false # Nascosto dalle ricerche
 
 ## Armi da fuoco
 ### Pistole
+
+<div class="scrollwrapper">
+
 | Arma                                           | Danno per colpo | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |        Munizioni         | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | ---------------------------------------------- | :-------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :----------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
 | Li'l Devil (AGR)                               |       45        |       146.3       |       3.25        |               x2               |           45           |    15    |     3.0      | 0.9  |   Munizioni da 12.7mm    |          7          |       595       | 3.2  |      16000      |    5000     |        75         |        8        |             Tascabile             |
@@ -42,7 +45,11 @@ private: false # Nascosto dalle ricerche
 | Una luce nell'oscurità                         |       33        |       144.4       |       4.38        |               x2               |           33           |    15    |     2.2      | 0.55 |      .45 automatica      |          6          |      1245       | 1.2  |      4500       |    3750     |        75         |        3        | Tascabile avanzata (Furtivo ≥ 50) |
 |                                                |                 |                   |                   |                                |                        |          |              |      |                          |                     |                 |      |                 |             |                   |                 |                                   |
 
+</div>
+
 ### Fucili
+
+<div class="scrollwrapper">
 
 | Arma                                                       | Danno per colpo  | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |        Munizioni         | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | ---------------------------------------------------------- | :--------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :----------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
@@ -72,7 +79,11 @@ private: false # Nascosto dalle ricerche
 | Silenziatore fucile COS di Christine                       |        62        |       99.6        |       2.01        |              x2.5              |           62           |    38    |     2.03     | .02  |    Munizioni da .308     |          5          |       420       | 5.5  |      6100       |    1109     |        75         |        6        |          Mirino incluso           |
 | Tiratore scelto carabina                                   |        24        |       136.8       |        5.7        |               x1               |           24           |    14    |     2.11     | .04  |   Munizioni da 5.56mm    |         20          |      1995       |  6   |      5200       |     867     |        100        |        4        |          Mirino incluso           |
 
+</div>
+
 ### Mitragliette
+
+<div class="scrollwrapper">
 
 | Arma                                                       | Danno per colpo  | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |        Munizioni         | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | ---------------------------------------------------------- | :--------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :----------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
@@ -85,7 +96,11 @@ private: false # Nascosto dalle ricerche
 | Ninna nanna (AGR)                                          |        22        |        220        |        10         |              x0.1              |           22           |    22    |     4.0      | 1.7  |    Munizioni da 10mm     |         40          |      2495       |  5   |      8250       |    1650     |        50         |        5        | Tascabile avanzata (Furtivo ≥ 50) |
 | Sparachiodi H&H Tools                                      |        9         |        126        |        14         |             x0.12              |           9            |    20    |     2.7      | 1.4  |          Chiodi          |         90          |      2745       |  4   |      5000       |    1250     |        75         |        2        |                                   |
 
+</div>
+
 ### Fucili a pompa
+
+<div class="scrollwrapper">
 
 | Arma                                                       | Danno per colpo  | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |        Munizioni         | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | ---------------------------------------------------------- | :--------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :----------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
@@ -99,7 +114,11 @@ private: false # Nascosto dalle ricerche
 | Fucile da caccia Caravan robusto                           |  50<br>(7.1 x7)  |       160.7       |       3.21        |               x1               |           7            |    27    |     2.25     |  4   |   Munizione calibro 20   |          2          |      1495       |  3   |       875       |     292     |         0         |        3        |                                   |
 | Grande Boomer                                              | 120<br>(8.6 x14) |       34.2        |       2.58        |               x1               |           9            |    35    |     3.43     | 3.5  |   Munizione calibro 12   |        2(1)         |       395       |  4   |      2500       |     625     |        50         |        4        |                                   |
 
+</div>
+
 ### Armi pesanti
+
+<div class="scrollwrapper">
 
 | Arma                                                       | Danno per colpo  | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |        Munizioni         | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | ---------------------------------------------------------- | :--------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :----------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
@@ -109,10 +128,14 @@ private: false # Nascosto dalle ricerche
 | Mitragl. a c. rotanti                                      |        12        |        240        |        20         |              x0.5              |           12           |    30    |     3.2      | 1.0  |     Munizioni da 5mm     |         240         |      5995       |  25  |      5500       |     220     |        100        |       10        |                                   |
 | Mitragliatrice da spalla                                   |        30        |        210        |         7         |               x0               |           20           |    30    |     3.0      | 0.9  |    Munizioni da 10mm     |         60          |      3995       |  17  |      7500       |     442     |        75         |        7        |                                   |
 
+</div>
+
 
 ## Armi a energia
 
 ### Pistole a energia
+
+<div class="scrollwrapper">
 
 | Arma                                                         |            Danno per colpo            | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |           Munizioni           | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                         Note                          |
 | ------------------------------------------------------------ | :-----------------------------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :---------------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :---------------------------------------------------: |
@@ -134,7 +157,11 @@ private: false # Nascosto dalle ricerche
 | Pistola laser                                                |                  12                   |        45         |       4.15        |              x1.5              |           12           |    15    |     0.8      | 0.1  |       Cella di energia        |         30          |       995       |  3   |       175       |    58.3     |         0         |        1        |           Tascabile avanzata (Furtivo ≥ 50)           |
 | Ricaricatore pistola                                         |                  18                   |        90         |         5         |              x1.2              |           18           |    13    |     1.38     | 0.1  | Autogeneratore a microfusione |         20          |      1495       |  7   |      2700       |    385.7    |        50         |        2        |                                                       |
 
+</div>
+
 ### Fucili a energia
+
+<div class="scrollwrapper">
 
 | Arma                                                         |            Danno per colpo            | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |           Munizioni           | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                         Note                          |
 | ------------------------------------------------------------ | :-----------------------------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :---------------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :---------------------------------------------------: |
@@ -154,7 +181,11 @@ private: false # Nascosto dalle ricerche
 | Van Graff - Fucile plasma                                    |                  32                   |       44.8        |        1.4        |               x2               |           32           |    30    |     1.06     | 0.2  |     Cella a microfusione      |    24<br />(12)     |       370       |  8   |      1300       |     163     |         0         |        3        |                                                       |
 | YCS/186                                                      |                  140                  |       52.5        |         3         |               x2               |           70           |    40    |     3.5      | 4.35 |     Cella a microfusione      |     4<br />(1)      |       495       |  8   |      3000       |     375     |        75         |        5        |              Zona contaminata selvaggia               |
 
+</div>
+
 ### Armi pesanti a energia
+
+<div class="scrollwrapper">
 
 | Arma                                                         |            Danno per colpo            | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno per colpo letale | Costo PA | Danno per PA | Rosa |           Munizioni           | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                         Note                          |
 | ------------------------------------------------------------ | :-----------------------------------: | :---------------: | :---------------: | :----------------------------: | :--------------------: | :------: | :----------: | :--: | :---------------------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :---------------------------------------------------: |
@@ -171,9 +202,13 @@ private: false # Nascosto dalle ricerche
 | Saldatore ad arco                                            |         9<br>+8/+4 d. impulso         |        72         |         8         |               x4               |           1            |    30    |     0.9      | 0.5  |  Pacco batterie a elettroni   |         30          |      1245       |  15  |      3700       |     247     |        75         |        7        |            Bonus robot e armature atomiche            |
 | Sprtel-Wood 9700 (AGR)                                       |                  16                   |        320        |        20         |               x1               |           16           |    30    |     4.3      | 0.5  |  Pacco batterie a elettroni   |         90          |      4995       |  15  |      20000      |    1333     |        100        |        6        |                                                       |
 
+</div>
+
 ## Armi da mischia
 
 ### Taglienti
+
+<div class="scrollwrapper">
 
 | Arma                                    |     Danno per colpo      | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno da colpo letale | Costo PA | Danno per PA | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                           Note                            |
 | --------------------------------------- | :----------------------: | :---------------: | :---------------: | :----------------------------: | :-------------------: | :------: | :----------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------------------------------: |
@@ -211,7 +246,11 @@ private: false # Nascosto dalle ricerche
 | Spada paraurti                          |            32            |       45.5        |       1.42        |               x1               |          32           |    38    |     2.08     |      1495       |  12  |      2500       |     208     |        50         |        8        |                                                           |
 | Toc Toc                                 |            66            |       118.8       |        1.8        |               x1               |          33           |    21    |     6.3      |       545       |  8   |      3200       |     400     |        75         |        5        |                                                           |
 
+</div>
+
 ### Contundenti
+
+<div class="scrollwrapper">
 
 | Arma                                         |     Danno per colpo      | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno da colpo letale | Costo PA | Danno per PA | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |               Note                |
 | -------------------------------------------- | :----------------------: | :---------------: | :---------------: | :----------------------------: | :-------------------: | :------: | :----------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------------------------------: |
@@ -237,7 +276,11 @@ private: false # Nascosto dalle ricerche
 | Tavola chiodata                              |            25            |       35.5        |        1.4        |               x0               |          25           |    27    |     2.25     |       295       |  4   |       250       |    62.5     |        25         |        7        |                                   |
 | Tubo di piombo                               |            22            |       55.8        |       2.54        |               x1               |          22           |    24    |     1.8      |       245       |  3   |       75        |     25      |        50         |        5        | Tascabile avanzata (Furtivo ≥ 50) |
 
+</div>
+
 ### Lanciabili
+
+<div class="scrollwrapper">
 
 | Arma                                    |     Danno per colpo      | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale | Danno da colpo letale | Costo PA | Danno per PA | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |   Note    |
 | --------------------------------------- | :----------------------: | :---------------: | :---------------: | :----------------------------: | :-------------------: | :------: | :----------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :-------: |
@@ -249,7 +292,11 @@ private: false # Nascosto dalle ricerche
 | Lancia                                  |            50            |        30         |        0.6        |               x1               |          50           |    24    |     4.2      |        0        | 0.5  |       25        |     50      |        25         |        1        |           |
 | Tomahawk                                |            30            |       19.8        |       1.06        |               x1               |          30           |    23    |     2.6      |        0        | 0.5  |       75        |    37.5     |        50         |        3        |           |
 
+</div>
+
 ## Armi da disarmato
+
+<div class="scrollwrapper">
 
 | Arma                                                                            |                Danno per colpo                | Danno per secondo | Velocità di fuoco | Moltiplicatore di colpo letale |       Danno da colpo letale      | Costo PA | Danno per PA | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                               Note                              |
 |---------------------------------------------------------------------------------|:---------------------------------------------:|:-----------------:|:-----------------:|:------------------------------:|:--------------------------------:|:--------:|:------------:|:---------------:|:----:|:---------------:|:-----------:|:-----------------:|:---------------:|:---------------------------------------------------------------:|
@@ -287,10 +334,14 @@ private: false # Nascosto dalle ricerche
 | Tirapugni d'ottone                                                              |                       18                      |        36.9       |        2.05       |               x1               |                18                |    18    |      2.0     |       995       |   1  |       120       |     120     |         25        |        2        |                            Tascabile                            |
 | Tosta-paladini                                                                  |            41<br>+50/+20 d. impulso           |        67.1       |        2.04       |               x1               |                41                |    28    |      2.9     |       395       |   6  |       6800      |    1133.3   |         75        |        4        |                                                                 |
 
+</div>
+
 
 ## Armi esplosive
 
 ### Esplosivi proiettabili
+
+<div class="scrollwrapper">
 
 | Arma                                    |                Danno per colpo                | Danno area | Danno per secondo | Velocità di fuoco | Costo PA | Danno per PA | Rosa |     Munizione      | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                          Note                          |
 | --------------------------------------- | :-------------------------------------------: | :--------: | :---------------: | :---------------: | :------: | :----------: | :--: | :----------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :----------------------------------------------------: |
@@ -309,7 +360,11 @@ private: false # Nascosto dalle ricerche
 | Mitragl. lanciagranate                  |             0<br>+50 d. esplosivo             |    550     |        150        |         3         |    50    |     1.0      |  1   |  Granata da 25mm   |         30          |       995       |  15  |      5200       |     347     |        100        |        8        |                                                        |
 | Pietà                                   |            5<br>+100 d. esplosivo             |    750     |       325.5       |        3.1        |    50    |     2.1      |  1   |  Granata da 40mm   |         18          |      2495       |  15  |      5200       |     347     |        100        |        8        |                                                        |
 
+</div>
+
 ### Esplosivi lanciabili
+
+<div class="scrollwrapper">
 
 | Arma                                    |                Danno per colpo                | Danno area | Danno per secondo | Velocità di fuoco | Costo PA | Danno per PA | Rosa |     Munizione      | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                          Note                          |
 | --------------------------------------- | :-------------------------------------------: | :--------: | :---------------: | :---------------: | :------: | :----------: | :--: | :----------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :----------------------------------------------------: |
@@ -326,7 +381,11 @@ private: false # Nascosto dalle ricerche
 | Granata MFC  (AGR)                      |             1<br>+75 d. esplosivo             |    600     |       49.6        |       1.05        |    35    |     2.17     |  -   |         -          |          -          |        -        | 0.5  |       15        |     30      |        25         |        2        |             Bombardiere matto<br>Tascabile             |
 | Granata Nuka  (AGR)                     |  1<br>+350 d. esplosivo<br>+2 d. fuoco (5s)   |    450     |       230.9       |       1.05        |    24    |    15.04     |  -   |         -          |          -          |        -        | 0.5  |       50        |     100     |        100        |        2        |           Bombardiere<br>matto<br>Tascabile            |
 
+</div>
+
 ### Esplosivi piazzabili
+
+<div class="scrollwrapper">
 
 | Arma                                    |                Danno per colpo                | Danno area | Danno per secondo | Velocità di fuoco | Costo PA | Danno per PA | Rosa |     Munizione      | Capacità caricatore | Durabilità arma | Peso | Valore in tappi | Valore/peso | Abilità richiesta | Forza richiesta |                          Note                          |
 | --------------------------------------- | :-------------------------------------------: | :--------: | :---------------: | :---------------: | :------: | :----------: | :--: | :----------------: | :-----------------: | :-------------: | :--: | :-------------: | :---------: | :---------------: | :-------------: | :----------------------------------------------------: |
@@ -345,9 +404,13 @@ private: false # Nascosto dalle ricerche
 | Mina al plasma                          |            1<br>+150  d. esplosivo            |    192     |         -         |         -         |    35    |     4.31     |  -   |         -          |          -          |        -        | 0.5  |       300       |     600     |        75         |        2        |                                                        |
 | Mina da tappo                           |            1<br>+200 d. esplosivo             |    256     |         -         |         -         |    35    |     6.14     |  -   |         -          |          -          |        -        | 0.5  |       150       |     300     |         0         |        1        |                   Bombardiere matto                    |
 
+</div>
+
 ## Armi uniche
 
 ### Disarmato
+
+<div class="scrollwrapper">
 
 | Arma unica                                         |         DLC         |              Variante comune              | Luogo                                                                                                                                                                                                                                                         |
 | -------------------------------------------------- | :-----------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -366,7 +429,11 @@ private: false # Nascosto dalle ricerche
 | Ricompensa dei caduti                              |          -          |         Pugno medagliette di cane         | Sulla scrivania di Aurelius of Phoenix, nel suo ufficio a Cottonwood Cove.                                                                                                                                                                                    |
 | Tosta-paladini                                     |          -          |             Guanto da attacco             | Nella Caverna Black Rock, sul cadavere del prospettore.                                                                                                                                                                                                       |
 
+</div>
+
 ### Armi da mischia
+
+<div class="scrollwrapper">
 
 | Arma unica                                         |         DLC         |              Variante comune              | Luogo                                                                                                                                                                                                                                                         |
 | -------------------------------------------------- | :-----------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -386,7 +453,11 @@ private: false # Nascosto dalle ricerche
 | Spacca-Nuka                                        | Arsenale Gun Runner |                Rebar club                 | Venduto da Mick al Negozio di Mick e Ralph in Freeside, o dal Vendortron al Gun Runner se Mick è morto.                                                                                                                                                       |
 | Toc Toc                                            |          -          |              Ascia di fuoco               | Nella stazione dei pompieri a Camp Searchlight. Bisogna prima ottenere la chiave da Logan.                                                                                                                                                                    |
 
+</div>
+
 ### Armi da fuoco
+
+<div class="scrollwrapper">
 
 | Arma unica                                         |         DLC         |              Variante comune              | Luogo                                                                                                                                                                                                                                                         |
 | -------------------------------------------------- | :-----------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -416,7 +487,11 @@ private: false # Nascosto dalle ricerche
 | Silenziatore fucile COS di Christine               |   Old World Blues   |            Fucile da cecchino             | In un angolo di un edificio verso la recinzione nord di Piccolo Yangtze.                                                                                                                                                                                      |
 | Una luce nelloscurità                              |    Honest Hearts    |          Pistola automatica .45           | Portata da Joshua Graham, appare anche nel baule di nel Passaggio sud nel canyon di Zion, dopo aver completato il DLC Honest Hearts'.                                                                                                                         |
 
-### Armi uniche
+</div>
+
+### Armi a energia
+
+<div class="scrollwrapper">
 
 | Arma unica                                         |         DLC         |              Variante comune              | Luogo                                                                                                                                                                                                                                                         |
 | -------------------------------------------------- | :-----------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -439,7 +514,11 @@ private: false # Nascosto dalle ricerche
 | Van Graff - Fucile plasma                          |          -          |             Fucile al plasma              | Ottenibile al Silver Rush durante la missione Dio li fa....                                                                                                                                                                                                   |
 | YCS/186                                            |          -          |               Fucile Gauss                | Portato da un mercenario all'accampamento dei Mercenari, a est del Tumbleweed Ranch dei Brooks; non può essere ottenuto se si ha il tratto [Zona contaminata selvaggia]                                                                                       |
 
+</div>
+
 ### Esplosivi
+
+<div class="scrollwrapper">
 
 | Arma unica                                         |         DLC         |              Variante comune              | Luogo                                                                                                                                                                                                                                                         |
 | -------------------------------------------------- | :-----------------: | :---------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -452,6 +531,7 @@ private: false # Nascosto dalle ricerche
 | Lanciagranate Vittoria rossa                       |    Lonesome Road    |               Lanciagranate               | In un armadietto al Dry Wells, su una collina che dà all'accampamento.                                                                                                                                                                                        |
 | Pietà                                              |          -          |          Mitragl. lanciagranate           | Vicino al cadavere di un soldato della Confraternita d'Acciaio nella La caverna del vento morto.                                                                                                                                                              |
 
+</div>
 
 ## Munizioni
 
@@ -575,4 +655,4 @@ private: false # Nascosto dalle ricerche
 | Chiodi                             |                                                                                                                                         Sparachiodi H&H Tools                                                                                                                                        |      0.01      |                  standard                 |        1        |                                                          SD bersaglio -5                                                          |                                                                                                                                                                               |
 |                                    |                                                                                                                                                                                                                                                                                                      |                |                   dardo                   |        1        |                                                         Spara stile fucile                                                        |                                                                                                                                                                               |
 
-
+</div>

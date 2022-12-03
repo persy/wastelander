@@ -32,7 +32,7 @@ graph TD;
     id7(Parla con la Dottoressa Li <br />attraverso l'intercom) 
     id8(Sacrificati) 
     id9(Sacrifica <br />Sarah Lyons) 
-    id10("Sacrifica un seguace <br />(Broken Steel)") 
+    id10("Sacrifica un Seguace <br />(Broken Steel)") 
     id11(Non fare nulla) 
     id12(Contamina l'acqua <br />con la fiala di FEV) 
     id13(1200 PE, finale di gioco):::rewardfo3 
@@ -70,7 +70,7 @@ graph TD;
 
 Note:
 - Il DLC Broken Steel inizia dopo che è finita questa missione
-  - Con il DLC Broken Steel installato è possibile far entrare nel compartimento stagno un seguace
+  - Con il DLC Broken Steel installato è possibile far entrare nel compartimento stagno un Seguace
 - Dire a Lyons l'Anziano che il Vault 87 è l'origine dei supermutanti farà guadagnare karma positivo
 - Liberty Prime attaccherà qualsiasi carovana, considerandola ostile
 - Terminata la missione è possibile che Fawkes resti inottenibile fino a *Chi osa vince*

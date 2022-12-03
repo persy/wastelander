@@ -18,11 +18,13 @@ TODO
 
 {{< toc hide_on="xl" >}}
 
-| Simbolo                | Significato      |
-| ---------------------- | :----------------: |
-| :crossed_swords:       | Danno da mischia |
-| :skull_and_crossbones: | Danno da veleno  |
-| :fire: | Danno da fuoco                 |
+Legenda
+
+| Simbolo | Significato       | Simbolo | Significato      | Simbolo | Significato      |
+| :-------: | ----------------- | :-------: | ---------------- | :-------: | ---------------- |
+| ⚔️    | Danno da mischia  | 💀     | Danno veleno     | **PE**      | Punti esperienza |
+| ☢️    | Danno radioattivo | 👿     | Aggressivo       | **PER**     | Percezione       |
+| 🔥     | Danno da fuoco    | 👿👿  | Molto aggressivo | **HP**/**TP**   | Punti ferita     |
 
 ## Insetti e artropodi
 
@@ -41,6 +43,9 @@ un'abilità specifica per potenziare la resistenza al veleno.
 | ----------------- | -------------------------- | --------------------- |
 | {{<figure src="Cazador.webp" width="250px">}} | {{<figure src="LegendaryCazador.webp" width="250px">}} | {{<figure src="Specimen_73.webp" width="250px">}} |
 
+
+<div class="scrollwrapper">
+
 | Variante    | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                              | Inventario                                                                    | Luoghi                                                                                       |
 | ----------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :------------------------------------------------------------: | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | comune      |  18  | 50  |  9  | 200 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Veleno del cazador (8 :skull_and_crossbones: per 30s)  | Ghiandola del veleno di Cazador<br>Uovo di Cazador                            | Vicino le aree montuose del Mojave, come Jacobstown, a nord di Goodsprings e Bonnie Springs. |
@@ -49,6 +54,7 @@ un'abilità specifica per potenziare la resistenza al veleno.
 | gigante     |  27  | 50  |  9  | 350 |  0  | 0%  | :imp: :imp: | :crossed_swords: (80)<br>Veleno del cazador (8 :skull_and_crossbones: per 30s)  | Ghiandola del veleno di Cazador<br>Uovo di Cazador                            | [Honest Hearts] Ovunque all'interno del Canyon di Zion, come l'Accampamento dei Tormenti     |
 | Campione 73 |  50  | 50  |  6  | 675 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Veleno del cazador (8 :skull_and_crossbones: per 30s)  | Oscillatore triradiale a valenza atomica<br>2 Ghiandole del veleno di Cazador | [Old World Blues] Laboratorio di ibridazione del DNA Pepsinae Z-14                           |
 
+</div>
 
 ### Formica di fuoco
 La Formica di fuoco è un imenottero mutato (famiglia Formicidae), derivato dalla variante gigante normale a causa di una mutazione genetica, indotta
@@ -58,18 +64,26 @@ dal Dottor Lesko della Zona contaminata della Capitale che, nel voler farle torn
 | ------------------ | ------------------------- |
 | {{<figure src="Fire_ant.webp" width="250px">}} | {{<figure src="Giant_ant_queen.webp" width="250px">}} |
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                             | Inventario                                                                                 | Luoghi                                                                      |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | operaia  |  6   |  ?  |  2  | 55  |  0  | 0%  | :imp:       | :crossed_swords: (20)<br>Soffio infuocato (2+2 :fire: per 5s)<br>Res. fuoco 85% | 75% Carne di formica del fuoco<br>20% Nettare form. Fuoco<br>20% Uovo di formica del fuoco |                                                                             |
 | soldato  |  12  |  ?  |  4  | 100 |  0  | 0%  | :imp: :imp: | :crossed_swords: (40)<br>Soffio infuocato (4+2 :fire: per 5s)<br>Res. fuoco 85% | 75% Carne di formica del fuoco<br>70% Nettare form. Fuoco<br>20% Uovo di formica del fuoco |                                                                             |
 | regina   |  17  |  ?  |  5  | 450 |  0  | 0%  | :imp: :imp: | :crossed_swords: (55)<br>Soffio infuocato (8+2 :fire: per 5s)                   | 20% Uovo di formica<br>8% Feromoni di formica                                              | Cumulo di formiche a South Vegas (è anche la Regina delle formiche giganti) |
 
+</div>
+
 ### Formica gigante
-La Formica gigante è un imenottero mutato (famiglia Formicidae), probabilmente evoluto dalla formica nera carpentiere del nord America. Probabilmente le sue dimensioni sono dovute ad un'alta esposizione alle radiazioni
+La Formica gigante è un imenottero mutato (famiglia Formicidae), probabilmente evoluto dalla formica nera carpentiere del nord America. Probabilmente le sue dimensioni sono dovute ad un'alta esposizione alle radiazioni.
 
 | Operaia e soldato    |  Regina   |     
 | --- | --- | 
 | {{<figure src="Giant_soldier_ant.webp" width="250px">}}    | {{<figure src="Giant_ant_queen.webp" width="250px">}}         |
+
+
+
+<div class="scrollwrapper">
 
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                           | Inventario                                                            | Luoghi                                                                       |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------: | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -80,6 +94,7 @@ La Formica gigante è un imenottero mutato (famiglia Formicidae), probabilmente 
 |          |  8   |  ?  |  3  | 75  |  0  | 0%  | :imp: :imp: | :crossed_swords: (30)                                           | 75% Carne di formica<br>25% Nettare di formica<br>20% Uovo di formica |                                                                              |
 | regina   |  17  |  ?  |  5  | 450 |  0  | 0%  | :imp: :imp: | :crossed_swords: (55)<br>Soffio infuocato (8+2 :fire: per 5s) | 20% Uovo di formica<br>8% Feromoni di formica                         | Cumulo di formiche a South Vegas (è anche la Regina delle formiche di fuoco) |
 
+</div>
 
 ### Mantide gigante
 La Mantide gigante è una variante gigante della mantide religiosa (Mantis religiosa). La loro dimensione è dovuta ad un'esposizione massiccia alle
@@ -88,6 +103,8 @@ radiazioni e al virus VEF modificato. Una variante della mantide gigante si trov
 | Comune    | Crisalide    |     
 | --- | --- | 
 |  {{<figure src="Giant_mantis.webp" width="250px">}}   |  {{<figure src="Giant_mantis_nypmh.webp" width="250px">}}        |
+
+<div class="scrollwrapper">
 
 | Variante         | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                     | Inventario                                         | Luoghi                                                                             |
 | :----------------: | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-----------------------------------: | -------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -105,6 +122,7 @@ radiazioni e al virus VEF modificato. Una variante della mantide gigante si trov
 | crisalide (Zion) |  6   |  ?  |  4  | 35  |  0  | 0%  | :imp: :imp: | :crossed_swords: (45)                     | Zampa anteriore mantide                            |                                                                                    |
 | gigante (Zion)   |  20  |  ?  |  6  | 120 |  0  | 0%  | :imp: :imp: | :crossed_swords: (110)                    | Zampa anteriore mantide                            |                                                                                    |
 
+</div>
 
 
 ### Mosca mutante
@@ -120,10 +138,14 @@ per ucciderla, anche se sono alquanto sfuggenti senza l'uso dello S.P.A.V..
 | {{<figure src="Bloatfly.webp" width="250px">}}   |  (TODO)   | 
 
 
+<div class="scrollwrapper">
+
 | Variante    | Liv. | PE  | PER |  TP  | SD  | RD  | Aggressività     | Attacco/abilità                                      | Inventario                                                                                      | Luoghi |
 | ----------- | :--: | :-: | :-: | :--: | :-: | :-: | :----------------: | :----------------------------------------------------: | ----------------------------------------------------------------------------------------------- | ------ |
 | comune      |  1   |  1  |  6  |  15  |  0  | 0%  | :imp:       | :crossed_swords: (7)                                       | Carne di mosca mutante                                                                          |        |
 | leggendaria |  50  | 50  |  5  | 2000 | 20  | 0%  | :imp: :imp: | :crossed_swords: (450)<br>Plasma (300)<br>:bomb: (225) | Carne di mosca mutante<br>Psycho<br>Buffout<br>Siringhe vuote<br>Celle di microfusione esaurite |        |
+
+</div>
 
 ### Scarafaggio radioattivo
 Lo Scarafaggio radioattivo è una variante gigante del comune scarafaggio (ordine Blattodea). La loro dimensione è dovuta presumibilmente ad
@@ -136,9 +158,13 @@ all'improvviso.
 | --- | --- | 
 | {{<figure src="Radroach.webp" width="250px">}}    |     |    
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità | Inventario                       | Luoghi |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | ------------ | :---------------: | -------------------------------- | ------ |
 | comune   |  1   |  ?  |  3  | 12  |     |     | :imp:   | :crossed_swords: (5)  | Carne di scarafaggio radioattivo |        |
+
+</div>
 
 ### Scorpione centuroide
 Lo Scorpione centuroide è una variante nativa del Mojave del classico scorpione radioattivo. Sono facilmente distinguibili dal loro carapace giallo-ocra e
@@ -149,11 +175,15 @@ spesso sono difficilmente distinguibili dalla sabbia del deserto, visto la loro 
 | --- | --- | 
 | {{<figure src="Bark_scorpion_FNV.webp" width="250px">}}    |     |     
 
+<div class="scrollwrapper">
+
 | Variante   | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                    | Inventario                                   | Luoghi |
 | ---------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :----------------------------------------------------------------------------------: | -------------------------------------------- | ------ |
 | comune     |  5   |  ?  |  3  | 20  |  2  | 0%  | :imp: :imp: | :crossed_swords: (25)<br>Veleno dello scorpione centuroide (5 :skull_and_crossbones:, -2 PER per 30s) | Ghiandola del veleno di scorpione centuriode |        |
 | cacciatore |  ?   |  ?  |  3  | 20  |  2  | 0%  | :imp: :imp: | :crossed_swords: (30)<br>Veleno dello scorpione centuroide (5 :skull_and_crossbones:, -2 PER per 30s) | Ghiandola del veleno di scorpione centuriode |        |
 
+
+</div>
 
 ### Scorpione radioattivo
 Lo Scorpione radioattivo è uno artropode mutato di proporzioni gigantesche. E' evoluto dallo scorpione imperatore (Pandinus imperator), diffuso in
@@ -162,6 +192,8 @@ Africa e importato in America, probabilmente per la rivendita nei vari insettari
 | Comune    |  Gigante   | Regina    |
 | --- | --- | --- |
 | {{<figure src="Radscorpion.webp" width="250px">}}    | {{<figure src="Giant_radscorpion.webp" width="250px">}}    | {{<figure src="Radscorpion_queen_in_SL_fire_station.webp" width="250px">}}    |
+
+<div class="scrollwrapper">
 
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                     | Inventario                                            | Luoghi                                                                                                                                                       |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-----------------------------------------------------------------------------------: | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -176,6 +208,8 @@ Africa e importato in America, probabilmente per la rivendita nei vari insettari
 |          |  9   |  ?  |  6  | 150 | 18  | 0%  | :imp: :imp: | :crossed_swords: (60+8 per 10s)                                                           | 100% Ghiandola velenifera dello scorpione radioattivo | A nord est del Cimitero di Goodsprings                                                                                                                       |
 |          |  15  |  ?  |  6  | 150 | 18  | 0%  | :imp: :imp: | :crossed_swords: (60+8 per 10s)                                                           | 100% Ghiandola velenifera dello scorpione radioattivo | A nord est del Cimitero di Goodsprings                                                                                                                       |
 | regina   |  9   |  ?  |  6  | 200 | 18  | 0%  | :imp: :imp: | :crossed_swords: (60+8 per 10s)                                                           | 100% Ghiandola velenifera dello scorpione radioattivo | Nel Burrone con scorpioni a sud della Area di sosta Nipton Road e alla Stazione pompieri di Searchlight, accessibile durante la missione Ruota della fortuna |
+
+</div>
 
 
 ## Rettili
@@ -203,6 +237,8 @@ raggio per abbatterli.
 |  {{<figure src="Stripe.webp" width="250px">}}   |  {{<figure src="Rawr.webp" width="250px">}}       |
 
 
+<div class="scrollwrapper">
+
 | Variante                    | Liv. | PE  | PER |  TP  | SD  | RD  | Aggressività     | Attacco/abilità                 | Inventario                                     | Luoghi                                                                                                                                                                                      |
 | --------------------------- | :--: | :-: | :-: | :--: | :-: | :-: | :----------------: | :-------------------------------: | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | comune                      |  20  | 50  |  7  | 500  | 15  | 0%  | :imp: :imp: | :crossed_swords: (125)                | Uovo di Deathclaw<br>Mano di Deathclaw         | Nella cava di Quarry Junction, al Promontorio dei Deathclaw oltre il fiume Colorado, nei pressi della Caverna di Broc Flower, nella Caverna del vento morto e allo Scalo ferroviario Gypsum |
@@ -225,6 +261,8 @@ raggio per abbatterli.
 |                             |  45  | 50  |  8  | 700  |  0  | 0%  | :imp: :imp: | :crossed_swords: (350)<br>PER ridotta | Uovo di Deathclaw<br>Mano di Deathclaw         |                                                                                                                                                                                             |
 | Rawr                        |  45  | 50  |  8  | 900  | 15  | 0%  | :imp: :imp: | :crossed_swords: (350)                | Artiglio di Rawr                               | [Lonesome Road] nei pressi del Tetto dell'Hotel Boxwood                                                                                                                                     |
 
+</div>
+
 
 ### Geco
 Il Geco è rettile mutato dal geco comune (famiglia dei Gekkonidae), probabilmente a causa della prolungata esposizione alle radiazioni. Sono bipedi,
@@ -243,6 +281,8 @@ al Corriere.
 | --- | --- | 
 | {{<figure src="LegendaryFireGecko.webp" width="250px">}}    |  {{<figure src="GreenGeckoFNV.webp" width="250px">}}   |    
 
+
+<div class="scrollwrapper">
 
 | Variante                  | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                               | Inventario                                                                                        | Luoghi                                                                                        |
 | ------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-------------------------------------------------------------: | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -267,6 +307,8 @@ al Corriere.
 | verde giovane             |  13  |  ?  |  6  | 115 |  0  | 0%  | :imp: :imp: | :crossed_swords: (55)<br>Sputo velenoso (8 :skull_and_crossbones: per 10s)       | Carne di geco<br>Uovo di geco verde<br>Pelle di geco verde                                        |                                                                                               |
 | verde gigante             |  30  |  ?  |  9  | 375 |  0  | 0%  | :imp: :imp: | :crossed_swords: (95)<br>Sputo velenoso (8 :skull_and_crossbones: per 10s)       | Carne di geco<br>Uovo di geco verde<br>Pelle di geco verde                                        |                                                                                               |
 
+</div>
+
 ### Lakelurk
 Il Lakelurk è rettile mutato dalla testuggine azzannatrice (Chelydra serpentina), probabilmente a causa dell'alto livello di radiazioni delle acque conta-
 minate. Sono creature territoriale e attaccano chiunque invada la loro zona di caccia, lungo le coste del lago Lake Mead. Oltre che ad un attacco da
@@ -283,11 +325,15 @@ sonore.
 | --- | --- | 
 |  {{<figure src="Lakelurk.webp" width="250px">}}   |   {{<figure src="Lakelurk_king.webp" width="250px">}}     |
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                          | Inventario            | Luoghi                                                                                                                         |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :--------------------------------------------------------: | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | comune   |  13  |  ?  |  7  | 150 |  0  | 0%  | :imp: :imp: | :crossed_swords: (40)<br>Onda sonora (110, ignora SD, -10 PER) | 10% Carne di Lakelurk | Presso la Miniera rubini Hill Mine, nelle caverne di camp Guardian, a sud di Hoover Dam e gli Alloggi di vacanza Blue Paradise |
 |          |  15  |  ?  |  7  | 200 |  0  | 0%  | :imp: :imp: | :crossed_swords: (50)<br>Onda sonora (110, ignora SD, -10 PER) | 10% Carne di Lakelurk |                                                                                                                                |
 | re       |  18  |  ?  |  8  | 300 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Onda sonora (110, ignora SD, -10 PER) | 10% Carne di Lakelurk | Nelle caverne di Camp Guardian                                                                                                 |
+
+</div>
 
 ### Scavatore
 Lo Scavatore è una creatura mutata di origine sconosciuta. Sembrano un ibrido fra un essere umano e una lucertola, con una caratteristica pelle squa-
@@ -301,12 +347,16 @@ Possono essere spaventati con granate accecanti, lanciarazzi o armi che utilizza
 | --- | --- | 
 | {{<figure src="Tunneler.webp" width="250px">}}    | {{<figure src="The_Tunnelers.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                               | Inventario                       | Luoghi                                                    |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-----------------------------------------------------------------------------: | -------------------------------- | --------------------------------------------------------- |
 | comune   |  20  |  ?  |  3  | 75  |  0  | 0%  | :imp: :imp: | :crossed_swords: (25)                                                               | Spazzatura<br>Pelle di Scavatore | [Lonesome Road] Nei numerosi edifici in rovina del Divide |
 | enorme   |  20  |  ?  |  3  | 125 |  0  | 0%  | :imp: :imp: | :crossed_swords: (35)                                                               | Spazzatura<br>Pelle di Scavatore |                                                           |
 | velenoso |  20  |  ?  |  3  | 50  |  0  | 0%  | :imp: :imp: | :crossed_swords: (15)<br>Veleno dello scavatore (3 :skull_and_crossbones: per 5s) [dato assente] | Spazzatura<br>Pelle di Scavatore |                                                           |
 | regina   |  45  |  ?  |  3  | 475 |  0  | 0%  | :imp: :imp: | :crossed_swords: (175)                                                              | Spazzatura<br>Pelle di Scavatore | [Lonesome Road] Nella Caverna di Abaddon                  |
+
+</div>
 
 
 ## Mammiferi
@@ -323,6 +373,8 @@ Spesso la bussola li indicherà come ostili, anche se non sono provocati. Non so
 | --- | --- | 
 |  {{<figure src="BigHorner.webp" width="250px">}}   | {{<figure src="Bighorners_Jacobstown.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante                    | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità | Inventario         | Luoghi                                                                                                          |
 | --------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :---------------: | ------------------ | --------------------------------------------------------------------------------------------------------------- |
 | comune                      |  3   |  ?  |  2  | 100 |  0  | 0%  | :angel:     | :crossed_swords: (40) | Carne di bighorner |                                                                                                                 |
@@ -333,6 +385,8 @@ Spesso la bussola li indicherà come ostili, anche se non sono provocati. Non so
 | malnutrito                  |  9   |  ?  |  2  | 50  |  0  | 0%  | :angel:     | :crossed_swords: (35) | Carne di bighorner | Alla Fattoria zootecnica Matthews                                                                               |
 | piccolo malnutrito          |  5   |  ?  |  2  | 40  |  0  | 0%  | :angel:     | :crossed_swords: (15) | Carne di bighorner | Alla Fattoria zootecnica Matthews e a Cottonwood Cove                                                           |
 | cuccio di montagna smarrito |      |  ?  |     |     |  0  | 0%  |              | :crossed_swords: (0)  | Carne di bighorner | [Honest Hearts] All'accampamento dei Cavalli morti, durante la missione Bighorner del ramo orientale del Virgin |
+
+</div>
 
 
 ### Bramino
@@ -347,15 +401,18 @@ Un paio di colpi di qualsiasi arma li abbatterà.
 | --- | --- | 
 |  {{<figure src="Brahmin_FO3.webp" width="250px">}}   |  {{<figure src="Malnourishedbrahmin+calf.webp" width="250px">}}        |
 
-| Variante           | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità | Inventario       | Luoghi                                                                |
-| ------------------ | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :---------------: | :----------------: | --------------------------------------------------------------------- |
-|                    | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività |                 |                  |                                                                       |
-| comune             |  1   |  ?  |  3  | 40  |  0  | 0%  | :angel:     | :crossed_swords: (2)  | Carne di bramino |                                                                       |
-| impazzito          |  1   |  ?  |  3  | 40  |  0  | 0%  | :imp:   | :crossed_swords: (2)  | Carne di bramino |                                                                       |
-| malnutrito         |  1   |  ?  |  3  | 30  |  0  | 0%  | :angel:     | :crossed_swords: (2)  | Carne di bramino |                                                                       |
-| piccolo malnutrito |  1   |  ?  |  3  | 20  |  0  | 0%  | :angel:     | :crossed_swords: (2)  | Carne di bramino | Alla Fattoria zootecnica Matthews e davanti la Baracca di Raul        |
-| d'acqua            |  1   |  ?  |  3  | 40  |  0  | 0%  | :angel:     | :crossed_swords: (2)  | Carne di bramino | Nei pressi del Banco dei pegni di Miguel e della Base commerciale 188 |
-| dei Demoni         |  1   |  ?  |  3  | 40  |  0  | 0%  | :angel:     | :crossed_swords: (2)  | Carne di bramino | Nel rifugio di Cook-Cook                                              |
+<div class="scrollwrapper">
+
+| Variante           | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività |   Attacco/abilità    |    Inventario    | Luoghi                                                                |
+| ------------------ | :--: | :-: | :-: | :-: | :-: | :-: | :----------: | :------------------: | :--------------: | --------------------------------------------------------------------- |
+| comune             |  1   |  ?  |  3  | 40  |  0  | 0%  |   :angel:    | :crossed_swords: (2) | Carne di bramino |                                                                       |
+| impazzito          |  1   |  ?  |  3  | 40  |  0  | 0%  |    :imp:     | :crossed_swords: (2) | Carne di bramino |                                                                       |
+| malnutrito         |  1   |  ?  |  3  | 30  |  0  | 0%  |   :angel:    | :crossed_swords: (2) | Carne di bramino |                                                                       |
+| piccolo malnutrito |  1   |  ?  |  3  | 20  |  0  | 0%  |   :angel:    | :crossed_swords: (2) | Carne di bramino | Alla Fattoria zootecnica Matthews e davanti la Baracca di Raul        |
+| d'acqua            |  1   |  ?  |  3  | 40  |  0  | 0%  |   :angel:    | :crossed_swords: (2) | Carne di bramino | Nei pressi del Banco dei pegni di Miguel e della Base commerciale 188 |
+| dei Demoni         |  1   |  ?  |  3  | 40  |  0  | 0%  |   :angel:    | :crossed_swords: (2) | Carne di bramino | Nel rifugio di Cook-Cook                                              |
+
+</div>
 
 
 ### Cane
@@ -365,6 +422,8 @@ ha resi propensi all'addestramento da parte degli umani, sia dalla Legione di Ca
 |  Comune   | Bastardo della Legione    |  Guardia dell'RNC    |
 | --- | --- | --- |
 |  {{<figure src="Dog_FO3.webp" width="250px">}}   |  {{<figure src="Fallout_NV_Legion_mongrel.webp" width="250px">}}   |  {{<figure src="Vicious_dog.webp" width="250px">}}   |
+
+<div class="scrollwrapper">
 
 | Variante                          | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità | Inventario                     | Luoghi                                            |
 | --------------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------: | ------------------------------ | ------------------------------------------------- |
@@ -382,6 +441,8 @@ ha resi propensi all'addestramento da parte degli umani, sia dalla Legione di Ca
 | grosso bastardo degli Zampabianca |  7   |  ?  |  7  | 70  |  0  | 0%  | :imp:       | :crossed_swords: (25) | Carne di cane<br>Pelle di cane |                                                   |
 |                                   |  13  |  ?  |  7  | 110 |  0  | 0%  | :imp:       | :crossed_swords: (50) | Carne di cane<br>Pelle di cane |                                                   |
 
+</div>
+
 ### Centauro
 l Centauro, è un mutante chimerico, frutto degli esperimenti del Maestro con il Virus a Evoluzione Forzata su umani, cani, gatti e altri animali. Sebbene
 il risultato di questi esperimenti possa variare moltissimo, tutti i centauri sembrano avere le stesse parvenze umanoide e lo stesso comportamento. A
@@ -396,6 +457,8 @@ accompagnati da altri abomini, come i supermutanti. Tuttavia la loro lentezza ne
 | --- | --- | 
 | {{<figure src="Centaur.webp" width="250px">}}    |  {{<figure src="CentaurEvolved.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante        | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                    | Inventario         | Luoghi                                                                                      |
 | --------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :------------------------------------------------------------------: | ------------------ | ------------------------------------------------------------------------------------------- |
 | comune          |  5   |  ?  |  6  | 100 |  0  | 0%  | :imp:       | :crossed_swords: (27)<br>Sputo radioattivo (30+5 :radioactive: per 10s)  | Sangue di centauro | Vicino a Black Mountain, Jack Rabbit Springs e La gola del diavolo, a est di Bitter Springs |
@@ -403,6 +466,8 @@ accompagnati da altri abomini, come i supermutanti. Tuttavia la loro lentezza ne
 | evoluto         |  14  |  ?  |  7  | 150 |  0  | 0%  | :imp: :imp: | :crossed_swords: (50)<br>Sputo radioattivo (60+10 :radioactive: per 10s) | Sangue di centauro | Nella gola del diavolo                                                                      |
 | evoluto gigante |  18  |  ?  |  8  | 220 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Sputo radioattivo (60+10 :radioactive: per 10s) | Sangue di centauro | Nella gola del diavolo                                                                      |
 | Moe             |  7   |  ?  |  7  | 150 |  0  | 0%  | :imp: :imp: | :crossed_swords: (50)<br>Sputo radioattivo (60+10 :radioactive: per 10s) | Sangue di centauro | Vicino a Black Mountain                                                                     |
+
+</div>
 
 ### Coyote
 Il Coyote è un mammifero (Canis latrans) che spesso si vede vagabondare in branco per la Zona contaminata del Mojave. Sono più forti dei cani e attac -
@@ -412,12 +477,16 @@ cano con i loro denti aguzzi.
 | ------------------- | -------------------- |
 | {{<figure src="CoyoteFNV.webp" width="250px">}} | {{<figure src="Coyotes_CW.webp" width="250px">}} |
 
+<div class="scrollwrapper">
+
 | Variante   | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità | Inventario                         | Luoghi |
 | ---------- | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :---------------: | ---------------------------------- | ------ |
 | comune     |  4   |  ?  |  8  | 30  |  0  | 0%  | :imp:   | :crossed_swords: (15) | Carne di coyote<br>Pelle di coyote |        |
 | cucciolo   |  1   |  ?  |  6  | 10  |  0  | 0%  | :angel:     | :crossed_swords: (7)  | Carne di coyote<br>Pelle di coyote |        |
 | mamma      |  4   |  ?  |  8  | 40  |  0  | 0%  | :imp:   | :crossed_swords: (17) | Carne di coyote<br>Pelle di coyote |        |
 | pack alpha |  5   |  ?  |  8  | 60  |  0  | 0%  | :imp:   | :crossed_swords: (29) | Carne di coyote<br>Pelle di coyote |        |
+
+</div>
 
 
 ### Nightstalker
@@ -436,6 +505,8 @@ un'abilità specifica per il potenziamento della resistenza al veleno.
 | {{<figure src="Nightstalker.webp" width="250px">}} | {{<figure src="LegendaryNightstalker.webp" width="250px">}} |
 
 
+<div class="scrollwrapper">
+
 | Variante               | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                           | Inventario                                                                                                       | Luoghi                                                              |
 | ---------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | comune                 |  15  |  ?  |  9  | 110 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Veleno del nightstalker (5 :skull_and_crossbones:, -2 STA per 60s)  | 50% Sangue di Nightstalker<br>25% Sangue di Nightstalker<br>25% Uovo di Nightstalker<br>50% Coda di Nightstalker |                                                                     |
@@ -445,6 +516,8 @@ un'abilità specifica per il potenziamento della resistenza al veleno.
 | leggendario            |  15  |  ?  | 10  | 250 |  0  | 0%  | :imp: :imp: | :crossed_swords: (100)<br>Veleno del nightstalker (5 :skull_and_crossbones:, -2 STA per 60s) | 50% Sangue di Nightstalker<br>25% Sangue di Nightstalker<br>25% Uovo di Nightstalker<br>50% Coda di Nightstalker | Nella Caverna Bloodborne                                            |
 | Lupa                   |  18  |  ?  |  9  | 170 |  0  | 0%  | :imp: :imp: | :crossed_swords: (85)<br>Veleno del nightstalker (5 :skull_and_crossbones:, -2 STA per 60s)  | 50% Sangue di Nightstalker<br>25% Sangue di Nightstalker<br>25% Uovo di Nightstalker<br>50% Coda di Nightstalker | [Honest Hearts] Nella Caverna della stella mattutina                |
 | Shadis                 |  50  |  ?  |  9  | 675 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)<br>Veleno del nightstalker (5 :skull_and_crossbones:, -2 STA per 60s)  | 50% Sangue di Nightstalker<br>25% Sangue di Nightstalker<br>25% Uovo di Nightstalker<br>50% Coda di Nightstalker | [Old World Blues] Laboratorio di preservazione del DNA Crotalus Z-9 |
+
+</div>
 
 ### Ratto gigante
 Il Ratto gigante è una variante gigante mutata del comune ratto (Rattus) prebellico, quasi completamente glabri, forse a causa di un'eccessiva esposi-
@@ -458,12 +531,16 @@ Non sono una particolare minaccia e con l'abilità Amico degli animali diventano
 | --- | --- | --- |
 |  {{<figure src="Giant_rat.webp" width="250px">}}   | {{<figure src="Giant_rats_BFC.webp" width="250px">}}    |     |    
 
+<div class="scrollwrapper">
+
 | Variante                               | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità | Inventario                                               | Luoghi                       |
 | -------------------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------: | -------------------------------------------------------- | ---------------------------- |
 | comune                                 |  2   |  ?  |  4  | 24  |  0  | 0%  | :imp:       | :crossed_swords: (15) | 75% Carne di ratto gigante<br>25% Carne di ratto gigante |                              |
 |                                        |  3   |  ?  |  3  | 40  |  0  | 0%  | :angel:         | :crossed_swords: (15) | 75% Carne di ratto gigante<br>25% Carne di ratto gigante |                              |
 | piccolo                                |  1   |  ?  |  2  | 12  |  0  | 0%  | :angel:         | :crossed_swords: (7)  | 50% Carne di ratto gigante                               |                              |
 | roditore innaturalmente sproporzionato |  6   |  ?  |  6  | 70  |  0  | 0%  | :imp: :imp: | :crossed_swords: (35) | 75% Carne di ratto gigante<br>25% Carne di ratto gigante | Nelle fogne centro-orientali |
+
+</div>
 
 ### Ratto talpa
 Il Ratto talpa è un roditore mutato (Bathyergidae) sviluppato dal governo americano come arma biologica (progetto CLOACINA) contro la Cina. Avrebbe
@@ -478,10 +555,14 @@ Non sono una particolare minaccia e possono essere abbattuti in pochi colpi.
 | --- | --- | 
 | {{<figure src="Mole_rat_FO3.webp" width="250px">}}    |  {{<figure src="Snuffles.webp" width="250px">}}   |     
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità | Inventario           | Luoghi |
 | -------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------: | -------------------- | ------ |
 | comune   |  4   |  ?  |  2  | 35  |  0  | 0%  | :imp: :imp: | :crossed_swords: (20) | Carne di ratto talpa |        |
 | piccolo  |  2   |  ?  |  1  | 18  |  0  | 0%  | :imp:       | :crossed_swords: (15) | Carne di ratto talpa |        |
+
+</div>
 
 
 ### Yao Guai
@@ -498,9 +579,10 @@ animali non ha effetto su di loro.
 | --- | --- | 
 |  {{<figure src="Yao_guai.webp" width="250px">}}   | {{<figure src="GhostofShe.webp" width="250px">}}         |
 
+<div class="scrollwrapper">
+
 | Variante        | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità  | Inventario        | Luoghi                                                   |
 | --------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :----------------: | ----------------- | -------------------------------------------------------- |
-|                 | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     |                  |                   |                                                          |
 | comune          |  18  |  ?  |  6  | 215 |  0  | 0%  | :imp: :imp: | :crossed_swords: (70)  | Carne di Yao Guai |                                                          |
 |                 |  22  |  ?  |  7  | 300 |  0  | 0%  | :imp: :imp: | :crossed_swords: (85)  | Carne di Yao Guai |                                                          |
 | cucciolo        |  5   |  ?  |  4  | 65  |  0  | 0%  | :imp: :imp: | :crossed_swords: (25)  | Carne di Yao Guai |                                                          |
@@ -509,6 +591,8 @@ animali non ha effetto su di loro.
 | gigante         |  16  |  ?  |  2  | 300 |  0  | 0%  | :imp: :imp: | :crossed_swords: (60)  | Carne di Yao Guai | [Honest Hearts] Al cancello rosso                     |
 |                 |  32  |  ?  |  8  | 475 |  0  | 0%  | :imp: :imp: | :crossed_swords: (120) | Carne di Yao Guai |                                                          |
 | Fantasma di Lei |  35  |  ?  |  5  | 550 |  0  | 0%  | :imp: :imp: | :crossed_swords: (120) | Carne di Yao Guai | [Honest Hearts] Durante la missione Rito di iniziazione. |
+
+</div>
 
 
 ## Vegetali
@@ -527,11 +611,15 @@ Non bisogna sottovalutare la sua potenza, soprattutto le spine lanciate a distan
 | --- | --- | 
 |  {{<figure src="Spore_plant.webp" width="250px">}}   |  {{<figure src="Dionaea_Muscipula.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante          | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                   | Inventario                                         | Luoghi |
 | ----------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------------------------------: | -------------------------------------------------- | ------ |
 | comune            |  2   |  ?  | 10  | 50  |  0  | 0%  | :imp:       | :crossed_swords: (1)<br>Sputo di spora (15)<br>Res. veleno 100%<br>Res. radiazioni 100% | (vuoto)                                            |        |
 | gigante           |  15  |  ?  |  8  | 180 |  0  | 0%  | :imp:       | :crossed_swords: (1)<br>Sputo di spora (60)                                             | Baccelli di portatori di spore                     |        |
 | Dionaea Muscipula |  50  |  ?  |  6  | 675 |  0  | 0%  | :imp: :imp: | :crossed_swords: (1)<br>Sputo di spora (100)                                            | Guanto corrosivo<br>Baccelli di portatori di spore |        |
+
+</div>
 
 ### Portatore di spore
 Il Portatore di spore è un umano mutato, a causa dell'esposizione al fungo entomopatogenico Beauveria mordicana. Questo speciale parassita è stato
@@ -547,6 +635,8 @@ Non è possibile individuarli prima dell'attacco, né usando la bussola, ne con 
 | --- | --- | 
 |  {{<figure src="Spore_carrier.webp" width="250px">}}   |  {{<figure src="Patient_Zero.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante                     | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                       | Inventario                              | Luoghi                                       |
 | ---------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------------------: | --------------------------------------- | -------------------------------------------- |
 | comune                       |  5   |  ?  |  4  | 75  |  0  | 0%  | :imp: :imp: | :crossed_swords: (25)<br>:bomb: del portatore di spore (100 :skull_and_crossbones:)  | (vuoto)                                 |                                              |
@@ -556,6 +646,8 @@ Non è possibile individuarli prima dell'attacco, né usando la bussola, ne con 
 | Bestia portatrice di spore   |  22  |  ?  |  7  | 300 |  0  | 0%  | :imp: :imp: | :crossed_swords: (100)<br>:bomb: del portatore di spore (100 :skull_and_crossbones:) | Linfa Portatore spore                   | [Honest Hearts] Nel Canyon di Zion           |
 | Portatore di spore sciacallo |  45  |  ?  |  6  | 250 |  0  | 0%  | :imp:       | :crossed_swords: (50)<br>:bomb: del portatore di spore (100 :skull_and_crossbones:)  | (vuoto)                                 | [Old World Blues] Nel Giardino botanico X-21 |
 | Paziente Zero                |  50  |  ?  |  6  | 300 |  0  | 0%  | :imp:       | :crossed_swords: (50)<br>:bomb: del portatore di spore (100 :skull_and_crossbones:)  | Sanguinaccio nero<br>Pasta solida rossa | [Old World Blues] Nel Giardino botanico X-22 |
+
+</div>
 
 
 ## Umanoidi
@@ -579,6 +671,8 @@ Fra i ghoul ancora senzienti vanno ricordati Jason Bright, con la sua confratern
 | {{<figure src="Feral_trooper_ghoul.webp" width="250px">}}    | {{<figure src="Glowing_trooper_ghoul.webp" width="250px">}}    |  {{<figure src="Vault_34_Overseer.webp" width="250px">}}   |
 
 
+<div class="scrollwrapper">
+
 | Variante                           | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                                                                             | Inventario                                                                                                                                                        | Luoghi |
 | ---------------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | feroce                             |  3   |  ?  |  3  | 25  |  0  | 0%  | :imp: :imp: | :crossed_swords: (5)<br>Res. radiazioni 85%<br>Cura con le radiazioni (+10 TP, +100 :radioactive:)                                                | 63% Tappi<br>25% Oggetti casuali<br>13% Droghe casuali                                                                                                            |        |
@@ -601,6 +695,8 @@ Fra i ghoul ancora senzienti vanno ricordati Jason Bright, con la sua confratern
 |                                    |  10  |  ?  |  2  | 400 |  0  | 0%  | :imp: :imp: | :crossed_swords: (50)<br>Cura con le radiazioni (+10 TP +100 :radioactive:)                                                                       | 63% Tappi<br>25% Oggetti casuali<br>13% Droghe casuali                                                                                                            |        |
 | tecnico del Vault                  |  9   |  ?  |  2  | 300 |  0  | 0%  | :imp: :imp: | :crossed_swords: (35)<br>Cura con le radiazioni (+10 TP, +100 :radioactive:)                                                                      | 100% Munizioni da 10mm<br>17% Droghe casuali<br>17% Oggetti casuali<br>13% Denaro prebellico<br>9% Tuta del Vault 34                                              |        |
 
+</div>
+
 
 
 ### Fantasma
@@ -622,6 +718,8 @@ Villa rendono questa strategia particolarmente difficile.
 | --- | --- | 
 | {{<figure src="Ghost_harvester.webp" width="250px">}}    | {{<figure src="Ghost_trapper.webp" width="250px">}}         |
 
+<div class="scrollwrapper">
+
 | Variante   | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità                         | Inventario                                | Luoghi |
 | ---------- | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :---------------------------------------: | ----------------------------------------- | ------ |
 | mietitore  |  5   | 10  |  0  | 50  |  0  | 0%  | :imp:   | Coltello lancia<br>Asta lancia coltelli | Coltello lancia<br>5 Asta lancia coltelli |        |
@@ -642,6 +740,8 @@ Villa rendono questa strategia particolarmente difficile.
 |            |  35  | 50  |  0  | 250 |  0  | 0%  | :imp:   | Coltello lancia<br>Bomba gas            | Coltello lancia<br>Bomba gas              |        |
 |            |  45  | 50  |  0  | 350 |  0  | 0%  | :imp:   | Coltello lancia<br>Bomba gas            | Coltello lancia<br>Bomba gas              |        |
 |            |  50  | 50  |  0  | 450 |  0  | 0%  | :imp:   | Coltello lancia<br>Bomba gas            | Coltello lancia<br>Bomba gas              |        |
+
+</div>
 
 ### Sfregiato
 Lo Sfregiato è un tipo di ghoul specifico del Divide, dalla caratteristica pelle raggrinzita colo rosso-arancio e incredibile capacità di combattimento.
@@ -665,6 +765,8 @@ attaccano in gruppi numerosi. Bisogna prestare però particolare attenzione a qu
 | {{<figure src="FNVLR_Irradiated_Legion_explorer.webp" width="250px">}} | {{<figure src="FNVLR_Irradiated_Legionary_prime.webp" width="250px">}} | {{<figure src="FNV_irradiated_legionary_veteran.webp" width="250px">}} | {{<figure src="Gaius.webp" width="250px">}} | {{<figure src="Royez.webp" width="250px">}}  |
 
 
+<div class="scrollwrapper">
+
 | Variante                                | Liv. | PE  | PER |   TP    |  SD  | RD  | Aggressività | Attacco/abilità                                                                                   | Inventario                                                                                                                                                                                                                                                                                                                                                                   | Luoghi                                                      |
 | --------------------------------------- | :--: | :-: | :-: | :-----: | :--: | :-: | :------------: | :-------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | cacciatore                              |  1   |  ?  |  7  | 130-280 | ?-11 | 0%  | :imp:   | :crossed_swords: (2)<br>A distanza                                                                      | Armatura da soldato Sfregiato, Armatura da scout Sfregiato, Elmo da soldato, Elmo con occhiali, Elmo da veterano, Elmo da veterano decano                                                                                                                                                                                                                                    | [Lonesome Road] Nel Divide                                  |
@@ -685,6 +787,8 @@ attaccano in gruppi numerosi. Bisogna prestare però particolare attenzione a qu
 | Lama                                    |  45  |  ?  |  6  |   320   |  15  | 0%  | :imp:   | :crossed_swords: (2)<br>A distanza<br>Durezza (+10% RD)<br>Spietato (+25% :crossed_swords:)                   | Elmo degli occhi della bestia sfregiata<br>Armatura da pattuglia degli Sfregiati<br>Lama dell'Ovest<br>Granata al plasma<br>Denaro RNC                                                                                                                                                                                                                                       | [Lonesome Road] Su un tetto a nordest del Tempio di Ulysses |
 | Gaius Magnus                            |  50  |  ?  | 10  |   545   |  27  | 0%  | :imp:   | :crossed_swords: (3)<br>Durezza (+10% RD)<br>Cura con le radiazioni (+15 TP)                            | Armatura della Tribù 87<br>Elmo da centurione<br>Mitragl. a c. rotanti<br>Machete                                                                                                                                                                                                                                                                                            | [Lonesome Road] A Dry Wells                                 |
 | Colonnello Royez                        |  50  |  ?  | 10  |   790   |  24  | 0%  | :imp:   | :crossed_swords: (3)<br>Durezza (+10% RD)<br>Cura con le radiazioni (+15 TP)<br>Res. radiazioni 85%     | Armatura atomica Sierra bruciacchiata<br>Berretto<br>Lanciatore al plasma<br>Coltello da combattimento                                                                                                                                                                                                                                                                       | [Lonesome Road] Nella Long 15                               |
+
+</div>
 
 
 ### Supermutante
@@ -707,6 +811,8 @@ loro potenza di fuoco e incredibile resistenza.
 | --- | --- | 
 |  {{<figure src="FNV_nightkin.webp" width="250px">}}   |  {{<figure src="Nightkin_master.webp" width="250px">}}       |
 
+<div class="scrollwrapper">
+
 | Variante                    | Liv. | PE  | PER |   TP    | SD  | RD  | Aggressività     | Attacco/abilità                        | Inventario                                                                                                                                                     | Luoghi                                    |
 | --------------------------- | :--: | :-: | :-: | :-----: | :-: | :-: | :----------------: | :--------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | comune                      |  6   | 10  |  3  |   100   | 15  | 0%  | :imp: :imp: | :crossed_swords: (4)<br>Res. radiazioni 100% | Fucile da caccia<br>Tavola chiodata<br>Granata a frammentazione                                                                                                |                                           |
@@ -720,12 +826,14 @@ loro potenza di fuoco e incredibile resistenza.
 | capo nightkin               |  12  | 50  |  6  |   360   |  0  | 30% | :imp:       | :crossed_swords: (6)                         | Mitragliatrice leggera<br>dead Mitragl. a c. rotanti<br>dead Inceneritore<br>dead Martello da fabbro<br>dead Granata a frammentaziones                         |                                           |
 | cecchino nightkin           |  14  | 50  |  5  | 140-180 |  0  | 0%  | :imp:       | :crossed_swords: (0)                         | Annabelle<br>dead Fucile da caccia<br>dead Munizioni da .308                                                                                                   | Sulla torre radio di Black Mountain       |
 
+</div>
+
 
 ## Robot
 
 ### Eyebot
 L'Eyebot è un robot spesso usato per trasmettere messaggi propagandistici via radio prima dello scoppio della Grande Guerra, ma la loro natura modu -
-lare li ha reso particolarmente propensi a qualsiasi genere di lavoro, anche come supporto in combattimento. Gli esemplari più famosi sono il seguace
+lare li ha reso particolarmente propensi a qualsiasi genere di lavoro, anche come supporto in combattimento. Gli esemplari più famosi sono il 
 ED-E e la sua versione omonima del Divide.
 
 Quasi tutti sono amichevoli, presentano una spessa corazza e sono armati di un laser che produce una lieve scossa energetica.
@@ -738,11 +846,15 @@ modifiche di eyebot.
 | --- | --- | --- |
 | {{<figure src="Fo3_Enclave_eyebot.webp" width="250px">}}    | {{<figure src="Medical_eyebot.webp" width="250px">}}    | {{<figure src="Repair_eyebot.webp" width="250px">}}    |
 
+<div class="scrollwrapper">
+
 | Variante       | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità                                                                                                                                     | Inventario       | Luoghi |
 | -------------- | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | ------ |
 |                | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività |                                                                                                                                                     |                  |        |
 | medico        |  20  |  ?  | 10  | 200 |  8  | 0%  | :imp:   | :crossed_swords: (25)<br>Scossa energetica (20)<br>Scossa curativa<br>Munizioni curative<br>Trasmissione ED-E<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia |        |
 | da riparazione |  20  |  ?  | 10  | 200 |  8  | 0%  | :imp:  | :crossed_swords: (25)<br>Scossa energetica (20)<br>Trasmissione ED-E<br>Res. radiazioni 100%<br>Res. veleno 100%                                          | Cella di energia |        |
+
+</div>
 
 ### Mister Gutsy 
 Il Mister Gutsy è una variante militare del Mister Handy, sviluppata prima dello scoppio della Grande Guerra. Sono distinguibili dalla livrea verde mili -
@@ -758,6 +870,8 @@ paci di qualsiasi movimento.
 | --- | --- | 
 | {{<figure src="Mister_Gutsy.webp" width="250px">}}    | {{<figure src="Mr._Steel.webp" width="250px">}}         |
 
+<div class="scrollwrapper">
+
 | Variante                          | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                                           | Inventario                                                            | Luoghi                                  |
 | --------------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------- | --------------------------------------- |
 | comune                            |  9   | 25  |  6  | 75  | 25  | 0%  | :imp:       | :crossed_swords: (23)<br>Pistola al plasma (60)<br>Lanciafiamme (6)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Combustibile per lanciafiamme<br>Rottami di ferro |                                         |
@@ -770,6 +884,8 @@ paci di qualsiasi movimento.
 | Mk5                               |  45  | 50  |  6  | 525 | 25  | 0%  | :imp: :imp: | :crossed_swords: (23)<br>Pistola al plasma (60)<br>Lanciafiamme (6)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Combustibile per lanciafiamme<br>Rottami di ferro |                                         |
 | Mk6                               |  50  | 50  |  6  | 675 | 25  | 0%  | :imp: :imp: | :crossed_swords: (23)<br>Pistola al plasma (60)<br>Lanciafiamme (6)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Combustibile per lanciafiamme<br>Rottami di ferro |                                         |
 | Pancia di ferro                   |  50  | 50  |  6  | 675 | 25  | 0%  | :imp: :imp: | :crossed_swords: (23)<br>Pistola al plasma (60)<br>Lanciafiamme (6)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Combustibile per lanciafiamme<br>Rottami di ferro |                                         |
+
+</div>
 
 ### Mister Handy
 Il Mister Handy è la variante più comune, sviluppata prima dello scoppio della Grande Guerra dalla General Atomics International, in collaborazione con
@@ -786,6 +902,8 @@ paci di qualsiasi movimento.
 | --- | --- | 
 | {{<figure src="Mister_Handy.webp" width="250px">}}    | {{<figure src="Maintenance_robot.webp" width="250px">}}         |
 
+<div class="scrollwrapper">
+
 | Variante                                  | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                                       | Inventario                                        | Luoghi                                                                |
 | ----------------------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :-----------------------------------------------------------------------------------------------------: | ------------------------------------------------- | --------------------------------------------------------------------- |
 | comune                                    |  3   |  5  |  5  | 50  | 12  | 0%  | :imp:       | :crossed_swords: (9)<br>Sega circolare (20)<br>Lanciafiamme (2)<br>Res. radiazioni 100%<br>Res. veleno 100% | Combustibile per lanciafiamme<br>Rottami di ferro |                                                                       |
@@ -797,6 +915,8 @@ paci di qualsiasi movimento.
 | Sig. Custode                              |  3   |  5  |  5  | 50  | 12  | 0%  | :imp:       | :crossed_swords: (2)<br>Sega circolare (20)<br>Lanciafiamme (2)<br>Res. radiazioni 100%<br>Res. veleno 100% | Combustibile per lanciafiamme<br>Rottami di ferro |                                                                       |
 | PYTHON                                    |  3   |  5  |  5  | 100 | 12  | 0%  | :angel:         | :crossed_swords: (2)<br>Sega circolare (20)<br>Lanciafiamme (2)<br>Res. radiazioni 100%<br>Res. veleno 100% | Combustibile per lanciafiamme<br>Rottami di ferro |                                                                       |
 | Rhonda                                    |  3   |  5  |  5  |  0  |  ?  | 0%  | :angel:         | :crossed_swords: (2)<br>Sega circolare (20)<br>Lanciafiamme (2)<br>Res. radiazioni 100%<br>Res. veleno 100% | Combustibile per lanciafiamme<br>Rottami di ferro |                                                                       |
+
+</div>
 
 ### Mister Orderly 
 Il Mister Orderly è una variante medica del Mister Handy, sviluppata prima dello scoppio della Grande Guerra. Sono distinguibili dalla livrea bianca,
@@ -811,6 +931,8 @@ paci di qualsiasi movimento.
 | --- | --- | 
 |  {{<figure src="MisterOrderly.webp" width="250px">}}   |  {{<figure src="Doctor_Orderly_MD_PHD_DDS.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante                  | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                               | Inventario                                           | Luoghi |
 | ------------------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :---------------------------------------------------------------------------------------------: | ---------------------------------------------------- | ------ |
 | Mk1                       |  5   |  ?  |  8  | 75  | 12  | 0%  | :imp: :imp: | :crossed_swords: (9)<br>Plasma (60)<br>Lanciafiamme (2)<br>Res. radiazioni 100%<br>Res. veleno 100% | Lanciafiamme<br>Rottami di ferro<br>Cella di energia |        |
@@ -820,6 +942,8 @@ paci di qualsiasi movimento.
 | Mk5                       |  45  |  ?  |  8  | 525 | 12  | 0%  | :imp: :imp: | :crossed_swords: (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                                    | (vuoto)                                              |        |
 | Mk6                       |  50  |  ?  |  8  | 675 | 12  | 0%  | :imp: :imp: | :crossed_swords: (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                                    | (vuoto)                                              |        |
 | Dottor Orderly MD PHD DDS |  50  |  ?  |  8  | 675 | 12  | 0%  | :imp: :imp: | :crossed_swords: (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                                    | (vuoto)                                              |        |
+
+</div>
 
 ### Protettore
 Il Protettore è un robot creato dalla RobCo per adempiere a diversi ruoli (sentinella, operaio, pompiere, medico). Sono molto comuni e ne esistono di
@@ -833,6 +957,8 @@ E' possibile renderli frenetici menomando la loro testa, mentre l'uso di armi a 
 |  Comune   | Serie Mark    | Drone di costruzione    |
 | --- | --- | --- |
 |  {{<figure src="Protectron.webp" width="250px">}}   |  {{<figure src="Protectron_blue.webp" width="250px">}}   | {{<figure src="FNVOWB_ConstructionDrone_GECK.webp" width="250px">}}    |
+
+<div class="scrollwrapper">
 
 | Variante                        | Liv. | PE  | PER |   TP    | SD  | RD  | Aggressività      | Attacco/abilità                                                                                             | Inventario                                                                    | Luoghi |
 | ------------------------------- |:----:|:---:|:---:|:-------:|:---:|:---:| :-----------------: | :-----------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- | ------ |
@@ -852,6 +978,8 @@ E' possibile renderli frenetici menomando la loro testa, mentre l'uso di armi a 
 | Direttore droni di costruzione  |  5   | 10  |  4  |   675   |  0  | 0%  | :imp: :imp:  | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%                     | Cella di energia<br>Rottami di ferro                                          |        |
 | drone bersaglio                 |  10  | 50  |  4  |   500   |  8  | 0%  | :angel:          | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%                     | Cella di energia<br>Rottami di ferro                                          |        |
 
+</div>
+
 ### Roboscorpione
 Il Roboscorpione è un robot speciale creato per proteggere le strutture di Big MT. Assomigliano agli scorpioni radioattivi, sebbene siano totalmente
 meccanici e dalla tipica livrea rosso-gialla, dovuta alla corazza in saturnite. Sono diventata l'arma principale del Dottor Mobius contro il Corriere,
@@ -868,6 +996,8 @@ Sono praticamente immuni alle armi convenzionali, mentre particolarmente vulnera
 | Mk1    |  Gigante X-42        |
 | --- | --- | 
 | {{<figure src="Robo-scorpion.webp" width="250px">}}    |  {{<figure src="OWB_giant_roboscorpion_attack.webp" width="250px">}}        |
+
+<div class="scrollwrapper">
 
 | Variante        | Liv. | PE  | PER |  TP  | SD  | RD  | Aggressività     | Attacco/abilità                             | Inventario                                                                                           | Luoghi                           |
 | --------------- | :--: | :-: | :-: | :--: | :-: | :-: | :----------------: | :-------------------------------------------: | ---------------------------------------------------------------------------------------------------- | -------------------------------- |
@@ -908,6 +1038,8 @@ Sono praticamente immuni alle armi convenzionali, mentre particolarmente vulnera
 |                 |  45  |  ?  | 10  | 3000 | 15  | 0%  | :imp:       | :crossed_swords: (175)<br>Pungiglione laser (180) | Piccola cella di energia                                                                             |                                  |
 |                 |  50  |  ?  | 10  | 3500 | 15  | 0%  | :imp:       | :crossed_swords: (200)<br>Pungiglione laser (200) | Piccola cella di energia                                                                             |                                  |
 
+</div>
+
 
 ### Securitron 
 Il Securitron PDQ-88b, conosciuto anche come RobCo security model 2060-B, è un robot per la sicurezza privata, sviluppata dalla House Industries del
@@ -926,6 +1058,8 @@ menomati possono diventare frenetici.
 | Mk1                  | Mk2                   | Impazzito                    | Danneggiato                 |
 | -------------------- | --------------------- | ---------------------------- | --------------------------- |
 | {{<figure src="Securitron.webp" width="250px">}} | {{<figure src="Securitron2.webp" width="250px">}} | {{<figure src="Berserk_securitron.webp" width="250px">}} | {{<figure src="DamagedSecuritron.webp" width="250px">}} | 
+
+<div class="scrollwrapper">
 
 | Variante                 | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità                                                                                          | Inventario                                        | Luoghi                                                 |
 | ------------------------ | :--: | :-: | :-: | :-: | :-: | :-: | :------------: | :--------------------------------------------------------------------------------------------------------: | ------------------------------------------------- | ------------------------------------------------------ |
@@ -947,6 +1081,8 @@ menomati possono diventare frenetici.
 | Mk4 danneggiato          |  35  | 50  |  6  | 375 |  0  | 0%  | :imp:   | :crossed_swords: (20)<br>Lanciagranate (10)<br>Mitragliatrice (19)                                             | Missile<br>Munizioni da 9mm                       |                                                        |
 | Mk5 danneggiato          |  45  | 50  |  6  | 525 |  0  | 0%  | :imp:   | :crossed_swords: (20)<br>Lanciagranate (10)<br>Mitragliatrice (19)                                             | Missile<br>Munizioni da 9mm                       |                                                        |
 | Mk6 danneggiato          |  50  | 50  |  6  | 675 |  0  | 0%  | :imp:   | :crossed_swords: (20)<br>Lanciagranate (10)<br>Mitragliatrice (19)                                             | Missile<br>Munizioni da 9mm                       |                                                        |
+
+</div>
 
 ### Robot sentinella
 Essendo la classe pùù pesante di robot da combattimento delle forze armate degli Stati Uniti, il robot sentinella sacrifica velocità e manovrabilità per la pura
@@ -972,17 +1108,21 @@ possono essere gravemente danneggiati da granate a impulsi, mine a impulsi o qua
 | --- | --- | 
 | {{<figure src="Sentry_bot.webp" width="250px">}}    |  {{<figure src="REPCONN_sentry_bot.webp" width="250px">}}        |
 
+<div class="scrollwrapper">
+
 | Variante          | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività     | Attacco/abilità                                                                                        | Inventario                                                                                      | Luoghi                                                    |
 | ----------------- | :--: | :-: | :-: | :-: | :-: | :-: | :----------------: | :------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| comune            |  12  | 50  |  7  | 300 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>20% Batteria a fissione<br>Rottami di ferro | Nel Vault 11 e nel Vault dei Securitron                   |
-| REPCONN           |  12  | 50  |  7  | 300 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>20% Batteria a fissione<br>Rottami di ferro | Nella Sede REPCONN                                        |
-| temprato          |  16  | 50  |  7  | 500 |  0  | 0%  | :imp:       | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>20% Batteria a fissione<br>Rottami di ferro | Nei pressi del Vertibird schiantato                       |
+| comune            |  12  | 50  |  7  | 300 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>Batteria a fissione<br>Rottami di ferro | Nel Vault 11 e nel Vault dei Securitron                   |
+| REPCONN           |  12  | 50  |  7  | 300 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>Batteria a fissione<br>Rottami di ferro | Nella Sede REPCONN                                        |
+| temprato          |  16  | 50  |  7  | 500 |  0  | 0%  | :imp:       | :crossed_swords: (22)<br>Laser gatling (5)<br>Lanciamissili (20)<br>Res. radiazioni 100%<br>Res. veleno 100% | Missile<br>Carico di pacchi batterie a elettroni<br>Batteria a fissione<br>Rottami di ferro | Nei pressi del Vertibird schiantato                       |
 | Mk1               |  5   |  ?  |  7  | 75  | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         | [Old World Blues] A Big MT                                |
 | Mk3               |  25  |  ?  |  7  | 225 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         |                                                           |
 | Mk4               |  35  |  ?  |  7  | 375 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         |                                                           |
 | Mk5               |  45  |  ?  |  7  | 525 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         |                                                           |
 | Mk6               |  50  |  ?  |  7  | 675 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         |                                                           |
 | RY-589 Ultimo Bot |  50  |  ?  |  7  | 675 | 18  | 0%  | :imp: :imp: | :crossed_swords: (22)<br>Minigun (9)<br>Res. radiazioni 100%<br>Res. veleno 100%                             | Batteria a fissione<br>Munizioni da 5mm                                                         | [Old World Blues] Lancio di artiglieria "Fuoricampo" X-7a |
+
+</div>
 
 
 
@@ -999,11 +1139,15 @@ Facilmente si possono uccidere dalla  distanza, ricordando che  però sono immun
 | -------------------------- | ------------------------ | -------------- |
 | {{<figure src="MilitaryCyberdog.webp" width="250px">}} | {{<figure src="PoliceCyberdog.webp" width="250px">}} | {{<figure src="Gabe.webp" width="250px">}} |
 
+<div class="scrollwrapper">
+
 | Variante   | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità                        | Inventario                                                                                                                                                    | Luoghi                              |
 | ---------- |:----:|:---:|:---:|:---:|:---:|:---:| :------------:| :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | Militare   |  5   | 10  |  5  | 75  |  2  | 0%  | :imp:        | :crossed_swords: (40)<br>Latrato sonico | Cella di energia<br>Carne di cane<br>Pelle di cane                                                                                                            | A Big MT                            |
 | Poliziotto |  1   |  ?  | 10  | 22  |  2  | 0%  | ?            | :crossed_swords: (30)                  | Cella di energia, sovraccarico<br>Cella di energia<br>Carne di cane<br>Pelle di cane                                                                          | A Big MT                            |
 | Gabe       |  35  |  ?  |  0  | 375 |  0  | 0%  | :imp:        | :crossed_swords: (22)<br>Latrato sonico              | Carne di cane<br>Pelle di cane<br>LAER<br>Batteria a fissione<br>Modulo sensore<br>Rottami di ferro<br>Rottami elettronici<br>Accentuatore radiale di valenza | Al Centro di ricerca X-8 a Big MT |
+
+</div>
 
 
 ### Robocervello
@@ -1019,6 +1163,8 @@ Come per tutti i robot, risultano molto più efficaci le armi a energia, come la
 | ------------------- | ----------------------- | ------------------- |
 | {{<figure src="Robobrain.webp" width="250px">}} | {{<figure src="ArmyRobobrain.webp" width="250px">}} | {{<figure src="Super_Ego.webp" width="250px">}} |
 
+<div class="scrollwrapper">
+
 | Variante | Liv. | PE  | PER | TP  | SD  | RD  | Aggressività | Attacco/abilità                                                                                  | Inventario                              | Luoghi                                       |
 | -------- |:----:|:---:|:---:|:---:|:---:|:---:| :------------:| :------------------------------------------------------------------------------------------------: | --------------------------------------- | -------------------------------------------- |
 | Comune   |  6   | 10  |  5  | 125 | 15  | 0%  | :imp: :imp:  | :crossed_swords: (5)<br>Laser (38)<br>Mesmetron (1)<br>Res. radiazioni 100%<br>Res. veleno 100% | Celle di energia<br>Batteria a fissione | HELIOS One, Vault 11, Fabbrica Strumenti H&H |
@@ -1030,4 +1176,6 @@ Come per tutti i robot, risultano molto più efficaci le armi a energia, come la
 | Mk6   |  50   | 50  |  5  | 675 | 15  | 0%  | :imp: :imp:  | :crossed_swords: (5)<br>Laser (38)<br>Mesmetron (1)<br>Res. radiazioni 100%<br>Res. veleno 100% | Celle di energia<br>Batteria a fissione |                                              |
 | U.S. Army   |  6   | 10  |  5  | 125 | 15  | 0%  | :imp: :imp:  | :crossed_swords: (5)<br>Laser (38)<br>Mesmetron (1)<br>Res. radiazioni 100%<br>Res. veleno 100% | Celle di energia<br>Batteria a fissione |                                              |
 | Comune   |  6   | 10  |  5  | 125 | 15  | 0%  | :imp: :imp:  | :crossed_swords: (5)<br>Laser (38)<br>Mesmetron (1)<br>Res. radiazioni 100%<br>Res. veleno 100% | Celle di energia<br>Batteria a fissione |                                              |
+
+</div>
 

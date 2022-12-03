@@ -26,5 +26,6 @@ TODO
 {{< cta cta_text="Reputazione" cta_link="reputazione" cta_new_tab="reputazione" >}}
 {{< cta cta_text="Sfide" cta_link="sfide" cta_new_tab="false" >}}
 {{< cta cta_text="Mosse disarmato" cta_link="mosse-disarmato" cta_new_tab="mosse-disarmato" >}}
+{{< cta cta_text="Modalità Duro" cta_link="modalita-duro" cta_new_tab="modalita-duro" >}}
 {{< cta cta_text="Mappe" cta_link="#" cta_new_tab="false" >}}
 

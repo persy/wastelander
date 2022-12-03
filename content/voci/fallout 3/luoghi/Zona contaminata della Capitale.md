@@ -34,7 +34,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Area dei mercenari di Reilly](../area-dei-mercenari-di-reilly)
 - [Area di ristoro e rifornimento di Jocko](../area-di-ristoro-e-rifornimento-di-jocko)
 - [Area di ristoro Five Axles](../area-di-ristoro-five-axles)
-- [Area per escursioni e campeggio F. Scott Key](../area-per-escursioni-e-campeggio-f-scott-key)
+- [Area per escursioni e campeggio F. Scott Key](../area-per-escursioni-e-campeggio-f.-scott-key)
 - [Area picnic patriottica](../area-picnic-patriottica)
 - [Arefu](../arefu)
 - [Armeria di Wheaton](../armeria-di-wheaton)

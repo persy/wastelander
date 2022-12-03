@@ -18,6 +18,26 @@ TODO
 
 ## Tipi di reputazione
 
+La Reputazione è l'opinione che le persone e le varie fazioni hanno di te. In Fallout: New Vegas la reputazione si guadagna o si perde a seconda delle
+azioni che compiamo per ogni comunità, procurandoci fama e bonus commerciali o infamia e l'essere banditi e sparati a vista. Nelle meccaniche del
+gioco fama e infamia vengono conteggiate separatamente e il risultato della loro somma determina l'apprezzamento o meno di ogni singola fazione.
+Vestendo i panni di una fazione (es. indossando armature o cappelli di quella fazione), la nostra reputazione verso quel gruppo di persone si azzera a
+"nessuna" e, se prima eravamo visti come minaccia, verremo semplicemente ignorati come non-ostili. Lo stesso effetto, ma capovolto, si ottiene se
+indossiamo vesti o armature della fazione sbagliato. Ecco un paio di esempi:
+- indossando un'armature della RNC ogni reputazione accumulata con la Legione di Caesar verrà mascherata ed entrambe le fazioni scompari-
+ranno dalla lista sul Pip-Boy, come se non le avessimo mai incontrate
+- tuttavia indossando la stessa armatura dell'RNC incontrassimo dei membri della Legione di Caesar, essi aprirebbero il fuoco contro di noi,
+senza pensarci due volte
+
+I cambiamenti di reputazione, dettati dallo svolgimento delle missioni, non vengono mascherati indossando un'armatura. Un esempio per capire
+meglio il meccanismo:
+1. idolatrati dall'RNC ci muoviamo a HELIOS One e utilizziamo ARCHIMEDES per fare strage dei soldati
+2. se indossiamo un'armatura RNC la nostra reputazione viene mascherata e dopo l'evento verremo bollati come "Evitato"
+3. tolta l'armatura, l'Idolatria precedente e l'infamia successiva si sommano e la nostra reputazione diventa "Mascalzone buono"
+4. se rimettiamo l'armatura, la reputazione per l'RNC scompare, come se non avessimo compiuto la missione
+La tabella seguente mostra le varie combinazioni di reputazione positiva, neutra e negativa
+
+
 |                                   |         | Reputazione positiva (fama) |                   |                          |                   |
 |-----------------------------------|---------|:---------------------------:|:-----------------:|:------------------------:|:-----------------:|
 |                                   |         |           Grado 1           |      Grado 2      |          Grado 3         |      Grado 4      |
@@ -36,7 +56,7 @@ TODO
 |                                   | Idolatrato        | Permette di continuare la missione Volare!                                                                                                                                           |
 | Confraternita d'Acciaio           | Positiva          | La Confraternita d'Acciaio darà al Corriere la chiave del Rifugio della Confraternita d'Acciaio                                                                                      |
 |                                   | Positiva          | Una cassa vicino al Paladino Ramos verrà riempita di munizioni energetiche; questo coincide con il completamento della missione Ancora nel buio                                      |
-|                                   | Negativa          | Veronica si rifiuterà di diventare un seguace del Corriere                                                                                                                           |
+|                                   | Negativa          | Veronica si rifiuterà di diventare una Seguace del Corriere                                                                                                                           |
 | Freeside                          | Accettato         | Un membro dei King si avvicinerà al Corriere e gli darà qualche tappo, munizione o consumabile                                                                                       |
 |                                   | Misto             | Un abitante del posto dirà al Corriere che è disponibile uno sconto sulla merce al Negozio di Mick e Ralph                                                                           |
 |                                   | Negativa          | I delinquenti di Freeside non attaccheranno il Corriere; James e Francine Garret si rifiuteranno di barattare con il Corriere                                                        |
@@ -66,8 +86,8 @@ TODO
 |                                   | Negativa          | Verranno attivate le missioni Don't Poke at the Bear! e Per la Repubblica                                                                                                            |
 |                                   | Negativa          | Boone e Cass si rifiuteranno di diventare seguaci del Corriere                                                                                                                       |
 | Seguaci dell'Apocalisse           | Idolatrato        | Julie Farkas darà al Corriere il Camice da laboratorio dei Seguaci e la chiave del Rifugio dei Seguaci, dopo aver completato la missione Era ora e fornito abbastanza scorte mediche |
-|                                   | Positiva          | Arcade Gannon può diventare un seguace del Corriere                                                                                                                                  |
-|                                   | Negativa          | Arcade Gannon si rifiuterà di diventare un seguace del Corriere                                                                                                                      |
+|                                   | Positiva          | Arcade Gannon può diventare un Seguace del Corriere                                                                                                                                  |
+|                                   | Negativa          | Arcade Gannon si rifiuterà di diventare un Seguace del Corriere                                                                                                                      |
 | Strip                             | Positiva          | Marjorie farà diventare il Corriere membro onorario della White Glove Society durante la missione Oltre il manzo                                                                     |
 |                                   | Amato             | Mister Holdout non venderà più armi al Corriere                                                                                                                                      |
 |                                   | Negativa          | Mister Holdout non venderà più armi al Corriere                                                                                                                                      |

@@ -17,8 +17,12 @@ private: false # Nascosto dalle ricerche
 
 {{< toc hide_on="xl" >}}
 
+TODO
+
 
 ## Creazione (prodotti)
+
+<div class="scrollwrapper">
 
 | Prodotti (quantità)                             |                 Luogo dello schema                |               Abilità richiesta               |    Dove utilizzarlo    | Materie prime (quantità)                                                                                                                    |
 |-------------------------------------------------|:-------------------------------------------------:|:---------------------------------------------:|:----------------------:|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -130,9 +134,13 @@ private: false # Nascosto dalle ricerche
 | Veleno di avola (3)                             |                         -                         |               Sopravvivenza: 50               |  Fuoco da accampamento | Bacca di solanum bianco (1) Ghiandola del veleno di scorpione centuriode (3) Ghiandola del veleno di Cazador (1)                            |
 | Vista fantasma                                  |                         -                         |               Sopravvivenza: 25               |  Fuoco da accampamento | Barattolo con residuo di Nube (1)                                                                                                           |
 | Zampa di mantide alla griglia                   |                         -                         |               Sopravvivenza: 30               |  Fuoco da accampamento | Baccello fresco di mesquite dolce (1) Zampa anteriore mantide (1) Vino (1)                                                                  |
+ 
+</div>
 
 
 ## Creazione (materie prime)
+
+<div class="scrollwrapper">
 
 | Materia prima (quantità)                          | Quantità | Prodotti (quantità)                             |               Abilità richiesta              |                 Ricetta richiesta                 |    Dove utilizzarlo    | Altri materiali richiesti (quantità)                                                                                                       |
 |---------------------------------------------------|:--------:|-------------------------------------------------|:--------------------------------------------:|:-------------------------------------------------:|:----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -572,9 +580,11 @@ private: false # Nascosto dalle ricerche
 |                                                      | Cavità di trasporto per pugno potenziato                                                                                                                               | Aumenta la velocità d'attacco del 20%                   |
 | Pugno trappola d'orso                                | Molle rinforzate per pugno trappola d'orso                                                                                                                             | Danno aumentato di 3                                    |
 
-
+</div>
 
 ## Ricette
+
+<div class="scrollwrapper">
 
 | Ricetta                                 |  Abilità richiesta |    Luogo di creazione   |                                            Materie prime                                           | Luogo dove trovare la ricetta                                                                                                                                         |
 |-----------------------------------------|:------------------:|:-----------------------:|:--------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -583,14 +593,14 @@ private: false # Nascosto dalle ricerche
 | Cartoccio                               |    Esplosivi: 10   |     Banco di lavoro     |                   Dinamite (2) Nastro adesivo (1) Modulo sensore (1) Lattina (1)                   | Si trova nel blocco B del Complesso Penitenziario dell'RNC                                                                                                            |
 | Coltello cosmico super riscaldato       |   Riparazione: 35  |     Banco di lavoro     |                 Coltello cosmico (1) Piatto caldo (1) Forcipe (1) Luce pilota (1)                  | Nella stanza della lavanderia delle Suits del Sierra Madre                                                                                                            |
 | FIDO                                    |      Armi: 75      |     Banco di lavoro     |                                      Arma Cybercane K9000 (1)                                      | In un canile nel Centro di ricerca X-8. Vicino a un terminale                                                                                                         |
-| Moonshine di Cass                       |  Sopravvivenza: 75 |  Fuoco da accampamento  |              Mais fresco (1)  Frutto mutato (2)  Lievito (1) Batteria a fissione (1)               | Viene data da Cass, quando è un nostro seguace                                                                                                                        |
+| Moonshine di Cass                       |  Sopravvivenza: 75 |  Fuoco da accampamento  |              Mais fresco (1)  Frutto mutato (2)  Lievito (1) Batteria a fissione (1)               | Viene data da Cass, quando è una nostra Seguace                                                                                                                         |
 | Omelette della Zona contaminata di Rose | Sopravvivenza: 65  |  Fuoco da accampamento  | Blamco Mac e Cheese (1) Frutto mutato croccante (1)  Uovo di Deathclaw (1)  Carne di Lakelurk (1)  | Viene data da Jas Wilkins a Sloan, dopo aver completato la missione nascosta You Gotta Break Out a Few Eggs, dandole un uovo di deathclaw                             |
 | Pugno di Rawr                           |    Disarmato: 75   |     Banco di lavoro     |                                          Artiglio di Rawr                                          | Aggiunto quando si ottiene l'Artiglio di Rawr. Il deathclaw Rawr si trova in una grotta, passato il tetto dell'Hotel Boxwood, all'interno del DLC Lonesome Road       |
 | Pugno medagliette di cane               |   Riparazione: 30  |     Banco di lavoro     |                                 Medagliette per cani dell'RNC (20)                                 | Dato dal Soldato semplice Halford a Camp Guardian                                                                                                                     |
 | Stufato Demone Cook-Cook                |  Sopravvivenza: 75 |  Fuoco da accampamento  |            Birra (2) Carne di bramino (1)  Patata fresca (1)  Peperoncino Jalapeño (1)             | A nord dell'entrata occidentale per le Rovine di South Vegas, all'interno di un accampamento dei Demoni, difeso da Cook-Cook. È su uno scaffale                       |
 | Turbo                                   |     Scienza: 50    |  Fuoco da accampamento  |             Broc Flower (1) Ghiandola del veleno di Cazador (1) Jet (1) Trementina (1)             | Viene data da Diane, durante la missione Aba Daba Honeymoon per i Great Khan                                                                                          |
 
-
+</div>
 
 
 

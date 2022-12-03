@@ -24,7 +24,7 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La meravigliosa carne di Ryan Brigg</b>):::questfo3
-    id2(Trova della carna di rattotalpa e della colla prodigiosa)
+    id2(Trova della carne di ratto talpa e della colla prodigiosa)
     id3(Usa il produttore di carne prodigiosa)
     id4(Carne prodigiosa di ratto talpa):::rewardfo3
     id1-->id2-->id3-->id4

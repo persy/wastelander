@@ -19,9 +19,9 @@ private: false # Nascosto dalle ricerche
 
 
 
+## Gioco di base
 
-
-
+<div class="scrollwrapper">
 
 | Nome                                                                          |    Peso    |            Valore            | Valore/Peso | Oggetto missione |                   Missione relativa                   |                                                                                 Componente                                                                                 |
 |-------------------------------------------------------------------------------|:----------:|:----------------------------:|:-----------:|:----------------:|:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -328,8 +328,15 @@ private: false # Nascosto dalle ricerche
 | Vecchie note della pattuglia della Legione                                    |      0     |               0              |      0      |        Sì        |                   Occhio per occhio                   |                                                                                      -                                                                                     |
 | Vestito da Boomer per Janet                                                   |      0     |               0              |      0      |        Sì        |                     Giovani cuori                     |                                                                                      -                                                                                     |
 | Zampa anteriore mantide                                                       |      0     |               1              |      ∞      |        No        |                           -                           |                                                                        Zampa di mantide alla griglia                                                                       |
-|                                                                               |            |                              |             |                  |                                                       |                                                                                                                                                                            |
-| Dead Money                                                                    |            |                              |             |                  |                                                       |                                                                                                                                                                            |
+
+</div>
+
+## Dead Money
+
+<div class="scrollwrapper">
+
+| Nome                                                                          |    Peso    |            Valore            | Valore/Peso | Oggetto missione |                   Missione relativa                   |                                                                                 Componente                                                                                 |
+|-------------------------------------------------------------------------------|:----------:|:----------------------------:|:-----------:|:----------------:|:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Barattolo con residuo di Nube                                                 |     0.1    |              10              |     100     |        No        |                           -                           |                                                         Bacio della Nube, Vista fantasma, Martini del Sierra Madre                                                         |
 | Buono omaggio                                                                 |      0     | 1000 Fiches del Sierra Madre |     1000    |        Sì        |                           -                           |                                                                                      -                                                                                     |
 | Fluido per imbalsamare                                                        |      1     |               1              |      1      |        No        |                           -                           |                                                                                      -                                                                                     |
@@ -341,8 +348,15 @@ private: false # Nascosto dalle ricerche
 | Pass manutenzione                                                             |      0     |               0              |      0      |        Sì        |                    Uccidi la bestia                   |                                                                                      -                                                                                     |
 | Pass sicurezza delle suite                                                    |      0     |               0              |      0      |        Sì        |                      Ultimi lussi                     |                                                                                      -                                                                                     |
 | Resti di mietitore fantasma                                                   |      0     |               0              |      0      |        Sì        |                    Fuochi nel cielo                   |                                                                                      -                                                                                     |
-|                                                                               |            |                              |             |                  |                                                       |                                                                                                                                                                            |
-| Honest Hearts                                                                 |            |                              |             |                  |                                                       |                                                                                                                                                                            |
+
+</div>
+
+## Honest Hearts
+
+<div class="scrollwrapper">
+
+| Nome                                                                          |    Peso    |            Valore            | Valore/Peso | Oggetto missione |                   Missione relativa                   |                                                                                 Componente                                                                                 |
+|-------------------------------------------------------------------------------|:----------:|:----------------------------:|:-----------:|:----------------:|:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Bussola                                                                       |      0     |               0              |      0      |        Sì        |            Attrazioni al bordo della strada           |                                                                                      -                                                                                     |
 | Bussola rotta                                                                 |      0     |               0              |      0      |        Sì        |            Attrazioni al bordo della strada           |                                                                                      -                                                                                     |
 | Cestino da pranzo Piccoli Scout                                               |      0     |               0              |      0      |        Sì        |                  Trappola per turisti                 |                                                                                      -                                                                                     |
@@ -360,8 +374,15 @@ private: false # Nascosto dalle ricerche
 | Uovo di geco verde                                                            |      4     |              80              |      20     |        No        |                           -                           |                                                                                      -                                                                                     |
 | Walkie-Talkie                                                                 |      0     |               0              |      0      |        Sì        |                     Andato a pesca                    |                                                                                      -                                                                                     |
 | Zampa del Fantasma di Lei                                                     |      0     |               1              |      ∞      |        Sì        |                  Rito di iniziazione                  |                                                                              Abbraccio di Lei                                                                              |
-|                                                                               |            |                              |             |                  |                                                       |                                                                                                                                                                            |
-| Old World Blues                                                               |            |                              |             |                  |                                                       |                                                                                                                                                                            |
+
+</div>
+
+## Old World Blues
+
+<div class="scrollwrapper">
+
+| Nome                                                                          |    Peso    |            Valore            | Valore/Peso | Oggetto missione |                   Missione relativa                   |                                                                                 Componente                                                                                 |
+|-------------------------------------------------------------------------------|:----------:|:----------------------------:|:-----------:|:----------------:|:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Bacca di solanum bianco secca                                                 |    0.02    |               0              |      0      |        Sì        |                   Ricerca sul campo                   |                                                                                                                                                                            |
 | Baccello di borlotto secco                                                    |    0.03    |               0              |      0      |        Sì        |                   Ricerca sul campo                   |                                                                                                                                                                            |
 | Baccello di mesquite dolce secco                                              |    0.05    |               0              |      0      |        Sì        |                   Ricerca sul campo                   |                                                                                                                                                                            |
@@ -385,8 +406,15 @@ private: false # Nascosto dalle ricerche
 | Prototipo di guanti X-13                                                      |      0     |               0              |      0      |        Sì        |              Attacco dell'infiltrato X-13             |                                                                             Tuta mimetica Mk II                                                                            |
 | Prototipo di stivali X-13                                                     |      0     |               0              |      0      |        Sì        |              Attacco dell'infiltrato X-13             |                                                                             Tuta mimetica Mk II                                                                            |
 | Radice di Xander secca                                                        |    0.01    |               0              |      0      |        Sì        |                   Ricerca sul campo                   |                                                                                                                                                                            |
-|                                                                               |            |                              |             |                  |                                                       |                                                                                                                                                                            |
-| Lonesome Road                                                                 |            |                              |             |                  |                                                       |                                                                                                                                                                            |
+
+</div>
+
+## Lonesome Road 
+
+<div class="scrollwrapper">
+
+| Nome                                                                          |    Peso    |            Valore            | Valore/Peso | Oggetto missione |                   Missione relativa                   |                                                                                 Componente                                                                                 |
+|-------------------------------------------------------------------------------|:----------:|:----------------------------:|:-----------:|:----------------:|:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Artiglio di Rawr                                                              |      1     |               1              |      1      |        Sì        |                           -                           |                                                                                Pugno di Rawr                                                                               |
 | Cassa di razzi                                                                |     3.3    |             1250             |     379     |        No        |                           -                           |                                                                                                                                                                            |
 | Palla di neve di Lonesome Road                                                |      0     |             2000             |      0      |        Sì        |           Useless Baubles or Fancy Trinkets?          |                                                                                                                                                                            |
@@ -395,7 +423,7 @@ private: false # Nascosto dalle ricerche
 | Scheda di circuito di potenziamento Eyebot                                    |      0     |               0              |      0      |        Sì        |                           -                           |                                                                            ED-E (Lonesome Road)                                                                            |
 | Seymour                                                                       |      0     |               0              |      0      |        No        |                           -                           |                                                                                                                                                                            |
 
-
+</div>
 
 
 

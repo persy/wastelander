@@ -23,6 +23,7 @@ private: false # Nascosto dalle ricerche
 
 ## Droghe
 
+<div class="scrollwrapper">
 
 | Nome                            | Peso | Valore | Effetto                                                                                                                                                            |                 Dipendenza                 |
 |---------------------------------|:----:|:------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
@@ -65,8 +66,12 @@ private: false # Nascosto dalle ricerche
 | Turbo                           |   0  |   20   | Tempo rallentato (3s)                                                                                                                                              |         Dip. da Turbo 20%<br>-2 AGI        |
 | Vista fantasma                  |   0  |   20   | Vista fantasma (150s)                                                                                                                                              |                   Nessuno                  |
 
+</div>
 
 ## Cibi
+
+<div class="scrollwrapper">
+
 | Nome                                 | Peso | Valore |                                 Effetto                                |  Effetto in mod. Duro |
 |--------------------------------------|:----:|:------:|:----------------------------------------------------------------------:|:---------------------:|
 | Bacca di solanum bianco              | 0.02 |    2   |                  +1 TP (5s), -1 AGI (2m), -1 STA (2m)                  |         -5 CIB        |
@@ -181,8 +186,12 @@ private: false # Nascosto dalle ricerche
 | Uovo di Lakelurk                     |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
 | Xander root                          | 0.02 |    0   |                               +1 TP (4s)                               |         -5 CIB        |
 
+</div>
 
 ## Bevande
+
+<div class="scrollwrapper">
+
 | Nome                                   | Peso | Valore | Effetto                                                                                                   | Effetto in Modalità Duro |             Dipendenza             |
 |----------------------------------------|:----:|:------:|-----------------------------------------------------------------------------------------------------------|:------------------------:|:----------------------------------:|
 | Acqua purificata                       |   1  |   20   | +2 TP (5s)                                                                                                |          -50 H2O         |                  -                 |
@@ -218,8 +227,11 @@ private: false # Nascosto dalle ricerche
 | Whiskey di Dixon                       |   1  |   10   | +1 FRZ (4m), -2 INT (4m)                                                                                  |          +25 H2O         |  Dip. alcol 50%<br>-1 AGI e -1 CAR |
 | Whiskey radioattivo                    |   1  |    5   | +10 d. radiazioni, +1 CAR (4m), +1 FRZ (4m), -1 INT (4m)                                                  |          +25 H2O         |  Dip. alcol 10%<br>-1 AGI e -1 CAR |
 
+</div>
 
 ## Veleni e altri oggetti
+
+<div class="scrollwrapper">
 
 | Veleno di avola               | Peso | Valore | Effetto                                                                                               |
 |-------------------------------|:----:|:------:|-------------------------------------------------------------------------------------------------------|
@@ -238,9 +250,7 @@ private: false # Nascosto dalle ricerche
 | Radio di emergenza RNC        |   0  |    0   | Chiama il supporto RNC                                                                                |
 | Stealth Boy                   |   1  |   100  | +100 Furtivo, +75 Campo stealth (2 min)       
 
-
-
-
+</div>
 
 
 

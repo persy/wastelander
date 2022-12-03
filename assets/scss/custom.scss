@@ -23,17 +23,33 @@
     display: none;
 }
 
+
+.middot-divider {
+    display: none;
+}
+
+/* Tabelle */
+
+/*Tabelle larghe quanto il contenuto */
 table {
-    width: 100%;
-    overflow-x: scroll!important;
+    width: fit-content;
 }
 
 table thead {
     color: #4eff01;
 }
 
-.middot-divider {
-    display: none;
+/* Scrolling orizzontale per le tabelle su mobile */
+.scrollwrapper {
+    overflow: auto;
 }
 
+/* Dimensione minima celle tabelle */
+.docs-article-container td {
+    min-width: 25px;
+}
 
+/* Prima oclonna delle tabelle sempre in grassetto */
+td:first-child {
+    font-weight: bold;
+}
