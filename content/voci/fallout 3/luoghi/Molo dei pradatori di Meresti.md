@@ -21,7 +21,7 @@ Il molo dei predatori di Meresti è una località non contrassegnata e si trova 
 
 | Mappa                                            | Panoramica                                    |
 | ------------------------------------------------ | --------------------------------------------- |
-| {{<figure src="Meresti_raider_docks_map.webp">}} | {{<figure src="Meresti_raider's_dock.webp">}} |
+| {{<figure src="fo3/Meresti_raider_docks_map.webp">}} | {{<figure src="fo3/Meresti_raider's_dock.webp">}} |
 
 
 

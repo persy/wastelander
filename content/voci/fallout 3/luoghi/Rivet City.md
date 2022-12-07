@@ -21,20 +21,20 @@ Rivet City è una città situata all'interno del relitto di una portaerei a Wash
 
 | Mappa                                  | Mappa locale ponte superiore                       | Mappa locale ponte intermedio                    |
 | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
-| {{<figure src="Rivet_City_loc.webp">}} | {{<figure src="Map_f3_rivetcity_upperdeck.webp">}} | {{<figure src="Map_f3_rivetcity_middeck.webp">}} |
+| {{<figure src="fo3/Rivet_City_loc.webp">}} | {{<figure src="fo3/Map_f3_rivetcity_upperdeck.webp">}} | {{<figure src="fo3/Map_f3_rivetcity_middeck.webp">}} |
 
 
 | Mappa locale prua                                 | Panoramica                                  |
 | ------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Rivet_City_broken_bow_map.webp">}} | {{<figure src="Rivet_City_panorama.webp">}} |
+| {{<figure src="fo3/Rivet_City_broken_bow_map.webp">}} | {{<figure src="fo3/Rivet_City_panorama.webp">}} |
 
 | Immagine                                                      | Oggetto e posizione                                                                                                                                                        |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="RCsl_Intelligence_bobblehead.webp">}}          | **Bambolina - Intelligenza**, su un tavolo nel laboratorio scientifico                                                                                                     |
-| {{<figure src="Fo3_DC_Journal_of_IM_Pinkerton_lab.webp">}}    | **Giornale di medicina interna del D.C.**, nella sala operatoria, sotto gli schermi per i raggi X                                                                          |
-| {{<figure src="DE_and_BB_of_Science_Rivet_City_bow.webp">}}   | **Elettronica di Dean** e **Il grande libro della scienza**, nel laboratorio di Pinkerton, su un tavolo e sullo scaffale vicino                                            |
-| {{<figure src="Seagraves'_incriminating_letter.webp">}}       | **Lettera incriminante di Seagrave**, negli alloggi di Seagrave Holmes sul ponte centrale della nave, dietro l'armadietto ai piedi della sua branda                        |
-| {{<figure src="PP_personal_journals_X123_Better_Days.webp">}} | **Diario Progetto purezza** (**voci 1**, **3** e **5**), su un tavolo negli alloggi personali della Dottoressa  Li, sul ponte superiore, vicino al laboratorio scientifico |
+| {{<figure src="fo3/RCsl_Intelligence_bobblehead.webp">}}          | **Bambolina - Intelligenza**, su un tavolo nel laboratorio scientifico                                                                                                     |
+| {{<figure src="fo3/Fo3_DC_Journal_of_IM_Pinkerton_lab.webp">}}    | **Giornale di medicina interna del D.C.**, nella sala operatoria, sotto gli schermi per i raggi X                                                                          |
+| {{<figure src="fo3/DE_and_BB_of_Science_Rivet_City_bow.webp">}}   | **Elettronica di Dean** e **Il grande libro della scienza**, nel laboratorio di Pinkerton, su un tavolo e sullo scaffale vicino                                            |
+| {{<figure src="fo3/Seagraves'_incriminating_letter.webp">}}       | **Lettera incriminante di Seagrave**, negli alloggi di Seagrave Holmes sul ponte centrale della nave, dietro l'armadietto ai piedi della sua branda                        |
+| {{<figure src="fo3/PP_personal_journals_X123_Better_Days.webp">}} | **Diario Progetto purezza** (**voci 1**, **3** e **5**), su un tavolo negli alloggi personali della Dottoressa  Li, sul ponte superiore, vicino al laboratorio scientifico |
 Altri oggetti:
 
 - **Schemi - Lanciatutto**, nell'armeria (Scasso 100)

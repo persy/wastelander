@@ -21,11 +21,11 @@ La stazione di Marigold è una delle stazioni della metropolitana sulla Linea Bl
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Marigold_Station_loc.webp">}} | {{<figure src="Marigold_Station_loc_map.webp">}}  | {{<figure src="Marigold_Station_exterior.webp">}}  |
+|  {{<figure src="fo3/Marigold_Station_loc.webp">}} | {{<figure src="fo3/Marigold_Station_loc_map.webp">}}  | {{<figure src="fo3/Marigold_Station_exterior.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Fire_Ant_booty.webp">}}  |  **Il grande libro della scienza** e una **Nuka Cola Quantum**, accanto al terminale di Lesko nel nido della formica regina |
+| {{<figure src="fo3/Fire_Ant_booty.webp">}}  |  **Il grande libro della scienza** e una **Nuka Cola Quantum**, accanto al terminale di Lesko nel nido della formica regina |
 
 
 Altri oggetti:

@@ -21,12 +21,12 @@ La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del
 
 | Mappa                                        | Mappa locale                                   | Panoramica                               |
 | -------------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
-| {{<figure src="Sewer_Waystation_loc.webp">}} | {{<figure src="Sewer_waystation_loc-1.webp">}} | {{<figure src="Sewer_Waystation.webp">}} |
+| {{<figure src="fo3/Sewer_Waystation_loc.webp">}} | {{<figure src="fo3/Sewer_waystation_loc-1.webp">}} | {{<figure src="fo3/Sewer_Waystation.webp">}} |
 
 | Immagine                                                   | Oggetto e posizione                                                                                                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](../accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
-| {{<figure src="Sewer_waystation_Nuka-Cola_Quantum.webp">}} | **Nuka-Cola Quantum**, nell'ufficio in un frigorifero rotto accanto a uno scheletro                                                              |
+| {{<figure src="fo3/Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, nell'[accampamento compagnia Artiglio](../accampamento-compagnia-artiglio) a sud-ovest, su uno scaffale del magazzino |
+| {{<figure src="fo3/Sewer_waystation_Nuka-Cola_Quantum.webp">}} | **Nuka-Cola Quantum**, nell'ufficio in un frigorifero rotto accanto a uno scheletro                                                              |
 
 *Vedi [Accampamento compagnia Artiglio](../accampamento-compagnia-artiglio)*
 

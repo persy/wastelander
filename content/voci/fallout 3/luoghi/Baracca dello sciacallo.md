@@ -21,4 +21,4 @@ La baracca dello sciacallo è una località non contrassegnata e si trova ad est
 
 | Mappa                         | Panoramica                |
 | ----------------------------- | ------------------------- |
-| {{<figure src="Scavenger_Shack_Loc.webp">}} | {{<figure src="Scavenger_Shack.webp">}} |
+| {{<figure src="fo3/Scavenger_Shack_Loc.webp">}} | {{<figure src="fo3/Scavenger_Shack.webp">}} |

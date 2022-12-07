@@ -21,8 +21,8 @@ La Metro Junction, chiamata anche Metro Chevy Chase/Vernon Sq., fa parte del sis
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|   | {{<figure src="Metro_Junction_loc.webp">}}  |  {{<figure src="Metro_Junction.webp">}} |
+|   | {{<figure src="fo3/Metro_Junction_loc.webp">}}  |  {{<figure src="fo3/Metro_Junction.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Grognak_the_Barbarian_Metro_Junction.webp">}}  | **Grognak il barbaro**, su un tavolo vicino ad alcune macerie, all'angolo nord-est della piattaforma inferiore  |
+| {{<figure src="fo3/Grognak_the_Barbarian_Metro_Junction.webp">}}  | **Grognak il barbaro**, su un tavolo vicino ad alcune macerie, all'angolo nord-est della piattaforma inferiore  |

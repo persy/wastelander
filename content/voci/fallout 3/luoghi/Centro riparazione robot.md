@@ -20,12 +20,12 @@ Il centro riparazione robot è un edificio a sud-sud-ovest di Canterbury Commons
 
 | Mappa                  | Mappa locale                      | Panoramica                    |
 | ---------------------- | --------------------------------- | ----------------------------- |
-| {{<figure src="Robot_RC_loc.webp">}} | {{<figure src="Robot_repair_center_map.webp">}} | {{<figure src="Robot_repair_center.webp">}} |
+| {{<figure src="fo3/Robot_RC_loc.webp">}} | {{<figure src="fo3/Robot_repair_center_map.webp">}} | {{<figure src="fo3/Robot_repair_center.webp">}} |
 
 | Immagine                                           | Oggetto e posizione                                                                                                        |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Robot_Repair_Center_Nikola_Tesla_and_You.webp">}} | **Tu e Nikola Tesla**, nella stanza ovest, su un bancone accanto a una cassetta degli attrezzi e un protettore             |
-| {{<figure src="FO3_LCS_Robot_Repair_Center.webp">}}              | **Stile da congresso, menzognero** in una stanza della forgia del Meccanicista, sezione A, secondo piano, su una scrivania |
+| {{<figure src="fo3/Robot_Repair_Center_Nikola_Tesla_and_You.webp">}} | **Tu e Nikola Tesla**, nella stanza ovest, su un bancone accanto a una cassetta degli attrezzi e un protettore             |
+| {{<figure src="fo3/FO3_LCS_Robot_Repair_Center.webp">}}              | **Stile da congresso, menzognero** in una stanza della forgia del Meccanicista, sezione A, secondo piano, su una scrivania |
 
 Altri oggetti:
 - **Chiave di crittografia settore A**, in una cassaforte vicino a un terminale

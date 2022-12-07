@@ -21,12 +21,12 @@ Il cimitero di Hallowed Moors si trova a nord di Big Town, a nord-ovest della st
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
-| {{<figure src="HM_Cemetery_loc.webp">}} | {{<figure src="HM_cemetery.webp">}} |
+| {{<figure src="fo3/HM_Cemetery_loc.webp">}} | {{<figure src="fo3/HM_cemetery.webp">}} |
 
 | Immagine                                                   | Oggetto e posizione                                                                                  |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| {{<figure src="Hallowed_Moors_Cemetery_Day.webp">}}        | **Il grande libro della scienza** e **Trascrizione famiglia Keller 2 di 5**, sul leggio nella chiesa |
-| {{<figure src="FO3_DCJOIM_Hallowed_Moors_Cemetery.webp">}} | **Giornale di medicina interna del D.C.** sullo scaffale accanto al kit di pronto soccorso           |
-| {{<figure src="Hallowed_Moors_Cemetery_MiniNuke.webp">}}   | **Munizione nucleare**, in una cassetta di legno vicino alla radio                                   |
+| {{<figure src="fo3/Hallowed_Moors_Cemetery_Day.webp">}}        | **Il grande libro della scienza** e **Trascrizione famiglia Keller 2 di 5**, sul leggio nella chiesa |
+| {{<figure src="fo3/FO3_DCJOIM_Hallowed_Moors_Cemetery.webp">}} | **Giornale di medicina interna del D.C.** sullo scaffale accanto al kit di pronto soccorso           |
+| {{<figure src="fo3/Hallowed_Moors_Cemetery_MiniNuke.webp">}}   | **Munizione nucleare**, in una cassetta di legno vicino alla radio                                   |
 
 

@@ -21,7 +21,7 @@ Il generatore e accesso metropolitana è un piccolo tunnel di accesso che colleg
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Warrington_Station_loc.webp">}}  | {{<figure src="Metro_Metro_Access_&_Generator.webp">}}  |  {{<figure src="Metro_access_and_generator.webp">}} |
+| {{<figure src="fo3/Warrington_Station_loc.webp">}}  | {{<figure src="fo3/Metro_Metro_Access_&_Generator.webp">}}  |  {{<figure src="fo3/Metro_access_and_generator.webp">}} |
 
 
 Altri oggetti:

@@ -117,3 +117,123 @@ Alcuni personaggi vogliono oggetti specifici. Questi possono essere consegnati r
 | [Mendicanti d'acqua](mendicanti-dacqua)                                    | Fuori da Megaton, da Rivet City e della torre Tenpenny | Micky, Carlos, Willy                | Acqua purificata, Acqua pura (Broken Steel)                                                                                           | Karma positivo                                                                                  |
 | [Voglia di apprendimento](voglia-di-apprendimento)                         | Biblioteca di Arlington                                | Scriba Yearling                     | Libro prebellico                                                                                                                      | 100 tappi, 10 PE                                                                                |
 | [Nuka Cola per Zip](nuka-cola-per-zip)                                     | Little Lamplight                                       | Zip                                 | Nuka Cola                                                                                                                             | Oggetti vari                                                                                    |
+
+
+## Missioni dei DLC
+
+### Operation:Anchorage
+
+| Nome                                                     | Luoghi                                     | Data da                           | Ricompensa                                                                                    |
+| -------------------------------------------------------- | ------------------------------------------ | --------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Aiuto ai Rinnegati](aiuto-ai-rinnegati)                 | Incrocio di Bailey, Avamposto Rinnegati    | Segnale di soccorso dei Rinnegati | 100 PE                                                                                        |
+| [Le armi di Anchorage](le-armi-di-anchorage)             | Simulazione della liberazione di Anchorage | Sergente Benjamin Montgomery      | 100 PE                                                                                        |
+| [Preparare la via](preparare-la-via)                     | Simulazione della liberazione di Anchorage | Generale Chase                    | 100 PE                                                                                        |
+| [Operazione: Anchorage!](operazione-anchorage)           | Simulazione della liberazione di Anchorage | Generale Chase                    | 100 PE, elmo furtivo cinese, fucile Gauss, <br>armatura atomica T-51b invernale, oggetti vari |
+| [Operazioni sotto copertura](operazioni-sotto-copertura) | Colleziona tutte e 10 le valigette         | -                                 | Abilità extra Operazioni sotto copertura                                                      |
+
+### Broken Steel
+
+#### Missioni principali
+
+| Nome            | Luoghi                                                                | Data da          | Ricompensa             | 
+| --------------- | --------------------------------------------------------------------- | ---------------- | ---------------------- | 
+| [Morte dai cieli](morte-dai-cieli) | Cittadella<br>tunnel di Rockland<br>stazione ripetitore del satellite | Owyn Lyons       | 1300 PE                | 
+| [Ai generatori](ai-generatori)   | Cittadella<br>edificio S. Wilson a Olney<br>impianto di Olney         | Paladino Tristan | 1400 PE                | 
+| [Chi osa vince](chi-osa-vince)   | Cittadella<br>metropolitana presidenziale<br>base aeronautica Adams   | Paladino Tristan | 1500 PE, cannone Tesla | 
+
+#### Missioni secondarie
+
+| Nome                            | Luoghi                                                               | Data da                   | Ricompensa                                             |
+| ------------------------------- | -------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------ |
+| [Acqua santa](acqua-santa)                     | Jefferson Memorial<br>Megaton<br>monastero della Luce sacra          | Scriba Bigsley            | 100 PE, 300 tappi                                      |
+| [Protezione della via dell'acqua](protezione-della-via-dellacqua) | Jefferson Memorial<br>Rivet City<br>molo di Wilhelm                  | Scriba Bigsley            | 100 PE, armi e armature varie                          |
+| [L'incredibile Acqua Cura!](lincredibile-acqua-cura)       | Museo di Storia<br>Jefferson Memorial<br>edificio autorità del museo | Scriba Bigsley<br>Griffon | 100 PE e\o tappi ogni qulache giorno visitando Griffon |
+
+
+#### Missioni nascoste
+
+| Nome                        | Luoghi                                              | Data da                                       | Ricompensa                                                                                    |
+| --------------------------- | --------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Il corteggiatore addolorato](il-corteggiatore-addolorato) | Metropolitana presidenziale<br>La Maison Beauregard | Olonastro Mi spiace, tesoro                   | Abbigliamento notturno malizioso, armatura da combattimento di Lag-Bolt, occhiali di Lag-Bolt |
+| [Richiesta d'acqua](richiesta-dacqua)           | Megaton                                             | Guardie della carovana<br>Abitanti di Megaton |                                                                                               |
+
+#### Missioni ripetibili
+
+| Nome                    | Luoghi     | Data da          | Dati                                   | Ricompensa                                                                |
+| ----------------------- | ---------- | ---------------- | -------------------------------------- | ------------------------------------------------------------------------- |
+| [Riparare Prime](riparare-prime)          | Cittadella | Scriba Rothchild | Macchina fotografica<br>Modulo sensore | Macchina fotografica: 100 tappi, 25 PE<br>Modulo sensore: 75 tappi, 10 PE |
+| [Confraternita di sangue](confraternita-di-sangue) | Cittadella | Paladino Tristan | Campione di sangue supermutante        | 50 tappi, 10 PE                                                           |
+
+
+### The Pitt
+
+#### Missioni principali
+
+| Nome                            | Luoghi                                    | Data da  | Ricompensa                                                                         |
+| ------------------------------- | ----------------------------------------- | -------- | ---------------------------------------------------------------------------------- |
+| [Nel Pitt](nel-pitt)                        | Torre della radio<br>Galleria del treno   | Wernher  | 150 PE                                                                             |
+| [Condizioni di lavoro pericolose](condizioni-di-lavoro-pericolose) | Stadera del Pitt<br>Il mulino<br>La Fossa | Midea    | 150 PE, Esperto ascia automatica, Combattente del Pitt, armi e armature varie      |
+| [Lavoro libero](lavoro-libero)                   | Haven<br>Wernher's hideout                | Krenshaw | 150 PE, armatura atomica di Ashur, bonus salute, accesso alla pressa per munizioni |
+
+
+#### Missioni nascoste
+
+| Nome                   | Luoghi                        | Data da | Ricompensa                           |
+| ---------------------- | ----------------------------- | ------- | ------------------------------------ |
+| [Operaio del laminatoio](operaio-del-laminatoio) | Stadera del Pitt              | Everett | Armi e armature varie                |
+| [La fine di Wild Bill](la-fine-di-wild-bill)   | Periferia<br>Stadera del Pitt | Milly   | Arma da fianco di Wild Bill, stimpak |
+| [Schiavo spia](schiavo-spia)           | Il mulino                     | Brand   | 2 stimpak, karma negativo            |
+
+
+#### Missioni ripetibili
+
+| Nome                     | Luoghi             | Data da         | Dati         | Ricompensa |
+| ------------------------ | ------------------ | --------------- | ------------ | ---------- |
+| [Giocattoli per i bambini](giocattoli-per-i-bambini) | Periferia<br>Haven | Midea<br>Sandra | Orsacchiotto | 30 tappi   |
+
+
+
+### Point Lookout
+
+#### Missioni principali
+
+| Nome                   | Luoghi                                                                         | Data da | Ricompensa               |
+| ---------------------- | ------------------------------------------------------------------------------ | ------- | ------------------------ |
+| [Sapori locali](sapori-locali)          | Attracco imbarcazione<br>Duchessa Gambit<br>villa di Calvert                   | Segnale radio  | Difensore supremo        |
+| [Spiriti e fantasmi](spiriti-e-fantasmi)     | Cattedrale Arca & Spirito santo<br>Entrata della palude sacra                  | Desmond | 300 PE, Potere di Punga! |
+| [Sento voci](sento-voci)             | Cattedrale Arca & Spirito santo<br>Villa di Calvert<br>Imbarcazione naufragata | Desmond | 300 PE                   |
+| [Controllo del pensiero](controllo-del-pensiero) | Villa di Calvert<br>Pontile                                                    | Desmond | 300 PE                   |
+| [Un incontro tra menti](un-incontro-tra-menti)  | Villa di Calvert<br>Faro di Point Lookout                                      | Desmond | Emettitore di microonde  |
+
+#### Missioni secondarie
+
+| Nome                       | Luoghi                                  | Data da                                | Ricompensa                                       |
+| -------------------------- | --------------------------------------- | -------------------------------------- | ------------------------------------------------ |
+| [Un sorso di Whiskey](un-sorso-di-whiskey)        | Baracca di Marguerite                   | Marguerite                             | 50 PE, 300 tappi, 6 moonshine                    |
+| [Una terra antica](una-terra-antica)          | USS Ozymandias                          | Terminale della Bysshe Energy Partners | 50 PE, scorte della spedizione, bio-Gas Canister |
+| [Safari di Plik](safari-di-plik)             | Grotta marina                           | Plik                                   | 100 PE, L'accetta, ecologia ghoul                |
+| [Il cuore nero di Blackhall](il-cuore-nero-di-blackhall) | Tenuta di Blackhall<br>Sito per rituali | Obadiah Blackhall                      | 100 PE, 1000 tappi o 100 PE, karma positivo      |
+| [La tenda di velluto](la-tenda-di-velluto)        | Motel<br>Sito recupero del sottomarino  | Terminale nella stanza 1D              | 350 PE, fucile vecchio stile                     |
+
+#### Missioni nascoste
+
+| Nome                     | Luoghi                                                   | Data da   | Ricompensa                              |
+| ------------------------ | -------------------------------------------------------- | --------- | --------------------------------------- |
+| [Inseguire il maschiaccio](inseguire-il-maschiaccio) | Attracco imbarcazione<br>Cattedrale Arca & Spirito santo | Catherine | 10 frutto di Punga coltivato, 300 tappi |
+
+
+### Mothership Zeta
+
+#### Missioni principali
+
+| Nome                              | Luoghi          | Data da | Ricompensa                           |
+| --------------------------------- | --------------- | ------- | ------------------------------------ |
+| [Extraterrestre](extraterrestre)                    | Mothership Zeta | Avviso  | 300 PE                               |
+| [Tuffo nelle stelle](tuffo-nelle-stelle)                | Mothership Zeta | Sally   | 300 PE                               |
+| [Questa galassia mi sta stretta...](questa-galassia-mi-sta-stretta) | Mothership Zeta | Sally   | 600 PE, Arma secondaria del Capitano |
+
+#### Missioni nascoste
+
+| Nome                | Luoghi          | Data da   | Ricompensa                      |
+| ------------------- | --------------- | --------- | ------------------------------- |
+| [La leggenda di Zeta](la-leggenda-di-zeta) | Mothership Zeta | Se stessi | Successo/trofeo Archivio Alieno |

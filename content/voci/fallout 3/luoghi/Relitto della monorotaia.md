@@ -21,9 +21,9 @@ Il relitto della monorotaia è un luogo non contrassegnato e si trova a nord-est
 
 | Mappa                                    | Panoramica                               |
 | ---------------------------------------- | ---------------------------------------- |
-| {{<figure src="MonorailCrashLoc.webp">}} | {{<figure src="MonorailWreckage.webp">}} |
+| {{<figure src="fo3/MonorailCrashLoc.webp">}} | {{<figure src="fo3/MonorailWreckage.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                       |
 | --------------------------------------------------------------- | --------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover!_monorail_train_wreckage.webp">}} | **Al riparo!**, sul pavimento accanto alla vasca da bagno |
+| {{<figure src="fo3/Duck_and_Cover!_monorail_train_wreckage.webp">}} | **Al riparo!**, sul pavimento accanto alla vasca da bagno |
 

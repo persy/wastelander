@@ -19,11 +19,11 @@ L'area di ristoro Five Axles si trova direttamente a nord della stazione di serv
 
 | Mappa                  | Panoramica                     |
 | ---------------------- | ------------------------------ |
-| {{<figure src="FAR_Stop_loc.webp">}} | {{<figure src="Five_Axles_Rest_Stop.webp">}} |
+| {{<figure src="fo3/FAR_Stop_loc.webp">}} | {{<figure src="fo3/Five_Axles_Rest_Stop.webp">}} |
 
 | Immagine                                                               | Oggetto e posizione                                                                    |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| {{<figure src="Five_Axles_Rest_Stop_U.S._Army_30_Handy_Flamethrower_Recipes.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nel camion dove dormono i predoni |
+| {{<figure src="fo3/Five_Axles_Rest_Stop_U.S._Army_30_Handy_Flamethrower_Recipes.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nel camion dove dormono i predoni |
 
 
 Altri oggetti:

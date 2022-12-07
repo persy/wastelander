@@ -21,11 +21,11 @@ La centrale elettrica MDPL-13 è una grande centrale elettrica abbandonata situa
 
 | Mappa                    | Mappa locale                            | Panoramica                   |
 | ------------------------ | --------------------------------------- | ---------------------------- |
-| {{<figure src="MDPL_13_PS_loc.webp">}} | {{<figure src="MDPL_13_power_station_loc_map.webp">}} | {{<figure src="MDPL13_power_plant.webp">}} |
+| {{<figure src="fo3/MDPL_13_PS_loc.webp">}} | {{<figure src="fo3/MDPL_13_power_station_loc_map.webp">}} | {{<figure src="fo3/MDPL13_power_plant.webp">}} |
 
 | Immagine                                            | Oggetto e posizione                                                                     |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| {{<figure src="MDPL-13_substation_interior.webp">}} | **Schemi - Sparachiodi**, **Nuka-Cola Quantum** e **Mina da tappo** sul banco da lavoro |
-| {{<figure src="Derelict_PP_Fisto!.webp">}}          | **Fisto!**, su una scrivania nell'ufficio al piano superiore della centrale elettrica   |
+| {{<figure src="fo3/MDPL-13_substation_interior.webp">}} | **Schemi - Sparachiodi**, **Nuka-Cola Quantum** e **Mina da tappo** sul banco da lavoro |
+| {{<figure src="fo3/Derelict_PP_Fisto!.webp">}}          | **Fisto!**, su una scrivania nell'ufficio al piano superiore della centrale elettrica   |
 
 

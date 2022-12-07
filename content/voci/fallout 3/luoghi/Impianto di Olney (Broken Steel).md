@@ -21,11 +21,11 @@ L'impianto di Olney è una vecchia centrale elettrica accessibile attraverso le 
 
 | Mappa                                | Mappa locale                                     | Panoramica                                |
 | ------------------------------------ | ------------------------------------------------ | ----------------------------------------- |
-| {{<figure src="OldOlney_loc.webp">}} | {{<figure src="Olney_Powerworks_loc_map.webp">}} | {{<figure src="Olney_Powerworks1.webp">}} |
+| {{<figure src="fo3/OldOlney_loc.webp">}} | {{<figure src="fo3/Olney_Powerworks_loc_map.webp">}} | {{<figure src="fo3/Olney_Powerworks1.webp">}} |
 
 | Immagine                                          | Oggetto e posizione                                                                                                                                                                                    |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Alien_Power_Cell_Location.webp">}} | 36 **energie aliene**, al piano inferiore nell'area appena prima della bobina di Tesla, divise in tre set: uno sul fornello, uno sul tavolo accanto alla stufa e uno sul tavolo con la sfera al plasma |
+| {{<figure src="fo3/Alien_Power_Cell_Location.webp">}} | 36 **energie aliene**, al piano inferiore nell'area appena prima della bobina di Tesla, divise in tre set: uno sul fornello, uno sul tavolo accanto alla stufa e uno sul tavolo con la sfera al plasma |
 
 Altri oggetti:
 - **Bobina di Tesla**, all'interno del reattore centrale, necessaria per la missione *Ai generatori*

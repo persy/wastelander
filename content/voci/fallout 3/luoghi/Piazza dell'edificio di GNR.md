@@ -21,11 +21,11 @@ La piazza dell'edificio di GNR ospita la sede dell'omonima trasmissione radiofon
 
 | Mappa                            | Mappa locale                   | Panoramica                   |
 | -------------------------------- | ------------------------------ | ---------------------------- |
-| {{<figure src="GNR_Building_Plaza_loc.webp">}} | {{<figure src="GNR_building_loc_map.webp">}} | {{<figure src="GNR_Building_Plaza.webp">}} |
+| {{<figure src="fo3/GNR_Building_Plaza_loc.webp">}} | {{<figure src="fo3/GNR_building_loc_map.webp">}} | {{<figure src="fo3/GNR_Building_Plaza.webp">}} |
 
 | Immagine                                   | Oggetto e posizione                                              |
 | ------------------------------------------ | ---------------------------------------------------------------- |
-| {{<figure src="BB_of_Science_GNR_building_plaza.webp">}} | **Il grande libro della scienza**, vicino a una radio amatoriale |
+| {{<figure src="fo3/BB_of_Science_GNR_building_plaza.webp">}} | **Il grande libro della scienza**, vicino a una radio amatoriale |
 
 
 Altri oggetti:

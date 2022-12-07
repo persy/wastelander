@@ -20,8 +20,8 @@ Friendship Heights è un grande complesso di appartamenti con annessa stazione d
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Friendship_Heights_loc.webp">}}  |   | {{<figure src="Friendship_Heights.webp">}}  |
+| {{<figure src="fo3/Friendship_Heights_loc.webp">}}  |   | {{<figure src="fo3/Friendship_Heights.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Friendship_Heights_SMC_mini_nuke.webp">}}  |  **Munizione nucleare**, nell'accampamento dei supermutanti a ovest |
+| {{<figure src="fo3/Friendship_Heights_SMC_mini_nuke.webp">}}  |  **Munizione nucleare**, nell'accampamento dei supermutanti a ovest |

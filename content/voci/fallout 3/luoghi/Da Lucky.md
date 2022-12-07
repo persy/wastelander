@@ -20,12 +20,12 @@ Da Lucky è un avamposto commerciale non contrassegnato nella Zona contaminata d
 
 | Mappa                              | Panoramica                              |
 | ---------------------------------- | --------------------------------------- |
-| {{<figure src="Luckys_loc.webp">}} | {{<figure src="Luckys_exterior.webp">}} |
+| {{<figure src="fo3/Luckys_loc.webp">}} | {{<figure src="fo3/Luckys_exterior.webp">}} |
 
 | Immagine                                         | Oggetto e posizione                           |
 | ------------------------------------------------ | --------------------------------------------- |
-| {{<figure src="FO3_PI_WarringtonLucky's.webp">}} | **Pugilato illustrato**, dietro il bancone    |
-| {{<figure src="Lucky_shades.webp">}}             | **Occhiali da sole fortunati**, sul manichino |
+| {{<figure src="fo3/FO3_PI_WarringtonLucky's.webp">}} | **Pugilato illustrato**, dietro il bancone    |
+| {{<figure src="fo3/Lucky_shades.webp">}}             | **Occhiali da sole fortunati**, sul manichino |
 
 
 Altri oggetti:

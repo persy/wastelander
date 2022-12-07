@@ -20,9 +20,9 @@ Il camion sbandato sull'autostrada è un luogo non contrassegnato che si trova a
 
 | Mappa                                  | Panoramica                         |
 | -------------------------------------- | ---------------------------------- |
-| {{<figure src="Chinese_HQ_loc.webp">}} | {{<figure src="Chinese_HQ.webp">}} |
+| {{<figure src="fo3/Chinese_HQ_loc.webp">}} | {{<figure src="fo3/Chinese_HQ.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                                                     |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_CA_SOTM_Chinese_mobile_HQ.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sul tavolo vicino alla radio |
+| {{<figure src="fo3/FO3_CA_SOTM_Chinese_mobile_HQ.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sul tavolo vicino alla radio |
 

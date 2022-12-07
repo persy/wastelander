@@ -35,7 +35,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 |   Feroce  | Tecnologista     |  Splendente   |
 | --- | --- | --- |
-|  {{<figure src="Feral_ghoul.webp" width="250px">}}   |  {{<figure src="Feral_ghoul_reaver.webp" width="250px">}}   |  {{<figure src="Glowing_one.webp" width="250px">}}   |
+|  {{<figure src="fo3/Feral_ghoul.webp" width="250px">}}   |  {{<figure src="fo3/Feral_ghoul_reaver.webp" width="250px">}}   |  {{<figure src="fo3/Glowing_one.webp" width="250px">}}   |
 
 <div class="scrollwrapper">
 
@@ -54,11 +54,11 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 |  Comune   |  Bruto   | Capo    |
 | --- | --- | --- |
-| {{<figure src="FO3_super_mutant.webp" width="250px">}}    |  {{<figure src="FO3_super_mutant_brute.webp" width="250px">}}   | {{<figure src="FO3_super_mutant_master.webp" width="250px">}}    |
+| {{<figure src="fo3/FO3_super_mutant.webp" width="250px">}}    |  {{<figure src="fo3/FO3_super_mutant_brute.webp" width="250px">}}   | {{<figure src="fo3/FO3_super_mutant_master.webp" width="250px">}}    |
 
 | Supremo    | Behemoth    |   
 | --- | --- | 
-|  {{<figure src="Super_mutant_overlord.webp" width="250px">}}   |  {{<figure src="FO3_super_mutant_behemoth.webp" width="250px">}}       |
+|  {{<figure src="fo3/Super_mutant_overlord.webp" width="250px">}}   |  {{<figure src="fo3/FO3_super_mutant_behemoth.webp" width="250px">}}       |
 
 <div class="scrollwrapper">
 
@@ -88,7 +88,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Rissoso | Bruto | Furtivo | Combattente | Segugio |
 | ------- | ----- | ------- | ----------- | ------- |
-| {{<figure src="Brawler.webp" width="250px">}}         |  {{<figure src="Bruiser.webp" width="250px">}}     |   {{<figure src="Creeper.webp" width="250px">}}      |   {{<figure src="Scrapper.webp" width="250px">}}          |   {{<figure src="Tracker.webp" width="250px">}}      |
+| {{<figure src="fo3/Brawler.webp" width="250px">}}         |  {{<figure src="fo3/Bruiser.webp" width="250px">}}     |   {{<figure src="fo3/Creeper.webp" width="250px">}}      |   {{<figure src="fo3/Scrapper.webp" width="250px">}}          |   {{<figure src="fo3/Tracker.webp" width="250px">}}      |
 
 <div class="scrollwrapper">
 
@@ -109,7 +109,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
  | Comune         |     |
  | -------------- | --- |
- | {{<figure src="Trog.webp" width="250px">}} |     |
+ | {{<figure src="fo3/Trog.webp" width="250px">}} |     |
 
 <div class="scrollwrapper">
 
@@ -128,7 +128,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 |  Comune   |  Malnutrito   |     
 | --- | --- | 
-|  {{<figure src="Brahmin_FO3.webp" width="250px">}}   |  {{<figure src="Malnourishedbrahmin+calf.webp" width="250px">}}        |
+|  {{<figure src="fo3/Brahmin_FO3.webp" width="250px">}}   |  {{<figure src="fo3/Malnourishedbrahmin+calf.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -144,7 +144,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune    |   | 
 | --- | --- | 
-| {{<figure src="Centaur.webp" width="250px">}}    |          |
+| {{<figure src="fo3/Centaur.webp" width="250px">}}    |          |
 
 <div class="scrollwrapper">
 
@@ -160,7 +160,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune                                        | Feroce                                            |
 | --------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Dog_FO3.webp" width="250px">}} | {{<figure src="Vicious_dog.webp" width="250px">}} |
+| {{<figure src="fo3/Dog_FO3.webp" width="250px">}} | {{<figure src="fo3/Vicious_dog.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -180,7 +180,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune    |     |     
 | --- | --- | 
-| {{<figure src="Mole_rat_FO3.webp" width="250px">}}    |    |  
+| {{<figure src="fo3/Mole_rat_FO3.webp" width="250px">}}    |    |  
 
 <div class="scrollwrapper">
 
@@ -195,7 +195,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 |   Comune  |         |
 | --- | --- | 
-|  {{<figure src="Yao_guai.webp" width="250px">}}   |         |
+|  {{<figure src="fo3/Yao_guai.webp" width="250px">}}   |         |
 
 <div class="scrollwrapper">
 
@@ -213,7 +213,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune                                          | Enclave                                                 |
 | ----------------------------------------------- | ------------------------------------------------------- |
-| {{<figure src="Deathclaw.webp" width="250px">}} | {{<figure src="Enclave_deathclaw.webp" width="250px">}} |
+| {{<figure src="fo3/Deathclaw.webp" width="250px">}} | {{<figure src="fo3/Enclave_deathclaw.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -232,7 +232,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune |     |
 | -------------------- | --- |
-| {{<figure src="Bloatfly.webp" width="250px">}}   |    | 
+| {{<figure src="fo3/Bloatfly.webp" width="250px">}}   |    | 
 
 <div class="scrollwrapper">
 
@@ -246,7 +246,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Operaia e soldato  | Regina                    |
 | ------------------ | ------------------------- |
-| {{<figure src="Fire_ant.webp" width="250px">}} | {{<figure src="Giant_ant_queen.webp" width="250px">}} |
+| {{<figure src="fo3/Fire_ant.webp" width="250px">}} | {{<figure src="fo3/Giant_ant_queen.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -266,7 +266,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Operaia e soldato    |  Regina   |     
 | --- | --- | 
-| {{<figure src="Giant_soldier_ant.webp" width="250px">}}    | {{<figure src="Giant_ant_queen.webp" width="250px">}}         |
+| {{<figure src="fo3/Giant_soldier_ant.webp" width="250px">}}    | {{<figure src="fo3/Giant_ant_queen.webp" width="250px">}}         |
 
 
 <div class="scrollwrapper">
@@ -287,11 +287,11 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
  | Comune                                         | Cacciatore                                            | Re                                                  |
  | ---------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
- | {{<figure src="Mirelurk.webp" width="250px">}} | {{<figure src="Mirelurk_hunter.webp" width="250px">}} | {{<figure src="Mirelurk_king.webp" width="250px">}} |
+ | {{<figure src="fo3/Mirelurk.webp" width="250px">}} | {{<figure src="fo3/Mirelurk_hunter.webp" width="250px">}} | {{<figure src="fo3/Mirelurk_king.webp" width="250px">}} |
 
  | Nukalurk                                       | Palude di Point Lookout                         | Essere delle paludi                                   |
  | ---------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
- | {{<figure src="NukaLurk.webp" width="250px">}} | {{<figure src="Swamplurk.webp" width="250px">}} | {{<figure src="Swamplurk_queen.webp" width="250px">}} |
+ | {{<figure src="fo3/NukaLurk.webp" width="250px">}} | {{<figure src="fo3/Swamplurk.webp" width="250px">}} | {{<figure src="fo3/Swamplurk_queen.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -311,7 +311,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune    | -    |    
 | --- | --- | 
-| {{<figure src="Radroach.webp" width="250px">}}    |     |   
+| {{<figure src="fo3/Radroach.webp" width="250px">}}    |     |   
 
 <div class="scrollwrapper">
 
@@ -326,7 +326,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Comune    |  Gigante   | Albino    |
 | --- | --- | --- |
-| {{<figure src="Radscorpion.webp" width="250px">}}    | {{<figure src="Giant_radscorpion.webp" width="250px">}}    | {{<figure src="Albino_radscorpion.webp" width="250px">}}    |
+| {{<figure src="fo3/Radscorpion.webp" width="250px">}}    | {{<figure src="fo3/Giant_radscorpion.webp" width="250px">}}    | {{<figure src="fo3/Albino_radscorpion.webp" width="250px">}}    |
 
 <div class="scrollwrapper">
 
@@ -360,7 +360,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
  | Abominio                                       | Alieno comune | Alieno capitano                                       | Alieno operaio                                      |     
  | ---------------------------------------------- | ------------- | ----------------------------------------------------- | --------------------------------------------------- | 
- | {{<figure src="Abomination.webp" width="250px">}} |               | {{<figure src="Alien.webp" width="250px">}} | {{<figure src="Alien_captain.webp" width="250px">}} |  {{<figure src="Alien_worker.webp" width="250px">}}   |
+ | {{<figure src="fo3/Abomination.webp" width="250px">}} |               | {{<figure src="fo3/Alien.webp" width="250px">}} | {{<figure src="fo3/Alien_captain.webp" width="250px">}} |  {{<figure src="fo3/Alien_worker.webp" width="250px">}}   |
 
 <div class="scrollwrapper">
 
@@ -385,7 +385,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 | Normale    |     |
 | --- | --- | 
-| {{<figure src="Fo3_Enclave_eyebot.webp" width="250px">}}    |     | 
+| {{<figure src="fo3/Fo3_Enclave_eyebot.webp" width="250px">}}    |     | 
 
 <div class="scrollwrapper">
 
@@ -398,9 +398,10 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Robot guardiano
 
-| Abominio                                       |   |                                     | Alieno operaio                                      |     
- | ---------------------------------------------- | ------------- |    
- | {{<figure src="Guardian_drone.webp" width="250px">}} |  |           
+| Robot guardiano                                      |     |
+| ---------------------------------------------------- | --- |
+| {{<figure src="fo3/Guardian_drone.webp" width="250px">}} |     |
+|                                                      |     |
 
 <div class="scrollwrapper">
 
@@ -413,9 +414,9 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Ardito
 
-| Comune    | Enclave    |    Squadra d'attacco |
-| --- | --- | 
-| {{<figure src="Mister_Gutsy.webp" width="250px">}}    | {{<figure src="Fo3BS_Enclave_Mistah_Gutsey.webp" width="250px">}}         |{{<figure src="Fo3OA_Winterized_Mister_Gutsy.webp" width="250px">}} |
+| Comune                                             | Enclave                                                           | Squadra d'attacco                                                   |
+| -------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
+| {{<figure src="fo3/Mister_Gutsy.webp" width="250px">}} | {{<figure src="fo3/Fo3BS_Enclave_Mistah_Gutsey.webp" width="250px">}} | {{<figure src="fo3/Fo3OA_Winterized_Mister_Gutsy.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -429,9 +430,9 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Mister Handy
 
-| Comune    |          |
-| --- | --- | 
-| {{<figure src="Mister_Handy.webp" width="250px">}}    |          |
+| Comune                                             |     |
+| -------------------------------------------------- | --- |
+| {{<figure src="fo3/Mister_Handy.webp" width="250px">}} |     |
 
 | Variante     | Liv. | PE  | PER | HP  | Aggressività |                                               Attacco/abilità                                               | Inventario                                        | Luoghi              |
 | ------------ |:----:|:---:|:---:|:---:|:------------:|:-----------------------------------------------------------------------------------------------------------:| ------------------------------------------------- | ------------------- |
@@ -443,9 +444,9 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Protettore
 
-|  Comune   | sicurezza Nuka-Cola   | Pitt TODO | Rinnegato    |
-| --- | --- | --- |
-|  {{<figure src="Protectron.webp" width="250px">}}   |  {{<figure src="Nuka_protectron.webp" width="250px">}}   | {{<figure src="FO3TP_Factory_Protectron.webp">}} {{<figure src="Outcast_protectron.webp" width="250px">}}    |
+| Comune                                           | Sicurezza Nuka-Cola                                   | Pitt TODO                                        | Rinnegato                                                |
+| ------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
+| {{<figure src="fo3/Protectron.webp" width="250px">}} | {{<figure src="fo3/Nuka_protectron.webp" width="250px">}} | {{<figure src="fo3/FO3TP_Factory_Protectron.webp">}} | {{<figure src="fo3/Outcast_protectron.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -464,9 +465,9 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ## Robocervello
 
-| Comune              | Serie Mark              | Rinnegato            | 
-| ------------------- | ----------------------- | ------------------- |
-| {{<figure src="Robobrain.webp" width="250px">}} | {{<figure src="ArmyRobobrain.webp" width="250px">}} | {{<figure src="OutcastRobobrain.webp" width="250px">}} |
+| Comune                                          | Serie Mark                                          | Rinnegato                                              |
+| ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------ |
+| {{<figure src="fo3/Robobrain.webp" width="250px">}} | {{<figure src="fo3/ArmyRobobrain.webp" width="250px">}} | {{<figure src="fo3/OutcastRobobrain.webp" width="250px">}} |
 
 
 <div class="scrollwrapper">
@@ -483,9 +484,9 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ## Robot sentinella
 
-|  Comune   | Squadra d'attacco         |
-| --- | --- | 
-| {{<figure src="Sentry_bot.webp" width="250px">}}    |  {{<figure src="Fo3OA_Winterized_sentry_bot.webp" width="250px">}}        |
+| Comune                                           | Squadra d'attacco                                                 |
+| ------------------------------------------------ | ----------------------------------------------------------------- |
+| {{<figure src="fo3/Sentry_bot.webp" width="250px">}} | {{<figure src="fo3/Fo3OA_Winterized_sentry_bot.webp" width="250px">}} |
 
 
 <div class="scrollwrapper">

@@ -21,4 +21,4 @@ La Metro Penn. Ave/Seward Sq.  fa parte del sistema metropolitano della Zona con
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Penn_Ave_Seward_loc.webp">}}  | {{<figure src="Metro_Penn_Ave_Seward_Sq_Metro.webp">}}  | {{<figure src="Penn_Ave_Seward_Sq_Metro.webp">}} |
+| {{<figure src="fo3/Penn_Ave_Seward_loc.webp">}}  | {{<figure src="fo3/Metro_Penn_Ave_Seward_Sq_Metro.webp">}}  | {{<figure src="fo3/Penn_Ave_Seward_Sq_Metro.webp">}} |

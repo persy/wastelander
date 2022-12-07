@@ -22,8 +22,8 @@ La Metro Georgetown/Il Mall è una stazione metropolitana crollata e collega Geo
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="GT_The_Mall_NW_loc.webp">}}  | {{<figure src="GT_The_Mall_NW_loc_map.webp">}}  | {{<figure src="Georgetown_The_Mall_metro.webp">}}  |
+| {{<figure src="fo3/GT_The_Mall_NW_loc.webp">}}  | {{<figure src="fo3/GT_The_Mall_NW_loc_map.webp">}}  | {{<figure src="fo3/Georgetown_The_Mall_metro.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_CA_SOTM_The_Mall_Metro.webp">}}  |  **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella biglietteria vicino all'uscita al Mall |
+| {{<figure src="fo3/FO3_CA_SOTM_The_Mall_Metro.webp">}}  |  **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella biglietteria vicino all'uscita al Mall |

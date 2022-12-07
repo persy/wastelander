@@ -21,7 +21,7 @@ La casa di Agatha è una piccola casa con una sola stanza e si trova a ovest del
 
 | Mappa                                     | Panoramica                             |
 | ----------------------------------------- | -------------------------------------- |
-| {{<figure src="Agathas_House_loc.webp">}} | {{<figure src="Agatha's_house.webp">}} |
+| {{<figure src="fo3/Agathas_House_loc.webp">}} | {{<figure src="fo3/Agatha's_house.webp">}} |
 
 
 Altri oggetti:

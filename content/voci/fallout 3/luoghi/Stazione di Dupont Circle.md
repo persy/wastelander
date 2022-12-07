@@ -22,8 +22,8 @@ La stazione di Dupont Circle è una stazione della linea rossa e collega il tunn
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Dupont_Station_loc.webp">}}  | {{<figure src="Metro_Dupont_Circle_Station_map.webp">}}  |  {{<figure src="Dupont_Circle_Station.webp">}} |
+| {{<figure src="fo3/Dupont_Station_loc.webp">}}  | {{<figure src="fo3/Metro_Dupont_Circle_Station_map.webp">}}  |  {{<figure src="fo3/Dupont_Circle_Station.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="FO3_LCS_Dupont.webp">}} | **Stile da congresso, menzognero**, stanza con il Protettore, su un contenitore sopra una scrivania in un bidone  |
+|  {{<figure src="fo3/FO3_LCS_Dupont.webp">}} | **Stile da congresso, menzognero**, stanza con il Protettore, su un contenitore sopra una scrivania in un bidone  |

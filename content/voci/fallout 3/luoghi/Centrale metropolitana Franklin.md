@@ -21,16 +21,16 @@ La centrale metropolitana Franklin è un tunnel di utilità e fa parte della ret
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Falls_Church_HC_loc.webp">}} | {{<figure src="Metro_Franklin_Metro_Utility_map.webp">}}  | {{<figure src="Franklin_Metro_utility.webp">}}  |
+|  {{<figure src="fo3/Falls_Church_HC_loc.webp">}} | {{<figure src="fo3/Metro_Franklin_Metro_Utility_map.webp">}}  | {{<figure src="fo3/Franklin_Metro_utility.webp">}}  |
 
 | Immagine                                          | Oggetto e posizione                                                                                                                                                                                 |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                   |                                                                                                                                                                                                     |
-| {{<figure src="Tumblers_Today_Franklin_Metro_utility.webp">}}   | **Lo scassinatore moderno**, vicino alla porta della metropolitana Falls Church/Mason Dst. Si trova nella parte inferiore della prima stanza a destra della torretta, in cima a una scatola di mine |
-| {{<figure src="Guns_and_Bullets_Franklin_Metro_utility.webp">}} | **Pistole e proiettili**, al piano inferiore al centro della seconda stanza, su una scrivania, insieme a un fucile da combattimento                                                                 |
-| {{<figure src="US_Army_HFR_Franklin_Metro_utility.webp">}}      | **U.S. Army: 30 pratiche ricette per lanciafiamme**, su una mensola metallica proprio di fronte al **Super lanciafiamme** in fondo al tunnel (D)                                              |
-| {{<figure src="FMU_Burnmaster.webp">}}                          | **Super lanciafiamme** e una **Nuka-Cola Quantum**, in un'estremità del tunnel fortemente irradiata, all'interno di un rimorchio (C)                                                                                      |
-| {{<figure src="Franklin_Metro_utility_mini_nuke.webp">}}        | **Munizione nucleare**, sott'acqua, in cima ad una cassa con una tuta antiradiazioni avanzata (B)                                                                                                                                                                                                    |
+| {{<figure src="fo3/Tumblers_Today_Franklin_Metro_utility.webp">}}   | **Lo scassinatore moderno**, vicino alla porta della metropolitana Falls Church/Mason Dst. Si trova nella parte inferiore della prima stanza a destra della torretta, in cima a una scatola di mine |
+| {{<figure src="fo3/Guns_and_Bullets_Franklin_Metro_utility.webp">}} | **Pistole e proiettili**, al piano inferiore al centro della seconda stanza, su una scrivania, insieme a un fucile da combattimento                                                                 |
+| {{<figure src="fo3/US_Army_HFR_Franklin_Metro_utility.webp">}}      | **U.S. Army: 30 pratiche ricette per lanciafiamme**, su una mensola metallica proprio di fronte al **Super lanciafiamme** in fondo al tunnel (D)                                              |
+| {{<figure src="fo3/FMU_Burnmaster.webp">}}                          | **Super lanciafiamme** e una **Nuka-Cola Quantum**, in un'estremità del tunnel fortemente irradiata, all'interno di un rimorchio (C)                                                                                      |
+| {{<figure src="fo3/Franklin_Metro_utility_mini_nuke.webp">}}        | **Munizione nucleare**, sott'acqua, in cima ad una cassa con una tuta antiradiazioni avanzata (B)                                                                                                                                                                                                    |
 
 Altri oggetti:
 - 5 **Stealth Boy**:

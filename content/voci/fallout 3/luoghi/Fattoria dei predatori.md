@@ -20,10 +20,10 @@ La fattoria dei predatori è una località non contrassegnata ed situata a nord 
 
 | Mappa                                        | Panoramica                               |
 | -------------------------------------------- | ---------------------------------------- |
-| {{<figure src="Raider_farmhouse_loc.webp">}} | {{<figure src="Raider_farmhouse.webp">}} |
+| {{<figure src="fo3/Raider_farmhouse_loc.webp">}} | {{<figure src="fo3/Raider_farmhouse.webp">}} |
 
 | Immagine                                                    | Oggetto e posizione                                                                  |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| {{<figure src="Raider_farmhouse_Dean's_Electronics.webp">}} | **Elettronica di Dean**, all'interno del casale, su uno scaffale                     |
-| {{<figure src="Raider_farmhouse_mini_nuke.webp">}}          | **Munizione nucleare**, all'interno del casale, a terra di fronte all'armadio aperto |
+| {{<figure src="fo3/Raider_farmhouse_Dean's_Electronics.webp">}} | **Elettronica di Dean**, all'interno del casale, su uno scaffale                     |
+| {{<figure src="fo3/Raider_farmhouse_mini_nuke.webp">}}          | **Munizione nucleare**, all'interno del casale, a terra di fronte all'armadio aperto |
 

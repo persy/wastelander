@@ -21,11 +21,11 @@ Il Vault 101 è un Vault della Vault-Tec situato nella zona nord-ovest di Washin
 
 | Mappa                                 | Mappa locale                                | Entrata                                        | Atrio                                       |
 | ------------------------------------- | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Vault_101_loc.webp">}} | {{<figure src="Vault_101_local_map.webp">}} | {{<figure src="Vault_101_entrance_ext.webp">}} | {{<figure src="Fo3_Atrium_Stitch-1.webp">}} |
+| {{<figure src="fo3/Vault_101_loc.webp">}} | {{<figure src="fo3/Vault_101_local_map.webp">}} | {{<figure src="fo3/Vault_101_entrance_ext.webp">}} | {{<figure src="fo3/Fo3_Atrium_Stitch-1.webp">}} |
 
 | Immagine                                             | Oggetto e posizione                                            |
 | ---------------------------------------------------- | -------------------------------------------------------------- |
-| {{<figure src="Vault101_Medicine_bobblehead.webp">}} | **Bambolina - Medicina**, nell'ufficio di James, nella clinica |
+| {{<figure src="fo3/Vault101_Medicine_bobblehead.webp">}} | **Bambolina - Medicina**, nell'ufficio di James, nella clinica |
 
 Altri oggetti:
 - **Schemi - Lanciatutto** e **300 tappi**,  nell'ufficio di James, dietro una cassaforte chiusa a chiave dietro il quadro con la citazione biblica

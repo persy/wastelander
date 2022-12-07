@@ -20,9 +20,9 @@ Il drive-in Silver Lining è un cinema drive-in e si trova a nord-ovest di Parad
 
 | Mappa                                        | Panoramica                                        |
 | -------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Silver_Lining_DI_loc.webp">}} | {{<figure src="Fo3_Silver_Lining_DriveIn.webp">}} |
+| {{<figure src="fo3/Silver_Lining_DI_loc.webp">}} | {{<figure src="fo3/Fo3_Silver_Lining_DriveIn.webp">}} |
 
 | Immagine                                                             | Oggetto e posizione                                                                        |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| {{<figure src="Silver_Lining_Drive-In_Grognak_the_barbarian.webp">}} | **Grognak il barbaro**, nella baracca a nord-ovest, in cima a una pila di libri sul tavolo |
+| {{<figure src="fo3/Silver_Lining_Drive-In_Grognak_the_barbarian.webp">}} | **Grognak il barbaro**, nella baracca a nord-ovest, in cima a una pila di libri sul tavolo |
 

@@ -22,16 +22,16 @@ Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a
 
 | Mappa                             | Mappa locale caverne                      | Mappa locale camere sprofondate                   |
 | --------------------------------- | ----------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Oasis_loc.webp">}} | {{<figure src="Oasis_caverns_map.webp">}} | {{<figure src="Oasis_sunken_chambers_map.webp">}} |
+| {{<figure src="fo3/Oasis_loc.webp">}} | {{<figure src="fo3/Oasis_caverns_map.webp">}} | {{<figure src="fo3/Oasis_sunken_chambers_map.webp">}} |
 
 | Mappa locale caverna sprofondata            | Mappa locale bosco                    | Panoramica                    |
 | ------------------------------------------- | ------------------------------------- | ----------------------------- |
-| {{<figure src="Oasis_damp_cave_map.webp">}} | {{<figure src="The_Grove_map.webp">}} | {{<figure src="Oasis.webp">}} |
+| {{<figure src="fo3/Oasis_damp_cave_map.webp">}} | {{<figure src="fo3/The_Grove_map.webp">}} | {{<figure src="fo3/Oasis.webp">}} |
 
 | Immagine                                                       | Oggetto e posizione                                                                                                                                                                                                |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="DC_Journal_of_IM_Oasis_sunken_chambers.webp">}} | **Giornale di medicina interna del D.C.**, due **Stealth Boy**, **libro prebellico**, in una nicchia, vicino a uno scheletro seduto a un tavolo. Il libro è in una scatola di legno, sotto un guantone da baseball |
-| {{<figure src="Sunken_chambers_mini_nuke.webp">}}              | **Munizione nucleare**, sul fondo dello stagno settentrionale, in fondo alla pozza d'acqua                                                                                                                         |
+| {{<figure src="fo3/DC_Journal_of_IM_Oasis_sunken_chambers.webp">}} | **Giornale di medicina interna del D.C.**, due **Stealth Boy**, **libro prebellico**, in una nicchia, vicino a uno scheletro seduto a un tavolo. Il libro è in una scatola di legno, sotto un guantone da baseball |
+| {{<figure src="fo3/Sunken_chambers_mini_nuke.webp">}}              | **Munizione nucleare**, sul fondo dello stagno settentrionale, in fondo alla pozza d'acqua                                                                                                                         |
 
 Altri oggetti:
 - **Veste di Acero**, come ricompensa per aver completato la missione Oasis in favore di Birch

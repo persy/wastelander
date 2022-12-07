@@ -20,9 +20,9 @@ Il furgone che esplode dello scienziato è un luogo non contrassegnato e si trov
 
 | Mappa                                       | Panoramica                                        |
 | ------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Scientist_truck_map.webp">}} | {{<figure src="Exploding_scientist_truck.webp">}} |
+| {{<figure src="fo3/Scientist_truck_map.webp">}} | {{<figure src="fo3/Exploding_scientist_truck.webp">}} |
 
 | Immagine                                                     | Oggetto e posizione                                                                                                                                                                                        |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Exploding_scientist_truck3.webp">}}           | **Il grande libro della scienza** e **Munizione nucleare**, in un rimorchio, a ovest del ripetitore, sul ponte oltre il campo dei predoni. Il libro è posseduto dallo scienziato che si fa saltare in aria |
-| {{<figure src="Duck_and_Cover!_Array,_Power_Station.webp">}} | **Al riparo!**, a nord, giù nell'avvallamento accanto a uno scheletro e alcuni relitti di auto e delle scatole di munizioni                                                                                |
+| {{<figure src="fo3/Exploding_scientist_truck3.webp">}}           | **Il grande libro della scienza** e **Munizione nucleare**, in un rimorchio, a ovest del ripetitore, sul ponte oltre il campo dei predoni. Il libro è posseduto dallo scienziato che si fa saltare in aria |
+| {{<figure src="fo3/Duck_and_Cover!_Array,_Power_Station.webp">}} | **Al riparo!**, a nord, giù nell'avvallamento accanto a uno scheletro e alcuni relitti di auto e delle scatole di munizioni                                                                                |

@@ -22,15 +22,15 @@ Il Vecchio Olney è una città abbandonata infestata dai deathclaw.
 
 | Mappa                                | Panoramica                        |
 | ------------------------------------ | --------------------------------- |
-| {{<figure src="OldOlney_loc.webp">}} | {{<figure src="Old_Olney.webp">}} |
+| {{<figure src="fo3/OldOlney_loc.webp">}} | {{<figure src="fo3/Old_Olney.webp">}} |
 
 | Immagine                                                 | Oggetto e posizione                                                                                                                |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Guns_and_Bullets_Chaste_Acres.jpg">}}     | **Pistole e proiettili**, in una cassetta postale appena a nord del camion Nuka-Cola                                               |
-| {{<figure src="US_Army_HFR_Grisly_Diner.jpg">}}          | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un autobus a sud-est oltre l'autostrada interrotta, vicino al Grisly diner |
-| {{<figure src="Old_Olney_-_Duck_and_Cover.webp">}}       | **Al riparo!**, fogne, nella parte finale di un passaggio a fondo cieco nella grotta, accanto a uno scheletro                      |
-| {{<figure src="Old_Olney_-_Power_Armor_Location.webp">}} | **Armatura atomica medica prototipo**, fogne, sul cadavere del membro della Confraternita                                          |
-| {{<figure src="Old_Olney_NukaCola_truck.webp">}}         | **Nuka-Cola Quantum**, nord-est dell'autobus bruciato, presso la latrina irradiata e il caseificio Chaste Acres                    |
+| {{<figure src="fo3/Guns_and_Bullets_Chaste_Acres.jpg">}}     | **Pistole e proiettili**, in una cassetta postale appena a nord del camion Nuka-Cola                                               |
+| {{<figure src="fo3/US_Army_HFR_Grisly_Diner.jpg">}}          | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un autobus a sud-est oltre l'autostrada interrotta, vicino al Grisly diner |
+| {{<figure src="fo3/Old_Olney_-_Duck_and_Cover.webp">}}       | **Al riparo!**, fogne, nella parte finale di un passaggio a fondo cieco nella grotta, accanto a uno scheletro                      |
+| {{<figure src="fo3/Old_Olney_-_Power_Armor_Location.webp">}} | **Armatura atomica medica prototipo**, fogne, sul cadavere del membro della Confraternita                                          |
+| {{<figure src="fo3/Old_Olney_NukaCola_truck.webp">}}         | **Nuka-Cola Quantum**, nord-est dell'autobus bruciato, presso la latrina irradiata e il caseificio Chaste Acres                    |
 
 Altri oggetti:
 - Esterno

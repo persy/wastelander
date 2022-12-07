@@ -22,11 +22,11 @@ Il forte delle auto abbandonate è un piccolo forte improvvisato e si trova imme
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
-| {{<figure src="Abandoned_Car_Fort_loc.webp">}} | {{<figure src="Abandoned_Car_Fort.webp">}} |
+| {{<figure src="fo3/Abandoned_Car_Fort_loc.webp">}} | {{<figure src="fo3/Abandoned_Car_Fort.webp">}} |
 
 | Immagine                                                                    | Oggetto e posizione                                                                                                                                                                                |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="D.C._Journal_of_Internal_Medicine_acf.webp">}}               | **Giornale di medicina interna del D.C.** e uno **Stealth Boy**, a sud del forte, oltre un treno distrutto e una zona irradiata, tra alcuni nidi di formiche, accanto al cadavere di uno sciacallo |
-| {{<figure src="Abandoned_car_fort_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** , accanto al letto nord-ovest                                                                                                                    |
+| {{<figure src="fo3/D.C._Journal_of_Internal_Medicine_acf.webp">}}               | **Giornale di medicina interna del D.C.** e uno **Stealth Boy**, a sud del forte, oltre un treno distrutto e una zona irradiata, tra alcuni nidi di formiche, accanto al cadavere di uno sciacallo |
+| {{<figure src="fo3/Abandoned_car_fort_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** , accanto al letto nord-ovest                                                                                                                    |
 
 

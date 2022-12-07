@@ -21,11 +21,11 @@ Little Lamplight è un insediamento ricavato da una serie di caverne un tempo at
 
 | Mappa                                        | Mappa locale                                     | Panoramica                                        |
 | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- |
-| {{<figure src="Little_Lamplight_loc.webp">}} | {{<figure src="Little_Lamplight_loc_map.webp">}} | {{<figure src="Little_Lamplight_exterior.webp">}} |
+| {{<figure src="fo3/Little_Lamplight_loc.webp">}} | {{<figure src="fo3/Little_Lamplight_loc_map.webp">}} | {{<figure src="fo3/Little_Lamplight_exterior.webp">}} |
 
 | Immagine                                                | Oggetto e posizione                                                                       |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| {{<figure src="LL_Great_Chamber_bottlecap_mine.webp">}} | **Mina da tappo**, nella sala principale, in una nicchia nel lato nord-ovest della grotta |
+| {{<figure src="fo3/LL_Great_Chamber_bottlecap_mine.webp">}} | **Mina da tappo**, nella sala principale, in una nicchia nel lato nord-ovest della grotta |
 
 Altri oggetti:
 - **Schemi - Mina da tappo**, venduto da Knick Knack nel negozio di souvenir

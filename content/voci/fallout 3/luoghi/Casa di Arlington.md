@@ -22,13 +22,13 @@ La casa di Arlington è un edificio di medie dimensioni e si trova al centro del
 
 | Mappa                            | Mappa locale                     | Panoramica                |
 | -------------------------------- | -------------------------------- | ------------------------- |
-| {{<figure src="Arlington_Cemetery_loc.webp">}} | {{<figure src="Arlington_Cemetery_map.webp">}} | {{<figure src="Arlington_house.webp">}} |
+| {{<figure src="fo3/Arlington_Cemetery_loc.webp">}} | {{<figure src="fo3/Arlington_Cemetery_map.webp">}} | {{<figure src="fo3/Arlington_house.webp">}} |
 
 | Immagine                                 | Oggetto e posizione                                                          |
 | ---------------------------------------- | ---------------------------------------------------------------------------- |
-| {{<figure src="Bobblehead_Luck_in-game.webp">}}        | **Bambolina - Fortuna**, seminterrato, su uno scaffale verso la parete ovest |
-| {{<figure src="FO3_BBOS_Arlington_House.webp">}}       | **Il grande libro della scienza**, sul tavolo in fondo alla cucina           |
-| {{<figure src="Arlington_house_bottlecap_mine.webp">}} | **Mina da tappo**, seminterrato, su un banco da lavoro                       |
+| {{<figure src="fo3/Bobblehead_Luck_in-game.webp">}}        | **Bambolina - Fortuna**, seminterrato, su uno scaffale verso la parete ovest |
+| {{<figure src="fo3/FO3_BBOS_Arlington_House.webp">}}       | **Il grande libro della scienza**, sul tavolo in fondo alla cucina           |
+| {{<figure src="fo3/Arlington_house_bottlecap_mine.webp">}} | **Mina da tappo**, seminterrato, su un banco da lavoro                       |
 
 
 Altri oggetti:

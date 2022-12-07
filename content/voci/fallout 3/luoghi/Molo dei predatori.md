@@ -22,12 +22,12 @@ Il molo dei predatori è una località non contrassegnata vicino al gruppo satel
 
 | Mappa                                    | Panoramica                                  |
 | ---------------------------------------- | ------------------------------------------- |
-| {{<figure src="Raider_wharf_loc.webp">}} | {{<figure src="NW-05a_Boat_&_Wharf.webp">}} |
+| {{<figure src="fo3/Raider_wharf_loc.webp">}} | {{<figure src="fo3/NW-05a_Boat_&_Wharf.webp">}} |
 
 | Immagine                                                                     | Oggetto e posizione                                       |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
-| **Tu e Nikola Tesla**, in cima a una lamiera sommersa blu, a ovest del campo | {{<figure src="Raider_wharf_Nikola_Tesla_and_You.webp">}} |
-| **Munizione nucleare**, sugli scaffali a sinistra del molo                   | {{<figure src="Raider_wharf_mini_nuke.webp">}}            |
+| **Tu e Nikola Tesla**, in cima a una lamiera sommersa blu, a ovest del campo | {{<figure src="fo3/Raider_wharf_Nikola_Tesla_and_You.webp">}} |
+| **Munizione nucleare**, sugli scaffali a sinistra del molo                   | {{<figure src="fo3/Raider_wharf_mini_nuke.webp">}}            |
 
 
 Altri oggetti:

@@ -22,22 +22,22 @@ Lo stabilimento Nuka-Cola è un grande edificio industriale a tre piani situato 
 
 | Mappa                                       | Panoramica                              |
 | ------------------------------------------- | --------------------------------------- |
-| {{<figure src="Nuka_Cola_Plant_loc.webp">}} | {{<figure src="Nuka-Cola_Plant.webp">}} |
+| {{<figure src="fo3/Nuka_Cola_Plant_loc.webp">}} | {{<figure src="fo3/Nuka-Cola_Plant.webp">}} |
 
 | Mappa locale fabbrica                         | Mappa locale vasche stocc. e misc.                      | Mappa locale uffici                     |
 | --------------------------------------------- | ------------------------------------------------------- | --------------------------------------- |
-| {{<figure src="NCP_factory_floor_map.webp">}} | {{<figure src="NCP_storage_and_mixing_vats_map.webp">}} | {{<figure src="NCP_offices_map.webp">}} |
+| {{<figure src="fo3/NCP_factory_floor_map.webp">}} | {{<figure src="fo3/NCP_storage_and_mixing_vats_map.webp">}} | {{<figure src="fo3/NCP_offices_map.webp">}} |
 
 | Immagine                                                   | Oggetto e posizione                                                                                                                    |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Dean's_Electronics_Nuka-Cola_plant.webp">}} | **Elettronica di Dean**, fabbrica, sul grande bancone a forma di L nella caffetteria                                                   |
-| {{<figure src="FO3_CA_SOTM_Nuka_Cola_Plant.webp">}}        | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nell'ingresso principale, in uno schedario oltre il soffitto                |
-| {{<figure src="BB_of_Science_Nuka-Cola_plant.webp">}}      | **Il grande libro della scienza**, uffici, a nord del cadavere di Winger Mercier, su un tavolo                                         |
-| {{<figure src="FO3_LCS_Nuka_Cola_Plant.webp">}}            | **Stile da congresso, menzognero**, uffici, in cima a una cassaforte proprio accanto a un terminale                                    |
-| {{<figure src="Tumblers_Today_Nuka-Cola_plant.webp">}}     | **Lo scassinatore moderno**, spedizione, nella stessa stanza di Milo, su una mensola sotto la cassaforte                               |
-| {{<figure src="NCQ_Nuka_Cola_Plant.jpg">}}                 | 3 **Nuka-Cola Quantum**, area produzione, tramite il terminale della linea di confezionamento                                          |
-| {{<figure src="US_Army_HFR_Dot's_Diner.webp">}}            | **U.S. Army: 30 pratiche ricette per lanciafiamme**, al Dot's Diner a nord dell'impianto, su un tavolo                                 |
-| {{<figure src="FO3_Nuka_Cola_Plant_Quantum_truck.webp">}}  | **Nuka-Cola Quantum**, sul lato sud dello stabilimento, all'interno del rimorchio di un camion, insieme a dieci bottiglie di Nuka-Cola |
+| {{<figure src="fo3/Dean's_Electronics_Nuka-Cola_plant.webp">}} | **Elettronica di Dean**, fabbrica, sul grande bancone a forma di L nella caffetteria                                                   |
+| {{<figure src="fo3/FO3_CA_SOTM_Nuka_Cola_Plant.webp">}}        | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nell'ingresso principale, in uno schedario oltre il soffitto                |
+| {{<figure src="fo3/BB_of_Science_Nuka-Cola_plant.webp">}}      | **Il grande libro della scienza**, uffici, a nord del cadavere di Winger Mercier, su un tavolo                                         |
+| {{<figure src="fo3/FO3_LCS_Nuka_Cola_Plant.webp">}}            | **Stile da congresso, menzognero**, uffici, in cima a una cassaforte proprio accanto a un terminale                                    |
+| {{<figure src="fo3/Tumblers_Today_Nuka-Cola_plant.webp">}}     | **Lo scassinatore moderno**, spedizione, nella stessa stanza di Milo, su una mensola sotto la cassaforte                               |
+| {{<figure src="fo3/NCQ_Nuka_Cola_Plant.jpg">}}                 | 3 **Nuka-Cola Quantum**, area produzione, tramite il terminale della linea di confezionamento                                          |
+| {{<figure src="fo3/US_Army_HFR_Dot's_Diner.webp">}}            | **U.S. Army: 30 pratiche ricette per lanciafiamme**, al Dot's Diner a nord dell'impianto, su un tavolo                                 |
+| {{<figure src="fo3/FO3_Nuka_Cola_Plant_Quantum_truck.webp">}}  | **Nuka-Cola Quantum**, sul lato sud dello stabilimento, all'interno del rimorchio di un camion, insieme a dieci bottiglie di Nuka-Cola |
 
 
 Altri oggetti:

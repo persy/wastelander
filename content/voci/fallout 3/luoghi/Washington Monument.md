@@ -21,4 +21,4 @@ Il  Washington Monument è un grande obelisco prebellico posizionato al centro d
 
 | Mappa                                           | Mappa locale                                        | Panoramica                                  |
 | ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Washington_Monument_loc.webp">}} | {{<figure src="Washington_Monument_loc_map.webp">}} | {{<figure src="Washington_Monument.webp">}} |
+| {{<figure src="fo3/Washington_Monument_loc.webp">}} | {{<figure src="fo3/Washington_Monument_loc_map.webp">}} | {{<figure src="fo3/Washington_Monument.webp">}} |

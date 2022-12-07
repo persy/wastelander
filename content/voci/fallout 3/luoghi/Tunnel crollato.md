@@ -21,4 +21,4 @@ Il tunnel crollato fa parte del sistema metropolitano di Washington, D.C. ed è 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Dupont_Station_loc.webp">}}  | {{<figure src="Metro_Collapsed_Car_Tunnel.webp">}}  |  {{<figure src="Collapsed_car_tunnel.webp">}} |
+| {{<figure src="fo3/Dupont_Station_loc.webp">}}  | {{<figure src="fo3/Metro_Collapsed_Car_Tunnel.webp">}}  |  {{<figure src="fo3/Collapsed_car_tunnel.webp">}} |

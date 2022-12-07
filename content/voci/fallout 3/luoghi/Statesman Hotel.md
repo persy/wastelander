@@ -20,15 +20,15 @@ Lo Statesman Hotel è un edificio di dodici piani situato a Vernon Square nelle 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Statesman_Hotel_loc.webp">}} | {{<figure src="Statesman_Hotel_ground_floor_loc_map.webp">}}  | {{<figure src="Statesman_Hotel.webp">}}  |
+|  {{<figure src="fo3/Statesman_Hotel_loc.webp">}} | {{<figure src="fo3/Statesman_Hotel_ground_floor_loc_map.webp">}}  | {{<figure src="fo3/Statesman_Hotel.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Tales_of_a_JJV_Statesman_Hotel.webp">}}  | **Racconti di un venditore di carne di Junktown**, nella stanza nord-est al secondo piano, su una scrivania, accanto a un telefono e due tazze da caffè  |
-| {{<figure src="FO3_Dead_Theo_and_Ammunition_Box.webp">}}  | TODO **Scatola delle munizioni di Theo**, livello intermedio, nella tromba delle scale, sud-ovest entrando nello Statesman dal ponte del traliccio caduto.   |
-|  {{<figure src="MoonbeamNoteShot.webp">}} | **Una nota dal padre di Little Moonbeam**, al terzo piano del livello intermedio, sotto uno scheletro sdraiato su un letto singolo, vicino al centro della mappa  |
-| {{<figure src="FO3_CA_SOTM_Statesman.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, all'ultimo piano del livello intermedio, in una libreria di una piccola stanza fuori dal corridoio che conduce alle scale  |
-| {{<figure src="Grognak_the_Barbarian_Statesman_Hotel.webp">}}  | **Grognak il barbaro**, ristorante, su uno scaffale della sala principale  |
+| {{<figure src="fo3/Tales_of_a_JJV_Statesman_Hotel.webp">}}  | **Racconti di un venditore di carne di Junktown**, nella stanza nord-est al secondo piano, su una scrivania, accanto a un telefono e due tazze da caffè  |
+| {{<figure src="fo3/FO3_Dead_Theo_and_Ammunition_Box.webp">}}  | TODO **Scatola delle munizioni di Theo**, livello intermedio, nella tromba delle scale, sud-ovest entrando nello Statesman dal ponte del traliccio caduto.   |
+|  {{<figure src="fo3/MoonbeamNoteShot.webp">}} | **Una nota dal padre di Little Moonbeam**, al terzo piano del livello intermedio, sotto uno scheletro sdraiato su un letto singolo, vicino al centro della mappa  |
+| {{<figure src="fo3/FO3_CA_SOTM_Statesman.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, all'ultimo piano del livello intermedio, in una libreria di una piccola stanza fuori dal corridoio che conduce alle scale  |
+| {{<figure src="fo3/Grognak_the_Barbarian_Statesman_Hotel.webp">}}  | **Grognak il barbaro**, ristorante, su uno scaffale della sala principale  |
 
 Altri oggetti:
 -  **Nuka-Cola Quantum**, ristorante, su uno scaffale nella zona bar dietro il bancone

@@ -20,12 +20,12 @@ Il distretto di Seward Square è una zona posta al centro di Washington, D.C. Pu
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Seward_Square_loc.webp">}}  | {{<figure src="Seward_Square_map.webp">}}  | {{<figure src="Seward_Square.webp">}}  |
+| {{<figure src="fo3/Seward_Square_loc.webp">}}  | {{<figure src="fo3/Seward_Square_map.webp">}}  | {{<figure src="fo3/Seward_Square.webp">}}  |
 
 | Immagine                                    | Oggetto e posizione                                                                                                                                                          |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_LCS_Capitol_Building_Pulowski.webp">}} | **Stile da congresso, menzognero**, nel rifugio di preservazione Pulowski vicino al Campidoglio (A)                                                                          |
-| {{<figure src="Talon_company_merc_log.webp">}}            | **Registro mercenario Compagnia dell'Artiglio #1**, in un accampamento della Compagnia dell'Artiglio fuori dal Campidoglio, dopo aver completato la missione *Riprenditelo!* |
+| {{<figure src="fo3/FO3_LCS_Capitol_Building_Pulowski.webp">}} | **Stile da congresso, menzognero**, nel rifugio di preservazione Pulowski vicino al Campidoglio (A)                                                                          |
+| {{<figure src="fo3/Talon_company_merc_log.webp">}}            | **Registro mercenario Compagnia dell'Artiglio #1**, in un accampamento della Compagnia dell'Artiglio fuori dal Campidoglio, dopo aver completato la missione *Riprenditelo!* |
 
 
 Altri oggetti:

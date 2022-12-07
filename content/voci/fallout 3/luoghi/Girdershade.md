@@ -21,7 +21,7 @@ Girdershade è un piccolo insediamento e si trova nell'estremo sud-ovest della Z
 
 | Mappa                                   | Panoramica                                         |
 | --------------------------------------- | -------------------------------------------------- |
-| {{<figure src="Girdershade_loc.webp">}} | {{<figure src="Girdershade's_general_view.webp">}} |
+| {{<figure src="fo3/Girdershade_loc.webp">}} | {{<figure src="fo3/Girdershade's_general_view.webp">}} |
 
 Altri oggetti:
 - **Lo spaccaginocchia**, posseduto da Ronald

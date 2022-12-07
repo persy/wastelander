@@ -19,11 +19,11 @@ L'area du ristoro e rifornimento di Jocko è una baracca isolata nella parte sud
 
 | Mappa                        | Panoramica                    |
 | ---------------------------- | ----------------------------- |
-| {{<figure src="Jockos_PG_Stop_loc.webp">}} | {{<figure src="Jockos_Pop_Gas_Stop.webp">}} |
+| {{<figure src="fo3/Jockos_PG_Stop_loc.webp">}} | {{<figure src="fo3/Jockos_Pop_Gas_Stop.webp">}} |
 
 | Immagine                                      | Oggetto e posizione                                                                                            |
 | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="NT_and_You_BM_Schematics_Jockos_PGS.webp">}} | **Schemi - Mina da tappo**, **Tu e Nikola Tesla** e **mina da tappo**, sul banco di lavoro e il bancone vicino |
+| {{<figure src="fo3/NT_and_You_BM_Schematics_Jockos_PGS.webp">}} | **Schemi - Mina da tappo**, **Tu e Nikola Tesla** e **mina da tappo**, sul banco di lavoro e il bancone vicino |
 
 
 Altri oggetti:

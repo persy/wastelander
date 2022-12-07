@@ -21,7 +21,7 @@ Il monastero della Luce sacra è un piccolo insediamento abitato dagli Apostoli 
 
 | Mappa                                            | Panoramica                                   |
 | ------------------------------------------------ | -------------------------------------------- |
-| {{<figure src="Holy_Light_Monastery_loc.webp">}} | {{<figure src="Holy_Light_Monastery.webp">}} |
+| {{<figure src="fo3/Holy_Light_Monastery_loc.webp">}} | {{<figure src="fo3/Holy_Light_Monastery.webp">}} |
 
 
 

@@ -21,12 +21,12 @@ Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della Biblioteca
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Alexandria_Arms_loc.webp">}}  |  {{<figure src="Alexandria_Arms_loc_map.webp">}} | {{<figure src="Alexandria_Arms.webp">}}  |
+| {{<figure src="fo3/Alexandria_Arms_loc.webp">}}  |  {{<figure src="fo3/Alexandria_Arms_loc_map.webp">}} | {{<figure src="fo3/Alexandria_Arms.webp">}}  |
 
 | Immagine                                   | Oggetto e posizione                                                                                                 |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover_Alexandria_Arms.webp">}}   | **Al riparo!**, nella zona più meridionale dell'hotel, su una libreria di legno                                     |
-| {{<figure src="Guns_and_Bullets_Alexandria_Arms.webp">}} | **Pistole e proiettili** e un **libro prebellico*, nella grande sala al piano superiore, su un bancone a forma di L |
+| {{<figure src="fo3/Duck_and_Cover_Alexandria_Arms.webp">}}   | **Al riparo!**, nella zona più meridionale dell'hotel, su una libreria di legno                                     |
+| {{<figure src="fo3/Guns_and_Bullets_Alexandria_Arms.webp">}} | **Pistole e proiettili** e un **libro prebellico*, nella grande sala al piano superiore, su un bancone a forma di L |
 
 
 Altri oggetti:

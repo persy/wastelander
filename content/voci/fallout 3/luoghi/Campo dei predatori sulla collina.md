@@ -23,10 +23,10 @@ Il campo dei predatori sulla collina è una località non contrassegnata e si tr
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
-| {{<figure src="Raider_house_map.webp">}} | {{<figure src="Raider_house.webp">}} |
+| {{<figure src="fo3/Raider_house_map.webp">}} | {{<figure src="fo3/Raider_house.webp">}} |
 
 | Immagine                              | Oggetto e posizione                           |
 | ------------------------------------- | --------------------------------------------- |
-| {{<figure src="Raider_house1.webp">}} | **Lo scassinatore moderno**, su uno scaffale  |
-| {{<figure src="Raider_house2.webp">}} | **Munizione nucleare**, in una vasca da bagno |
+| {{<figure src="fo3/Raider_house1.webp">}} | **Lo scassinatore moderno**, su uno scaffale  |
+| {{<figure src="fo3/Raider_house2.webp">}} | **Munizione nucleare**, in una vasca da bagno |
 

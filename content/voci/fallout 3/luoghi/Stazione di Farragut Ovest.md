@@ -21,9 +21,9 @@ La stazione di Farragut Ovest fa parte del sistema di tunnel metropolitani della
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Farragut_Tenley_Town_loc.webp">}}  |  {{<figure src="Metro_Farragut_West_Station.webp">}} |  {{<figure src="Farragut_West_Station_entrance.webp">}} |
+| {{<figure src="fo3/Farragut_Tenley_Town_loc.webp">}}  |  {{<figure src="fo3/Metro_Farragut_West_Station.webp">}} |  {{<figure src="fo3/Farragut_West_Station_entrance.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 |  TODO | **U.S. Army: 30 pratiche ricette per lanciafiamme** e 3 **libri prebellici**, in fondo alla stanza con i ghoul, dietro una porta chiusa (Scasso 50)  |
-| {{<figure src="NT_and_You,_DCTA_firearms_protocol_and_MU_gate_key.webp">}}  | **Tu e Nikola Tesla** e il **Protocollo armi da fuoco laser DCTA**, oltre la porta di dirimpetto al cancello, in una cassaforte chiusa a chiave (B)  |
+| {{<figure src="fo3/NT_and_You,_DCTA_firearms_protocol_and_MU_gate_key.webp">}}  | **Tu e Nikola Tesla** e il **Protocollo armi da fuoco laser DCTA**, oltre la porta di dirimpetto al cancello, in una cassaforte chiusa a chiave (B)  |

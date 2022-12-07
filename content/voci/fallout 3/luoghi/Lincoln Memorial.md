@@ -21,8 +21,8 @@ Il  Lincoln Memorial è un edificio commemorativo situato all'estremità occiden
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Lincoln_Memorial_loc.webp">}} | {{<figure src="Lincoln_Memorial_loc_map.webp">}}  | {{<figure src="Lincoln_Memorial.webp">}}  |
+|  {{<figure src="fo3/Lincoln_Memorial_loc.webp">}} | {{<figure src="fo3/Lincoln_Memorial_loc_map.webp">}}  | {{<figure src="fo3/Lincoln_Memorial.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="NCQ_Lincoln_Memorial.jpg">}}  |  **Nuka-Cola Quantum**, stanza di manutenzione, al piano terra su una mensola metallica |
+| {{<figure src="fo3/NCQ_Lincoln_Memorial.jpg">}}  |  **Nuka-Cola Quantum**, stanza di manutenzione, al piano terra su una mensola metallica |

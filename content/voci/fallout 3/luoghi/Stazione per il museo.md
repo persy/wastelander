@@ -21,9 +21,9 @@ La stazione per il museo fa parte del sistema metropolitano della Zona contamina
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Museum_Station_loc_map.webp">}} | {{<figure src="Metro_Museum_Station_loc_map.webp">}}  | {{<figure src="Museum_station.webp">}}  |
+|  {{<figure src="fo3/Museum_Station_loc_map.webp">}} | {{<figure src="fo3/Metro_Museum_Station_loc_map.webp">}}  | {{<figure src="fo3/Museum_station.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Museum_Station_Chinese_Army_Special_Ops_Training_Manual.webp">}}  | **Esercito cinese: operazioni speciali**, in una scatola vicino a uno scheletro nel bagno delle donne   |
-| {{<figure src="Museum_Station_Grognak.webp">}}  | **Grognak il barbaro**, su un tavolino nei pressi dell'uscita della metropolitana centrale, vicino a un tavolo da biliardo  |
+| {{<figure src="fo3/Museum_Station_Chinese_Army_Special_Ops_Training_Manual.webp">}}  | **Esercito cinese: operazioni speciali**, in una scatola vicino a uno scheletro nel bagno delle donne   |
+| {{<figure src="fo3/Museum_Station_Grognak.webp">}}  | **Grognak il barbaro**, su un tavolino nei pressi dell'uscita della metropolitana centrale, vicino a un tavolo da biliardo  |

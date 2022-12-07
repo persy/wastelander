@@ -22,7 +22,7 @@ La Metro Arlington/Falls Church è una stazione della linea bianca metropolitana
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Arlington_Falls_Church_loc.webp">}} |  {{<figure src="MA_Falls_Church_loc.webp">}} | {{<figure src="Arlington_Falls_Church_Metro_interior.webp">}}  |
+|  {{<figure src="fo3/Arlington_Falls_Church_loc.webp">}} |  {{<figure src="fo3/MA_Falls_Church_loc.webp">}} | {{<figure src="fo3/Arlington_Falls_Church_Metro_interior.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |

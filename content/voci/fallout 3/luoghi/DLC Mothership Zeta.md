@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Mothership Zeta
 summary: 'TODO'
-weight: 30
+weight: 70
 
 
 # Page metadata.
@@ -19,3 +19,27 @@ tags: "Luoghi di Fallout 3"
 TODO
 
 {{< toc hide_on="xl" >}}
+
+
+
+- [Ricerca biologica](../ricerca-biologica)
+- [Ponte](../ponte-mothership-zeta)
+- [Area cargo](../area-cargo)
+- [Laboratorio criogenico e conservazione criogenica](../laboratorio-criogenico-e-conservazione-criogenica)
+- [Comandi raggio letale](../comandi-raggio-letale)
+- [Centro raggio letale](../centro-raggio-letale)
+- [Camera di decompressione](../camera-di-decompressione)
+- [Sala dei motori](../sala-dei-motori)
+- [Sala di progettazione](../sala-di-progettazione)
+- [Laboratorio esperimenti](../laboratorio-esperimenti)
+- [Hangar](../hangar)
+- [Celle dei prigionieri](../celle-dei-prigionieri)
+- [Quartieri abitati](../quartieri-abitati)
+- [Livello manutenzione e smaltimento rifiuti](../livello-manutenzione-e-smaltimento-rifiuti)
+- [Ponte di osservazione](../ponte-di-osservazione)
+- [Laboratorio di ricerca](../laboratorio-di-ricerca)
+- [Fabbricazione robot](../fabbricazione-robot)
+- [Camminata nello spazio](../camminata-nello-spazio)
+- [Macchine a vapore](../macchine-a-vapore)
+- [Laboratorio armi](../laboratorio-armi)
+

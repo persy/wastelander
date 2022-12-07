@@ -21,7 +21,7 @@ La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazional
 
 | Mappa                                      | Panoramica                                    |
 | ------------------------------------------ | --------------------------------------------- |
-| {{<figure src="Rockbreaker_LG_loc.webp">}} | {{<figure src="Rockbreakers_Last_Gas.webp">}} |
+| {{<figure src="fo3/Rockbreaker_LG_loc.webp">}} | {{<figure src="fo3/Rockbreakers_Last_Gas.webp">}} |
 
 *Vedi [Baracca del cecchino](../baracca-del-cecchinobaracca-abbandonata)*
 

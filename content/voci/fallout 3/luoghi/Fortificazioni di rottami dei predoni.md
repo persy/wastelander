@@ -22,11 +22,11 @@ Le fortificazioni di rottami dei predoni è una località non contrassegnata e s
 
 | Mappa                                         | Panoramica                                                 |
 | --------------------------------------------- | ---------------------------------------------------------- |
-| {{<figure src="RW_fortifications_loc.webp">}} | {{<figure src="FO3_Raider_wreckage_fortifications.webp">}} |
+| {{<figure src="fo3/RW_fortifications_loc.webp">}} | {{<figure src="fo3/FO3_Raider_wreckage_fortifications.webp">}} |
 
 | Immagine                                                | Oggetto e posizione                                    |
 | ------------------------------------------------------- | ------------------------------------------------------ |
-| {{<figure src="Raider_wreckage_fortifications2.webp">}} | **Grognak il barbaro**, in una cassa sul lato sinistro |
+| {{<figure src="fo3/Raider_wreckage_fortifications2.webp">}} | **Grognak il barbaro**, in una cassa sul lato sinistro |
 
 
 Altri oggetti:

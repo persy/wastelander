@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Personaggio
+linktitle: Vagabondo solitario
 summary: ''
 weight: 10
 icon: user
 icon_pack: fas
 
 # Page metadata.
-title: Personaggio
+title: Vagabondo solitario
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true

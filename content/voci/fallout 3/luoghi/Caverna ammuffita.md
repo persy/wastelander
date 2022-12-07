@@ -21,7 +21,7 @@ La caverna ammuffita è una località non contrassegnata, situata ad est della d
 
 | Mappa                                     | Panoramica                            |
 | ----------------------------------------- | ------------------------------------- |
-| {{<figure src="Musty_caverns_loc.webp">}} | {{<figure src="Musty_caverns.webp">}} |
+| {{<figure src="fo3/Musty_caverns_loc.webp">}} | {{<figure src="fo3/Musty_caverns.webp">}} |
 
 
 

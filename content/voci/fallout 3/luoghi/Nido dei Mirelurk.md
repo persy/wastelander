@@ -21,9 +21,9 @@ Il nido dei Mirelurk è una caverna accessibile attraverso una grata nella parte
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Mirelurk_NH_loc_map.webp">}}  |  {{<figure src="Mirelurk_Nesting_Hole_map.webp">}} |  {{<figure src="Mirelurk_NH_exterior.webp">}} |
+| {{<figure src="fo3/Mirelurk_NH_loc_map.webp">}}  |  {{<figure src="fo3/Mirelurk_Nesting_Hole_map.webp">}} |  {{<figure src="fo3/Mirelurk_NH_exterior.webp">}} |
 
 | Immagine                               | Oggetto e posizione                                                                                                                                                    |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="NCQ_Mirelurk_nesting_hole.jpg">}}     | **Nuka-Cola Quantum**, nell'angolo più sud-ovest della grotta meridionale, per terra vicino una radio amatoriale                                                       |
-| {{<figure src="CA_SOTM_Mirelurk_nesting_hole.jpg">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella grotta meridionale, nell'angolo nord-ovest, in una scatola di legno per terra, vicino a uno scheletro |
+| {{<figure src="fo3/NCQ_Mirelurk_nesting_hole.jpg">}}     | **Nuka-Cola Quantum**, nell'angolo più sud-ovest della grotta meridionale, per terra vicino una radio amatoriale                                                       |
+| {{<figure src="fo3/CA_SOTM_Mirelurk_nesting_hole.jpg">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella grotta meridionale, nell'angolo nord-ovest, in una scatola di legno per terra, vicino a uno scheletro |

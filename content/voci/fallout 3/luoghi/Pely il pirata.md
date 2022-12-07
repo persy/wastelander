@@ -21,7 +21,7 @@ Pely il pirata è un negozio di pesca, non contrassegnato sulla mappa, situato a
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
-| {{<figure src="Pirate_Pely_loc.webp">}} | {{<figure src="Pirate_Pely.webp">}} |
+| {{<figure src="fo3/Pirate_Pely_loc.webp">}} | {{<figure src="fo3/Pirate_Pely.webp">}} |
 
 
 

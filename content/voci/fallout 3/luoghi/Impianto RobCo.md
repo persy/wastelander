@@ -22,14 +22,14 @@ L'impianto RobCo è una fabbrica ndi robot e si trova leggermente a nord-est ris
 
 | Mappa                                      | Mappa locale                                     | Panoramica                                      |
 | ------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
-| {{<figure src="RobCo_Facility_loc.webp">}} | {{<figure src="RobCo_facility_local_map.webp">}} | {{<figure src="Robco_Facility_exterior.webp">}} |
+| {{<figure src="fo3/RobCo_Facility_loc.webp">}} | {{<figure src="fo3/RobCo_facility_local_map.webp">}} | {{<figure src="fo3/Robco_Facility_exterior.webp">}} |
 
 | Immagine                                                      | Oggetto e posizione                                                                                                  |
 | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_LCS_Robco_Facility.webp">}}                | **Stile da congresso, menzognero**, sul bancone della reception                                                      |
-| {{<figure src="BB_of_Science_RobCo_facility.webp">}}          | **Il grande libro della scienza**, fabbrica, a nord-est nell'area dei pod dei protettori, sulla consolle             |
-| {{<figure src="Nikola_Tesla_and_You_RobCo_facility.webp">}}   | **Tu e Nikola Tesla**, uffici e caffetteria, sulla scrivania nell'angolo nord-ovest, nell'area a destra dall'entrata |
-| {{<figure src="DC_Journal_of_IM_RobCo_facility_redone.jpg">}} | **Giornale di medicina interna del D.C.**, uffici e caffetteria, sala ufficio computer, appena a sud-est delle scale |
+| {{<figure src="fo3/FO3_LCS_Robco_Facility.webp">}}                | **Stile da congresso, menzognero**, sul bancone della reception                                                      |
+| {{<figure src="fo3/BB_of_Science_RobCo_facility.webp">}}          | **Il grande libro della scienza**, fabbrica, a nord-est nell'area dei pod dei protettori, sulla consolle             |
+| {{<figure src="fo3/Nikola_Tesla_and_You_RobCo_facility.webp">}}   | **Tu e Nikola Tesla**, uffici e caffetteria, sulla scrivania nell'angolo nord-ovest, nell'area a destra dall'entrata |
+| {{<figure src="fo3/DC_Journal_of_IM_RobCo_facility_redone.jpg">}} | **Giornale di medicina interna del D.C.**, uffici e caffetteria, sala ufficio computer, appena a sud-est delle scale |
 
 
 Altri oggetti:

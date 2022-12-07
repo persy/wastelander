@@ -21,11 +21,11 @@ L'ossario è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a n
 
 | Mappa                                     | Panoramica                            |
 | ----------------------------------------- | ------------------------------------- |
-| {{<figure src="Charnel_House_loc.webp">}} | {{<figure src="Charnel_House.webp">}} |
+| {{<figure src="fo3/Charnel_House_loc.webp">}} | {{<figure src="fo3/Charnel_House.webp">}} |
 
 | Immagine                                             | Oggetto e posizione                                                                        |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| {{<figure src="Charnel_House_Duck_and_Cover.webp">}} | **Al riparo!**, al piano superiore, sul pavimento vicino al camino e alla fessura nel muro |
+| {{<figure src="fo3/Charnel_House_Duck_and_Cover.webp">}} | **Al riparo!**, al piano superiore, sul pavimento vicino al camino e alla fessura nel muro |
 
 Altri oggetti:
 - **Pugilato illustrato**, nella camera di drenaggio a ovest, seguendo il [Segnale Papa November (PN)](../camere-di-drenaggio)

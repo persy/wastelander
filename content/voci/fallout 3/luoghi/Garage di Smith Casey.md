@@ -21,11 +21,11 @@ Il garage di Smith Casey è un garage abbandonato al cui interno possibile acced
 
 | Mappa                                             | Panoramica                                  |
 | ------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Smith_Caseys_Garage_loc 2.webp">}} | {{<figure src="Smith_Caseys_garage.webp">}} |
+| {{<figure src="fo3/Smith_Caseys_Garage_loc 2.webp">}} | {{<figure src="fo3/Smith_Caseys_garage.webp">}} |
 
 | Immagine                                                   | Oggetto e posizione                                                          |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| {{<figure src="Tumblers_Today_Smith_Caseys_Garage.webp">}} | **Lo scassinatore moderno**, dentro lla cassaforte aperta, dietro il bancone |
+| {{<figure src="fo3/Tumblers_Today_Smith_Caseys_Garage.webp">}} | **Lo scassinatore moderno**, dentro lla cassaforte aperta, dietro il bancone |
 
 
 Altri oggetti:

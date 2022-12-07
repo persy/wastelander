@@ -20,8 +20,8 @@ L'entrata fogna è una località non contrassegnata situata a Vernon Square, nel
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Vernon_Square_North_loc.webp">}} | {{<figure src="Sewer_entrance_map.webp">}}  | {{<figure src="FO3_sewer_entrance.webp">}}  |
+|  {{<figure src="fo3/Vernon_Square_North_loc.webp">}} | {{<figure src="fo3/Sewer_entrance_map.webp">}}  | {{<figure src="fo3/FO3_sewer_entrance.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="Dean's_Electronics_Sewer_entrance.webp">}} | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |
+|  {{<figure src="fo3/Dean's_Electronics_Sewer_entrance.webp">}} | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |

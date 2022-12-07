@@ -22,8 +22,8 @@ Drowned Devil's Crossing è un ponte crollato e si trova tra il drive-in Silver 
 
 | Mappa                                   | Panoramica                                       |
 | --------------------------------------- | ------------------------------------------------ |
-| {{<figure src="DD_Crossing_loc.webp">}} | {{<figure src="Drowned_Devil's_Crossing.webp">}} |
+| {{<figure src="fo3/DD_Crossing_loc.webp">}} | {{<figure src="fo3/Drowned_Devil's_Crossing.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                                                    |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| {{<figure src="Drowned_Devil's_Crossing_Tumblers_Today.webp">}} | **Lo scassinatore moderno**, nel camion, a destra di una cassaforte chiusa (Scasso 50) |
+| {{<figure src="fo3/Drowned_Devil's_Crossing_Tumblers_Today.webp">}} | **Lo scassinatore moderno**, nel camion, a destra di una cassaforte chiusa (Scasso 50) |

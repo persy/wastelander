@@ -23,12 +23,12 @@ Il campo dei predatori della metro allagata è un accampamento di predoni non co
 
 | Mappa                                         | Panoramica                                        |
 | --------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Raider_encampment_loc.webp">}} | {{<figure src="FloodedMetroRaiderOutpost.webp">}} |
+| {{<figure src="fo3/Raider_encampment_loc.webp">}} | {{<figure src="fo3/FloodedMetroRaiderOutpost.webp">}} |
 
 | Immagine                                                 | Oggetto e posizione                                                            |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| {{<figure src="FO3_PI_Flooded_Metro_Raider_Camp.webp">}} | **Pugilato illustrato**, sul tavolo al centro del campo                        |
-| {{<figure src="FO3_TT_Flooded_Metro_Raider_Camp.webp">}} | **Lo scassinatore moderno**, in cima alla fortificazione, vicino al materasso. |
+| {{<figure src="fo3/FO3_PI_Flooded_Metro_Raider_Camp.webp">}} | **Pugilato illustrato**, sul tavolo al centro del campo                        |
+| {{<figure src="fo3/FO3_TT_Flooded_Metro_Raider_Camp.webp">}} | **Lo scassinatore moderno**, in cima alla fortificazione, vicino al materasso. |
 
 
 Altri oggetti:

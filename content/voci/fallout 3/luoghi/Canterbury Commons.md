@@ -22,11 +22,11 @@ Canterbury Commons è un grande insediamento commerciale situato sul bordo orien
 
 | Mappa                                          | Mappa locale                                       | Panoramica                                       |
 | ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
-| {{<figure src="Canterbury_Commons_loc.webp">}} | {{<figure src="Canterbury_Commons_loc_map.webp">}} | {{<figure src="Canterbury_Commons_vista.webp">}} |
+| {{<figure src="fo3/Canterbury_Commons_loc.webp">}} | {{<figure src="fo3/Canterbury_Commons_loc_map.webp">}} | {{<figure src="fo3/Canterbury_Commons_vista.webp">}} |
   
 | Immagine                                                               | Oggetto e posizione                                                                                                      |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Dean's_Electronics_Dominic_and_Machete's_house.webp">}} | **Elettronica di Dean**, all'interno del garage di Dominic e Machete su una scrivania nella stanza a destra dell'entrata |
-| {{<figure src="Derek_Pacion.webp">}}                                   | **Grognak il barbaro**, nell'inventario di Derek Pacion (va borseggiato)                                                 |
-| {{<figure src="DMH_Highwayman's_Friend.webp">}}                        | **Amico del bandito**, all'interno del garage di Dominic e Machete, su uno scaffale a sinistra del libro delle abilità   |
+| {{<figure src="fo3/Dean's_Electronics_Dominic_and_Machete's_house.webp">}} | **Elettronica di Dean**, all'interno del garage di Dominic e Machete su una scrivania nella stanza a destra dell'entrata |
+| {{<figure src="fo3/Derek_Pacion.webp">}}                                   | **Grognak il barbaro**, nell'inventario di Derek Pacion (va borseggiato)                                                 |
+| {{<figure src="fo3/DMH_Highwayman's_Friend.webp">}}                        | **Amico del bandito**, all'interno del garage di Dominic e Machete, su uno scaffale a sinistra del libro delle abilità   |
 

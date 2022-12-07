@@ -21,7 +21,7 @@ Gli inferi sono un insediamento di ghoul all'interno del Museo di Storia di Wash
 
 | Mappa                                         | Mappa locale                           | Panoramica                                      |
 | --------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
-| {{<figure src="Museum_of_History_loc.webp">}} | {{<figure src="Underworld_loc.webp">}} | {{<figure src="FO3_121021_Locations_17.webp">}} |
+| {{<figure src="fo3/Museum_of_History_loc.webp">}} | {{<figure src="fo3/Underworld_loc.webp">}} | {{<figure src="fo3/FO3_121021_Locations_17.webp">}} |
 
 Altri oggetti:
 - **Olonastro** per la missione *L'uomo duplicato*, sulla scrivania nella stanza di manutenzione di Winthrop

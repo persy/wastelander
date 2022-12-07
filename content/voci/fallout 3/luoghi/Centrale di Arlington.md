@@ -21,8 +21,8 @@ La centrale di Arlington fa parte del sistema metropolitano sotto la Zona contam
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Arlington_Cemetery_loc.webp">}}  | {{<figure src="Arlington_utility_loc_map.webp">}}  |  {{<figure src="Arlington_Utility-1.webp">}} |
+| {{<figure src="fo3/Arlington_Cemetery_loc.webp">}}  | {{<figure src="fo3/Arlington_utility_loc_map.webp">}}  |  {{<figure src="fo3/Arlington_Utility-1.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="US_Army_HFR_Arlington_utility.webp">}}  |  **U.S. Army: 30 pratiche ricette per lanciafiamme**, al secondo piano nella zona cucina, su degli scaffali di metallo |
+| {{<figure src="fo3/US_Army_HFR_Arlington_utility.webp">}}  |  **U.S. Army: 30 pratiche ricette per lanciafiamme**, al secondo piano nella zona cucina, su degli scaffali di metallo |

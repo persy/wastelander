@@ -22,7 +22,7 @@ Il rifornimento elettrico di Hank Broken Steel è un piccolo edificio alla stazi
 
 | Mappa                                      | Panoramica                                      |
 | ------------------------------------------ | ----------------------------------------------- |
-| {{<figure src="Jury_Street_MS_loc.webp">}} | {{<figure src="Hanks_Electrical_Supply.webp">}} |
+| {{<figure src="fo3/Jury_Street_MS_loc.webp">}} | {{<figure src="fo3/Hanks_Electrical_Supply.webp">}} |
 
 
 

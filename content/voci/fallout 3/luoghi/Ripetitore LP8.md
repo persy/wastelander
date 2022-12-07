@@ -21,9 +21,9 @@ Il ripetitore LP8 è una ripetitore e si trova a nord-est del Bacino della conte
 
 | Mappa                              | Panoramica                                  |
 | ---------------------------------- | ------------------------------------------- |
-| {{<figure src="BT_LP8_loc.webp">}} | {{<figure src="Broadcast_Tower_LP8.webp">}} |
+| {{<figure src="fo3/BT_LP8_loc.webp">}} | {{<figure src="fo3/Broadcast_Tower_LP8.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                         |
 | --------------------------------------------------------------- | ----------------------------------------------------------- |
-| {{<figure src="Signal_Echo_Foxtrot_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella fogna su un tavolo |
+| {{<figure src="fo3/Signal_Echo_Foxtrot_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella fogna su un tavolo |
 

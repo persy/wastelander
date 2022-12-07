@@ -22,14 +22,14 @@ Calverton è un luogo non contrassegnato, costituito da una piccola città abban
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
-| {{<figure src="Jury_Street_Chapel_loc.webp">}} | {{<figure src="Jury_Street_Chapel.webp">}} |
+| {{<figure src="fo3/Jury_Street_Chapel_loc.webp">}} | {{<figure src="fo3/Jury_Street_Chapel.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                                                 |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| {{<figure src="FO3_LCS_Calverton.webp">}}                       | **Stile da congresso, menzognero**, sul leggio                                      |
-| {{<figure src="FO3_PI_Jury_Street_Calverton_Church.webp">}}     | **Pugilato illustrato**, sul pavimento in un angolo del bagno della chiesa          |
-| {{<figure src="US_Army_HFR_trailer_southeast_Calverton.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, all'interno di un camion a est |
-| {{<figure src="Calverton_Nikola_Tesla_and_You.jpg">}}           | **Tu e Nikola Tesla**, nella casa a sud-ovest della chiesa, in cima a una libreria  |
-| {{<figure src="Goodies_Calverton.webp">}}                       | **Munizione nucleare**, sopra un tavolo nella chiesa                                |
+| {{<figure src="fo3/FO3_LCS_Calverton.webp">}}                       | **Stile da congresso, menzognero**, sul leggio                                      |
+| {{<figure src="fo3/FO3_PI_Jury_Street_Calverton_Church.webp">}}     | **Pugilato illustrato**, sul pavimento in un angolo del bagno della chiesa          |
+| {{<figure src="fo3/US_Army_HFR_trailer_southeast_Calverton.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, all'interno di un camion a est |
+| {{<figure src="fo3/Calverton_Nikola_Tesla_and_You.jpg">}}           | **Tu e Nikola Tesla**, nella casa a sud-ovest della chiesa, in cima a una libreria  |
+| {{<figure src="fo3/Goodies_Calverton.webp">}}                       | **Munizione nucleare**, sopra un tavolo nella chiesa                                |
 
 

@@ -22,12 +22,12 @@ La centrale elettrica MDPL si trova a sud dell'Accademia Roosevelt e ad est dell
 
 | Mappa                                | Panoramica                                      |
 | ------------------------------------ | ----------------------------------------------- |
-| {{<figure src="MDPL_MRS_loc.webp">}} | {{<figure src="MDPL_Mass_Relay_Station.webp">}} |
+| {{<figure src="fo3/MDPL_MRS_loc.webp">}} | {{<figure src="fo3/MDPL_Mass_Relay_Station.webp">}} |
 
 | Immagine                                                 | Oggetto e posizione                                                                                          |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="MDPL_Mass_relay_Guns_and_Bullets.webp">}} | **Pistole e proiettili**, su un tavolo                                                                       |
-| {{<figure src="MDPL_relay_Safe_and_terminal.webp">}}     | **Nuka-Cola Quantum**, in cassaforte (Scasso 100), può essere sbloccato da un terminale vicino (Scienza 100) |
+| {{<figure src="fo3/MDPL_Mass_relay_Guns_and_Bullets.webp">}} | **Pistole e proiettili**, su un tavolo                                                                       |
+| {{<figure src="fo3/MDPL_relay_Safe_and_terminal.webp">}}     | **Nuka-Cola Quantum**, in cassaforte (Scasso 100), può essere sbloccato da un terminale vicino (Scienza 100) |
 
 
 Altri oggetti:

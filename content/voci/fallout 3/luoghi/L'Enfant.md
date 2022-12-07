@@ -21,12 +21,12 @@ L'Enfant Plaza e L'Enfant South fanno parte di Washington, D.C. e possono essere
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Lenfant_loc.webp">}}  | {{<figure src="L'Enfant_map.webp">}}  | {{<figure src="L'Enfant.webp">}}  |
+| {{<figure src="fo3/Lenfant_loc.webp">}}  | {{<figure src="fo3/L'Enfant_map.webp">}}  | {{<figure src="fo3/L'Enfant.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="US_Army_Handy_Flamethrower_Recipes_LEnfant.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un campo improvvisato sotto un cavalcavia parzialmente crollato a est (A)  |
-| {{<figure src="Big_Book_of_Science_LEnfant.webp">}}  | **Il grande libro della scienza**, in un rifugio di preservazione Pulowski, dietro un edificio a sud della piazza (B)  |
+|  {{<figure src="fo3/US_Army_Handy_Flamethrower_Recipes_LEnfant.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un campo improvvisato sotto un cavalcavia parzialmente crollato a est (A)  |
+| {{<figure src="fo3/Big_Book_of_Science_LEnfant.webp">}}  | **Il grande libro della scienza**, in un rifugio di preservazione Pulowski, dietro un edificio a sud della piazza (B)  |
 
 
 Altri oggetti:

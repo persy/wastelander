@@ -21,7 +21,7 @@ La pietra cava è una sporgenza rocciosa e si trova vicino a Megan, fra tre albe
 
 | Mappa                               | Panoramica                                              |
 | ----------------------------------- | ------------------------------------------------------- |
-| {{<figure src="Megaton_loc.webp">}} | {{<figure src="Hollowed-Out-Rock-Scenery-Image.webp">}} |
+| {{<figure src="fo3/Megaton_loc.webp">}} | {{<figure src="fo3/Hollowed-Out-Rock-Scenery-Image.webp">}} |
 
 
 

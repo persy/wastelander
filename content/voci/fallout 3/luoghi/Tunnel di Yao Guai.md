@@ -22,14 +22,14 @@ Il tunnel di Yao Guai è una località a ovest dell'ossario e a nord-ovest del g
 
 | Mappa                                        | Mappa locale                                 | Panoramica                                    |
 | -------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
-| {{<figure src="Yao_Guai_Tunnels_loc.webp">}} | {{<figure src="Yao_guai_den_loc_map.webp">}} | {{<figure src="Yao_guai_tunnels_cave.webp">}} |
+| {{<figure src="fo3/Yao_Guai_Tunnels_loc.webp">}} | {{<figure src="fo3/Yao_guai_den_loc_map.webp">}} | {{<figure src="fo3/Yao_guai_tunnels_cave.webp">}} |
 
 | Immagine                                                       | Oggetto e posizione                                                                                               |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="YaoGuai_tunnels_Sneak_Bobblehead.jpg">}}       | **Bambolina - Furtivo**, nel covo, sul lato nord-est del pilastro centrale vicino al cadavere colono                        |
-| {{<figure src="Grognak_the_Barbarian_yao_guai_tunnels.webp">}} | **Grognak il barbaro**, nella sezione meridionale vicino a un predone morto, su una sporgenza vicino all'uscita dal covo                    |
-| {{<figure src="Yao_guai_den_note.webp">}}                      | **Nota sul covo degli Yao Guai**, nel covo, sul cadavere di un colono morto che galleggia in una pozza di acqua radioattiva |
-| {{<figure src="NCQ_Yao_Guai_Tunnels.jpg">}}                     | **Nuka-Cola Quantum** su un tavolo vicino a una radio                                                             |
+| {{<figure src="fo3/YaoGuai_tunnels_Sneak_Bobblehead.jpg">}}       | **Bambolina - Furtivo**, nel covo, sul lato nord-est del pilastro centrale vicino al cadavere colono                        |
+| {{<figure src="fo3/Grognak_the_Barbarian_yao_guai_tunnels.webp">}} | **Grognak il barbaro**, nella sezione meridionale vicino a un predone morto, su una sporgenza vicino all'uscita dal covo                    |
+| {{<figure src="fo3/Yao_guai_den_note.webp">}}                      | **Nota sul covo degli Yao Guai**, nel covo, sul cadavere di un colono morto che galleggia in una pozza di acqua radioattiva |
+| {{<figure src="fo3/NCQ_Yao_Guai_Tunnels.jpg">}}                     | **Nuka-Cola Quantum** su un tavolo vicino a una radio                                                             |
 
 
 Altri oggetti:

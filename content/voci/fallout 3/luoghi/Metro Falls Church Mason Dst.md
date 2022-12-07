@@ -21,12 +21,12 @@ La Metro Falls Church/Mason Dst, chiamata anche stazione Franklin, è una stazio
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Falls_Church_HC_loc.webp">}} | {{<figure src="MFC_Mason_Dst_Metro_loc_map.webp">}}  |  {{<figure src="Falls_Church_Mason_district_Metro.webp">}} |
+|  {{<figure src="fo3/Falls_Church_HC_loc.webp">}} | {{<figure src="fo3/MFC_Mason_Dst_Metro_loc_map.webp">}}  |  {{<figure src="fo3/Falls_Church_Mason_district_Metro.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="DC_Journal_of_Internal_Medicine_Falls_Church_Mason.webp">}}  | **Giornale di medicina interna del D.C.**, in cima a una cassetta di pronto soccorso nel bagno a destra   |
-| {{<figure src="DuckAndCover_FCMasonDM.webp">}}  | **Al riparo!**, in una biglietteria nascosta dietro una barricata, a destra del chiosco illuminato in cima alla scalinata nord  |
+| {{<figure src="fo3/DC_Journal_of_Internal_Medicine_Falls_Church_Mason.webp">}}  | **Giornale di medicina interna del D.C.**, in cima a una cassetta di pronto soccorso nel bagno a destra   |
+| {{<figure src="fo3/DuckAndCover_FCMasonDM.webp">}}  | **Al riparo!**, in una biglietteria nascosta dietro una barricata, a destra del chiosco illuminato in cima alla scalinata nord  |
 
 
 Altri oggetti:

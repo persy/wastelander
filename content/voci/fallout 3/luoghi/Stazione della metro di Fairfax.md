@@ -19,12 +19,12 @@ hidden: true
 
 La stazione della metro di Fairfax è una stazione metropolitana della Zona contaminata della Capitale e si trova presso le rovine omonime.
 
-*Vedi  [[#Rovine di Fairfax]]*
+*Vedi  [[#Rovine di Fairfax*
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Fairfax_Ruins_loc.webp">}}  | {{<figure src="Fairfax_Ruins_metro_loc.webp">}}  |  {{<figure src="Fairfax_Metro_exterior.webp">}} |
+| {{<figure src="fo3/Fairfax_Ruins_loc.webp">}}  | {{<figure src="fo3/Fairfax_Ruins_metro_loc.webp">}}  |  {{<figure src="fo3/Fairfax_Metro_exterior.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_CA_SOTM_Fairfax_metro.webp">}}   | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella stazione di Fairfax, sulle delle macerie accanto alla scala mobile est  |
+| {{<figure src="fo3/FO3_CA_SOTM_Fairfax_metro.webp">}}   | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella stazione di Fairfax, sulle delle macerie accanto alla scala mobile est  |

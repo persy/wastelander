@@ -21,11 +21,11 @@ Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria sit
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
-| {{<figure src="Regulator_HQ_loc.webp">}} | {{<figure src="Regulator_HQ.webp">}} |
+| {{<figure src="fo3/Regulator_HQ_loc.webp">}} | {{<figure src="fo3/Regulator_HQ.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                            |
 | ----------------------------------------------------- | -------------------------------------------------------------- |
-| {{<figure src="Guns_and_Bullets_Regulator_HQ.webp">}} | **Pistole e proiettili** sotto il letto, accanto a Sonora Cruz |
+| {{<figure src="fo3/Guns_and_Bullets_Regulator_HQ.webp">}} | **Pistole e proiettili** sotto il letto, accanto a Sonora Cruz |
 
 
 Altri oggetti:

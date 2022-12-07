@@ -22,5 +22,5 @@ Il centro smaltimento materiali pericolosi L5 è un sistema di caverne usate com
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Hazmat_DS_loc_map.webp">}}  | {{<figure src="Hazmat_Disposal_Site_L5_map.webp">}}  |  {{<figure src="HazmatDisposalSite.webp">}} |
+| {{<figure src="fo3/Hazmat_DS_loc_map.webp">}}  | {{<figure src="fo3/Hazmat_Disposal_Site_L5_map.webp">}}  |  {{<figure src="fo3/HazmatDisposalSite.webp">}} |
 

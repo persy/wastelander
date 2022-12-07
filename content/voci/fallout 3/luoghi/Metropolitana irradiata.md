@@ -20,8 +20,8 @@ La metropolitana irradiata fa parte della Linea Blu del sistema metropolitano de
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Irradiated_Metro_loc.webp">}} |  {{<figure src="Metro_Irradiated_Metro 1.webp">}} |  {{<figure src="Irradiated_Metro_(CW) 1.webp">}} |
+|  {{<figure src="fo3/Irradiated_Metro_loc.webp">}} |  {{<figure src="fo3/Metro_Irradiated_Metro 1.webp">}} |  {{<figure src="fo3/Irradiated_Metro_(CW) 1.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_CA_SOTM_Irradiated_Metro.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sopra una consolle, sul lato ovest del seminterrato (A)  |
+| {{<figure src="fo3/FO3_CA_SOTM_Irradiated_Metro.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sopra una consolle, sul lato ovest del seminterrato (A)  |

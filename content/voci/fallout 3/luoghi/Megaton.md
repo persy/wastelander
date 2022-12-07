@@ -21,14 +21,14 @@ Megaton è un insediamento fortificato, costruito attorno a un cratere generato 
 
 | Mappa                               | Mappa locale                             | Panoramica                               |
 | ----------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| {{<figure src="Megaton_loc.webp">}} | {{<figure src="Map_over_Megaton.webp">}} | {{<figure src="Megaton_exterior.webp">}} |
+| {{<figure src="fo3/Megaton_loc.webp">}} | {{<figure src="fo3/Map_over_Megaton.webp">}} | {{<figure src="fo3/Megaton_exterior.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                                                                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Bobblehead_Strength_LSH.webp">}}       | **Bambolina - Forza**, nella casa di Lucas Simms, su una scrivania nella camera da letto al secondo piano                            |
-| {{<figure src="Grognak_the_barbarian_Megaton.webp">}} | **Grognak il barbaro**, nella casa di Jericho, sul pavimento, vicino a un orsacchiotto trafitto da una spada                         |
-| {{<figure src="Nikola_Tesla_and_You_Megaton.png">}}   | **Tu e Nikola Tesla**, nella propria casa dopo aver acquistato il tema "Scienza" da Moira Brown. È nella libreria accanto alle scale |
-| {{<figure src="FO3_LCS_Megaton_Love_Machine.webp">}}  | **Stile da congresso, menzognero**, nella propria casa dopo aver acquistato il tema "Love Machine" da Moira Brown                    |
+| {{<figure src="fo3/Bobblehead_Strength_LSH.webp">}}       | **Bambolina - Forza**, nella casa di Lucas Simms, su una scrivania nella camera da letto al secondo piano                            |
+| {{<figure src="fo3/Grognak_the_barbarian_Megaton.webp">}} | **Grognak il barbaro**, nella casa di Jericho, sul pavimento, vicino a un orsacchiotto trafitto da una spada                         |
+| {{<figure src="fo3/Nikola_Tesla_and_You_Megaton.png">}}   | **Tu e Nikola Tesla**, nella propria casa dopo aver acquistato il tema "Scienza" da Moira Brown. È nella libreria accanto alle scale |
+| {{<figure src="fo3/FO3_LCS_Megaton_Love_Machine.webp">}}  | **Stile da congresso, menzognero**, nella propria casa dopo aver acquistato il tema "Love Machine" da Moira Brown                    |
 
 Altri oggetti:
 - 4 **libri prebellici**, nella casa di Billy Creel (vanno rubati)

@@ -21,12 +21,12 @@ Lo smaltimento rifiuti Fratelli Jalbert è una discarica di rifiuti radioattivi 
 
 | Mappa                                         | Panoramica                                              |
 | --------------------------------------------- | ------------------------------------------------------- |
-| {{<figure src="JB_waste_disposal_loc.webp">}} | {{<figure src="Jalbert_Brothers_Waste_Disposal.webp">}} |
+| {{<figure src="fo3/JB_waste_disposal_loc.webp">}} | {{<figure src="fo3/Jalbert_Brothers_Waste_Disposal.webp">}} |
 
 | Immagine                                                                  | Oggetto e posizione                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="DC_Journal_of_Internal_Medicine_JB_waste_disposal.webp">}} | **Giornale di medicina interna del D.C.**, negli uffici, su uno scaffale nella stanza sud accanto a un kit di pronto soccorso                                                                                                                                                |
-| {{<figure src="JB_Waste_Disposal_office1.webp">}}                         | 2 **Nuka-Cola Quantum**, una è negli uffici, una su una scrivania nella stanza nord; l'altra si trova a nord-ovest degli uffici dall'altra parte di una formazione rocciosa, al di fuori dello smaltimento dei rifiuti, vicino alla parte posteriore di un camion rovesciato |
+| {{<figure src="fo3/DC_Journal_of_Internal_Medicine_JB_waste_disposal.webp">}} | **Giornale di medicina interna del D.C.**, negli uffici, su uno scaffale nella stanza sud accanto a un kit di pronto soccorso                                                                                                                                                |
+| {{<figure src="fo3/JB_Waste_Disposal_office1.webp">}}                         | 2 **Nuka-Cola Quantum**, una è negli uffici, una su una scrivania nella stanza nord; l'altra si trova a nord-ovest degli uffici dall'altra parte di una formazione rocciosa, al di fuori dello smaltimento dei rifiuti, vicino alla parte posteriore di un camion rovesciato |
 
 
 Altri oggetti:

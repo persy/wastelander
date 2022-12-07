@@ -41,11 +41,11 @@ graph TD;
 ```
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="Search_party_log1.webp">}} | **Registro Gruppo di ricerca #1**, in una tomba a L'Enfant Sud  |
+|  {{<figure src="fo3/Search_party_log1.webp">}} | **Registro Gruppo di ricerca #1**, in una tomba a L'Enfant Sud  |
 | TODO  |  **Registro Gruppo di ricerca #2**, in una terminale nell'area dei mercenari di Reilly. È necessaria la password, recuperabile durante la missione *Mercenari di Reilly*, o con Scienza 100 |
-|  {{<figure src="Search_Party_Log_3_pos.webp">}} |  **Registro Gruppo di ricerca #3**, in una tomba a nord del Potomac Bridge, a sud della casa di Dukov |
-| {{<figure src="Search_Party_Log_4_pos.webp">}} | **Registro Gruppo di ricerca #4**, in una tomba a sud-ovest della stazione metropolitana di Jury Street  |
-|  {{<figure src="Searching_for_Cheryl.webp">}}  | Il cadavere di Manny Kock, all'accampamento dei supermutanti a nord di Calverton  |
+|  {{<figure src="fo3/Search_Party_Log_3_pos.webp">}} |  **Registro Gruppo di ricerca #3**, in una tomba a nord del Potomac Bridge, a sud della casa di Dukov |
+| {{<figure src="fo3/Search_Party_Log_4_pos.webp">}} | **Registro Gruppo di ricerca #4**, in una tomba a sud-ovest della stazione metropolitana di Jury Street  |
+|  {{<figure src="fo3/Searching_for_Cheryl.webp">}}  | Il cadavere di Manny Kock, all'accampamento dei supermutanti a nord di Calverton  |
 
 
 

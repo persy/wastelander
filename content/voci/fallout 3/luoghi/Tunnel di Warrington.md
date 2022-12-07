@@ -21,8 +21,8 @@ Il tunnel di Warrington connette la stazione di Warrington e il deposito di Warr
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Warrington_Tunnels_loc.webp">}} | {{<figure src="Metro_Warrington_Tunnels.webp">}}  | {{<figure src="Warrington_tunnels_Trainyard_door.webp">}}  |
+|  {{<figure src="fo3/Warrington_Tunnels_loc.webp">}} | {{<figure src="fo3/Metro_Warrington_Tunnels.webp">}}  | {{<figure src="fo3/Warrington_tunnels_Trainyard_door.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Dean's_Electronics_Warringon_Station.webp">}}  | **Elettronica di Dean**, nel nascondiglio di Roy Phillips, in una stanza chiusa a nord   |
+| {{<figure src="fo3/Dean's_Electronics_Warringon_Station.webp">}}  | **Elettronica di Dean**, nel nascondiglio di Roy Phillips, in una stanza chiusa a nord   |

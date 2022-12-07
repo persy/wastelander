@@ -21,9 +21,9 @@ Il camion di internamento è una località non contrassegnata  e può essere tro
 
 | Mappa                                | Panoramica                               |
 | ------------------------------------ | ---------------------------------------- |
-| {{<figure src="SA_NW_07_loc.webp">}} | {{<figure src="Internment_truck.webp">}} |
+| {{<figure src="fo3/SA_NW_07_loc.webp">}} | {{<figure src="fo3/Internment_truck.webp">}} |
 
 | Immagine                                                    | Oggetto e posizione                                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------- |
-| {{<figure src="FO3_PI_SatCom_Array_07_Intern_truck.webp">}} | **Pugilato illustrato**, all'interno del rimorchio sul pavimento |
-| {{<figure src="Internment_orders_and_PI.webp">}}            | **Ordini di internamento**, vicino all'ingresso del rimorchio    |
+| {{<figure src="fo3/FO3_PI_SatCom_Array_07_Intern_truck.webp">}} | **Pugilato illustrato**, all'interno del rimorchio sul pavimento |
+| {{<figure src="fo3/Internment_orders_and_PI.webp">}}            | **Ordini di internamento**, vicino all'ingresso del rimorchio    |

@@ -21,11 +21,11 @@ Il ripetitore KT8 è una ripetitore e si trova a nord-est del Vault 87 e a sud d
 
 | Mappa                               | Panoramica                                  |
 | ----------------------------------- | ------------------------------------------- |
-| {{<figure src="BT_KT_8_loc.webp">}} | {{<figure src="Broadcast_Tower_KT8.webp">}} |
+| {{<figure src="fo3/BT_KT_8_loc.webp">}} | {{<figure src="fo3/Broadcast_Tower_KT8.webp">}} |
 
 | Immagine                                                      | Oggetto e posizione                                                                                                                                                            |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Fallout_3_Sierra_Romeo_Chinese_Troops.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo** e **munizione nucleare**, nella camera di drenaggio, assieme ai cadaveri di due spie cinesi, sopra e sotto il tavolo |
+| {{<figure src="fo3/Fallout_3_Sierra_Romeo_Chinese_Troops.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo** e **munizione nucleare**, nella camera di drenaggio, assieme ai cadaveri di due spie cinesi, sopra e sotto il tavolo |
 
 Altri oggetti:
 - 2 **libri prebellici**, nella stanza con i terminali dei computer

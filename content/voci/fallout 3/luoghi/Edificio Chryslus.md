@@ -23,20 +23,20 @@ L'edificio Chryslus è un edificio per uffici in rovina situato alla periferia d
 
 | Mappa                                         | Panoramica                                | Interno                                            |
 | --------------------------------------------- | ----------------------------------------- | -------------------------------------------------- |
-| {{<figure src="Chryslus_Building_loc.webp">}} | {{<figure src="Chryslus_building.webp">}} | {{<figure src="Chryslus_building_interior.webp">}} |
+| {{<figure src="fo3/Chryslus_Building_loc.webp">}} | {{<figure src="fo3/Chryslus_building.webp">}} | {{<figure src="fo3/Chryslus_building_interior.webp">}} |
 
 | Mappa locale reception                                       | Mappa locale   uffici inferiori                             | Mappa locale seminterrato                              |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------ |
-| {{<figure src="Chryslus_Building_Reception_Area_map.webp">}} | {{<figure src="Chryslus_Building_Lower_Offices_map.webp">}} | {{<figure src="Chryslus_Building_basement_map.webp">}} |
+| {{<figure src="fo3/Chryslus_Building_Reception_Area_map.webp">}} | {{<figure src="fo3/Chryslus_Building_Lower_Offices_map.webp">}} | {{<figure src="fo3/Chryslus_Building_basement_map.webp">}} |
 
 
 
 
 | Immagine                                                      | Oggetto e posizione                                                                                                                                               |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_PI_Chryslus_Building.webp">}}              | **Pugilato illustrato**, nell'area al piano superiore, in uno dei contenitori bianchi aperti allineati contro il muro sul bancone                                 |
-| {{<figure src="Chryslus_Building_Guns_and_Bullets.webp">}}    | **Pistole e proiettili** e una **Magnum .44 con mirino**, nella parte nord, dietro una porta chiusa (Scasso 50), accanto a una scatola di munizioni, su un tavolo |
-| {{<figure src="Chryslus_Building_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella stanza a nord, su uno scaffale di metallo                                                                                |
+| {{<figure src="fo3/FO3_PI_Chryslus_Building.webp">}}              | **Pugilato illustrato**, nell'area al piano superiore, in uno dei contenitori bianchi aperti allineati contro il muro sul bancone                                 |
+| {{<figure src="fo3/Chryslus_Building_Guns_and_Bullets.webp">}}    | **Pistole e proiettili** e una **Magnum .44 con mirino**, nella parte nord, dietro una porta chiusa (Scasso 50), accanto a una scatola di munizioni, su un tavolo |
+| {{<figure src="fo3/Chryslus_Building_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella stanza a nord, su uno scaffale di metallo                                                                                |
 
 
 Altri oggetti:

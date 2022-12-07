@@ -22,7 +22,7 @@ La caverna di Rock Creek è composta da un grande tunnel metropolitano infestato
 
 | Mappa                                  | Mappa locale                                   | Panoramica                                     |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| {{<figure src="RC_Caverns_loc.webp">}} | {{<figure src="Rock_Creek_Caverns_map.webp">}} | {{<figure src="Rock_Creek_Caverns_ext.webp">}} |
+| {{<figure src="fo3/RC_Caverns_loc.webp">}} | {{<figure src="fo3/Rock_Creek_Caverns_map.webp">}} | {{<figure src="fo3/Rock_Creek_Caverns_ext.webp">}} |
 
 
 Altri oggetti:

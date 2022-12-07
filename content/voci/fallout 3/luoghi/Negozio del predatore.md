@@ -21,10 +21,10 @@ Il negozio del predatore è una località non contrassegnata e si trova in un vi
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
-| {{<figure src="RR_raider_camp_map.webp">}} | {{<figure src="RR_raider_camp.webp">}} |
+| {{<figure src="fo3/RR_raider_camp_map.webp">}} | {{<figure src="fo3/RR_raider_camp.webp">}} |
 
 | Immagine                                                                                    | Oggetto e posizione                            |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **U.S. Army: 30 pratiche ricette per lanciafiamme**, accanto all'armadietto vicino al letto | {{<figure src="USA_30_HFR_Raider_shop.webp">}} |
-| {{<figure src="FO3_GAB_Raider_Shop.webp">}}                                                 | **Pistole e proiettili**, sul bancone          |
+| **U.S. Army: 30 pratiche ricette per lanciafiamme**, accanto all'armadietto vicino al letto | {{<figure src="fo3/USA_30_HFR_Raider_shop.webp">}} |
+| {{<figure src="fo3/FO3_GAB_Raider_Shop.webp">}}                                                 | **Pistole e proiettili**, sul bancone          |
 

@@ -21,10 +21,10 @@ La rivendita auto è una posizione non contrassegnata che si trova a nord-est de
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
-| {{<figure src="Car_Dealership_loc.webp">}} | {{<figure src="Car_Dealership.webp">}} |
+| {{<figure src="fo3/Car_Dealership_loc.webp">}} | {{<figure src="fo3/Car_Dealership.webp">}} |
 
 | Immagine                                           | Oggetto e posizione                                                                                            |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="US_Army_HFR_car_dealership.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nella rimessa, a sinistra dall'ingresso, su un generatore |
+| {{<figure src="fo3/US_Army_HFR_car_dealership.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nella rimessa, a sinistra dall'ingresso, su un generatore |
 
 

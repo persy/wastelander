@@ -21,9 +21,9 @@ Stazione metropolitana Bethesda è situata nelle rovine di Bethesda. L'ingresso 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Bethesda_underworks_loc.webp">}}  |  {{<figure src="Metro_Bethesda_Underworks.webp">}} | {{<figure src="Bethesda_underworks.webp">}}  |
+| {{<figure src="fo3/Bethesda_underworks_loc.webp">}}  |  {{<figure src="fo3/Metro_Bethesda_Underworks.webp">}} | {{<figure src="fo3/Bethesda_underworks.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="Bethesda_underworks_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown**  su una grande pentola di metallo su una panchina  |
-| {{<figure src="Bethesda_underworks_Most_notable_loot.webp">}}  | **Grognak il barbaro**, una **Nuka-Cola Quantum**, una **munizione nucleare**, **Stealth Boy**, nel ripostiglio  |
+|  {{<figure src="fo3/Bethesda_underworks_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown**  su una grande pentola di metallo su una panchina  |
+| {{<figure src="fo3/Bethesda_underworks_Most_notable_loot.webp">}}  | **Grognak il barbaro**, una **Nuka-Cola Quantum**, una **munizione nucleare**, **Stealth Boy**, nel ripostiglio  |

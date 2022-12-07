@@ -21,13 +21,13 @@ La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Meresti_Trainyard_loc.webp">}}  | {{<figure src="Meresti_Metro_Station_loc.webp">}}  | {{<figure src="Meresti_Metro_Station.webp">}}  |
+| {{<figure src="fo3/Meresti_Trainyard_loc.webp">}}  | {{<figure src="fo3/Meresti_Metro_Station_loc.webp">}}  | {{<figure src="fo3/Meresti_Metro_Station.webp">}}  |
 
 | Immagine                                  | Oggetto e posizione                                                                                 |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_LCS_Meresti.webp">}}                 | **Stile da congresso, menzognero**, sotto una scatola in cima alla carrozza del treno               |
-| {{<figure src="Mini_nuke_Meresti_Metro_Station.webp">}} | **Munizione nucleare**, in cima a una sporgenza, sopra a un  banco di lavoro                        |
-| {{<figure src="Vampire's_Edge.webp">}}                  | **Spada del vampiro**, nell'armadietto nella stanza di Vance (la chiave è nell'inventario di Vance) |
+| {{<figure src="fo3/FO3_LCS_Meresti.webp">}}                 | **Stile da congresso, menzognero**, sotto una scatola in cima alla carrozza del treno               |
+| {{<figure src="fo3/Mini_nuke_Meresti_Metro_Station.webp">}} | **Munizione nucleare**, in cima a una sporgenza, sopra a un  banco di lavoro                        |
+| {{<figure src="fo3/Vampire's_Edge.webp">}}                  | **Spada del vampiro**, nell'armadietto nella stanza di Vance (la chiave è nell'inventario di Vance) |
 
 
 Altri oggetti:

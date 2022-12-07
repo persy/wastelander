@@ -20,9 +20,9 @@ La rivendita d'auto Takoma è una piccola officina situata nel Parco Takoma, in 
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
-| {{<figure src="Takoma_Industrial_loc.webp">}}  |    {{<figure src="Takoma_Motor.webp">}} |
+| {{<figure src="fo3/Takoma_Industrial_loc.webp">}}  |    {{<figure src="fo3/Takoma_Motor.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="US_Army_HFR_Takoma_Motor_auto_shop.webp">}}  | **U.S. Army: 30 pratiche ricette per lanciafiamme**, sulla scrivania dietro il bancone, nell'angolo sud-orientale dell'edificio  |
+| {{<figure src="fo3/US_Army_HFR_Takoma_Motor_auto_shop.webp">}}  | **U.S. Army: 30 pratiche ricette per lanciafiamme**, sulla scrivania dietro il bancone, nell'angolo sud-orientale dell'edificio  |
 

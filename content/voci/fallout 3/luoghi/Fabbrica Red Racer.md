@@ -22,16 +22,16 @@ La fabbrica Red Racer è una fabbrica di tricicli Red Racer prebellica alla peri
 
 | Mappa                                  | Mappa locale                                      | Panoramica                                |
 | -------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
-| {{<figure src="RR_Factory_loc.webp">}} | {{<figure src="Red_Racer_factory_loc_map.webp">}} | {{<figure src="Red_Racer_factory.webp">}} |
+| {{<figure src="fo3/RR_Factory_loc.webp">}} | {{<figure src="fo3/Red_Racer_factory_loc_map.webp">}} | {{<figure src="fo3/Red_Racer_factory.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                                                                                                                                                            |
 | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Grognak_the_Barbarian_Red_Racer_factory.webp">}} | **Grognak il barbaro**, a sud della fabbrica, accanto al cadavere di un abitante della Zona contaminata, in un contenitore rovesciato con dei barili irradiati                                 |
-| {{<figure src="US_Army_HFR_Dot's_Diner.webp">}}                 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nel Dot's Diner a ovest della fabbrica                                                                                                    |
-| {{<figure src="Deans_Electronics_Red_Racer_factory.webp">}}     | **Elettronica di Dean**, in cima ai macchinari nella prima sala di assemblaggio a nord dell'ingresso principale. Salta sui barili a ovest della macchina per salire in cima e trovare il libro |
-| {{<figure src="DC_Journal_of_IM_Red_Racer_factory.webp">}}      | **Giornale di medicina interna del D.C.**, sotto un secchio rovesciato tra due generatori, verso la parete orientale della sala riunioni a nord-est vicino al piano superiore                  |
-| {{<figure src="Nikola_Tesla_and_You_Red_Racer_factory.webp">}}  | **Tu e Nikola Tesla**, uffici CEO, su uno scaffale dietro una porta chiusa a chiave, vicino all'ingresso                                                                                       |
-| {{<figure src="RR_factory_bottlecap_mine.webp">}}               | **Mina da tappo**, su un banco da lavoro in un corridoio a nord-est della sala riunioni                                                                                                        |
+| {{<figure src="fo3/Grognak_the_Barbarian_Red_Racer_factory.webp">}} | **Grognak il barbaro**, a sud della fabbrica, accanto al cadavere di un abitante della Zona contaminata, in un contenitore rovesciato con dei barili irradiati                                 |
+| {{<figure src="fo3/US_Army_HFR_Dot's_Diner.webp">}}                 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nel Dot's Diner a ovest della fabbrica                                                                                                    |
+| {{<figure src="fo3/Deans_Electronics_Red_Racer_factory.webp">}}     | **Elettronica di Dean**, in cima ai macchinari nella prima sala di assemblaggio a nord dell'ingresso principale. Salta sui barili a ovest della macchina per salire in cima e trovare il libro |
+| {{<figure src="fo3/DC_Journal_of_IM_Red_Racer_factory.webp">}}      | **Giornale di medicina interna del D.C.**, sotto un secchio rovesciato tra due generatori, verso la parete orientale della sala riunioni a nord-est vicino al piano superiore                  |
+| {{<figure src="fo3/Nikola_Tesla_and_You_Red_Racer_factory.webp">}}  | **Tu e Nikola Tesla**, uffici CEO, su uno scaffale dietro una porta chiusa a chiave, vicino all'ingresso                                                                                       |
+| {{<figure src="fo3/RR_factory_bottlecap_mine.webp">}}               | **Mina da tappo**, su un banco da lavoro in un corridoio a nord-est della sala riunioni                                                                                                        |
 
 *Vedi [Negozio del predatore](../negozio-del-predatore)*
 

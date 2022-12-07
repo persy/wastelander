@@ -20,10 +20,10 @@ La centrale elettrica VAPL-84 si trova a nord dell'Impianto RobCo e a sud-est di
 
 | Mappa                    | Panoramica                     |
 | ------------------------ | ------------------------------ |
-| {{<figure src="VAPL_84_PS_loc.webp">}} | {{<figure src="VAPL84_power_station.webp">}} |
+| {{<figure src="fo3/VAPL_84_PS_loc.webp">}} | {{<figure src="fo3/VAPL84_power_station.webp">}} |
 
 | Immagine                                  | Oggetto e posizione                                                                      |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------- |
-| {{<figure src="VAPL-84_power_station_mini_nuke.webp">}} | **Munizione nucleare**, in un rimorchio appena fuori dalla recinzione sud della stazione |
+| {{<figure src="fo3/VAPL-84_power_station_mini_nuke.webp">}} | **Munizione nucleare**, in un rimorchio appena fuori dalla recinzione sud della stazione |
 
 

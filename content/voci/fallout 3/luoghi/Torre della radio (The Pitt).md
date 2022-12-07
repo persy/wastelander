@@ -21,11 +21,11 @@ La torre della radio The Pitt è una località aggiunta dal DLC *The Pitt* ed è
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
-| {{<figure src="Radio_tower_loc.webp">}} | {{<figure src="Radio_Tower.webp">}} |
+| {{<figure src="fo3/Radio_tower_loc.webp">}} | {{<figure src="fo3/Radio_Tower.webp">}} |
 
 | Immagine                                           | Oggetto e posizione                                                                                                                                                                |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="DC_Journal_of_IM_MDPL_21_PS.jpg">}} | **Giornale di medicina interna del DC**, a est della torre radio e a nord della centrale elettrica MDPL-21, vicino a una grande pozza d'acqua con barili radioattivi, su un tavolo |
+| {{<figure src="fo3/DC_Journal_of_IM_MDPL_21_PS.jpg">}} | **Giornale di medicina interna del DC**, a est della torre radio e a nord della centrale elettrica MDPL-21, vicino a una grande pozza d'acqua con barili radioattivi, su un tavolo |
 
 
 Note:

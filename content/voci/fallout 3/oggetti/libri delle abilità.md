@@ -448,16 +448,16 @@ Nota che, a seconda delle tue scelte di gioco, una copia dei seguenti libri di a
 | Centrale elettrica VAPL-58            | Sul tetto, vicino alla pistola BB.                                                                                                                                                                                                                                                                                   |
 | Armeria di Wheaton                    | In una stanza piena di armi al piano inferiore dietro una porta molto dura o un terminale molto duro.                                                                                                                                                                                                                |
 
-{{<figure src="Big_Book_of_Science.webp">}}
-{{<figure src="Chinese_Army-_Special_Ops_Training_Manual.webp">}}
-{{<figure src="D_C_Journal_of_Internal_Medicine.webp">}}
-{{<figure src="Dean's_Electronics.webp">}}
-{{<figure src="Duck_and_Cover.webp">}}
-{{<figure src="Grognak_the_barbarian_item.webp">}}
-{{<figure src="Guns_and_Bullets.webp">}}
-{{<figure src="Lying,_Congressional_Style.webp">}}
-{{<figure src="Nikola_Tesla_and_You.webp">}}
-{{<figure src="Pugilism_Illustrated.webp">}}
-{{<figure src="Tales_of_a_Junktown_Jerky_Vendor.webp">}}
-{{<figure src="Tumblers_Today.webp">}}
-{{<figure src="US_Army_30_Handy_Flamethrower_Recipes.webp">}}
+{{<figure src="fo3/Big_Book_of_Science.webp">}}
+{{<figure src="fo3/Chinese_Army-_Special_Ops_Training_Manual.webp">}}
+{{<figure src="fo3/D_C_Journal_of_Internal_Medicine.webp">}}
+{{<figure src="fo3/Dean's_Electronics.webp">}}
+{{<figure src="fo3/Duck_and_Cover.webp">}}
+{{<figure src="fo3/Grognak_the_barbarian_item.webp">}}
+{{<figure src="fo3/Guns_and_Bullets.webp">}}
+{{<figure src="fo3/Lying,_Congressional_Style.webp">}}
+{{<figure src="fo3/Nikola_Tesla_and_You.webp">}}
+{{<figure src="fo3/Pugilism_Illustrated.webp">}}
+{{<figure src="fo3/Tales_of_a_Junktown_Jerky_Vendor.webp">}}
+{{<figure src="fo3/Tumblers_Today.webp">}}
+{{<figure src="fo3/US_Army_30_Handy_Flamethrower_Recipes.webp">}}

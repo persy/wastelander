@@ -21,7 +21,7 @@ Il molo dello sciacallo è una località non contrassegnata e si trova a sud del
 
 | Mappa                                       | Panoramica                             |
 | ------------------------------------------- | -------------------------------------- |
-| {{<figure src="Scavengers_dock_loc.webp">}} | {{<figure src="ScavengersDock.webp">}} |
+| {{<figure src="fo3/Scavengers_dock_loc.webp">}} | {{<figure src="fo3/ScavengersDock.webp">}} |
 
 
 Altri oggetti:

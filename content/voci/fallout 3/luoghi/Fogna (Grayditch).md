@@ -22,4 +22,4 @@ Questa fogna è un luogo non contrassegnato costituita da una piccola serie  di 
 
 | Mappa                                       | Mappa locale                                        | Panoramica                                       |
 | ------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ |
-| {{<figure src="Sewer_Grayditch_loc.webp">}} | {{<figure src="Sewer_(Grayditch)_Local_Map.webp">}} | {{<figure src="Sewer_Grayditch_exterior.webp">}} |
+| {{<figure src="fo3/Sewer_Grayditch_loc.webp">}} | {{<figure src="fo3/Sewer_(Grayditch)_Local_Map.webp">}} | {{<figure src="fo3/Sewer_Grayditch_exterior.webp">}} |

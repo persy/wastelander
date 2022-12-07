@@ -22,8 +22,8 @@ Il cimitero di Arlington occupa la maggior parte di quello che resta del distret
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Arlington_Cemetery_loc.webp">}}  | {{<figure src="Arlington_Cemetery_map.webp">}}  | {{<figure src="Arlington_Cemetery.webp">}}  |
+| {{<figure src="fo3/Arlington_Cemetery_loc.webp">}}  | {{<figure src="fo3/Arlington_Cemetery_map.webp">}}  | {{<figure src="fo3/Arlington_Cemetery.webp">}}  |
 
 | Immagine                 | Oggetto e posizione                                                                                                                                                           | 
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Dead_Regulator.webp">}} | **Avviso taglia: Junders Plunkett**, sul cadavere di un giustiziere all'ingresso della stazione settentrionale di Arlington. È necessaria l'abilità extra Portatore di legge |
+| {{<figure src="fo3/Dead_Regulator.webp">}} | **Avviso taglia: Junders Plunkett**, sul cadavere di un giustiziere all'ingresso della stazione settentrionale di Arlington. È necessaria l'abilità extra Portatore di legge |

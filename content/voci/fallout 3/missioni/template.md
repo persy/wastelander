@@ -11,13 +11,12 @@ title: TODO
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
-tags: "Missioni nascoste di Fallout 3"
+tags: "Missioni di TODO"
 hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-*TODO* è una missione nascosta e ripetibile di Fallout 3. È data da TODO a TODO.
-
+*TODO* è una missione del DLC *Broken Steel* di Fallout 3. È data da TODO a TODO.
 
 
 ```mermaid
@@ -43,6 +42,22 @@ graph TD;
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+| Tappe |       Stato        | Descrizione |
+| :---: | :----------------: | ----------- |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       |                    |             |
+|       | :white_check_mark: |             |
+
+
+
 
 Note:
 - 

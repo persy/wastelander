@@ -18,4 +18,7 @@ tags: "Luoghi di Fallout 3"
 
 TODO
 
-{{< toc hide_on="xl" >}}
+- [Metro incrocio di Bailey](/metro-incrocio-di-bailey-operation-anchorage)
+- [Avamposto Rinnegati](avamposto-rinnegati-operation-anchorage)
+- Simulazione della liberazione di Anchorage
+

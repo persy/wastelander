@@ -21,7 +21,7 @@ Il molo di Wilhelm, noto anche come Captain Paglia Dockside Bar & Grill, è un p
 
 | Mappa                                      | Mappa locale                                      | Panoramica                             |
 | ------------------------------------------ | ------------------------------------------------- | -------------------------------------- |
-| {{<figure src="Wilhelms_Wharf_loc.webp">}} | {{<figure src="Wilhelm's_Wharf_Local_Map.webp">}} | {{<figure src="Wilhelms_Wharf.webp">}} |
+| {{<figure src="fo3/Wilhelms_Wharf_loc.webp">}} | {{<figure src="fo3/Wilhelm's_Wharf_Local_Map.webp">}} | {{<figure src="fo3/Wilhelms_Wharf.webp">}} |
 
 
 

@@ -20,8 +20,8 @@ Il Trono del Re degli scarafaggi è una località non contrassegnata situata a n
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Roach_King_throne_loc.webp">}} | {{<figure src="Roach_King_Throne.webp">}} |
+| {{<figure src="fo3/Roach_King_throne_loc.webp">}} | {{<figure src="fo3/Roach_King_Throne.webp">}} |
 
 | Immagine                                    | Oggetto e posizione                                         |
 | ------------------------------------------- | ----------------------------------------------------------- |
-| {{<figure src="Roach_King_treasure.webp">}} | **Munizione nucleare**, nascosta all'interno del Red Rocket |
+| {{<figure src="fo3/Roach_King_treasure.webp">}} | **Munizione nucleare**, nascosta all'interno del Red Rocket |

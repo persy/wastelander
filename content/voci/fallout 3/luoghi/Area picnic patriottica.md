@@ -20,7 +20,7 @@ L'area picnic patriottica è una località non contrassegnata situata a nord-est
 
 | Mappa                   | Panoramica                      |
 | ----------------------- | ------------------------------- |
-| {{<figure src="Vault_106_loc.webp">}} | {{<figure src="Patriotic_Picnic_Area.webp">}} |
+| {{<figure src="fo3/Vault_106_loc.webp">}} | {{<figure src="fo3/Patriotic_Picnic_Area.webp">}} |
 
 
 

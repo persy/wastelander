@@ -21,10 +21,10 @@ Il nascondiglio di Hamilton è una piccola caverna a nord del cinema all'aperto 
 
 | Mappa                                          | Mappa locale                                       | Panoramica                                  |
 | ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Hamiltons_Hideaway_loc.webp">}} | {{<figure src="Hamiltons_hideaway_loc_map.webp">}} | {{<figure src="Hamilton's_Hideaway.webp">}} |
+| {{<figure src="fo3/Hamiltons_Hideaway_loc.webp">}} | {{<figure src="fo3/Hamiltons_hideaway_loc_map.webp">}} | {{<figure src="fo3/Hamilton's_Hideaway.webp">}} |
 
 | Immagine                                                    | Oggetto e posizione                                               |
 | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover!_Hamilton's_hideaway.webp">}} | **Al riparo!** e una **Nuka-Cola Quantum**, su un bancone bancone |
-| {{<figure src="Hamiltons_hideaway_bottlecap_mine.webp">}}   | **Mina da tappo**, su un banco da lavoro                          |
+| {{<figure src="fo3/Duck_and_Cover!_Hamilton's_hideaway.webp">}} | **Al riparo!** e una **Nuka-Cola Quantum**, su un bancone bancone |
+| {{<figure src="fo3/Hamiltons_hideaway_bottlecap_mine.webp">}}   | **Mina da tappo**, su un banco da lavoro                          |
 

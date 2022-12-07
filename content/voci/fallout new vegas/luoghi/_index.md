@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Luoghi
+linktitle: Luoghi del Mojave
 summary: 'TODO'
 weight: 20
 icon: map-location-dot
 icon_pack: fas
 
 # Page metadata.
-title: Luoghi
+title: Luoghi del Mojave
 date: 2022-11-15
 type: book # Do not modify.
 hidden: false # Visibile nella sidebar
@@ -24,9 +24,9 @@ TODO
 
 - [DLC](dlc)
     - [Dead Money](dlc-anchorage) TODO
-    - [Broken Steel](dlc-broken-steel) TODO
-    - [The Pitt](dlc-the-pitt) TODO
-    - [Point Lookout](dlc-point-lookout) TODO
-    - [Mothership Zeta](dlc-mothership-zeta) TODO
+    - [Honest hearts](dlc-honest-hearts) TODO
+    - [Old World Blues](dlc-old-world-blues) TODO
+    - [Lonesome Road](dlc-lonesome-road) TODO
+
 
 TODO: Inserire mappa

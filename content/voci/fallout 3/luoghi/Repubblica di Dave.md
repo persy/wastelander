@@ -21,12 +21,12 @@ La Repubblica di Dave è un piccolo insediamento agricolo nell'estremo angolo no
 
 | Mappa                                        | Mappa locale                                     | Panoramica                               |
 | -------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
-| {{<figure src="Republic_of_Dave_loc.webp">}} | {{<figure src="Republic_of_Dave_loc_map.webp">}} | {{<figure src="Republic_of_Dave.webp">}} |
+| {{<figure src="fo3/Republic_of_Dave_loc.webp">}} | {{<figure src="fo3/Republic_of_Dave_loc_map.webp">}} | {{<figure src="fo3/Republic_of_Dave.webp">}} |
 
 | Immagine                                          | Oggetto e posizione                                                         |
 | ------------------------------------------------- | --------------------------------------------------------------------------- |
-| {{<figure src="RoD_Perception_bobblehead.webp">}} | **Bambolina - Percezione** , su uno scaffale all'interno del museo          |
-| {{<figure src="DavesOffice_Safe.webp">}}          | **Nuka-Cola Quantum**, in cima a una cassaforte nel campidoglio (va rubato) |
+| {{<figure src="fo3/RoD_Perception_bobblehead.webp">}} | **Bambolina - Percezione** , su uno scaffale all'interno del museo          |
+| {{<figure src="fo3/DavesOffice_Safe.webp">}}          | **Nuka-Cola Quantum**, in cima a una cassaforte nel campidoglio (va rubato) |
 	
 Altri oggetti:
 - **L'indolore**, in una cassaforte nel campidoglio o nell'inventario di Dave

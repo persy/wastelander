@@ -21,8 +21,8 @@ Il tunnel di servizio di Meresti è il tunnel di accesso che collega il deposito
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Meresti_Trainyard_loc.webp">}}  | {{<figure src="Meresti_service_tunnel_map.webp">}}  | {{<figure src="Meresti_service_tunnel.webp">}}  |
+| {{<figure src="fo3/Meresti_Trainyard_loc.webp">}}  | {{<figure src="fo3/Meresti_service_tunnel_map.webp">}}  | {{<figure src="fo3/Meresti_service_tunnel.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Meresti_service_tunnel_Tumblers.webp">}}  | **Lo scassinatore moderno**, sul tavolo al posto di guardia, vicino una radio   |
+| {{<figure src="fo3/Meresti_service_tunnel_Tumblers.webp">}}  | **Lo scassinatore moderno**, sul tavolo al posto di guardia, vicino una radio   |

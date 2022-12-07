@@ -20,11 +20,11 @@ La cappella del tabernacolo di Dickerson è una chiesa in rovina nell'angolo nor
 
 | Mappa                                    | Panoramica                                          |
 | ---------------------------------------- | --------------------------------------------------- |
-| {{<figure src="Dickerson_TC_loc.webp">}} | {{<figure src="Dickerson_Tabernacle_Chapel.webp">}} |
+| {{<figure src="fo3/Dickerson_TC_loc.webp">}} | {{<figure src="fo3/Dickerson_Tabernacle_Chapel.webp">}} |
 
 | Immagine                                                             | Oggetto e posizione                                                                           |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| {{<figure src="The_Drifter's_sniper_nest.webp">}}                    | **Fucile da riservista** e l'olonastro **coordinate dell'Oasi**, nell'inventario del cecchino |
-| {{<figure src="Dickerson_Tabernacle_Chapel_Guns_and_Bullets.webp">}} | **Pistole e proiettili** a terra, accanto a diverse scatole di munizioni                      |
+| {{<figure src="fo3/The_Drifter's_sniper_nest.webp">}}                    | **Fucile da riservista** e l'olonastro **coordinate dell'Oasi**, nell'inventario del cecchino |
+| {{<figure src="fo3/Dickerson_Tabernacle_Chapel_Guns_and_Bullets.webp">}} | **Pistole e proiettili** a terra, accanto a diverse scatole di munizioni                      |
 
 

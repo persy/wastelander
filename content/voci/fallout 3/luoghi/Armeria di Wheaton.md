@@ -20,12 +20,12 @@ L'armeria di Wheaton è una località non contrassegnata e si trova ad est del S
 
 | Mappa                        | Mappa locale                 | Panoramica                         |
 | ---------------------------- | ---------------------------- | ---------------------------------- |
-| {{<figure src="Wheaton_Armory_loc.webp">}} | {{<figure src="Wheaton_armory_map.webp">}} | {{<figure src="Fallout_3_Wheaton_Armory.webp">}} |
+| {{<figure src="fo3/Wheaton_Armory_loc.webp">}} | {{<figure src="fo3/Wheaton_armory_map.webp">}} | {{<figure src="fo3/Fallout_3_Wheaton_Armory.webp">}} |
 
 
 
 
 | Immagine                                                    | Oggetto e posizione                                                                                                           | 
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="US_Army_Handy_Flamethrower_Recipes_Wheaton_Armory.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, dietro una porta chiusa (Scasso/Scienza 100), vicino a dei lanciamissili |
+| {{<figure src="fo3/US_Army_Handy_Flamethrower_Recipes_Wheaton_Armory.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, dietro una porta chiusa (Scasso/Scienza 100), vicino a dei lanciamissili |
 

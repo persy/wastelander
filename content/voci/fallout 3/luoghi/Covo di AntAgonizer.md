@@ -20,11 +20,11 @@ Il covo di AntAgonizer è il nascondiglio dell'AntAgonizer e si trova a nord-ove
 
 | Mappa                           | Mappa locale                           | Panoramica                           |
 | ------------------------------- | -------------------------------------- | ------------------------------------ |
-| {{<figure src="AntAgonizers_Lair_loc.webp">}} | {{<figure src="Antagonizer's_lair_local_map.webp">}} | {{<figure src="AntAgonizers_lair_exterior.webp">}} |
+| {{<figure src="fo3/AntAgonizers_Lair_loc.webp">}} | {{<figure src="fo3/Antagonizer's_lair_local_map.webp">}} | {{<figure src="fo3/AntAgonizers_lair_exterior.webp">}} |
 
 | Immagine                        | Oggetto e posizione                                    |
 | ------------------------------- | ------------------------------------------------------ |
-| {{<figure src="AntAgonizer_on_throne.webp">}} | **Nuka-Cola Quantum**, accanto al trono di AntAgonizer |
+| {{<figure src="fo3/AntAgonizer_on_throne.webp">}} | **Nuka-Cola Quantum**, accanto al trono di AntAgonizer |
 
 Altri oggetti:
 - **Stealth Boy**, su uno scaffale con delle scatole di metallo

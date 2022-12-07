@@ -21,8 +21,8 @@ La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Dry_sewers_loc.webp">}}  |  {{<figure src="Dry_sewer_loc_map.webp">}} | {{<figure src="Dry_sewers.webp">}}  |
+| {{<figure src="fo3/Dry_sewers_loc.webp">}}  |  {{<figure src="fo3/Dry_sewer_loc_map.webp">}} | {{<figure src="fo3/Dry_sewers.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Dean's_Electronics_dry_sewer.webp">}}  | **Elettronica di Dean**, in un ripostiglio a sud dello svincolo fognaro, su degli scaffali  |
+| {{<figure src="fo3/Dean's_Electronics_dry_sewer.webp">}}  | **Elettronica di Dean**, in un ripostiglio a sud dello svincolo fognaro, su degli scaffali  |

@@ -20,7 +20,7 @@ Il campo da baseball Fordham Flash è un campo da baseball e si trova a est di A
 
 | Mappa                                         | Panoramica                                           |
 | --------------------------------------------- | ---------------------------------------------------- |
-| {{<figure src="FF_Memorial_Field_loc.webp">}} | {{<figure src="Fordham_Flash_Memorial_Field.webp">}} |
+| {{<figure src="fo3/FF_Memorial_Field_loc.webp">}} | {{<figure src="fo3/Fordham_Flash_Memorial_Field.webp">}} |
 
 
 

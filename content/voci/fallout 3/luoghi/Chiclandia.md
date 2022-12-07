@@ -22,8 +22,8 @@ Chiclandia è un banco dei pegni e si trova al Parco Takoma, in Washington, D.C.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
-| {{<figure src="Takoma_Industrial_loc.webp">}}  |   {{<figure src="Nifty_Trifty_exterior.webp">}}   |
+| {{<figure src="fo3/Takoma_Industrial_loc.webp">}}  |   {{<figure src="fo3/Nifty_Trifty_exterior.webp">}}   |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Nifty_Thrifty_interior.webp">}}  | **Berretto giocatore junior Parco Takoma**, su un appendino  |
+| {{<figure src="fo3/Nifty_Thrifty_interior.webp">}}  | **Berretto giocatore junior Parco Takoma**, su un appendino  |

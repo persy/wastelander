@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Personaggio
+linktitle: "Corriere"
 summary: ''
 weight: 10
 icon: user
 icon_pack: fas
 
 # Page metadata.
-title: Personaggio
+title: "Corriere"
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true

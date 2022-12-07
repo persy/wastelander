@@ -22,7 +22,7 @@ Il campo dei predatori dell'autostrada è una fortezza dei predoni in cima a un'
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
-| {{<figure src="Raider_highway_loc.webp">}} | {{<figure src="Raider_highway.webp">}} |
+| {{<figure src="fo3/Raider_highway_loc.webp">}} | {{<figure src="fo3/Raider_highway.webp">}} |
 
 
 

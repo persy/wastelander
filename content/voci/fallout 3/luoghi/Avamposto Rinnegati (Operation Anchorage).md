@@ -20,14 +20,14 @@ L'avamposto Rinnegati è un piccolo complesso dei Rinnegati della Confraternita 
 
 | Mappa                         | Mappa locale                  | Panoramica                |
 | ----------------------------- | ----------------------------- | ------------------------- |
-| {{<figure src="Outcast_Outpost_loc.webp">}} | {{<figure src="Outcast_Outpost_map.webp">}} | {{<figure src="Outcast_Outpost.webp">}} |
+| {{<figure src="fo3/Outcast_Outpost_loc.webp">}} | {{<figure src="fo3/Outcast_Outpost_map.webp">}} | {{<figure src="fo3/Outcast_Outpost.webp">}} |
 
 | Immagine                     | Oggetto e posizione                                                                                        |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_sealed_armory3.webp">}} | **Spada folgorante di Jingwei**, **coltello baionetta**, nell'armeria dopo aver completato la simulazione  |
-| {{<figure src="FO3_sealed_armory5.webp">}} | **Armatura atomica T-51b invernale**, nell'armeria dopo aver completato la simulazione                     |
-| {{<figure src="FO3_sealed_armory4.webp">}} | **Armatura furtiva cinese** e una **munizione nucleare**, nell'armeria dopo aver completato la simulazione |
-| {{<figure src="FO3_sealed_armory2.webp">}} | **Fucile Gauss***, nell'armeria dopo aver completato la simulazione                                        |
+| {{<figure src="fo3/FO3_sealed_armory3.webp">}} | **Spada folgorante di Jingwei**, **coltello baionetta**, nell'armeria dopo aver completato la simulazione  |
+| {{<figure src="fo3/FO3_sealed_armory5.webp">}} | **Armatura atomica T-51b invernale**, nell'armeria dopo aver completato la simulazione                     |
+| {{<figure src="fo3/FO3_sealed_armory4.webp">}} | **Armatura furtiva cinese** e una **munizione nucleare**, nell'armeria dopo aver completato la simulazione |
+| {{<figure src="fo3/FO3_sealed_armory2.webp">}} | **Fucile Gauss***, nell'armeria dopo aver completato la simulazione                                        |
  
 
 

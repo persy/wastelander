@@ -20,12 +20,12 @@ La baracca abbandonata, conosciuta anche come baracca del cecchino, è un edific
 
 | Mappa                      | Panoramica             |
 | -------------------------- | ---------------------- |
-| {{<figure src="Sniper_shack_loc.webp">}} | {{<figure src="Sniper_Shack.webp">}} |
+| {{<figure src="fo3/Sniper_shack_loc.webp">}} | {{<figure src="fo3/Sniper_Shack.webp">}} |
 
 | Immagine                          | Oggetto e posizione                                                                                                                                                                   |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_GAB_Sniper_Shack.webp">}}    | **Pistole e proiettili**, **libro prebellico** e **Fucile della vittoria**, sul tavolino e all'interno dell'armadietto chiuso (Scasso 100); è possibile usare Dogmeat per recuperarlo |
-| {{<figure src="FO3_Sniper_Shack_Keller.webp">}} | **Elettronica di Dean**, **trascrizione famiglia Keller 4 di 5** e **mina da tappo**, sopra e nei pressi del banco da lavoro                                                          |
+| {{<figure src="fo3/FO3_GAB_Sniper_Shack.webp">}}    | **Pistole e proiettili**, **libro prebellico** e **Fucile della vittoria**, sul tavolino e all'interno dell'armadietto chiuso (Scasso 100); è possibile usare Dogmeat per recuperarlo |
+| {{<figure src="fo3/FO3_Sniper_Shack_Keller.webp">}} | **Elettronica di Dean**, **trascrizione famiglia Keller 4 di 5** e **mina da tappo**, sopra e nei pressi del banco da lavoro                                                          |
 
  
  Altri oggetti:

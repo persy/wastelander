@@ -20,9 +20,9 @@ Alimentari da Willy è un minimarket situato ad est della Torre Tenpenny.
 
 | Mappa                       | Panoramica              |
 | --------------------------- | ----------------------- |
-| {{<figure src="Willys_grocer_loc.webp">}} | {{<figure src="Willys_grocer.webp">}} |
+| {{<figure src="fo3/Willys_grocer_loc.webp">}} | {{<figure src="fo3/Willys_grocer.webp">}} |
 
 | Immagine                       | Oggetto e posizione                                                                                   | 
 | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| {{<figure src="Tales_of_a_JJV_Willys.jpg">}} | **Racconti di un venditore di carne di Junktown**, accanto al registratore di destra                  |
-| {{<figure src="FO3_TT_Tenpenny.webp">}}      | **Lo scassinatore moderno**, in un edificio in rovina a sud, su una mensola di legno al secondo piano |
+| {{<figure src="fo3/Tales_of_a_JJV_Willys.jpg">}} | **Racconti di un venditore di carne di Junktown**, accanto al registratore di destra                  |
+| {{<figure src="fo3/FO3_TT_Tenpenny.webp">}}      | **Lo scassinatore moderno**, in un edificio in rovina a sud, su una mensola di legno al secondo piano |

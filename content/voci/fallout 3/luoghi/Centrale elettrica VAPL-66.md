@@ -20,12 +20,12 @@ La centrale elettrica VAPL-66 si trova a sud-ovest dell'aea di ristoro e riforni
 
 | Mappa                    | Panoramica                      |
 | ------------------------ | ------------------------------- |
-| {{<figure src="VAPL_66_PS_loc.webp">}} | {{<figure src="VAPL-66_Power_Station.webp">}} |
+| {{<figure src="fo3/VAPL_66_PS_loc.webp">}} | {{<figure src="fo3/VAPL-66_Power_Station.webp">}} |
 
 | Immagine                                       | Oggetto e posizione                                                                                                                                        |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="VAPL-66_power_station_office.webp">}}         | **Elettronica di Dean**, **munizione nucleare** e **bombe di zucchero**, sulla scrivania a forma di L e sul pavimento, direttamente di fronte all'ingresso |
-| {{<figure src="Duck_and_Cover!_Signal_Sierra_Victor.webp">}} | **Al riparo!**, **munizione nucleare** e **mina da tappo**, su un tavolo e su un banco da lavoro, nella camera sigillata a ovest                           |
+| {{<figure src="fo3/VAPL-66_power_station_office.webp">}}         | **Elettronica di Dean**, **munizione nucleare** e **bombe di zucchero**, sulla scrivania a forma di L e sul pavimento, direttamente di fronte all'ingresso |
+| {{<figure src="fo3/Duck_and_Cover!_Signal_Sierra_Victor.webp">}} | **Al riparo!**, **munizione nucleare** e **mina da tappo**, su un tavolo e su un banco da lavoro, nella camera sigillata a ovest                           |
 
 
 

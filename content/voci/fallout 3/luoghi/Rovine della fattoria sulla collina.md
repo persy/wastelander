@@ -22,11 +22,11 @@ Le rovine della fattoria sulla collina sono un luogo non contrassegnato della Zo
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
-| {{<figure src="Hilltop_Farm_Ruins_loc.webp">}} | {{<figure src="Hilltop_Farm_Ruins.webp">}} |
+| {{<figure src="fo3/Hilltop_Farm_Ruins_loc.webp">}} | {{<figure src="fo3/Hilltop_Farm_Ruins.webp">}} |
 
 | Immagine                                                                   | Oggetto e posizione                                                                                  |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| {{<figure src="Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina                                                              |
-| {{<figure src="Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, sopra un barile rovesciato di scorie radioattive, nella pozza d'acqua a est |
+| {{<figure src="fo3/Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina                                                              |
+| {{<figure src="fo3/Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, sopra un barile rovesciato di scorie radioattive, nella pozza d'acqua a est |
 
 

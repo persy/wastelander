@@ -22,15 +22,15 @@ Paradise Falls è il quartier generale per tutte le attività degli schiavisti d
 
 | Mappa                                      | Mappa locale                                   | Panoramica                             |
 | ------------------------------------------ | ---------------------------------------------- | -------------------------------------- |
-| {{<figure src="Paradise_Falls_loc.webp">}} | {{<figure src="Paradise_Falls_loc_map.webp">}} | {{<figure src="Paradise_Falls.webp">}} |
+| {{<figure src="fo3/Paradise_Falls_loc.webp">}} | {{<figure src="fo3/Paradise_Falls_loc_map.webp">}} | {{<figure src="fo3/Paradise_Falls.webp">}} |
 
 | Immagine                                    | Oggetto e posizione                                                                                        |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Slavers_Speech.webp">}}      | **Bambolina - Eloquenza**, nella casa di Eulogy, sul tavolo accanto al terminale                           |
-| {{<figure src="V_77_Suit_and_Tape.webp">}}  | **Tuta del Vault 77** , su uno scaffale all'interno della caserma degli schiavisti, insieme a un olonastro |
-| {{<figure src="FindingTheBreak.webp">}}     | **La spaccata**, sul tavolo da biliardo appena fuori dalla casa di Eulogy                                  |
-| {{<figure src="Eulogy_Jones_hat_PF.webp">}} | **Cappello di Eulogy Jones**, sul tavolo col proiettore all'interno dalla casa di Eulogy                   |
-| {{<figure src="NCQ_Paradise_Falls.jpg">}}   | 5 **Nuka-Cola Quantum**, nella casa di Eulogy, in una cassa sotto le scale (vanno rubate)                  |
+| {{<figure src="fo3/Slavers_Speech.webp">}}      | **Bambolina - Eloquenza**, nella casa di Eulogy, sul tavolo accanto al terminale                           |
+| {{<figure src="fo3/V_77_Suit_and_Tape.webp">}}  | **Tuta del Vault 77** , su uno scaffale all'interno della caserma degli schiavisti, insieme a un olonastro |
+| {{<figure src="fo3/FindingTheBreak.webp">}}     | **La spaccata**, sul tavolo da biliardo appena fuori dalla casa di Eulogy                                  |
+| {{<figure src="fo3/Eulogy_Jones_hat_PF.webp">}} | **Cappello di Eulogy Jones**, sul tavolo col proiettore all'interno dalla casa di Eulogy                   |
+| {{<figure src="fo3/NCQ_Paradise_Falls.jpg">}}   | 5 **Nuka-Cola Quantum**, nella casa di Eulogy, in una cassa sotto le scale (vanno rubate)                  |
 
 Altri oggetti:
 - **Libro prebellico**, su un tavolo nella casa degli schiavi

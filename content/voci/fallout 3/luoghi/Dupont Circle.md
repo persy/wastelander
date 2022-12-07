@@ -22,12 +22,12 @@ Il distretto di Dupont Circle si trova nella parte settentrionale di Washington,
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Dupont_loc.webp">}} | {{<figure src="Dupont_Circle_map.webp">}}  |  {{<figure src="Dupont_Circle.webp">}} |
+|  {{<figure src="fo3/Dupont_loc.webp">}} | {{<figure src="fo3/Dupont_Circle_map.webp">}}  |  {{<figure src="fo3/Dupont_Circle.webp">}} |
 
 | Immagine                                      | Oggetto e posizione                                                                                                                                                |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Tales_of_a_JJV_Frumpertons_Fashions.webp">}} | **Racconti di un venditore di carne di Junktown**, Lady Frumperton's Fashions, tra la stazione Dupont e Dupont Est, dietro una scrivania, in cima a una cassaforte |
-| {{<figure src="Stealth_Boy_Dupont_Circle.jpg">}}            | **Stealth Boy** e un **libro prebellico**, nel piano superiore di una casa occupata dai predatori, su una libreria                                           |
+| {{<figure src="fo3/Tales_of_a_JJV_Frumpertons_Fashions.webp">}} | **Racconti di un venditore di carne di Junktown**, Lady Frumperton's Fashions, tra la stazione Dupont e Dupont Est, dietro una scrivania, in cima a una cassaforte |
+| {{<figure src="fo3/Stealth_Boy_Dupont_Circle.jpg">}}            | **Stealth Boy** e un **libro prebellico**, nel piano superiore di una casa occupata dai predatori, su una libreria                                           |
 
 Altri oggetti:
 -

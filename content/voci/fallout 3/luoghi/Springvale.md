@@ -22,9 +22,9 @@ Springvale è costituita da una serie di case in rovine, subito a est del Vault 
 
 | Mappa                                  | Panoramica                                     |
 | -------------------------------------- | ---------------------------------------------- |
-| {{<figure src="Springvale_loc.webp">}} | {{<figure src="Springvale_aerial_view.webp">}} |
+| {{<figure src="fo3/Springvale_loc.webp">}} | {{<figure src="fo3/Springvale_aerial_view.webp">}} |
 
 | Immagine                                  | Oggetto e posizione                                    |
 | ----------------------------------------- | ------------------------------------------------------ |
-| {{<figure src="FO3_PI_Springvale.webp">}} | **Pugilato illustrato**, in una cassetta delle lettere |
+| {{<figure src="fo3/FO3_PI_Springvale.webp">}} | **Pugilato illustrato**, in una cassetta delle lettere |
 

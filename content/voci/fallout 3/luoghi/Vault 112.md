@@ -21,11 +21,11 @@ Il Vault 112 è un Vault della Vault-Tec situato nella parte sud-occidentale del
 
 | Mappa                                           | Mappa locale                          | Entrata                          | Atrio                                |
 | ----------------------------------------------- | ------------------------------------- | -------------------------------- | ------------------------------------ |
-| {{<figure src="Smith_Caseys_Garage_loc.webp">}} | {{<figure src="Vault_112_map.webp">}} | {{<figure src="Vault112.webp">}} | {{<figure src="Vault_112_TQ.webp">}} |
+| {{<figure src="fo3/Smith_Caseys_Garage_loc.webp">}} | {{<figure src="fo3/Vault_112_map.webp">}} | {{<figure src="fo3/Vault112.webp">}} | {{<figure src="fo3/Vault_112_TQ.webp">}} |
 
 | Immagine                                                | Oggetto e posizione                                                 |
 | ------------------------------------------------------- | ------------------------------------------------------------------- |
-| {{<figure src="Vault_112_overseers_office_code.webp">}} | **Password della stanza del sorvegliante**, nella sala attrezzature |
+| {{<figure src="fo3/Vault_112_overseers_office_code.webp">}} | **Password della stanza del sorvegliante**, nella sala attrezzature |
 
 
 

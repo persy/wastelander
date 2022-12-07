@@ -21,7 +21,7 @@ Il Tempio dell'Unione è un luogo nella Zona contaminata della Capitale situato 
 
 | Mappa                                           | Mappa locale                                        | Panoramica                                  |
 | ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="Temple_of_the_Union_loc.webp">}} | {{<figure src="Temple_of_the_Union_loc_map.webp">}} | {{<figure src="Temple_of_the_Union.webp">}} |
+| {{<figure src="fo3/Temple_of_the_Union_loc.webp">}} | {{<figure src="fo3/Temple_of_the_Union_loc_map.webp">}} | {{<figure src="fo3/Temple_of_the_Union.webp">}} |
 
 
 

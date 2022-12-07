@@ -21,7 +21,7 @@ La latrina irradiata è un luogo non contrassegnato e si trova a sud-ovest del c
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
-| {{<figure src="CAD_Farm_loc.webp">}} | {{<figure src="Irradiated_outhouse.webp">}} |
+| {{<figure src="fo3/CAD_Farm_loc.webp">}} | {{<figure src="fo3/Irradiated_outhouse.webp">}} |
 
 
 Altri oggetti:

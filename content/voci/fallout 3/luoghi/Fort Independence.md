@@ -22,18 +22,18 @@ Fort Independence Ã¨ il quartier generale dei Rinnegati della Confraternita ed Ã
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Fort_Independence_loc.webp">}} | {{<figure src="Fort_Independence.webp">}} |
+| {{<figure src="fo3/Fort_Independence_loc.webp">}} | {{<figure src="fo3/Fort_Independence.webp">}} |
 
 | Mappa locale                                      | Mappa locale piano inferiore                  |
 | ------------------------------------------------- | --------------------------------------------- |
-| {{<figure src="Fort_Independence_loc_map.webp">}} | {{<figure src="Fort_Independence_map.webp">}} |
+| {{<figure src="fo3/Fort_Independence_loc_map.webp">}} | {{<figure src="fo3/Fort_Independence_map.webp">}} |
 
 
 | Immagine                                                 | Oggetto e posizione                                                                           |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| {{<figure src="FI_Miss_Launcher.webp">}}                 | **Lanciabombe** e due **Munizioni nucleari**, nel piano inferiore                             |
-| {{<figure src="Fo3_research_notes.webp">}}               | **Rapporti dal campo Fort Independence**, su un terminale nella zona uffici                   |
-| {{<figure src="Fort_Independence_bottlecap_mine.webp">}} | **Mina da tappo**, sul banco di lavoro nella stanza con i set di chimica e i tavoli operatori |
+| {{<figure src="fo3/FI_Miss_Launcher.webp">}}                 | **Lanciabombe** e due **Munizioni nucleari**, nel piano inferiore                             |
+| {{<figure src="fo3/Fo3_research_notes.webp">}}               | **Rapporti dal campo Fort Independence**, su un terminale nella zona uffici                   |
+| {{<figure src="fo3/Fort_Independence_bottlecap_mine.webp">}} | **Mina da tappo**, sul banco di lavoro nella stanza con i set di chimica e i tavoli operatori |
 
 
 Altri oggetti:

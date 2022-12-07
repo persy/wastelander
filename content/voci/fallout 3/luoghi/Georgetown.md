@@ -23,14 +23,14 @@ Il distretto di Georgetown è un quartiere di Washington, D.C. situato nella par
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Georgetown_loc.webp">}}  | {{<figure src="Georgetown_map.webp">}}  |  {{<figure src="Georgetown.webp">}} |
+| {{<figure src="fo3/Georgetown_loc.webp">}}  | {{<figure src="fo3/Georgetown_map.webp">}}  |  {{<figure src="fo3/Georgetown.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="FO3LCS_McClellan.webp">}} |  **Stile da congresso, menzognero**, nella residenza della famiglia McClellan |
-| {{<figure src="Georgetown_Supplies.webp">}}  |  **Grognak il barbaro** e uno **Stealth Boy**, sulla libreria in un edificio in rovina, vicino all'uscita del tunnel DCTA 014-B Potomac |
-| {{<figure src="USA_30_HFR_La_Maison_Beauregard.webp">}}  | **U.S. Army: 30 pratiche ricette per lanciafiamme**, La Maison Beauregard, all'interno della hall, sul pavimento dietro la scrivania  |
-|  {{<figure src="FO3_CA_SOTM_The_Mall_Metro.webp">}} | **Esercito cinese: manuale delle operazioni speciali**, metro Georgetown Mall, vicino alla biglietteria più vicina all'uscita nordovest per il Mall  |
+|  {{<figure src="fo3/FO3LCS_McClellan.webp">}} |  **Stile da congresso, menzognero**, nella residenza della famiglia McClellan |
+| {{<figure src="fo3/Georgetown_Supplies.webp">}}  |  **Grognak il barbaro** e uno **Stealth Boy**, sulla libreria in un edificio in rovina, vicino all'uscita del tunnel DCTA 014-B Potomac |
+| {{<figure src="fo3/USA_30_HFR_La_Maison_Beauregard.webp">}}  | **U.S. Army: 30 pratiche ricette per lanciafiamme**, La Maison Beauregard, all'interno della hall, sul pavimento dietro la scrivania  |
+|  {{<figure src="fo3/FO3_CA_SOTM_The_Mall_Metro.webp">}} | **Esercito cinese: manuale delle operazioni speciali**, metro Georgetown Mall, vicino alla biglietteria più vicina all'uscita nordovest per il Mall  |
 |   |   |
 
 Altri oggetti:

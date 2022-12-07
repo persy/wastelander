@@ -20,19 +20,19 @@ Hubris Comics è un edificio del distretto di Mason, vicino al tunnel metropolit
 
 | Mappa                       | Mappa locale                         | Panoramica              |
 | --------------------------- | ------------------------------------ | ----------------------- |
-| {{<figure src="Hubris_Comics_loc.webp">}} | {{<figure src="Hubris_Comics_exterior_map.webp">}} | {{<figure src="Hubris_Comics.webp">}} |
+| {{<figure src="fo3/Hubris_Comics_loc.webp">}} | {{<figure src="fo3/Hubris_Comics_exterior_map.webp">}} | {{<figure src="fo3/Hubris_Comics.webp">}} |
 
 | Mappa locale casa editrice      | Mappa locale tipografia       | Mappa locale tunnel di servizio      |
 | ------------------------------- | ----------------------------- | ------------------------------------ |
-| {{<figure src="HC_Publishing_loc_map.webp">}} | {{<figure src="HC_Printing_loc_map.webp">}} | {{<figure src="HC_utility_tunnels_loc_map.webp">}} |
+| {{<figure src="fo3/HC_Publishing_loc_map.webp">}} | {{<figure src="fo3/HC_Printing_loc_map.webp">}} | {{<figure src="fo3/HC_utility_tunnels_loc_map.webp">}} |
 
 | Immagine                                        | Oggetto e posizione                                                                                                                                                    |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Deans_Electronics_Hubris_Comics_PPS.webp">}}   | **Elettronica di Dean**, nel rifugio di preservazione Pulowski, appena fuori dalla Hubris Comics                                                                       |
-| {{<figure src="Guns_and_Bullets_Mason_District_South.webp">}} | **Pistole e proiettili**, presso il covo del cecchino al secondo piano di un edificio che si affaccia sul parco, angolo sud-ovest, su un tavolo                        |
-| {{<figure src="Tales_of_a_JJV_Hubris_Comics.webp">}}          | **Racconti di un venditore di carne di Junktown**, casa editrice, nella prima sala entrando dal Mason District, su una libreria vicijno a un terminale truccato        |
-| {{<figure src="Grognak_the_Barbarian_Hubris_Comics.webp">}}   | **Grognak il barbaro** e una **Nuka-Cola Quantum**, tipografia, su una scrivania accanto a un terminale bloccato (Scienza 50)), nella stessa stanza con Mad Johnny Wes |
-| {{<figure src="Deans_Electronics_Hubris_Comics.webp">}}       | **Elettronica di Dean**, tunnel  di servizio, su una scrivania vicino alla parete orientale dell'ultima stanza                                                         |
+| {{<figure src="fo3/Deans_Electronics_Hubris_Comics_PPS.webp">}}   | **Elettronica di Dean**, nel rifugio di preservazione Pulowski, appena fuori dalla Hubris Comics                                                                       |
+| {{<figure src="fo3/Guns_and_Bullets_Mason_District_South.webp">}} | **Pistole e proiettili**, presso il covo del cecchino al secondo piano di un edificio che si affaccia sul parco, angolo sud-ovest, su un tavolo                        |
+| {{<figure src="fo3/Tales_of_a_JJV_Hubris_Comics.webp">}}          | **Racconti di un venditore di carne di Junktown**, casa editrice, nella prima sala entrando dal Mason District, su una libreria vicijno a un terminale truccato        |
+| {{<figure src="fo3/Grognak_the_Barbarian_Hubris_Comics.webp">}}   | **Grognak il barbaro** e una **Nuka-Cola Quantum**, tipografia, su una scrivania accanto a un terminale bloccato (Scienza 50)), nella stessa stanza con Mad Johnny Wes |
+| {{<figure src="fo3/Deans_Electronics_Hubris_Comics.webp">}}       | **Elettronica di Dean**, tunnel  di servizio, su una scrivania vicino alla parete orientale dell'ultima stanza                                                         |
 
 Altri oggetti:
 - **Libro prebellico**, casa editrice,ella prima sala entrando dal quartiere Mason, su una mensola

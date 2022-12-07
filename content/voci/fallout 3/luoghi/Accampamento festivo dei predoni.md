@@ -19,8 +19,8 @@ L'accampamento festivo dei predoni è un piccolo campo di predoni non contrasseg
 
 | Mappa                      | Panoramica                |
 | -------------------------- | ------------------------- |
-| {{<figure src="Dukovs_Place_loc.webp">}} | {{<figure src="Raider_compound.webp">}} |
+| {{<figure src="fo3/Dukovs_Place_loc.webp">}} | {{<figure src="fo3/Raider_compound.webp">}} |
 
 | Immagine                                      | Oggetto e posizione                                           |
 | --------------------------------------------- | ------------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, sul tavolo rotondo tra i due letti a castello |
+| {{<figure src="fo3/Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, sul tavolo rotondo tra i due letti a castello |

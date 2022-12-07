@@ -20,11 +20,11 @@ L'avamposto ghoul è un piccolo accampamento all'interno di un edificio situato 
 
 | Mappa                         | Mappa locale                | Panoramica                       |
 | ----------------------------- | --------------------------- | -------------------------------- |
-| {{<figure src="Sewer_Grayditch_loc.webp">}} | {{<figure src="Ghoul_outpost_loc.webp">}} | {{<figure src="Ghoul_outpost_exterior.webp">}} |
+| {{<figure src="fo3/Sewer_Grayditch_loc.webp">}} | {{<figure src="fo3/Ghoul_outpost_loc.webp">}} | {{<figure src="fo3/Ghoul_outpost_exterior.webp">}} |
 
 | Immagine                          | Oggetto e posizione                                                                |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
-| {{<figure src="Ghoul_outpost_mini_nuke.webp">}} | **Munizione nucleare**, su uno scaffale nel retrobottega, proprio sopra il secchio |
+| {{<figure src="fo3/Ghoul_outpost_mini_nuke.webp">}} | **Munizione nucleare**, su uno scaffale nel retrobottega, proprio sopra il secchio |
 
 
 Altri oggetti:

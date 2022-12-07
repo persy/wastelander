@@ -21,13 +21,13 @@ La Cittadella è il quartier generale della Confraternita d'Acciaio nella Zona c
 
 | Mappa                     | Panoramica        |
 | ------------------------- | ----------------- |
-| {{<figure src="The_Citadel_loc.webp">}} | {{<figure src="Citadel.webp">}} |
+| {{<figure src="fo3/The_Citadel_loc.webp">}} | {{<figure src="fo3/Citadel.webp">}} |
 
 
 | Immagine                              | Oggetto e posizione                                                                    |
 | ------------------------------------- | -------------------------------------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover!_Citadel_lab.webp">}} | **Al riparo!**, in una cassa nel bagno del laboratorio                                 |
-| {{<figure src="Guns_and_Bullets_Citadel.webp">}}    | **Pistole e proiettili** sotto il letto più a destra nell'area "The Den" dell'anello A |
+| {{<figure src="fo3/Duck_and_Cover!_Citadel_lab.webp">}} | **Al riparo!**, in una cassa nel bagno del laboratorio                                 |
+| {{<figure src="fo3/Guns_and_Bullets_Citadel.webp">}}    | **Pistole e proiettili** sotto il letto più a destra nell'area "The Den" dell'anello A |
 
 <!--TODO: aggiorna immagini -->
 

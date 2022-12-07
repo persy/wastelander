@@ -21,11 +21,11 @@ Il segnale autoguidato alieno è un luogo non contrassegnato equidistante dalle 
 
 | Mappa                                        | Panoramica                                |
 | -------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Alien_Crash_Site_loc.webp">}} | {{<figure src="Recon_Craft_Theta.webp">}} |
+| {{<figure src="fo3/Alien_Crash_Site_loc.webp">}} | {{<figure src="fo3/Recon_Craft_Theta.webp">}} |
 
 | Immagine                                       | Oggetto e posizione                                                                                 |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| {{<figure src="Alien_Blaster_location.webp">}} | **Blaster alieno** e 120 **energie aliene**, vicino al cadavere dell'alieno all'interno del cratere |
+| {{<figure src="fo3/Alien_Blaster_location.webp">}} | **Blaster alieno** e 120 **energie aliene**, vicino al cadavere dell'alieno all'interno del cratere |
 
 
 

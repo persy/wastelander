@@ -20,9 +20,9 @@ L'edificio autorità del museo è una struttura di medie dimensioni nel Mall di 
 
 | Mappa                                   | Mappa locale                                  | Panoramica                          |
 | --------------------------------------- | --------------------------------------------- | ----------------------------------- |
-| {{<figure src="Museum_Authority_Building_map.webp">}} | {{<figure src="Museum_Authority_Building_local_map.webp">}} | {{<figure src="Museum_Authority_Building.webp">}} |
+| {{<figure src="fo3/Museum_Authority_Building_map.webp">}} | {{<figure src="fo3/Museum_Authority_Building_local_map.webp">}} | {{<figure src="fo3/Museum_Authority_Building.webp">}} |
 
 | Immagine                                             | Oggetto e posizione                                                                 |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| {{<figure src="Museum_authority_ladies_room.webp">}}               | **Nuka-Cola Quantum**, in uno dei sciaquoni del bagno delle donne                   |
-| {{<figure src="Museum_Authority_Bottling_instruction_disk.webp">}} | **Istruzioni imbottigliamento di Griffon**, su un tavolino rotondo nel seminterrato |
+| {{<figure src="fo3/Museum_authority_ladies_room.webp">}}               | **Nuka-Cola Quantum**, in uno dei sciaquoni del bagno delle donne                   |
+| {{<figure src="fo3/Museum_Authority_Bottling_instruction_disk.webp">}} | **Istruzioni imbottigliamento di Griffon**, su un tavolino rotondo nel seminterrato |

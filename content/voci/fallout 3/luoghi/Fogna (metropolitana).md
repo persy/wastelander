@@ -22,8 +22,8 @@ La fogna (metropolitana) è un collegamento sotterraneo tra Pennsylvania Avenue 
 
  | Mappa locale              | Panoramica            |
  | ------------------------- | --------------------- |
- | {{<figure src="Metro_sewer_loc.webp">}} | {{<figure src="Sewer_metro.webp">}} |
+ | {{<figure src="fo3/Metro_sewer_loc.webp">}} | {{<figure src="fo3/Sewer_metro.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Hidden_stash_note_loc.webp">}}  | **Lo scassinatore moderno** e la **Nota sul nascondiglio segreto**, nella stanza meridionale, accanto a tre scheletri  |
+| {{<figure src="fo3/Hidden_stash_note_loc.webp">}}  | **Lo scassinatore moderno** e la **Nota sul nascondiglio segreto**, nella stanza meridionale, accanto a tre scheletri  |

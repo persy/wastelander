@@ -21,13 +21,13 @@ Il ponte dello sciacallo è una posizione non contrassegnata a nord della fabbri
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Scavengers_bridge_loc.webp">}} | {{<figure src="Scavengers_bridge.webp">}} |
+| {{<figure src="fo3/Scavengers_bridge_loc.webp">}} | {{<figure src="fo3/Scavengers_bridge.webp">}} |
 
 | Immagine                                                 | Oggetto e posizione                                                                                    |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| {{<figure src="FO3_Skillbooks_Scavengers_bridge.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, su uno scaffale nel rifugio dello sciacallo |
-| {{<figure src="FO3_Skillbooks_Scavengers_bridge.webp">}} | **Al riparo!**, su uno scaffale nel rifugio dello sciacallo                                            |
-| {{<figure src="FO3_Skillbooks_Scavengers_bridge.webp">}} | **Grognak il barbaro**, su uno scaffale nel rifugio dello sciacallo                                    |
+| {{<figure src="fo3/FO3_Skillbooks_Scavengers_bridge.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, su uno scaffale nel rifugio dello sciacallo |
+| {{<figure src="fo3/FO3_Skillbooks_Scavengers_bridge.webp">}} | **Al riparo!**, su uno scaffale nel rifugio dello sciacallo                                            |
+| {{<figure src="fo3/FO3_Skillbooks_Scavengers_bridge.webp">}} | **Grognak il barbaro**, su uno scaffale nel rifugio dello sciacallo                                    |
 
 
 Altri oggetti:

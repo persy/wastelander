@@ -22,10 +22,10 @@ La casa sull'albero in cemento è una piccola casa di fortuna non contrassegnata
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
-| {{<figure src="Concrete_treehouse_loc.webp">}} | {{<figure src="Concrete_treehouse.webp">}} |
+| {{<figure src="fo3/Concrete_treehouse_loc.webp">}} | {{<figure src="fo3/Concrete_treehouse.webp">}} |
 
 | Immagine                                                                    | Oggetto e posizione                                                                                     |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Concrete_treehouse_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** - In una pila di libri rovinati, accanto al materasso |
+| {{<figure src="fo3/Concrete_treehouse_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** - In una pila di libri rovinati, accanto al materasso |
 
 

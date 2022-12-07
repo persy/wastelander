@@ -21,11 +21,11 @@ La stazione di trasmissione WKML si trova nella parte nord-ovest della Zona cont
 
 | Mappa                               | Panoramica                                     |
 | ----------------------------------- | ---------------------------------------------- |
-| {{<figure src="WKML_BS_loc.webp">}} | {{<figure src="WKML_broadcast_station.webp">}} |
+| {{<figure src="fo3/WKML_BS_loc.webp">}} | {{<figure src="fo3/WKML_broadcast_station.webp">}} |
 
 | Immagine                                               | Oggetto e posizione                                                                                             |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Sealed_cistern_WKML_bobblehead.webp">}} | **Bambolina - Esplosivi** e **Stealth Boy**, all'interno della cisterna sigillata, vicino alla radio amatoriale |
+| {{<figure src="fo3/Sealed_cistern_WKML_bobblehead.webp">}} | **Bambolina - Esplosivi** e **Stealth Boy**, all'interno della cisterna sigillata, vicino alla radio amatoriale |
 
 
 *Vedi [Segnale Kilo Bravo (KB)](../camere-di-drenaggio)*

@@ -22,10 +22,10 @@ La metropolitana presidenziale collega i vari edifici governativi nell'area di W
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Presidential_metro_loc.webp">}}  | {{<figure src="Presidential_Metro_map.webp">}}  | {{<figure src="Broken_Steel_Presdential_Metro_Line.webp">}}  |
+| {{<figure src="fo3/Presidential_metro_loc.webp">}}  | {{<figure src="fo3/Presidential_Metro_map.webp">}}  | {{<figure src="fo3/Broken_Steel_Presdential_Metro_Line.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | TODO  | **Nuka-Cola Quantum**, nell'area di servizio che collega le linee ovest e est  |
-|  {{<figure src="Presidential_metro1.webp">}} | **Cappello da poliziotto**, nei pressi di M.A.R.Go.T., su una panca vicino ad unoa scheletro  |
+|  {{<figure src="fo3/Presidential_metro1.webp">}} | **Cappello da poliziotto**, nei pressi di M.A.R.Go.T., su una panca vicino ad unoa scheletro  |
 | TODO  | **Munizione nucleare**, situata all'interno di un vagone semisepolto in un tunnel senza uscita  |

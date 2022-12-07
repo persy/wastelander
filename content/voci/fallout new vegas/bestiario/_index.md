@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Bestiario
+linktitle: Bestiario del Mojave
 summary: ''
 weight: 50
 icon: dog
 icon_pack: fas
 
 # Page metadata.
-title: Bestiario
+title: Bestiario del Mojave
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true

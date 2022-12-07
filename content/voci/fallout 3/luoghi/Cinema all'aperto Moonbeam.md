@@ -22,11 +22,11 @@ Il cinema all'aperto Moonbeam si trova tra il  campo da baseball Fordham Flash a
 
 | Mappa                     | Panoramica                        |
 | ------------------------- | --------------------------------- |
-| {{<figure src="Moonbeam_OC_loc.webp">}} | {{<figure src="Moonbeam_outdoor_cinema.webp">}} |
+| {{<figure src="fo3/Moonbeam_OC_loc.webp">}} | {{<figure src="fo3/Moonbeam_outdoor_cinema.webp">}} |
 
 | Immagine                                 | Oggetto e posizione                                                                                    | 
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| {{<figure src="FO3_PI_Moonbeam_Outdoor_Cinema.webp">}} | **Pugilato illustrato**, su uno dei due tavoli da picnic più vicini allo schermo, nella parte centrale |
+| {{<figure src="fo3/FO3_PI_Moonbeam_Outdoor_Cinema.webp">}} | **Pugilato illustrato**, su uno dei due tavoli da picnic più vicini allo schermo, nella parte centrale |
 
 
 

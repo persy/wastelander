@@ -21,18 +21,18 @@ Il Vault 108 è un Vault della Vault-Tec situato a sud di Canterbury Commons e a
 
 | Mappa                                 | Panoramica                        |
 | ------------------------------------- | --------------------------------- |
-| {{<figure src="Vault_108_loc.webp">}} | {{<figure src="Vault_108.webp">}} |
+| {{<figure src="fo3/Vault_108_loc.webp">}} | {{<figure src="fo3/Vault_108.webp">}} |
 
 | Mappa locale atrio                             | Mappa locale quartieri abitati                        | Mappa locale laboratorio clonazione               |
 | ---------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Vault_108_entrance_loc.webp">}} | {{<figure src="Vault_108_living_quarters_loc.webp">}} | {{<figure src="Vault_108_cloning_lab_loc.webp">}} |
+| {{<figure src="fo3/Vault_108_entrance_loc.webp">}} | {{<figure src="fo3/Vault_108_living_quarters_loc.webp">}} | {{<figure src="fo3/Vault_108_cloning_lab_loc.webp">}} |
 
 | Immagine                                         | Oggetto e posizione                                                                                                                                                    |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="TumblersTodayBug.webp">}}         | **Lo scassinatore moderno** e una **Nuka-Cola Quantum**, atrio, dietro le casse di spedizioni sul lato est, sotto la scala a pioli. Potrebbe compenetrarsi col terreno |
-| {{<figure src="FO3_PI_Vault_108.webp">}}         | **Pugilato illustrato**, quartieri abitati, sul bancone della caffetteria, nella stanza più settentrionale sulla mappa                                                 |
-| {{<figure src="V108_Charisma_bobblehead.webp">}} | **Bambolina - Carisma**, laboratorio clonazione, su un tavolo della stanza osservazione, al centro della mappa                                                         |
-| {{<figure src="FO3_LCS_Vault_108.webp">}}        | **Stile da congresso, menzognero**, laboratorio clonazione, su un tavolo nella stessa stanza della  **Bambolina - Carisma**                                            |
+| {{<figure src="fo3/TumblersTodayBug.webp">}}         | **Lo scassinatore moderno** e una **Nuka-Cola Quantum**, atrio, dietro le casse di spedizioni sul lato est, sotto la scala a pioli. Potrebbe compenetrarsi col terreno |
+| {{<figure src="fo3/FO3_PI_Vault_108.webp">}}         | **Pugilato illustrato**, quartieri abitati, sul bancone della caffetteria, nella stanza più settentrionale sulla mappa                                                 |
+| {{<figure src="fo3/V108_Charisma_bobblehead.webp">}} | **Bambolina - Carisma**, laboratorio clonazione, su un tavolo della stanza osservazione, al centro della mappa                                                         |
+| {{<figure src="fo3/FO3_LCS_Vault_108.webp">}}        | **Stile da congresso, menzognero**, laboratorio clonazione, su un tavolo nella stessa stanza della  **Bambolina - Carisma**                                            |
 
 
 Altri oggetti:

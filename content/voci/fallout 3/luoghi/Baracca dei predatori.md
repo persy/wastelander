@@ -19,11 +19,11 @@ Baracca dei predatori è una località non contrassegnata e si trova a est delle
 
 | Mappa                    | Panoramica           |
 | ------------------------ | -------------------- |
-| {{<figure src="Raid_shack_loc.webp">}} | {{<figure src="Raid_shack.webp">}} |
+| {{<figure src="fo3/Raid_shack_loc.webp">}} | {{<figure src="fo3/Raid_shack.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                                                                                                                                | 
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Raid_shack_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** al piano superiore, sul comodino nella camera da letto principale a destra insieme ad alcuni spuntoni ferroviari |
+| {{<figure src="fo3/Raid_shack_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** al piano superiore, sul comodino nella camera da letto principale a destra insieme ad alcuni spuntoni ferroviari |
 
 
 Altri oggetti:

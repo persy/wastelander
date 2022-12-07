@@ -21,11 +21,11 @@ Il gruppo satelliti SatCom NW-07c è un gruppo di satelliti nell'estremo nord-ov
 
 | Mappa                                | Panoramica                                |
 | ------------------------------------ | ----------------------------------------- |
-| {{<figure src="SA_NW_07_loc.webp">}} | {{<figure src="SatCom_Array_NW07.webp">}} |
+| {{<figure src="fo3/SA_NW_07_loc.webp">}} | {{<figure src="fo3/SatCom_Array_NW07.webp">}} |
 
 
 | Immagine                                                     | Oggetto e posizione                                                                                                                                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| {{<figure src="Duck_and_Cover!_Array,_Power_Station.webp">}} | Appena a nord del [furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato), giù nella valle vicino ad alcuni relitti d'auto, accanto a uno scheletro e delle scatole di munizioni |
+| {{<figure src="fo3/Duck_and_Cover!_Array,_Power_Station.webp">}} | Appena a nord del [furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato), giù nella valle vicino ad alcuni relitti d'auto, accanto a uno scheletro e delle scatole di munizioni |
 
 *Vedi [Camion di internamento](../camion-di-internamento)*

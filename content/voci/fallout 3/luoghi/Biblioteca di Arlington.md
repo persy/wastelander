@@ -20,24 +20,24 @@ La Biblioteca di Arlington, ufficialmente la Biblioteca del Congresso, è un edi
 
 | Mappa                           | Panoramica                  |
 | ------------------------------- | --------------------------- |
-| {{<figure src="Arlington_Library_loc.webp">}} | {{<figure src="Arlington_Library.webp">}} |
+| {{<figure src="fo3/Arlington_Library_loc.webp">}} | {{<figure src="fo3/Arlington_Library.webp">}} |
 
 | Mappa locale ingresso                 | Mappa locale sezione bambini                   | Mappa locale archivi multimediali             | 
 | ------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| {{<figure src="Arlington_Library_lobby_map.webp">}} | {{<figure src="Arlington_Library_Childrens_Wing_map.webp">}} | {{<figure src="Arlington_Library_Media_Archives_map.webp">}} |
+| {{<figure src="fo3/Arlington_Library_lobby_map.webp">}} | {{<figure src="fo3/Arlington_Library_Childrens_Wing_map.webp">}} | {{<figure src="fo3/Arlington_Library_Media_Archives_map.webp">}} |
 
 
 | Immagine                                                     | Oggetto e posizione                                                                                                                                                                     |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Big_Book_of_Science_Arlington_Library.webp">}}              | **Il grande libro della scienza**, ingresso, al piano superiore a destra, sulla scrivania di un ufficio con due divani                                                                  |
-| {{<figure src="Guns_and_Bullets_Arlington_Library.webp">}}                 | **Pistole e proiettili** e 3 **libri prebellici**, sezione bambini, nella prima sala provenendo dagli archivi multimediali, su una libreria                                             |
-| {{<figure src="Fo3_Arlington_Library_sheet_music_book.webp">}}             | **Libro di musica**, sezione bambini, in una delle stanze sul lato ovest della mappa, su un leggio ribaltato                                                                            |
-| {{<figure src="FO3_LCS_Arlington_Library.webp">}}                          | **Stile da congresso, menzognero** e un **libro prebellico**, sezione bambini, sul bancone nella saletta con le caffettiere                                                             |
-| {{<figure src="NCQ_Arlington_Library.jpg">}}                               | **Nuka-Cola Quantum**, archivi multimediali, su un tavolo nell'angolo sud-ovest della stanza dove vengono scaricati gli archivi; è nascosto in un angolo dietro una cassa e due teschi |
-| {{<figure src="Tales_of_a_Junktown_Jerky_Vendor_Arlington_Library.webp">}} | **Racconti di un venditore di carne di Junktown**, archivi multimediali, al secondo piano nella stanza con il tavolo da biliardo, sul tavolo quadrato nell'angolo                       |
-| {{<figure src="Tumblers_Today_Arlington_Library.webp">}}                   | **Lo scassinatore moderno**, archivi multimediali, nella sala dove vengono scaricati gli archivi, sulla scrivania verso la parete nord vicino a due lettori di microschede                                    |
-| {{<figure src="FO3_GAB_Arlington_Lib.webp">}}                              | **Pistole e proiettili**, a nord dell'entrata alla biblioteca, in un rifugio di preservazione Pulowski                                                                                  |
-| {{<figure src="Nikola_Tesla_and_You_Arlington.jpg">}}                      | **Tu e Nikola Tesla** e uno **Stealth Boy**, nell'avamposto della Compagnia dell'Artiglio a sud-ovest, su tavolo                                                                        |
+| {{<figure src="fo3/Big_Book_of_Science_Arlington_Library.webp">}}              | **Il grande libro della scienza**, ingresso, al piano superiore a destra, sulla scrivania di un ufficio con due divani                                                                  |
+| {{<figure src="fo3/Guns_and_Bullets_Arlington_Library.webp">}}                 | **Pistole e proiettili** e 3 **libri prebellici**, sezione bambini, nella prima sala provenendo dagli archivi multimediali, su una libreria                                             |
+| {{<figure src="fo3/Fo3_Arlington_Library_sheet_music_book.webp">}}             | **Libro di musica**, sezione bambini, in una delle stanze sul lato ovest della mappa, su un leggio ribaltato                                                                            |
+| {{<figure src="fo3/FO3_LCS_Arlington_Library.webp">}}                          | **Stile da congresso, menzognero** e un **libro prebellico**, sezione bambini, sul bancone nella saletta con le caffettiere                                                             |
+| {{<figure src="fo3/NCQ_Arlington_Library.jpg">}}                               | **Nuka-Cola Quantum**, archivi multimediali, su un tavolo nell'angolo sud-ovest della stanza dove vengono scaricati gli archivi; è nascosto in un angolo dietro una cassa e due teschi |
+| {{<figure src="fo3/Tales_of_a_Junktown_Jerky_Vendor_Arlington_Library.webp">}} | **Racconti di un venditore di carne di Junktown**, archivi multimediali, al secondo piano nella stanza con il tavolo da biliardo, sul tavolo quadrato nell'angolo                       |
+| {{<figure src="fo3/Tumblers_Today_Arlington_Library.webp">}}                   | **Lo scassinatore moderno**, archivi multimediali, nella sala dove vengono scaricati gli archivi, sulla scrivania verso la parete nord vicino a due lettori di microschede                                    |
+| {{<figure src="fo3/FO3_GAB_Arlington_Lib.webp">}}                              | **Pistole e proiettili**, a nord dell'entrata alla biblioteca, in un rifugio di preservazione Pulowski                                                                                  |
+| {{<figure src="fo3/Nikola_Tesla_and_You_Arlington.jpg">}}                      | **Tu e Nikola Tesla** e uno **Stealth Boy**, nell'avamposto della Compagnia dell'Artiglio a sud-ovest, su tavolo                                                                        |
 
 Altri oggetti:
 - Ingresso

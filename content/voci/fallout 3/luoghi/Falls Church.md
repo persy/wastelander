@@ -21,10 +21,10 @@ Falls Church è un luogo di Washington, D.C., subito a sud di Grayditch.
 
 
 
-*Vedi [[#Metro Arlington/Falls Church]]*
+*Vedi [[#Metro Arlington/Falls Church*
 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Falls_Church_loc.webp">}} | {{<figure src="Falls_Church_streets.webp">}}  | {{<figure src="Falls_Church.webp">}}  |
+| {{<figure src="fo3/Falls_Church_loc.webp">}} | {{<figure src="fo3/Falls_Church_streets.webp">}}  | {{<figure src="fo3/Falls_Church.webp">}}  |
 

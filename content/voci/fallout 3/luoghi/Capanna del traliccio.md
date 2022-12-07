@@ -21,12 +21,12 @@ La capanna del traliccio è una località non contrassegnata, situata a nord del
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
-| {{<figure src="Pylon_shack_loc.webp">}} | {{<figure src="Pylon_Shack.webp">}} |
+| {{<figure src="fo3/Pylon_shack_loc.webp">}} | {{<figure src="fo3/Pylon_Shack.webp">}} |
 
 | Immagine                                                          | Oggetto e posizione                                      |
 | ----------------------------------------------------------------- | -------------------------------------------------------- |
-| {{<figure src="Pylon_shack_Mini_Nuke.webp">}}                     | **Munizione nucleare**, sul pilone sud-orientale         |
-| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}} | **Trascrizione famiglia Keller 1 di 5**, su uno scaffale |
+| {{<figure src="fo3/Pylon_shack_Mini_Nuke.webp">}}                     | **Munizione nucleare**, sul pilone sud-orientale         |
+| {{<figure src="fo3/1st_Keller_family_transcript_bottom_shelf.webp">}} | **Trascrizione famiglia Keller 1 di 5**, su uno scaffale |
 
 
 Altri oggetti:

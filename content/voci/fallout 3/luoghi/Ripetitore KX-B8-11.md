@@ -23,12 +23,12 @@ Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale
 
 | Mappa                                | Panoramica                                   |
 | ------------------------------------ | -------------------------------------------- |
-| {{<figure src="RT_KX_B8_loc.webp">}} | {{<figure src="Relay_Tower_KX-B8-11.webp">}} |
+| {{<figure src="fo3/RT_KX_B8_loc.webp">}} | {{<figure src="fo3/Relay_Tower_KX-B8-11.webp">}} |
 
 | Immagine                                                                   | Oggetto e posizione                                                                                                                 |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="DC_Journal_of_IM_drainage_chamber_Signal_OZ.webp">}}        | **Giornale di medicina interna del D.C.**, **libro prebellico** e **acqua purificata**, camera di drenaggio a sud-est, su un tavolo |
-| {{<figure src="Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina a sud-est                                                                                   |
-| {{<figure src="Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, su un barile di materiale nucleare a sud-est                                                               |
+| {{<figure src="fo3/DC_Journal_of_IM_drainage_chamber_Signal_OZ.webp">}}        | **Giornale di medicina interna del D.C.**, **libro prebellico** e **acqua purificata**, camera di drenaggio a sud-est, su un tavolo |
+| {{<figure src="fo3/Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina a sud-est                                                                                   |
+| {{<figure src="fo3/Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, su un barile di materiale nucleare a sud-est                                                               |
 
 *Vedi [Rovine della fattoria sulla collina](../rovine-della-fattoria-sulla-collina)*

@@ -17,11 +17,11 @@ L'area campeggio nazionale Everglow si trova a nord-est di Little Lamplight e ad
 
 | Mappa                       | Panoramica              |
 | --------------------------- | ----------------------- |
-| {{<figure src="Everglow_NC_loc.webp">}} | {{<figure src="EN_Campground.webp">}} |
+| {{<figure src="fo3/Everglow_NC_loc.webp">}} | {{<figure src="fo3/EN_Campground.webp">}} |
 
 | Immagine                                                | Oggetto e posizione                            |
 | ------------------------------------------------------- | ---------------------------------------------- |
-| {{<figure src="Everglow_National_Campground_Guns_and_Bullets.webp">}} | **Pistole e proiettili**, in un camion a ovest |
+| {{<figure src="fo3/Everglow_National_Campground_Guns_and_Bullets.webp">}} | **Pistole e proiettili**, in un camion a ovest |
 
 
 Altri oggetti:

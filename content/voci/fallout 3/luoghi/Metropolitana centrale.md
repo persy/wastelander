@@ -20,12 +20,12 @@ La metropolitana centrale fa parte del sistema metropolitano sotterraneo della Z
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Metro_Central_loc.webp">}}  | {{<figure src="Metro_Central_loc_map.webp">}}  | {{<figure src="Metro_Central.webp">}}  |
+| {{<figure src="fo3/Metro_Central_loc.webp">}}  | {{<figure src="fo3/Metro_Central_loc_map.webp">}}  | {{<figure src="fo3/Metro_Central.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_PI_Metro_Central.webp">}}  | **Pugilato illustrato**, in un ripostiglio a chiave (Scasso 50), vicino all'uscita della stazione del museo  |
-| {{<figure src="FO3_DE_Metro_Central.webp">}}  | **Elettronica di Dean**,  in una piccola area recintata (Scasso 25) con un generatore, su un tavolo vicino all'uscita della stazione di Foggy Bottom  |
+| {{<figure src="fo3/FO3_PI_Metro_Central.webp">}}  | **Pugilato illustrato**, in un ripostiglio a chiave (Scasso 50), vicino all'uscita della stazione del museo  |
+| {{<figure src="fo3/FO3_DE_Metro_Central.webp">}}  | **Elettronica di Dean**,  in una piccola area recintata (Scasso 25) con un generatore, su un tavolo vicino all'uscita della stazione di Foggy Bottom  |
 
 
 Altri oggetti:

@@ -21,7 +21,7 @@ Il canale dei predatori è una località non contrassegnata e si trova a sud-est
 
 | Mappa                                        | Panoramica                           |
 | -------------------------------------------- | ------------------------------------ |
-| {{<figure src="FW_Metro_Station_loc.webp">}} | {{<figure src="Raider_canal.webp">}} |
+| {{<figure src="fo3/FW_Metro_Station_loc.webp">}} | {{<figure src="fo3/Raider_canal.webp">}} |
 
 
 Altri oggetti:

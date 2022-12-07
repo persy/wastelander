@@ -22,7 +22,7 @@ Il campeggio tra le roccie è una località non contrassegnata nella Zona contam
 
 | Mappa                                            | Panoramica                                                |
 | ------------------------------------------------ | --------------------------------------------------------- |
-| {{<figure src="Wastelander_campsite_loc.webp">}} | {{<figure src="Wastelander_Tent_and_Sniper_Vista.webp">}} |
+| {{<figure src="fo3/Wastelander_campsite_loc.webp">}} | {{<figure src="fo3/Wastelander_Tent_and_Sniper_Vista.webp">}} |
 
 
 

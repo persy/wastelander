@@ -21,11 +21,11 @@ La centrale elettrica MDPL-05 è una delle centrali elettriche situate nella Zon
 
 | Mappa                                  | Panoramica                                    |
 | -------------------------------------- | --------------------------------------------- |
-| {{<figure src="MDPL_05_PS_loc.webp">}} | {{<figure src="MDPL-05_Power_Station.webp">}} |
+| {{<figure src="fo3/MDPL_05_PS_loc.webp">}} | {{<figure src="fo3/MDPL-05_Power_Station.webp">}} |
 
 | Immagine                                                           | Oggetto e posizione                                                                        |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| {{<figure src="Power_Station_MDPL-_05_Dart_gun_schematics.webp">}} | **Schemi - Pistola a dardi** e **Elettronica di Dean**, vicino allo scheletro del tecnico. |
+| {{<figure src="fo3/Power_Station_MDPL-_05_Dart_gun_schematics.webp">}} | **Schemi - Pistola a dardi** e **Elettronica di Dean**, vicino allo scheletro del tecnico. |
 
 
 

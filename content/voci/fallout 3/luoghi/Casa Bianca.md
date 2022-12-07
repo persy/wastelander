@@ -20,9 +20,9 @@ La Casa Bianca è la residenza prebellica del presidente degli Stati Uniti a Was
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="White_House_loc.webp">}}  |   |  {{<figure src="White_House.webp">}} |
+| {{<figure src="fo3/White_House_loc.webp">}}  |   |  {{<figure src="fo3/White_House.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_PI_Penn._Ave._Utility.webp">}}  | **Pugilato illustrato**, tunnel di servizio, su un tavolo vicino a un banco di lavoro nell'angolo sud-est della mappa  |
-| {{<figure src="White_House_mini_nukes.webp">}}  | 3 **munizioni nucleari** e un **Fat Man**, in cima alle scale, situato a sinistra dell'ingresso, vicino a uno scheletro  |
+| {{<figure src="fo3/FO3_PI_Penn._Ave._Utility.webp">}}  | **Pugilato illustrato**, tunnel di servizio, su un tavolo vicino a un banco di lavoro nell'angolo sud-est della mappa  |
+| {{<figure src="fo3/White_House_mini_nukes.webp">}}  | 3 **munizioni nucleari** e un **Fat Man**, in cima alle scale, situato a sinistra dell'ingresso, vicino a uno scheletro  |

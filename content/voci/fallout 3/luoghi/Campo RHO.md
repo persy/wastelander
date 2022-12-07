@@ -21,7 +21,7 @@ Camp RHO è un piccolo campo dell'Enclave situato nella parte orientale della Zo
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
-| {{<figure src="Camp_Rho_loc.webp">}} | {{<figure src="Enclave-RRCenter-SW.webp">}} |
+| {{<figure src="fo3/Camp_Rho_loc.webp">}} | {{<figure src="fo3/Enclave-RRCenter-SW.webp">}} |
 
 
 Altri oggetti:

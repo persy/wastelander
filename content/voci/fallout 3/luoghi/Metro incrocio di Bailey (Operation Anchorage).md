@@ -20,7 +20,7 @@ La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Baileys_Crossroads_Metro_loc.webp">}} | {{<figure src="Metro_Bailey's_Crossroads_Metro_map.webp">}}  | {{<figure src="Bailey's_Crossroads_Metro_entrance.webp">}}  |
+|  {{<figure src="fo3/Baileys_Crossroads_Metro_loc.webp">}} | {{<figure src="fo3/Metro_Bailey's_Crossroads_Metro_map.webp">}}  | {{<figure src="fo3/Bailey's_Crossroads_Metro_entrance.webp">}}  |
 
 
 

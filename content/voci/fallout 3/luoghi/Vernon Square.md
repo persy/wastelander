@@ -23,12 +23,12 @@ Vernon Square è una sezione di Washington, D.C., fra il Parco Takoma a est e la
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Vernon_Square_North_loc.webp">}}  | {{<figure src="Vernon_Square_map.webp">}}  | {{<figure src="Vernon_Square.webp">}}  |
+| {{<figure src="fo3/Vernon_Square_North_loc.webp">}}  | {{<figure src="fo3/Vernon_Square_map.webp">}}  | {{<figure src="fo3/Vernon_Square.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="DC_Journal_of_IM_Vernon_Square_sewer.webp">}} | **Giornale di medicina interna del D.C.**, sugli scaffali della fogna irradiata  |
-| {{<figure src="Dean's_Electronics_Sewer_entrance.webp">}}  | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |
+|  {{<figure src="fo3/DC_Journal_of_IM_Vernon_Square_sewer.webp">}} | **Giornale di medicina interna del D.C.**, sugli scaffali della fogna irradiata  |
+| {{<figure src="fo3/Dean's_Electronics_Sewer_entrance.webp">}}  | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |
 
 
 Altri oggetti:

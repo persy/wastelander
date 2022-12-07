@@ -24,7 +24,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 | Mappa                               | Entrata                                                |
 | ----------------------------------- | ------------------------------------------------------ |
-| {{<figure src="WKML_BS_loc.webp">}} | {{<figure src="Explosives_Bobblehead_Location.webp">}} |
+| {{<figure src="fo3/WKML_BS_loc.webp">}} | {{<figure src="fo3/Explosives_Bobblehead_Location.webp">}} |
 
 
 
@@ -39,7 +39,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 | Mappa                                | Entrata                                             |
 | ------------------------------------ | --------------------------------------------------- |
-| {{<figure src="RT_KX_B8_loc.webp">}} | {{<figure src="Entrance_-_drainage_chamber.webp">}} |
+| {{<figure src="fo3/RT_KX_B8_loc.webp">}} | {{<figure src="fo3/Entrance_-_drainage_chamber.webp">}} |
 
 *Vedi [Ripetitore KX-B8-11](../ripetitore-kx-b8-11)*
 
@@ -53,7 +53,7 @@ A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale A
 
 | Mappa                              | Entrata                                            |
 | ---------------------------------- | -------------------------------------------------- |
-| {{<figure src="BT_KB5_loc.webp">}} | {{<figure src="Alfa_Lima_Drainage_chamber.webp">}} |
+| {{<figure src="fo3/BT_KB5_loc.webp">}} | {{<figure src="fo3/Alfa_Lima_Drainage_chamber.webp">}} |
 
 *Vedi [Ripetitore KB5](../ripetitore-kb5)*
 
@@ -64,7 +64,7 @@ Si trova nei pressi del ripetitore LP8, vicino al bordo nord della mappa, a sud 
 
 | Mappa                              | Panoramica                          |
 | ---------------------------------- | ----------------------------------- |
-| {{<figure src="BT_LP8_loc.webp">}} | {{<figure src="EchoFoxtrot.webp">}} |
+| {{<figure src="fo3/BT_LP8_loc.webp">}} | {{<figure src="fo3/EchoFoxtrot.webp">}} |
 
 
 Vedi *[Ripetitore LP8](../ripetitore-lp8)*
@@ -75,7 +75,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 
 | Mappa                                      | Panoramica                                               |
 | ------------------------------------------ | -------------------------------------------------------- |
-| {{<figure src="Jury_Street_MS_loc.webp">}} | {{<figure src="Oscar_Tango_dr._chamber_exterior.webp">}} |
+| {{<figure src="fo3/Jury_Street_MS_loc.webp">}} | {{<figure src="fo3/Oscar_Tango_dr._chamber_exterior.webp">}} |
 
 
 *Vedi [Stazione metropolitana di Jury Street](../stazione-metropolitana-di-jury-street)*
@@ -89,7 +89,7 @@ Si trova a sud della stazione metropolitana di Jury Street.
 
 | Mappa                               | Panoramica                                  |
 | ----------------------------------- | ------------------------------------------- |
-| {{<figure src="BT_KT_8_loc.webp">}} | {{<figure src="Broadcast_Tower_KT8.webp">}} |
+| {{<figure src="fo3/BT_KT_8_loc.webp">}} | {{<figure src="fo3/Broadcast_Tower_KT8.webp">}} |
 
 Vedi *[Ripetitore KT8](../ripetitore-kt8)*
 
@@ -100,7 +100,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 
 | Mappa                                           | Panoramica                                                  |
 | ----------------------------------------------- | ----------------------------------------------------------- |
-| {{<figure src="Signal_Yankee_Bravo_map.webp">}} | {{<figure src="Broadcast_tower_Signal_Yankee_Bravo.webp">}} |
+| {{<figure src="fo3/Signal_Yankee_Bravo_map.webp">}} | {{<figure src="fo3/Broadcast_tower_Signal_Yankee_Bravo.webp">}} |
 
 *Vedi [Fabbrica Corvega](../fabbrica-corvega)*
 
@@ -110,7 +110,7 @@ Si trova nella parte nord-est della mappa, a nord-ovest della fabbrica  Corvega.
 
 | Mappa                                            | Panoramica                                   |
 | ------------------------------------------------ | -------------------------------------------- |
-| {{<figure src="Signal_Sierra_Victor_map.webp">}} | {{<figure src="SVS_drainage_chamber.webp">}} |
+| {{<figure src="fo3/Signal_Sierra_Victor_map.webp">}} | {{<figure src="fo3/SVS_drainage_chamber.webp">}} |
 
 *Vedi [Centrale elettrica VAPL-66](../centrale-elettrica-vapl-66)*
 
@@ -120,6 +120,6 @@ Si trova a ovest di Megaton, vicino al bordo occidentale della mappa, presso una
 
 | Mappa                                            | Panoramica                                   |
 | ------------------------------------------------ | -------------------------------------------- |
-| {{<figure src="Signal_Papa_November_map.webp">}} | {{<figure src="Signal_Papa_November.webp">}} |
+| {{<figure src="fo3/Signal_Papa_November_map.webp">}} | {{<figure src="fo3/Signal_Papa_November.webp">}} |
 
 *Vedi [Ossario](../ossario)*

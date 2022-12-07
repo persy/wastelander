@@ -336,7 +336,7 @@ private: false # Nascosto dalle ricerche
 | Elmo con occhiali                                   |  2   |  3   |   50   |     50     |                 No                  |   No   |                    -                     |
 | Elmo da assalto Great Khan                          |  2   |  1   |   8    |     15     |                 No                  |   3+   |                    -                     |
 | Elmo da attrezzatura antisommossa                   |  4   |  6   |  800   |     75     |                 No                  |   No   |          Vista furtiva, PER +1           |
-| Elmo da attrezzatura antisommossa avanzato]] {{icon |  5   |  6   |  1000  |     85     |                 No                  |   1    |       Vista furtiva, Percezione +2       |
+| Elmo da attrezzatura antisommossa avanzato {{icon |  5   |  6   |  1000  |     85     |                 No                  |   1    |       Vista furtiva, Percezione +2       |
 | Elmo da attrezzatura antisommossa d'élite           |  6   |  6   |  1500  |    100     |                 No                  |   1    |   Vista furtiva, Eloquenza +5, PER +2    |
 | Elmo da battaglia dei Demoni                        |  1   |  1   |   6    |     15     |                 No                  |   No   |                  PER +1                  |
 | Elmo da centurione                                  |  5   |  3   |   70   |     50     |                 No                  |   3+   |                    -                     |

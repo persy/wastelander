@@ -19,7 +19,7 @@ Il bacino della contea di Montgomery è un impianto di trattamento delle acque a
 
 | Mappa                      | Panoramica                            |
 | -------------------------- | ------------------------------------- |
-| {{<figure src="MC_Reservoir_loc.webp">}} | {{<figure src="Montgomery_County_Reservoir.webp">}} |
+| {{<figure src="fo3/MC_Reservoir_loc.webp">}} | {{<figure src="fo3/Montgomery_County_Reservoir.webp">}} |
 
 
 

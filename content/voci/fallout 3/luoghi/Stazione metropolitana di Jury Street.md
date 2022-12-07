@@ -22,12 +22,12 @@ La stazione metropolitana di Jury Street è una località della Zona contaminata
 
 | Mappa                                      | Mappa locale                                        | Panoramica                                        |
 | ------------------------------------------ | --------------------------------------------------- | ------------------------------------------------- |
-| {{<figure src="Jury_Street_MS_loc.webp">}} | {{<figure src="Jury_Street_Station_loc_map.webp">}} | {{<figure src="Jury_Street_Metro_Station.webp">}} |
+| {{<figure src="fo3/Jury_Street_MS_loc.webp">}} | {{<figure src="fo3/Jury_Street_Station_loc_map.webp">}} | {{<figure src="fo3/Jury_Street_Metro_Station.webp">}} |
 
 | Immagine                                                   | Oggetto e posizione                                                                                                             |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Dean's_Electronics_Jury_St_Station.webp">}} | **Elettronica di Dean** e una **mina da tappo**, all'interno della stazione, sul banco di lavoro                                |
-| {{<figure src="BB_of_Science_drainage_chamber_SOT.webp">}} | **Il grande libro della scienza**, nella camera di drenaggio a sud della stazione, su un tavolo vicino a una radio trasmittente |
+| {{<figure src="fo3/Dean's_Electronics_Jury_St_Station.webp">}} | **Elettronica di Dean** e una **mina da tappo**, all'interno della stazione, sul banco di lavoro                                |
+| {{<figure src="fo3/BB_of_Science_drainage_chamber_SOT.webp">}} | **Il grande libro della scienza**, nella camera di drenaggio a sud della stazione, su un tavolo vicino a una radio trasmittente |
 
 *Vedi anche [Alimentari Fiocco d'oro](../alimentari-fiocco-doro), [Segnale Oscar Tango (OT)](../camere-di-drenaggio), [Calverton](../calverton) e [Tunnel di Jury St.](../capitale#tunnel-di-jury-st)*
 

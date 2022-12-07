@@ -21,11 +21,11 @@ Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell
 
 | Mappa                                    | Panoramica                             |
 | ---------------------------------------- | -------------------------------------- |
-| {{<figure src="Grisly_Diner_loc.webp">}} | {{<figure src="Grisleys_diner.webp">}} |
+| {{<figure src="fo3/Grisly_Diner_loc.webp">}} | {{<figure src="fo3/Grisleys_diner.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                                                        |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| {{<figure src="Tales_of_a_JJV_Grisly_diner.webp">}}             | **Racconti di un venditore di carne di Junktown**, su uno scaffale                         |
-| {{<figure src="US_Army_HFR_Grisly_Diner.jpg">}}                 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un autobus distrutto appena a nord |
-| {{<figure src="Grisly_diner_Keller_family_transcript_3.webp">}} | **Trascrizione famiglia Keller 3 di 5**, su una scrivania sul retro                        |
+| {{<figure src="fo3/Tales_of_a_JJV_Grisly_diner.webp">}}             | **Racconti di un venditore di carne di Junktown**, su uno scaffale                         |
+| {{<figure src="fo3/US_Army_HFR_Grisly_Diner.jpg">}}                 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un autobus distrutto appena a nord |
+| {{<figure src="fo3/Grisly_diner_Keller_family_transcript_3.webp">}} | **Trascrizione famiglia Keller 3 di 5**, su una scrivania sul retro                        |
 

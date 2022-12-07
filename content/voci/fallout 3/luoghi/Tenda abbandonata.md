@@ -21,12 +21,12 @@ La tenda abbandonata è un luogo non contrassegnato situato a nord della discari
 
 | Mappa                                      | Panoramica                                 |
 | ------------------------------------------ | ------------------------------------------ |
-| {{<figure src="Abandoned_tent_loc.webp">}} | {{<figure src="FO3_abandoned_tent.webp">}} |
+| {{<figure src="fo3/Abandoned_tent_loc.webp">}} | {{<figure src="fo3/FO3_abandoned_tent.webp">}} |
 
 | Immagine                                                    | Oggetto e posizione                                                           |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| {{<figure src="Abandoned_tent_Nikola_Tesla_and_You.webp">}} | **Tu e Nikola Tesla**, su uno scaffale accanto ad alcune scatole di munizioni |
-| {{<figure src="Shack_with_Shishkebab_Schematics.webp">}}    | **Schemi - Shishkebab**, su un tavolo in una baracca a nord-ovest             |
-| {{<figure src="FO3_abandoned_tent_interior.webp">}}         | **Nuka-Cola Quantum**, su un tavolo nell'angolo nord-ovest                    |
+| {{<figure src="fo3/Abandoned_tent_Nikola_Tesla_and_You.webp">}} | **Tu e Nikola Tesla**, su uno scaffale accanto ad alcune scatole di munizioni |
+| {{<figure src="fo3/Shack_with_Shishkebab_Schematics.webp">}}    | **Schemi - Shishkebab**, su un tavolo in una baracca a nord-ovest             |
+| {{<figure src="fo3/FO3_abandoned_tent_interior.webp">}}         | **Nuka-Cola Quantum**, su un tavolo nell'angolo nord-ovest                    |
 
 

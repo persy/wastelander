@@ -21,13 +21,13 @@ Il villaggio in rovina è un luogo non contrassegnato, situato a nord dello smal
 
 | Mappa                                     | Panoramica                                      |
 | ----------------------------------------- | ----------------------------------------------- |
-| {{<figure src="Gypsy_village_loc.webp">}} | {{<figure src="Wasteland_Gypsy_Village.webp">}} |
+| {{<figure src="fo3/Gypsy_village_loc.webp">}} | {{<figure src="fo3/Wasteland_Gypsy_Village.webp">}} |
 
 | Immagine                                                                         | Oggetto e posizione                                                                                            |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Wasteland_gypsy_village_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** e uno **Stealth Boy**, baracca nord, in cima a una scrivania |
-| {{<figure src="Wasteland_gypsy_village_Duck_and_Cover!.webp">}}                  | **Al riparo!** e una **munizione nucleare**, baracca sud-est, si trova sul pavimento                           |
-| {{<figure src="Wasteland_gypsy_village_Tumblers_Today.webp">}}                   | **Lo scassinatore moderno**, baracca sud-ovest, all'interno di un frigorifero senza porta                      |
+| {{<figure src="fo3/Wasteland_gypsy_village_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** e uno **Stealth Boy**, baracca nord, in cima a una scrivania |
+| {{<figure src="fo3/Wasteland_gypsy_village_Duck_and_Cover!.webp">}}                  | **Al riparo!** e una **munizione nucleare**, baracca sud-est, si trova sul pavimento                           |
+| {{<figure src="fo3/Wasteland_gypsy_village_Tumblers_Today.webp">}}                   | **Lo scassinatore moderno**, baracca sud-ovest, all'interno di un frigorifero senza porta                      |
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in un camion ribaltato a sud

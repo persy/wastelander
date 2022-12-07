@@ -19,9 +19,9 @@ Il campo abbandonato è un luogo non contrassegnato della Zona contaminata della
 
 | Mappa                        | Panoramica                   |
 | ---------------------------- | ---------------------------- |
-| {{<figure src="Abandoned_camp_loc.webp">}} | {{<figure src="Fo3_abandoned_camp.webp">}} |
+| {{<figure src="fo3/Abandoned_camp_loc.webp">}} | {{<figure src="fo3/Fo3_abandoned_camp.webp">}} |
 
 | Immagine                                   | Oggetto e posizione        |
 | ------------------------------------------ | -------------------------- |
-| {{<figure src="Duck_and_Cover!_Super_Duper_Mart.webp">}} | **Al riparo!**, sul tavolo |
+| {{<figure src="fo3/Duck_and_Cover!_Super_Duper_Mart.webp">}} | **Al riparo!**, sul tavolo |
 

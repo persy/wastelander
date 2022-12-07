@@ -22,10 +22,10 @@ Il cratere del villaggio è un luogo non contrassegnato e si trova a sud della s
 
 | Mappa                        | Panoramica               |
 | ---------------------------- | ------------------------ |
-| {{<figure src="Cratered_ruins_map.webp">}} | {{<figure src="Cratered_ruins.webp">}} |
+| {{<figure src="fo3/Cratered_ruins_map.webp">}} | {{<figure src="fo3/Cratered_ruins.webp">}} |
 
 | Immagine                  | Oggetto e posizione                                                            |
 | ------------------------- | ------------------------------------------------------------------------------ |
-| {{<figure src="Cratered_ruins6.webp">}} | **Lo scassinatore moderno**, in una vasca da bagno in una delle case in rovina |
+| {{<figure src="fo3/Cratered_ruins6.webp">}} | **Lo scassinatore moderno**, in una vasca da bagno in una delle case in rovina |
 
 

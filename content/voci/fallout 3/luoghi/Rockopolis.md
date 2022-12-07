@@ -22,10 +22,10 @@ Rockopolis è una località non segnalata sul bordo occidentale della Zona conta
 
 | Mappa                                  | Panoramica                         |
 | -------------------------------------- | ---------------------------------- |
-| {{<figure src="Rockopolis_loc.webp">}} | {{<figure src="Rockopolis.webp">}} |
+| {{<figure src="fo3/Rockopolis_loc.webp">}} | {{<figure src="fo3/Rockopolis.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                                          |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
-| {{<figure src="Rockopolis_Unarmed_bobblehead.webp">}} | **Bambolina - Disarmato**, si trova accanto al corpo di Argyle               |
-| {{<figure src="Rollings_Message.webp">}}              | **Rollings – Missione compiuta**, trovato su una scrivania vicino alla scala |
+| {{<figure src="fo3/Rockopolis_Unarmed_bobblehead.webp">}} | **Bambolina - Disarmato**, si trova accanto al corpo di Argyle               |
+| {{<figure src="fo3/Rollings_Message.webp">}}              | **Rollings – Missione compiuta**, trovato su una scrivania vicino alla scala |
 

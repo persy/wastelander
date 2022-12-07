@@ -21,7 +21,7 @@ Il rifugio è una località non contrassegnata e si trova a sud dell'edificio Ch
 
 | Mappa                               | Panoramica                      |
 | ----------------------------------- | ------------------------------- |
-| {{<figure src="Shelter_loc.webp">}} | {{<figure src="Shelter.webp">}} |
+| {{<figure src="fo3/Shelter_loc.webp">}} | {{<figure src="fo3/Shelter.webp">}} |
 
 
 Altri oggetti:

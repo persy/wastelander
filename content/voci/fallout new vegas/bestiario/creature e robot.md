@@ -41,7 +41,7 @@ un'abilità specifica per potenziare la resistenza al veleno.
 
 | Comune            | Leggendario                | Campione 73           |
 | ----------------- | -------------------------- | --------------------- |
-| {{<figure src="Cazador.webp" width="250px">}} | {{<figure src="LegendaryCazador.webp" width="250px">}} | {{<figure src="Specimen_73.webp" width="250px">}} |
+| {{<figure src="fo3/Cazador.webp" width="250px">}} | {{<figure src="fo3/LegendaryCazador.webp" width="250px">}} | {{<figure src="fo3/Specimen_73.webp" width="250px">}} |
 
 
 <div class="scrollwrapper">
@@ -62,7 +62,7 @@ dal Dottor Lesko della Zona contaminata della Capitale che, nel voler farle torn
 
 | Operaia e soldato  | Regina                    |
 | ------------------ | ------------------------- |
-| {{<figure src="Fire_ant.webp" width="250px">}} | {{<figure src="Giant_ant_queen.webp" width="250px">}} |
+| {{<figure src="fo3/Fire_ant.webp" width="250px">}} | {{<figure src="fo3/Giant_ant_queen.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -79,7 +79,7 @@ La Formica gigante è un imenottero mutato (famiglia Formicidae), probabilmente 
 
 | Operaia e soldato    |  Regina   |     
 | --- | --- | 
-| {{<figure src="Giant_soldier_ant.webp" width="250px">}}    | {{<figure src="Giant_ant_queen.webp" width="250px">}}         |
+| {{<figure src="fo3/Giant_soldier_ant.webp" width="250px">}}    | {{<figure src="fo3/Giant_ant_queen.webp" width="250px">}}         |
 
 
 
@@ -102,7 +102,7 @@ radiazioni e al virus VEF modificato. Una variante della mantide gigante si trov
 
 | Comune    | Crisalide    |     
 | --- | --- | 
-|  {{<figure src="Giant_mantis.webp" width="250px">}}   |  {{<figure src="Giant_mantis_nypmh.webp" width="250px">}}        |
+|  {{<figure src="fo3/Giant_mantis.webp" width="250px">}}   |  {{<figure src="fo3/Giant_mantis_nypmh.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -135,7 +135,7 @@ per ucciderla, anche se sono alquanto sfuggenti senza l'uso dello S.P.A.V..
 
 | Comune | Leggendaria    |
 | -------------------- | --- |
-| {{<figure src="Bloatfly.webp" width="250px">}}   |  (TODO)   | 
+| {{<figure src="fo3/Bloatfly.webp" width="250px">}}   |  (TODO)   | 
 
 
 <div class="scrollwrapper">
@@ -156,7 +156,7 @@ all'improvviso.
 
 | Comune    | -    |    
 | --- | --- | 
-| {{<figure src="Radroach.webp" width="250px">}}    |     |    
+| {{<figure src="fo3/Radroach.webp" width="250px">}}    |     |    
 
 <div class="scrollwrapper">
 
@@ -173,7 +173,7 @@ spesso sono difficilmente distinguibili dalla sabbia del deserto, visto la loro 
 
 | Comune e cacciatore    |     | 
 | --- | --- | 
-| {{<figure src="Bark_scorpion_FNV.webp" width="250px">}}    |     |     
+| {{<figure src="fo3/Bark_scorpion_FNV.webp" width="250px">}}    |     |     
 
 <div class="scrollwrapper">
 
@@ -191,7 +191,7 @@ Africa e importato in America, probabilmente per la rivendita nei vari insettari
 
 | Comune    |  Gigante   | Regina    |
 | --- | --- | --- |
-| {{<figure src="Radscorpion.webp" width="250px">}}    | {{<figure src="Giant_radscorpion.webp" width="250px">}}    | {{<figure src="Radscorpion_queen_in_SL_fire_station.webp" width="250px">}}    |
+| {{<figure src="fo3/Radscorpion.webp" width="250px">}}    | {{<figure src="fo3/Giant_radscorpion.webp" width="250px">}}    | {{<figure src="fo3/Radscorpion_queen_in_SL_fire_station.webp" width="250px">}}    |
 
 <div class="scrollwrapper">
 
@@ -230,11 +230,11 @@ raggio per abbatterli.
 
 | Comune              | Piccolo                 | Mamma                     | Alpha |
 | ------------------- | ----------------------- | ------------------------- | ----- |
-| {{<figure src="Deathclaw.webp" width="250px">}} | {{<figure src="Babydeathclaw.webp" width="250px">}} | {{<figure src="Deathclawmother.webp" width="250px">}} | {{<figure src="FNV_DeathclawAlpha.webp" width="250px">}}      |
+| {{<figure src="fo3/Deathclaw.webp" width="250px">}} | {{<figure src="fo3/Babydeathclaw.webp" width="250px">}} | {{<figure src="fo3/Deathclawmother.webp" width="250px">}} | {{<figure src="fo3/FNV_DeathclawAlpha.webp" width="250px">}}      |
 
 |  Striscia   |  Rawr   |    
 | --- | --- | 
-|  {{<figure src="Stripe.webp" width="250px">}}   |  {{<figure src="Rawr.webp" width="250px">}}       |
+|  {{<figure src="fo3/Stripe.webp" width="250px">}}   |  {{<figure src="fo3/Rawr.webp" width="250px">}}       |
 
 
 <div class="scrollwrapper">
@@ -275,11 +275,11 @@ al Corriere.
 
 |  Comune   | Dorato    | Del fuoco    |
 | --- | --- | --- |
-|  {{<figure src="FNV_LGecko.webp" width="250px">}}   |  {{<figure src="FNV_GGecko.webp" width="250px">}}   |  {{<figure src="FNV_FGecko.webp" width="250px">}}   |
+|  {{<figure src="fo3/FNV_LGecko.webp" width="250px">}}   |  {{<figure src="fo3/FNV_GGecko.webp" width="250px">}}   |  {{<figure src="fo3/FNV_FGecko.webp" width="250px">}}   |
 
 | Leggendario    |  Verde   |    
 | --- | --- | 
-| {{<figure src="LegendaryFireGecko.webp" width="250px">}}    |  {{<figure src="GreenGeckoFNV.webp" width="250px">}}   |    
+| {{<figure src="fo3/LegendaryFireGecko.webp" width="250px">}}    |  {{<figure src="fo3/GreenGeckoFNV.webp" width="250px">}}   |    
 
 
 <div class="scrollwrapper">
@@ -323,7 +323,7 @@ sonore.
 
 | Comune     | Re    |     
 | --- | --- | 
-|  {{<figure src="Lakelurk.webp" width="250px">}}   |   {{<figure src="Lakelurk_king.webp" width="250px">}}     |
+|  {{<figure src="fo3/Lakelurk.webp" width="250px">}}   |   {{<figure src="fo3/Lakelurk_king.webp" width="250px">}}     |
 
 <div class="scrollwrapper">
 
@@ -345,7 +345,7 @@ Possono essere spaventati con granate accecanti, lanciarazzi o armi che utilizza
 
 | Comune    |     |     
 | --- | --- | 
-| {{<figure src="Tunneler.webp" width="250px">}}    | {{<figure src="The_Tunnelers.webp" width="250px">}}        |
+| {{<figure src="fo3/Tunneler.webp" width="250px">}}    | {{<figure src="fo3/The_Tunnelers.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -371,7 +371,7 @@ Spesso la bussola li indicherà come ostili, anche se non sono provocati. Non so
 
 | Comune    |     |    
 | --- | --- | 
-|  {{<figure src="BigHorner.webp" width="250px">}}   | {{<figure src="Bighorners_Jacobstown.webp" width="250px">}}        |
+|  {{<figure src="fo3/BigHorner.webp" width="250px">}}   | {{<figure src="fo3/Bighorners_Jacobstown.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -399,7 +399,7 @@ Un paio di colpi di qualsiasi arma li abbatterà.
 
 |  Comune   |  Malnutrito   |     
 | --- | --- | 
-|  {{<figure src="Brahmin_FO3.webp" width="250px">}}   |  {{<figure src="Malnourishedbrahmin+calf.webp" width="250px">}}        |
+|  {{<figure src="fo3/Brahmin_FO3.webp" width="250px">}}   |  {{<figure src="fo3/Malnourishedbrahmin+calf.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -421,7 +421,7 @@ ha resi propensi all'addestramento da parte degli umani, sia dalla Legione di Ca
 
 |  Comune   | Bastardo della Legione    |  Guardia dell'RNC    |
 | --- | --- | --- |
-|  {{<figure src="Dog_FO3.webp" width="250px">}}   |  {{<figure src="Fallout_NV_Legion_mongrel.webp" width="250px">}}   |  {{<figure src="Vicious_dog.webp" width="250px">}}   |
+|  {{<figure src="fo3/Dog_FO3.webp" width="250px">}}   |  {{<figure src="fo3/Fallout_NV_Legion_mongrel.webp" width="250px">}}   |  {{<figure src="fo3/Vicious_dog.webp" width="250px">}}   |
 
 <div class="scrollwrapper">
 
@@ -455,7 +455,7 @@ accompagnati da altri abomini, come i supermutanti. Tuttavia la loro lentezza ne
 
 | Comune    | Evoluto    |   
 | --- | --- | 
-| {{<figure src="Centaur.webp" width="250px">}}    |  {{<figure src="CentaurEvolved.webp" width="250px">}}        |
+| {{<figure src="fo3/Centaur.webp" width="250px">}}    |  {{<figure src="fo3/CentaurEvolved.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -475,7 +475,7 @@ cano con i loro denti aguzzi.
 
 | Comune              | Cuccioli             |
 | ------------------- | -------------------- |
-| {{<figure src="CoyoteFNV.webp" width="250px">}} | {{<figure src="Coyotes_CW.webp" width="250px">}} |
+| {{<figure src="fo3/CoyoteFNV.webp" width="250px">}} | {{<figure src="fo3/Coyotes_CW.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -502,7 +502,7 @@ un'abilità specifica per il potenziamento della resistenza al veleno.
 
 | Comune                 | Leggendario                     |
 | ---------------------- | ------------------------------- |
-| {{<figure src="Nightstalker.webp" width="250px">}} | {{<figure src="LegendaryNightstalker.webp" width="250px">}} |
+| {{<figure src="fo3/Nightstalker.webp" width="250px">}} | {{<figure src="fo3/LegendaryNightstalker.webp" width="250px">}} |
 
 
 <div class="scrollwrapper">
@@ -529,7 +529,7 @@ Non sono una particolare minaccia e con l'abilità Amico degli animali diventano
 
 | Comune    |     |     |
 | --- | --- | --- |
-|  {{<figure src="Giant_rat.webp" width="250px">}}   | {{<figure src="Giant_rats_BFC.webp" width="250px">}}    |     |    
+|  {{<figure src="fo3/Giant_rat.webp" width="250px">}}   | {{<figure src="fo3/Giant_rats_BFC.webp" width="250px">}}    |     |    
 
 <div class="scrollwrapper">
 
@@ -553,7 +553,7 @@ Non sono una particolare minaccia e possono essere abbattuti in pochi colpi.
 
 | Comune    |  Snuffles   |     
 | --- | --- | 
-| {{<figure src="Mole_rat_FO3.webp" width="250px">}}    |  {{<figure src="Snuffles.webp" width="250px">}}   |     
+| {{<figure src="fo3/Mole_rat_FO3.webp" width="250px">}}    |  {{<figure src="fo3/Snuffles.webp" width="250px">}}   |     
 
 <div class="scrollwrapper">
 
@@ -577,7 +577,7 @@ animali non ha effetto su di loro.
 
 |   Comune  | Fantasma Lei        |
 | --- | --- | 
-|  {{<figure src="Yao_guai.webp" width="250px">}}   | {{<figure src="GhostofShe.webp" width="250px">}}         |
+|  {{<figure src="fo3/Yao_guai.webp" width="250px">}}   | {{<figure src="fo3/GhostofShe.webp" width="250px">}}         |
 
 <div class="scrollwrapper">
 
@@ -609,7 +609,7 @@ Non bisogna sottovalutare la sua potenza, soprattutto le spine lanciate a distan
 
 | Comune    |  Dionaea Muscipula        |
 | --- | --- | 
-|  {{<figure src="Spore_plant.webp" width="250px">}}   |  {{<figure src="Dionaea_Muscipula.webp" width="250px">}}        |
+|  {{<figure src="fo3/Spore_plant.webp" width="250px">}}   |  {{<figure src="fo3/Dionaea_Muscipula.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -633,7 +633,7 @@ Non è possibile individuarli prima dell'attacco, né usando la bussola, ne con 
 
 | Comune    |  Paziente Zero   |     
 | --- | --- | 
-|  {{<figure src="Spore_carrier.webp" width="250px">}}   |  {{<figure src="Patient_Zero.webp" width="250px">}}        |
+|  {{<figure src="fo3/Spore_carrier.webp" width="250px">}}   |  {{<figure src="fo3/Patient_Zero.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -664,11 +664,11 @@ Fra i ghoul ancora senzienti vanno ricordati Jason Bright, con la sua confratern
 
 |   Feroce  | Tecnologista     |  Splendente   |
 | --- | --- | --- |
-|  {{<figure src="Feral_ghoul.webp" width="250px">}}   |  {{<figure src="Feral_ghoul_reaver.webp" width="250px">}}   |  {{<figure src="Glowing_one.webp" width="250px">}}   |
+|  {{<figure src="fo3/Feral_ghoul.webp" width="250px">}}   |  {{<figure src="fo3/Feral_ghoul_reaver.webp" width="250px">}}   |  {{<figure src="fo3/Glowing_one.webp" width="250px">}}   |
 
 |  Soldato   |  Soldato splendente   |  Soprintendente   |
 | --- | --- | --- |
-| {{<figure src="Feral_trooper_ghoul.webp" width="250px">}}    | {{<figure src="Glowing_trooper_ghoul.webp" width="250px">}}    |  {{<figure src="Vault_34_Overseer.webp" width="250px">}}   |
+| {{<figure src="fo3/Feral_trooper_ghoul.webp" width="250px">}}    | {{<figure src="fo3/Glowing_trooper_ghoul.webp" width="250px">}}    |  {{<figure src="fo3/Vault_34_Overseer.webp" width="250px">}}   |
 
 
 <div class="scrollwrapper">
@@ -716,7 +716,7 @@ Villa rendono questa strategia particolarmente difficile.
 
 | Cercatore    | Cacciatore    |    
 | --- | --- | 
-| {{<figure src="Ghost_harvester.webp" width="250px">}}    | {{<figure src="Ghost_trapper.webp" width="250px">}}         |
+| {{<figure src="fo3/Ghost_harvester.webp" width="250px">}}    | {{<figure src="fo3/Ghost_trapper.webp" width="250px">}}         |
 
 <div class="scrollwrapper">
 
@@ -758,11 +758,11 @@ attaccano in gruppi numerosi. Bisogna prestare però particolare attenzione a qu
 
 | Cacciatore                  | Devastatore                   | Saccheggiatore               |  Scout   |
 | --------------------------- | ----------------------------- | ---------------------------- | --- |
-| {{<figure src="Marked_men_hunter.webp" width="250px">}} | {{<figure src="Marked_men_marauder.webp" width="250px">}} | {{<figure src="Marked_men_ravager.webp" width="250px">}} | {{<figure src="Marked_men_scout.webp" width="250px">}}    |
+| {{<figure src="fo3/Marked_men_hunter.webp" width="250px">}} | {{<figure src="fo3/Marked_men_marauder.webp" width="250px">}} | {{<figure src="fo3/Marked_men_ravager.webp" width="250px">}} | {{<figure src="fo3/Marked_men_scout.webp" width="250px">}}    |
 
 | Esploratore della Legione                  | Legionario scelto                          | Legionario veterano                        | Gaius Magnus    | Colonnello Royez |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ | --------------- | :----------------: |
-| {{<figure src="FNVLR_Irradiated_Legion_explorer.webp" width="250px">}} | {{<figure src="FNVLR_Irradiated_Legionary_prime.webp" width="250px">}} | {{<figure src="FNV_irradiated_legionary_veteran.webp" width="250px">}} | {{<figure src="Gaius.webp" width="250px">}} | {{<figure src="Royez.webp" width="250px">}}  |
+| {{<figure src="fo3/FNVLR_Irradiated_Legion_explorer.webp" width="250px">}} | {{<figure src="fo3/FNVLR_Irradiated_Legionary_prime.webp" width="250px">}} | {{<figure src="fo3/FNV_irradiated_legionary_veteran.webp" width="250px">}} | {{<figure src="fo3/Gaius.webp" width="250px">}} | {{<figure src="fo3/Royez.webp" width="250px">}}  |
 
 
 <div class="scrollwrapper">
@@ -805,11 +805,11 @@ loro potenza di fuoco e incredibile resistenza.
 
 |  Comune   |  Bruto   | Capo    |
 | --- | --- | --- |
-| {{<figure src="FNV_super_mutant.webp" width="250px">}}    |  {{<figure src="FNV_super_mutant_brute.webp" width="250px">}}   | {{<figure src="FONV_Super_mutant_master.webp" width="250px">}}    |
+| {{<figure src="fo3/FNV_super_mutant.webp" width="250px">}}    |  {{<figure src="fo3/FNV_super_mutant_brute.webp" width="250px">}}   | {{<figure src="fo3/FONV_Super_mutant_master.webp" width="250px">}}    |
 
 | Nughtkin    | Capo nightkin    |   
 | --- | --- | 
-|  {{<figure src="FNV_nightkin.webp" width="250px">}}   |  {{<figure src="Nightkin_master.webp" width="250px">}}       |
+|  {{<figure src="fo3/FNV_nightkin.webp" width="250px">}}   |  {{<figure src="fo3/Nightkin_master.webp" width="250px">}}       |
 
 <div class="scrollwrapper">
 
@@ -844,7 +844,7 @@ modifiche di eyebot.
 
 | Normale    | Medico    | Da riparazione    |
 | --- | --- | --- |
-| {{<figure src="Fo3_Enclave_eyebot.webp" width="250px">}}    | {{<figure src="Medical_eyebot.webp" width="250px">}}    | {{<figure src="Repair_eyebot.webp" width="250px">}}    |
+| {{<figure src="fo3/Fo3_Enclave_eyebot.webp" width="250px">}}    | {{<figure src="fo3/Medical_eyebot.webp" width="250px">}}    | {{<figure src="fo3/Repair_eyebot.webp" width="250px">}}    |
 
 <div class="scrollwrapper">
 
@@ -856,8 +856,8 @@ modifiche di eyebot.
 
 </div>
 
-### Mister Gutsy 
-Il Mister Gutsy è una variante militare del Mister Handy, sviluppata prima dello scoppio della Grande Guerra. Sono distinguibili dalla livrea verde mili -
+### Ardito 
+L'Ardito o Mister Gutsy è una variante militare del Mister Handy, sviluppata prima dello scoppio della Grande Guerra. Sono distinguibili dalla livrea verde mili -
 tare, un armamento e una corazza migliorati.
 
 Utilizzano un'arma al plasma per gli attacchi a distanza mentre un lanciafiamme per gli scontri ravvicinati. Le versioni temprate presentano una corazza
@@ -868,7 +868,7 @@ paci di qualsiasi movimento.
 
 | Comune    | Sig. Steel    |    
 | --- | --- | 
-| {{<figure src="Mister_Gutsy.webp" width="250px">}}    | {{<figure src="Mr._Steel.webp" width="250px">}}         |
+| {{<figure src="fo3/Mister_Gutsy.webp" width="250px">}}    | {{<figure src="fo3/Mr._Steel.webp" width="250px">}}         |
 
 <div class="scrollwrapper">
 
@@ -900,7 +900,7 @@ paci di qualsiasi movimento.
 
 | Comune    | Robot di manutenzione         |
 | --- | --- | 
-| {{<figure src="Mister_Handy.webp" width="250px">}}    | {{<figure src="Maintenance_robot.webp" width="250px">}}         |
+| {{<figure src="fo3/Mister_Handy.webp" width="250px">}}    | {{<figure src="fo3/Maintenance_robot.webp" width="250px">}}         |
 
 <div class="scrollwrapper">
 
@@ -929,7 +929,7 @@ paci di qualsiasi movimento.
 
 | Mk1    | Dottor Orderly MD PHD DDS         |
 | --- | --- | 
-|  {{<figure src="MisterOrderly.webp" width="250px">}}   |  {{<figure src="Doctor_Orderly_MD_PHD_DDS.webp" width="250px">}}        |
+|  {{<figure src="fo3/MisterOrderly.webp" width="250px">}}   |  {{<figure src="fo3/Doctor_Orderly_MD_PHD_DDS.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -956,7 +956,7 @@ E' possibile renderli frenetici menomando la loro testa, mentre l'uso di armi a 
 
 |  Comune   | Serie Mark    | Drone di costruzione    |
 | --- | --- | --- |
-|  {{<figure src="Protectron.webp" width="250px">}}   |  {{<figure src="Protectron_blue.webp" width="250px">}}   | {{<figure src="FNVOWB_ConstructionDrone_GECK.webp" width="250px">}}    |
+|  {{<figure src="fo3/Protectron.webp" width="250px">}}   |  {{<figure src="fo3/Protectron_blue.webp" width="250px">}}   | {{<figure src="fo3/FNVOWB_ConstructionDrone_GECK.webp" width="250px">}}    |
 
 <div class="scrollwrapper">
 
@@ -995,7 +995,7 @@ Sono praticamente immuni alle armi convenzionali, mentre particolarmente vulnera
 
 | Mk1    |  Gigante X-42        |
 | --- | --- | 
-| {{<figure src="Robo-scorpion.webp" width="250px">}}    |  {{<figure src="OWB_giant_roboscorpion_attack.webp" width="250px">}}        |
+| {{<figure src="fo3/Robo-scorpion.webp" width="250px">}}    |  {{<figure src="fo3/OWB_giant_roboscorpion_attack.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -1057,7 +1057,7 @@ menomati possono diventare frenetici.
 
 | Mk1                  | Mk2                   | Impazzito                    | Danneggiato                 |
 | -------------------- | --------------------- | ---------------------------- | --------------------------- |
-| {{<figure src="Securitron.webp" width="250px">}} | {{<figure src="Securitron2.webp" width="250px">}} | {{<figure src="Berserk_securitron.webp" width="250px">}} | {{<figure src="DamagedSecuritron.webp" width="250px">}} | 
+| {{<figure src="fo3/Securitron.webp" width="250px">}} | {{<figure src="fo3/Securitron2.webp" width="250px">}} | {{<figure src="fo3/Berserk_securitron.webp" width="250px">}} | {{<figure src="fo3/DamagedSecuritron.webp" width="250px">}} | 
 
 <div class="scrollwrapper">
 
@@ -1106,7 +1106,7 @@ possono essere gravemente danneggiati da granate a impulsi, mine a impulsi o qua
 
 |  Comune   | REPCONN         |
 | --- | --- | 
-| {{<figure src="Sentry_bot.webp" width="250px">}}    |  {{<figure src="REPCONN_sentry_bot.webp" width="250px">}}        |
+| {{<figure src="fo3/Sentry_bot.webp" width="250px">}}    |  {{<figure src="fo3/REPCONN_sentry_bot.webp" width="250px">}}        |
 
 <div class="scrollwrapper">
 
@@ -1137,7 +1137,7 @@ Facilmente si possono uccidere dalla  distanza, ricordando che  però sono immun
 
 | Militare                   | Poliziotto               | Gabe           |
 | -------------------------- | ------------------------ | -------------- |
-| {{<figure src="MilitaryCyberdog.webp" width="250px">}} | {{<figure src="PoliceCyberdog.webp" width="250px">}} | {{<figure src="Gabe.webp" width="250px">}} |
+| {{<figure src="fo3/MilitaryCyberdog.webp" width="250px">}} | {{<figure src="fo3/PoliceCyberdog.webp" width="250px">}} | {{<figure src="fo3/Gabe.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 
@@ -1161,7 +1161,7 @@ Come per tutti i robot, risultano molto più efficaci le armi a energia, come la
 
 | Comune              | Serie Mark              | Superego            | 
 | ------------------- | ----------------------- | ------------------- |
-| {{<figure src="Robobrain.webp" width="250px">}} | {{<figure src="ArmyRobobrain.webp" width="250px">}} | {{<figure src="Super_Ego.webp" width="250px">}} |
+| {{<figure src="fo3/Robobrain.webp" width="250px">}} | {{<figure src="fo3/ArmyRobobrain.webp" width="250px">}} | {{<figure src="fo3/Super_Ego.webp" width="250px">}} |
 
 <div class="scrollwrapper">
 

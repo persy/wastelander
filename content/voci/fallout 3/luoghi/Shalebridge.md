@@ -21,11 +21,11 @@ Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-
 
 | Mappa                                   | Mappa locale tunnel                             | Panoramica                          |
 | --------------------------------------- | ----------------------------------------------- | ----------------------------------- |
-| {{<figure src="Shalebridge_loc.webp">}} | {{<figure src="Shalebridge_tunnels_map.webp">}} | {{<figure src="Shalebridge.webp">}} |
+| {{<figure src="fo3/Shalebridge_loc.webp">}} | {{<figure src="fo3/Shalebridge_tunnels_map.webp">}} | {{<figure src="fo3/Shalebridge.webp">}} |
 
 | Immagine                               | Oggetto e posizione                                                                                                                                                 |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Ant_researcher.webp">}} | **Il grande libro della scienza**, sul cadavere di un entomologo in una pozza d'acqua vicino alle pile di rifiuti di formica. Si rigenera ogni tre giorni di gioco. |
+| {{<figure src="fo3/Ant_researcher.webp">}} | **Il grande libro della scienza**, sul cadavere di un entomologo in una pozza d'acqua vicino alle pile di rifiuti di formica. Si rigenera ogni tre giorni di gioco. |
 
 
 Altri oggetti:

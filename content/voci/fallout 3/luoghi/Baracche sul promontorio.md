@@ -20,13 +20,13 @@ Le baracche sul promontorio fanno parte di un accampamento di medie dimensioni e
 
 | Mappa                         | Panoramica                |
 | ----------------------------- | ------------------------- |
-| {{<figure src="Clifftop_shacks_loc.webp">}} | {{<figure src="Clifftop_Shacks.webp">}} |
+| {{<figure src="fo3/Clifftop_shacks_loc.webp">}} | {{<figure src="fo3/Clifftop_Shacks.webp">}} |
 
 | Immagine                          | Oggetto e posizione                                                                  |
 | --------------------------------- | ------------------------------------------------------------------------------------ |
-| {{<figure src="Board_of_Education.webp">}}      | **Istituto di formazione**, baracca nord, nelle mani di uno scheletro sul letto                    |
-| {{<figure src="FO3_GTB_Clifftop_Shacks.webp">}} | **Grognak il barbaro**, baracca nord, su uno degli scaffali a destra dell'ingresso   |
-| {{<figure src="FO3_PI_Clifftop_Shacks.webp">}}  | **Pugilato illustrato**, baracca sud, su uno degli scaffali a sinistra dell'ingresso |
+| {{<figure src="fo3/Board_of_Education.webp">}}      | **Istituto di formazione**, baracca nord, nelle mani di uno scheletro sul letto                    |
+| {{<figure src="fo3/FO3_GTB_Clifftop_Shacks.webp">}} | **Grognak il barbaro**, baracca nord, su uno degli scaffali a destra dell'ingresso   |
+| {{<figure src="fo3/FO3_PI_Clifftop_Shacks.webp">}}  | **Pugilato illustrato**, baracca sud, su uno degli scaffali a sinistra dell'ingresso |
 
 
 Altri oggetti:

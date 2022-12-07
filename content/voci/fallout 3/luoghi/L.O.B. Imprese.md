@@ -20,19 +20,19 @@ L.O.B. Imprese è un edificio situato a Falls Church, raggiungibile attraverso l
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Falls_Church_streets.webp">}}  | {{<figure src="LOB_Enterprises_loc_map.webp">}}  | {{<figure src="LOB_Enterprises.webp">}}  |
+| {{<figure src="fo3/Falls_Church_streets.webp">}}  | {{<figure src="fo3/LOB_Enterprises_loc_map.webp">}}  | {{<figure src="fo3/LOB_Enterprises.webp">}}  |
 
 | Mappa locale ala est                        | Mappa locale archivi                       |
 | ------------------------------------------- | ------------------------------------------ |
-| {{<figure src="LOB_Enterprises_East_Wing_loc_map.webp">}} | {{<figure src="LOB_Enterprises_Archives_loc_map.webp">}} |
+| {{<figure src="fo3/LOB_Enterprises_East_Wing_loc_map.webp">}} | {{<figure src="fo3/LOB_Enterprises_Archives_loc_map.webp">}} |
 
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_PI_LOB_Enterprises.webp">}}  | **Pugilato illustrato**, in un ripostiglio piena di scaffali al primo piano, verso il lato orientale della mappa, nella stanza più meridionale  |
-| {{<figure src="FO3_CA_SOTM_LOB.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, archivi, accanto al terminale dei dipendenti   |
-|  {{<figure src="LOB_Enterprises_mini_nuke.webp">}} | **Munizione nucleare**, ala est, nel bagno dell'amministratore delegato, sopra la lampada neon  |
-|  {{<figure src="Zhu-Rong_v418_Chinese_pistol.webp">}} | **Pistola cinese Zhu-Rong v418**, ala est, all'interno dell'ufficio del CEO (Scasso 100), all'interno della valigetta sulla scrivania. La chiave si trova all'interno della scrivania del CEO e aprirà anche la porta che conduce nel corridoio  |
+| {{<figure src="fo3/FO3_PI_LOB_Enterprises.webp">}}  | **Pugilato illustrato**, in un ripostiglio piena di scaffali al primo piano, verso il lato orientale della mappa, nella stanza più meridionale  |
+| {{<figure src="fo3/FO3_CA_SOTM_LOB.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, archivi, accanto al terminale dei dipendenti   |
+|  {{<figure src="fo3/LOB_Enterprises_mini_nuke.webp">}} | **Munizione nucleare**, ala est, nel bagno dell'amministratore delegato, sopra la lampada neon  |
+|  {{<figure src="fo3/Zhu-Rong_v418_Chinese_pistol.webp">}} | **Pistola cinese Zhu-Rong v418**, ala est, all'interno dell'ufficio del CEO (Scasso 100), all'interno della valigetta sulla scrivania. La chiave si trova all'interno della scrivania del CEO e aprirà anche la porta che conduce nel corridoio  |
 |  TODO | **Lo scassinatore moderno**, ala est, accanto al computer sulla scrivania nell'ufficio del CEO  |
 
 Altri oggetti:

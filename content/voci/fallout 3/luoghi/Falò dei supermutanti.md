@@ -21,8 +21,8 @@ Il falò dei supermutanti è una località non contrassegnata e si trova a nord-
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
-| {{<figure src="Super_mutant_hill_loc.webp">}} | {{<figure src="Super_mutant_hill.webp">}} |
+| {{<figure src="fo3/Super_mutant_hill_loc.webp">}} | {{<figure src="fo3/Super_mutant_hill.webp">}} |
 
 | Immagine                                                     | Oggetto e posizione                                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| {{<figure src="FO3_LCS_Rivet_City_Super_Mutant_Camp.webp">}} | **Stile da congresso, menzognero**, accanto al letto di fortuna, vicino ad alcune scatole di munizioni |
+| {{<figure src="fo3/FO3_LCS_Rivet_City_Super_Mutant_Camp.webp">}} | **Stile da congresso, menzognero**, accanto al letto di fortuna, vicino ad alcune scatole di munizioni |

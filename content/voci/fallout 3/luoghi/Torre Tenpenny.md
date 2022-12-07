@@ -22,13 +22,13 @@ La Torre Tenpenny è un insediamento fortificato costituito da un unico grattaci
 
 | Mappa                                      | Mappa locale                                     | Panoramica                                    |
 | ------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
-| {{<figure src="Tenpenny_Tower_loc.webp">}} | {{<figure src="Tenpenny_Tower_lobby_loc.webp">}} | {{<figure src="FO3_Tenpenny_overview.webp">}} |
+| {{<figure src="fo3/Tenpenny_Tower_loc.webp">}} | {{<figure src="fo3/Tenpenny_Tower_lobby_loc.webp">}} | {{<figure src="fo3/FO3_Tenpenny_overview.webp">}} |
 
 | Immagine                                                        | Oggetto e posizione                                                                                                                                                                         |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_LCS_Tenpenny.webp">}}                        | **Stile da congresso, menzognero**, in cima a una scrivania nella camera da letto di Allistair Tenpenny                                                                                     |
-| {{<figure src="Duck_and_Cover!_Warrington_ruined_house.webp">}} | **Al riparo!**, a ovest della torre, verso la stazione di Warrington, in una casa  distrutta. Il libro è appena a nord-est della casa intatta, nella libreria in mezzo alle rovine          |
-| {{<figure src="Love_letter_Millicent.webp">}}                   | **Racconti di un venditore di carne di Junktown** e **Lettera d'amore**, su una scrivania nella stanza di Susan Lancaster, al piano delle suite di Tenpenny. La stanza è nord-est |
+| {{<figure src="fo3/FO3_LCS_Tenpenny.webp">}}                        | **Stile da congresso, menzognero**, in cima a una scrivania nella camera da letto di Allistair Tenpenny                                                                                     |
+| {{<figure src="fo3/Duck_and_Cover!_Warrington_ruined_house.webp">}} | **Al riparo!**, a ovest della torre, verso la stazione di Warrington, in una casa  distrutta. Il libro è appena a nord-est della casa intatta, nella libreria in mezzo alle rovine          |
+| {{<figure src="fo3/Love_letter_Millicent.webp">}}                   | **Racconti di un venditore di carne di Junktown** e **Lettera d'amore**, su una scrivania nella stanza di Susan Lancaster, al piano delle suite di Tenpenny. La stanza è a nord-est |
 
 Altri oggetti:
 - **Munizione nucleare**, **Schemi - Mina da tappo**, nella cassaforte di Herbert Dashwood. La chiave si ottiene parlando ad Herbert della cadavere di Argyle trovato a Rockopolis oppure uccidendolo e saccheggiando il suo inventario

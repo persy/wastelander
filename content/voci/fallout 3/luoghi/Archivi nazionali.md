@@ -22,22 +22,22 @@ Gli Archivi nazionali si trovano nella parte nord-est del Mall, a est del Museo 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="National_Archives_loc.webp">}}  |  {{<figure src="National_Archives_loc_map.webp">}} |  {{<figure src="National_Archives.webp">}} |
+| {{<figure src="fo3/National_Archives_loc.webp">}}  |  {{<figure src="fo3/National_Archives_loc_map.webp">}} |  {{<figure src="fo3/National_Archives.webp">}} |
 
 | Mappa locale Archivi Nazionali            | Mappa locale  scantinato                         | Mappa locale ala protetta est               | Mappa locale camera blindata                   | 
 | ----------------------------------------- | ------------------------------------------------ | ------------------------------------------- | ---------------------------------------------- |
-| {{<figure src="Fo3_National_Archives_lobby_map.webp">}} | {{<figure src="Fo3_National_Archives_sub-basement_map.webp">}} | {{<figure src="Fo3_National_Archives_SW_East_map.webp">}} | {{<figure src="Fo3_National_Archives_Strongroom_map.webp">}} |
+| {{<figure src="fo3/Fo3_National_Archives_lobby_map.webp">}} | {{<figure src="fo3/Fo3_National_Archives_sub-basement_map.webp">}} | {{<figure src="fo3/Fo3_National_Archives_SW_East_map.webp">}} | {{<figure src="fo3/Fo3_National_Archives_Strongroom_map.webp">}} |
 
 
 | Immagine                                                 | Oggetto e posizione                                                                                                                                                                   |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Duck_and_Cover!_National_Archives 1.webp">}}            | **Al riparo!**, archivi, nella stanza nord-ovest, in cima a un banco di scuola vicino a due missili                                                                                   |
-| {{<figure src="Duck_and_Cover!_National_Archives_sub-basement.webp">}} | **Al riparo!**, una **munizione nucleare** e uno **Stealth Boy**, scantinato, nei pressi del generatore rotto dietro un cancello (Scasso 100), prima di entrare nell'ala protetta est |
+| {{<figure src="fo3/Duck_and_Cover!_National_Archives 1.webp">}}            | **Al riparo!**, archivi, nella stanza nord-ovest, in cima a un banco di scuola vicino a due missili                                                                                   |
+| {{<figure src="fo3/Duck_and_Cover!_National_Archives_sub-basement.webp">}} | **Al riparo!**, una **munizione nucleare** e uno **Stealth Boy**, scantinato, nei pressi del generatore rotto dietro un cancello (Scasso 100), prima di entrare nell'ala protetta est |
 | TODO                                                     | **Libro di musica**, scantinato, vicino alla parete ovest della prima stanza, su un ripiano                                                                                           |
-| {{<figure src="FO3_LCS_National_Archives.webp">}}                      | **Stile da congresso, menzognero**, ala protetta est, vicino a una cassaforte di sicurezza nella stanza a nord, la stessa che contiene la **Carta dei Diritti**                       |
-| {{<figure src="Capitol_Preservation_Society_document_list.webp">}}     | **Magna Carta**, ala protetta est, in una cassaforte nella stanza a nord-est, dietro due porte chiuse (Scasso 50)                                                                     |
+| {{<figure src="fo3/FO3_LCS_National_Archives.webp">}}                      | **Stile da congresso, menzognero**, ala protetta est, vicino a una cassaforte di sicurezza nella stanza a nord, la stessa che contiene la **Carta dei Diritti**                       |
+| {{<figure src="fo3/Capitol_Preservation_Society_document_list.webp">}}     | **Magna Carta**, ala protetta est, in una cassaforte nella stanza a nord-est, dietro due porte chiuse (Scasso 50)                                                                     |
 | TODO                                                     | **Racconti di un venditore di carne di Junktown**, nella stessa stanza della **Dichiarazione d'indipendenza**                                                                         |
-| {{<figure src="Declaration_of_Independence_NA.webp">}}                 | **Dichiarazione di Indipendenza**, camera blindata, in una cassaforte che può essere sbloccata accedendo al terminale di sicurezza della cassaforte.                                  |
+| {{<figure src="fo3/Declaration_of_Independence_NA.webp">}}                 | **Dichiarazione di Indipendenza**, camera blindata, in una cassaforte che può essere sbloccata accedendo al terminale di sicurezza della cassaforte.                                  |
 
 Altri oggetti:
 - **6 buoni per premio Archivi**, archivi, in una cassaforte al piano superiore, sbloccabile dal terminale dell'amministratore di Berkeley

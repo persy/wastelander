@@ -22,7 +22,7 @@ Il distretto di Chevy Chase è situato nella parte nord di Washington, D.C. È r
 
 | Mappa                           | Mappa locale              | Panoramica            |
 | ------------------------------- | ------------------------- | --------------------- |
-| {{<figure src="Chevy_Chase_North_loc.webp">}} | {{<figure src="Chevy_Chase_map.webp">}} | {{<figure src="Chevy_Chase.webp">}} |
+| {{<figure src="fo3/Chevy_Chase_North_loc.webp">}} | {{<figure src="fo3/Chevy_Chase_map.webp">}} | {{<figure src="fo3/Chevy_Chase.webp">}} |
 
 
 Altri oggetti:

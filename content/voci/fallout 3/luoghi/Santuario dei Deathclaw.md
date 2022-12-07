@@ -21,17 +21,16 @@ Il santuario degli Deathclaw è una caverna e la sua entrata si trova tra la cap
 
 | Mappa                                          | Mappa locale                                        | Panoramica                                  |
 | ---------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
-| {{<figure src="DeathclawSanctuary_loc.webp">}} | {{<figure src="Deathclaw_Sanctuary_loc_map.webp">}} | {{<figure src="Deathclaw_Sanctuary.webp">}} |
+| {{<figure src="fo3/DeathclawSanctuary_loc.webp">}} | {{<figure src="fo3/Deathclaw_Sanctuary_loc_map.webp">}} | {{<figure src="fo3/Deathclaw_Sanctuary.webp">}} |
 
-| Immagine                                                           | Oggetto e posizione                                                                                                                                                        |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Deathclaw_Sanctuary_Duck_and_Cover!.webp">}}        | **Al riparo!**, davanti l'ingresso, in un armadietto (Scasso 50)                                                                                                           |
-| {{<figure src="Deathclaw_Sanctuary_Bobblehead_-_Endurance.webp">}} | **Bambolina - Stamina**, **Tu e Nikola Tesla** e una **munizione nucleare**, nella prima grande camera, a sud dell'ingresso vicino a una carcassa di bramino               |
-| {{<figure src="Deathclaw_Sanctuary_Vengeance.webp">}}              | **Vendetta**, nell'estremo sud-est delle caverne, nei pressi di una pozza di sangue                                                                                        |
-| {{<figure src="Jack_Enclave_officer.webp">}}                       | **Jack**, sul cadavere di ufficiale dell'Enclave morto nella parte meridionale della caverna, a ovest di Vendetta. Compare solo dopo aver completato *Le acque della vita* |
+| Immagine                                                               | Oggetto e posizione                                                                                                                                                        |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{<figure src="fo3/Deathclaw_Sanctuary_Duck_and_Cover!.webp">}}        | **Al riparo!**, davanti l'ingresso, in un armadietto (Scasso 50)                                                                                                           |
+| {{<figure src="fo3/Deathclaw_Sanctuary_Bobblehead_-_Endurance.jpg">}} | **Bambolina - Stamina**, **Tu e Nikola Tesla** e una **munizione nucleare**, nella prima grande camera, a sud dell'ingresso vicino a una carcassa di bramino               |
+| {{<figure src="fo3/Deathclaw_Sanctuary_Vengeance.webp">}}              | **Vendetta**, nell'estremo sud-est delle caverne, nei pressi di una pozza di sangue piena di cadaveri                                                                                       |
+| {{<figure src="fo3/Jack_Enclave_officer.webp">}}                       | **Jack**, sul cadavere di ufficiale dell'Enclave morto nella parte meridionale della caverna, a ovest di Vendetta. Compare solo dopo aver completato *Le acque della vita* |
+|    {{<figure src="fo3/NCQ_Deathclaw_Sanctuary.jpg">}}                                                                   | **Nuka-Cola Quantum**, a pochi passi a est della bambolina, accanto al cadavere di alcuni vagabondi                                                                      |
 
 
-Altri oggetti:
-- **Nuka-Cola Quantum**, a pochi passi a est della bambolina, accanto a un ufficiale dell'Enclave morto
 
 

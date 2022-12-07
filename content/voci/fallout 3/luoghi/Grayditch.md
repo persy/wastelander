@@ -20,11 +20,11 @@ Grayditch è un insediamento situato alla periferia delle rovine di Washington, 
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
-| {{<figure src="Grayditch_loc.webp">}} | {{<figure src="Grayditch_loc_map.webp">}} | {{<figure src="Grayditch.webp">}} |
+| {{<figure src="fo3/Grayditch_loc.webp">}} | {{<figure src="fo3/Grayditch_loc_map.webp">}} | {{<figure src="fo3/Grayditch.webp">}} |
 
 | Immagine                                          | Oggetto e posizione                                                                                                    |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Guns_and_Bullets_Grayditch.png">}} | **Pistole e proiettili**, nella casa abbandonata a sud-est, in una cassa di legno sulla libreria a destra dell'entrata |
+| {{<figure src="fo3/Guns_and_Bullets_Grayditch.png">}} | **Pistole e proiettili**, nella casa abbandonata a sud-est, in una cassa di legno sulla libreria a destra dell'entrata |
 
 Altri oggetti:
 - **Registrazione password del Dott. Lesko**, nella baracca del Dott. Lesko

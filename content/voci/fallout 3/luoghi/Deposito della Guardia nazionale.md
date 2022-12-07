@@ -21,15 +21,15 @@ Il deposito della Guardia nazionale è un'installazione militare che si trova lu
 
 | Mappa                                            | Mappa locale                                     | Panoramica                                   |
 | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
-| {{<figure src="National_Guard_Depot_loc.webp">}} | {{<figure src="National_Guard_depot_map.webp">}} | {{<figure src="National_Guard_Depot.webp">}} |
+| {{<figure src="fo3/National_Guard_Depot_loc.webp">}} | {{<figure src="fo3/National_Guard_depot_map.webp">}} | {{<figure src="fo3/National_Guard_Depot.webp">}} |
 
 | Immagine                                          | Oggetto e posizione                                                                                                                                      |
 | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Bobblehead_Small_Guns_NGD.webp">}} | **Bambolina - Armi leggere**, armeria, su uno scaffale nel magazzino sigillato del seminterrato dell'armeria                                             |
-| {{<figure src="Experimental_MIRV.jpg">}}          | **MIRV sperimentale**, 5 **Munizioni nucleari**, **U.S. Army: 30 pratiche ricette per lanciafiamme**e **Nuka-Cola Quantum**, nel bunker dell'armeria     |
-| {{<figure src="Nikola_Tesla_and_You_NGD.jpg">}}   | **Tu e Nikola Tesla**, deposito, in un ripostiglio al livello più basso, oltre gli schedari. sullo scaffale destro                                       |
-| {{<figure src="Tales_of_a_JJT_NGD.jpg">}}         | **Racconti di un venditore di carne di Junktown**, ala di addestramento, su una scrivania nella stanza in fondo al corridoio, partendo dalle scale a est |
-| {{<figure src="Duck_and_Cover!_NGD.jpg">}}        | **Al riparo!**, uffici, su un lungo bancone in una sezione irradiata                                                                                     |
+| {{<figure src="fo3/Bobblehead_Small_Guns_NGD.webp">}} | **Bambolina - Armi leggere**, armeria, su uno scaffale nel magazzino sigillato del seminterrato dell'armeria                                             |
+| {{<figure src="fo3/Experimental_MIRV.jpg">}}          | **MIRV sperimentale**, 5 **Munizioni nucleari**, **U.S. Army: 30 pratiche ricette per lanciafiamme**e **Nuka-Cola Quantum**, nel bunker dell'armeria     |
+| {{<figure src="fo3/Nikola_Tesla_and_You_NGD.jpg">}}   | **Tu e Nikola Tesla**, deposito, in un ripostiglio al livello più basso, oltre gli schedari. sullo scaffale destro                                       |
+| {{<figure src="fo3/Tales_of_a_JJT_NGD.jpg">}}         | **Racconti di un venditore di carne di Junktown**, ala di addestramento, su una scrivania nella stanza in fondo al corridoio, partendo dalle scale a est |
+| {{<figure src="fo3/Duck_and_Cover!_NGD.jpg">}}        | **Al riparo!**, uffici, su un lungo bancone in una sezione irradiata                                                                                     |
 |                                                   |                                                                                                                                                          |
 
 Altri oggetti:

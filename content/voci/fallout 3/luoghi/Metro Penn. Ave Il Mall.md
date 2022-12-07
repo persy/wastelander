@@ -22,4 +22,4 @@ La Metro Penn. Ave/Il Mall  fa parte del sistema metropolitano della Zona contam
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="The_Mall_Penn_Ave_loc.webp">}} | {{<figure src="Metro_Penn._Ave_The_Mall_Metro.webp">}}  | {{<figure src="Penn_Ave_The_Mall_Metro.webp">}}  |
+|  {{<figure src="fo3/The_Mall_Penn_Ave_loc.webp">}} | {{<figure src="fo3/Metro_Penn._Ave_The_Mall_Metro.webp">}}  | {{<figure src="fo3/Penn_Ave_The_Mall_Metro.webp">}}  |

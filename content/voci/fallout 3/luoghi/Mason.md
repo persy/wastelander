@@ -22,11 +22,11 @@ Il distretto di Mason è un'area di Washington, D.C. situata sul lato ovest del 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Mason_District_loc.webp">}}  |  {{<figure src="Mason_District_map.webp">}} | {{<figure src="Mason_District.webp">}}  |
+| {{<figure src="fo3/Mason_District_loc.webp">}}  |  {{<figure src="fo3/Mason_District_map.webp">}} | {{<figure src="fo3/Mason_District.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="Deans_Electronics_Hubris_Comics_PPS.webp">}} |  **Elettronica di Dean**, nel rifugio di preservazione Pulowski, appena fuori dalla Hubris Comics |
-|  {{<figure src="Guns_and_Bullets_Mason_District_South.webp">}} | **Pistole e proiettili**, presso il covo del cecchino al secondo piano di un edificio che si affaccia sul parco, angolo sud-ovest, su un tavolo  |
+|  {{<figure src="fo3/Deans_Electronics_Hubris_Comics_PPS.webp">}} |  **Elettronica di Dean**, nel rifugio di preservazione Pulowski, appena fuori dalla Hubris Comics |
+|  {{<figure src="fo3/Guns_and_Bullets_Mason_District_South.webp">}} | **Pistole e proiettili**, presso il covo del cecchino al secondo piano di un edificio che si affaccia sul parco, angolo sud-ovest, su un tavolo  |
 
 

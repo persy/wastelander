@@ -21,8 +21,8 @@ La stazione di Freedom Street fa parte del sistema metropolitano sotto la Zona c
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Freedom_Street_Station_loc.webp">}}  |  {{<figure src="Metro_Freedom_Street_Station.webp">}} |  {{<figure src="Freedom_Street_station.webp">}} |
+| {{<figure src="fo3/Freedom_Street_Station_loc.webp">}}  |  {{<figure src="fo3/Metro_Freedom_Street_Station.webp">}} |  {{<figure src="fo3/Freedom_Street_station.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Tumblers_Today_Freedom_Street_station.webp">}}  | **Lo scassinatore moderno**, su un tavolo, nell'alcova dello sciacallo  |
+| {{<figure src="fo3/Tumblers_Today_Freedom_Street_station.webp">}}  | **Lo scassinatore moderno**, su un tavolo, nell'alcova dello sciacallo  |

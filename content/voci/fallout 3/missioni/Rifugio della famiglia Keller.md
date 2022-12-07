@@ -46,9 +46,9 @@ graph TD;
 
 | Immagine                                                          | Oggetto e posizione                                                                                         |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| {{<figure src="1st_Keller_family_transcript_bottom_shelf.webp">}} | **Trascrizione famiglia Keller 1 di 5**, su uno scaffale                                                    |
-| {{<figure src="Hallowed_Moors_Cemetery_Day.webp">}}               | **Trascrizione famiglia Keller 2 di 5**, sul leggio nella chiesa                                            |
-| {{<figure src="Grisly_diner_Keller_family_transcript_3.webp">}}   | **Trascrizione famiglia Keller 3 di 5**, su una scrivania sul retro                                         |
-| {{<figure src="FO3_Sniper_Shack_Keller.webp">}}                   | **Trascrizione famiglia Keller 4 di 5**, sopra e nei pressi del banco da lavoro                             |
-| {{<figure src="FO3_Keller_family_transcript_5.webp">}}            | **Trascrizione famiglia Keller 5 di 5**, nel campo dei super mutanti, su un tavolo all'interno di una tenda |
+| {{<figure src="fo3/1st_Keller_family_transcript_bottom_shelf.webp">}} | **Trascrizione famiglia Keller 1 di 5**, su uno scaffale                                                    |
+| {{<figure src="fo3/Hallowed_Moors_Cemetery_Day.webp">}}               | **Trascrizione famiglia Keller 2 di 5**, sul leggio nella chiesa                                            |
+| {{<figure src="fo3/Grisly_diner_Keller_family_transcript_3.webp">}}   | **Trascrizione famiglia Keller 3 di 5**, su una scrivania sul retro                                         |
+| {{<figure src="fo3/FO3_Sniper_Shack_Keller.webp">}}                   | **Trascrizione famiglia Keller 4 di 5**, sopra e nei pressi del banco da lavoro                             |
+| {{<figure src="fo3/FO3_Keller_family_transcript_5.webp">}}            | **Trascrizione famiglia Keller 5 di 5**, nel campo dei super mutanti, su un tavolo all'interno di una tenda |
 

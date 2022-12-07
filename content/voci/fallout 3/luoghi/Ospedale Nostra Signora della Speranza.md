@@ -20,17 +20,17 @@ L'ospedale Nostra Signora della Speranza si trova vicino alla stazione di Vernon
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Our_Lady_of_HH_loc.webp">}}  |  {{<figure src="Vernon_Square_south.webp">}} | {{<figure src="Our_Lady_of_Hope_Hospital.webp">}}  |
+| {{<figure src="fo3/Our_Lady_of_HH_loc.webp">}}  |  {{<figure src="fo3/Vernon_Square_south.webp">}} | {{<figure src="fo3/Our_Lady_of_Hope_Hospital.webp">}}  |
 
 | Mappa locale piano terra | Mappa locale primo piano |
 | ----- | ------------ | 
-|  {{<figure src="Our_LoH_hospital_loc_map.webp">}} |  {{<figure src="Our_LoH_hospital_2nd_level_loc_map.webp">}} |   
+|  {{<figure src="fo3/Our_LoH_hospital_loc_map.webp">}} |  {{<figure src="fo3/Our_LoH_hospital_2nd_level_loc_map.webp">}} |   
 
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="DC_Journal_of_IM_OL_of_Hope_ground_floor.webp">}} | **Giornale di medicina interna del D.C.**, piano terra, in una stanza all'angolo sud-est, su un tavolo accanto alla radio   |
-| {{<figure src="DC_Journal_of_IM_OL_of_Hope_2nd_floor.webp">}}  | **Giornale di medicina interna del D.C.**, primo piano, nella caffetteria, su un tavolo circolare  |
+|  {{<figure src="fo3/DC_Journal_of_IM_OL_of_Hope_ground_floor.webp">}} | **Giornale di medicina interna del D.C.**, piano terra, in una stanza all'angolo sud-est, su un tavolo accanto alla radio   |
+| {{<figure src="fo3/DC_Journal_of_IM_OL_of_Hope_2nd_floor.webp">}}  | **Giornale di medicina interna del D.C.**, primo piano, nella caffetteria, su un tavolo circolare  |
 
 
 Altri oggetti:

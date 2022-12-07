@@ -21,6 +21,6 @@ La stazione ripetitore del satellite è un grande edificio abitato dalle truppe 
 
 | Mappa                                           | Mappa locale                                         | Panoramica                                      |
 | ----------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------- |
-| {{<figure src="Rockland_Car_Tunnel_map.webp">}} | {{<figure src="Fo3BS_Satellite_facility_map.webp">}} | {{<figure src="Satellite_Relay_Station.webp">}} |
+| {{<figure src="fo3/Rockland_Car_Tunnel_map.webp">}} | {{<figure src="fo3/Fo3BS_Satellite_facility_map.webp">}} | {{<figure src="fo3/Satellite_Relay_Station.webp">}} |
 
 

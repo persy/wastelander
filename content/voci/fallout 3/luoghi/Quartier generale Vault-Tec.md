@@ -20,13 +20,13 @@ Il quartier generale Vault-Tec si trova a Vernon Square nelle rovine di Washingt
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-|  {{<figure src="Vault_Tec_HQ_loc.webp">}} | {{<figure src="Vault-Tec_HQ_loc_map.webp">}}  | {{<figure src="Fo3_Vault_Tec_HQ.webp">}}  |
+|  {{<figure src="fo3/Vault_Tec_HQ_loc.webp">}} | {{<figure src="fo3/Vault-Tec_HQ_loc_map.webp">}}  | {{<figure src="fo3/Fo3_Vault_Tec_HQ.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="Tales_of_a_JJV_Vault-Tec_HQ.webp">}}  | **Racconti di un venditore di carne di Junktown**, relazioni con gli ospiti,  su un tavolo nella caffetteria oltre le scale rotte  |
-|  {{<figure src="BB_of_Science_Vault-Tec_HQ.webp">}} |  **Il grande libro della scienza**, uffici aziendali, in una stanza al secondo piano, su una libreria affacciata a una breccia sul pavimento |
-|  {{<figure src="Grognak_the_Barbarian_Vault-Tec_HQ.webp">}} |  **Grognak il barbaro**, amministrazione, su un bancone curvo nella stanza a nord |
+| {{<figure src="fo3/Tales_of_a_JJV_Vault-Tec_HQ.webp">}}  | **Racconti di un venditore di carne di Junktown**, relazioni con gli ospiti,  su un tavolo nella caffetteria oltre le scale rotte  |
+|  {{<figure src="fo3/BB_of_Science_Vault-Tec_HQ.webp">}} |  **Il grande libro della scienza**, uffici aziendali, in una stanza al secondo piano, su una libreria affacciata a una breccia sul pavimento |
+|  {{<figure src="fo3/Grognak_the_Barbarian_Vault-Tec_HQ.webp">}} |  **Grognak il barbaro**, amministrazione, su un bancone curvo nella stanza a nord |
 |   |   |
 
 Altri oggetti:

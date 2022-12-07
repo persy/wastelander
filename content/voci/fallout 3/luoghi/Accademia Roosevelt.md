@@ -17,23 +17,23 @@ hidden: true
 
 
 L'Accademia Roosevelt è una base dei supermutanti e si trova appena a sud delle tenute di Faded Pomp e a nord della centrale elettrica MDPL.
-
+ 
 
 
 | Mappa                           | Mappa locale                    | Panoramica                   |
 | ------------------------------- | ------------------------------- | ---------------------------- |
-| {{<figure src="Roosevelt_Academy_loc.webp">}} | {{<figure src="Roosevelt_Academy_map.webp">}} | {{<figure src="Roosevelt_Academy2.webp">}} |
+| {{<figure src="fo3/Roosevelt_Academy_loc.webp">}} | {{<figure src="fo3/Roosevelt_Academy_map.webp">}} | {{<figure src="fo3/Roosevelt_Academy2.webp">}} |
 
 | Mappa locale tunnel man. ed evac.         | Mappa locale centro Arti e Atletica    | Mappa locale biblioteca                 |
 | ----------------------------------------- | -------------------------------------- | --------------------------------------- |
-| {{<figure src="Roosevelt_Academy_ME_tunnel_map.webp">}} | {{<figure src="Roosevelt_Academy_AAHall_map.webp">}} | {{<figure src="Roosevelt_Academy_Library_map.webp">}} |
+| {{<figure src="fo3/Roosevelt_Academy_ME_tunnel_map.webp">}} | {{<figure src="fo3/Roosevelt_Academy_AAHall_map.webp">}} | {{<figure src="fo3/Roosevelt_Academy_Library_map.webp">}} |
 
 | Immagine                                     | Oggetto e posizione                                                                                                                                                                   |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_PI_Roosevelt_Academy.webp">}}           | **Pugilato illustrato**, accademia, nel bagno degli uomini vicino all'ufficio di Dean Dewey, vicino al cadavere di un predatore                                                       |
-| {{<figure src="DC_Journal_of_IM_Roosevelt_Academy.webp">}} | **Giornale di medicina interna del D.C.**, accademia, su una scrivania nell'angolo sud-est dell'infermiera                                                                            |
-| {{<figure src="Tumblers_Today_Roosevelt_Academy.webp">}}   | **Lo scassinatore moderno**, centro Arti e Atletica, al secondo piano, in una stanza adiacente allo spogliatoio, su una scrivania con due scatole di munizioni e una radio amatoriale |
-| {{<figure src="FO3_PI_Roosevelt_Academy_Tunnel.webp">}}    | **Pugilato illustrato**, tunnel manutenzione ed evacuazione, nella sala generatori meridionale, su uno scaffale nell'angolo nord-ovest                                                |
+| {{<figure src="fo3/FO3_PI_Roosevelt_Academy.webp">}}           | **Pugilato illustrato**, accademia, nel bagno degli uomini vicino all'ufficio di Dean Dewey, vicino al cadavere di un predatore                                                       |
+| {{<figure src="fo3/DC_Journal_of_IM_Roosevelt_Academy.webp">}} | **Giornale di medicina interna del D.C.**, accademia, su una scrivania nell'angolo sud-est dell'infermiera                                                                            |
+| {{<figure src="fo3/Tumblers_Today_Roosevelt_Academy.webp">}}   | **Lo scassinatore moderno**, centro Arti e Atletica, al secondo piano, in una stanza adiacente allo spogliatoio, su una scrivania con due scatole di munizioni e una radio amatoriale |
+| {{<figure src="fo3/FO3_PI_Roosevelt_Academy_Tunnel.webp">}}    | **Pugilato illustrato**, tunnel manutenzione ed evacuazione, nella sala generatori meridionale, su uno scaffale nell'angolo nord-ovest                                                |
 
 Altri oggetti:
 - Accademia

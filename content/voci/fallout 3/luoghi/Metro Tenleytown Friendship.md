@@ -21,10 +21,10 @@ La Metro Tenleytown/Friendship è un tunnel della Linea Rossa della metropolitan
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Chevy_Chase_North_loc.webp">}}  | {{<figure src="Metro_Tenleytown_Friendship_Station_map.webp">}}  | {{<figure src="Tenleytown_Friendship_station_north.webp">}}  |
+| {{<figure src="fo3/Chevy_Chase_North_loc.webp">}}  | {{<figure src="fo3/Metro_Tenleytown_Friendship_Station_map.webp">}}  | {{<figure src="fo3/Tenleytown_Friendship_station_north.webp">}}  |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | TODO  | **Stile da congresso, menzognero**, su una mensola metallica in una sezione intermedia a sud della metropolitana nord, accanto a un generatore  |
-| {{<figure src="Grognak_the_Barbarian_Tenleytown_Freedom_Station.webp">}}  |  **Grognak il barbaro**, nella stanza sul retro del piccolo ufficio nella parte nord-est della mappa. Si trova sul ripiano in alto a sinistra dell'armadietto più a sinistra sulla parete est |
+| {{<figure src="fo3/Grognak_the_Barbarian_Tenleytown_Freedom_Station.webp">}}  |  **Grognak il barbaro**, nella stanza sul retro del piccolo ufficio nella parte nord-est della mappa. Si trova sul ripiano in alto a sinistra dell'armadietto più a sinistra sulla parete est |
 | TODO  | **Nuka-Cola Quantum**, su una panchina nel livello superiore della stazione Friendship, nella parte settentrionale della mappa  |

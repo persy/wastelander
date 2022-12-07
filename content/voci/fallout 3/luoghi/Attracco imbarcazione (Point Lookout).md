@@ -22,4 +22,4 @@ L'attracco imbarcazione è il luogo dal quale parte il traghetto Duchess Gambit 
 
 | Mappa                           | Panoramica                  |
 | ------------------------------- | --------------------------- |
-| {{<figure src="Riverboat_Landing_loc.webp">}} | {{<figure src="Riverboat_Landing.webp">}} |
+| {{<figure src="fo3/Riverboat_Landing_loc.webp">}} | {{<figure src="fo3/Riverboat_Landing.webp">}} |

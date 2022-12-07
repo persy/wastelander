@@ -19,11 +19,11 @@ L'area per escursioni e campeggio F. Scott Key è un campeggio situato a sud di 
 
 | Mappa                         | Panoramica          |
 | ----------------------------- | ------------------- |
-| {{<figure src="FSKT_Campground_loc.webp">}} | {{<figure src="Scott_Key.webp">}} |
+| {{<figure src="fo3/FSKT_Campground_loc.webp">}} | {{<figure src="fo3/Scott_Key.webp">}} |
 
 | Immagine                                              | Oggetto e posizione                                                 |
 | ----------------------------------------------------- | ------------------------------------------------------------------- |
-| {{<figure src="F_Scott_Key_trail_and_campground_blue_print.webp">}} | **Schemi - Guanto da Deathclaw** , all'interno di un piccolo camper |
-| {{<figure src="Duck_'n_cover_scott.webp">}}                         | **Al riparo!**, sopra al tavolo centrale nell'area picnic           |
+| {{<figure src="fo3/F_Scott_Key_trail_and_campground_blue_print.webp">}} | **Schemi - Guanto da Deathclaw** , all'interno di un piccolo camper |
+| {{<figure src="fo3/Duck_'n_cover_scott.webp">}}                         | **Al riparo!**, sopra al tavolo centrale nell'area picnic           |
 
 

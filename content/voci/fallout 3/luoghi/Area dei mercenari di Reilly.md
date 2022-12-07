@@ -19,8 +19,8 @@ L'area dei mercenari è un edificio semidiroccato che funge da quartier generale
 
 | Mappa                         | Panoramica                            |
 | ----------------------------- | ------------------------------------- |
-| {{<figure src="Ranger_Compound_loc.webp">}} | {{<figure src="Ranger_Compound_Aerial_Shot.webp">}} |
+| {{<figure src="fo3/Ranger_Compound_loc.webp">}} | {{<figure src="fo3/Ranger_Compound_Aerial_Shot.webp">}} |
 
 | Immagine                   | Oggetto e posizione                                    | 
 | -------------------------- | ------------------------------------------------------ |
-| {{<figure src="Free_Ranger_Loot.webp">}} | **Elettronica di Dean**, sul generatore nella dispensa |
+| {{<figure src="fo3/Free_Ranger_Loot.webp">}} | **Elettronica di Dean**, sul generatore nella dispensa |

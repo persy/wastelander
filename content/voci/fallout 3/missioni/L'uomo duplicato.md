@@ -16,7 +16,7 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-**L'uomo duplicato** è una missione secondaria di Fallout 3. È data dal Dottor Zimmer.a Rivet City.
+**L'uomo duplicato** è una missione secondaria di Fallout 3. È data dal Dottor Zimmer a Rivet City.
 
 
 

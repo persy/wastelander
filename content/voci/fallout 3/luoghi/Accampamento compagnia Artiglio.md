@@ -20,9 +20,9 @@ L'accampamento compagnia Artiglio è una località non contrassegnata a sud-oves
 
 | Mappa                            | Mappa locale                         | Panoramica                   |
 | -------------------------------- | ------------------------------------ | ---------------------------- |
-| {{<figure src="Talon_Company_Camp_loc.webp">}} | {{<figure src="Talon_Company_camp_loc_map.webp">}} | {{<figure src="Talon_Company_camp.webp">}} |
+| {{<figure src="fo3/Talon_Company_Camp_loc.webp">}} | {{<figure src="fo3/Talon_Company_camp_loc_map.webp">}} | {{<figure src="fo3/Talon_Company_camp.webp">}} |
 
 
 | Immagine                                     | Oggetto e posizione                                                                                               |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| {{<figure src="Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, su uno scaffale del magazzino |
+| {{<figure src="fo3/Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, su uno scaffale del magazzino |

@@ -21,9 +21,9 @@ Le tenute di Faded Pomp sono una serie di case in rovina si trovano a nord della
 
 | Mappa                                | Panoramica                                 |
 | ------------------------------------ | ------------------------------------------ |
-| {{<figure src="Faded_PE_loc.webp">}} | {{<figure src="Faded_pomp_estates.webp">}} |
+| {{<figure src="fo3/Faded_PE_loc.webp">}} | {{<figure src="fo3/Faded_pomp_estates.webp">}} |
 
 | Immagine                                          | Oggetto e posizione                                                                      |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_PI_Faded_Pomps_Estate.webp">}} | **Pugilato illustrato**, nei pressi di un letto, ai piedi di un camino nella casa ad est |
+| {{<figure src="fo3/FO3_PI_Faded_Pomps_Estate.webp">}} | **Pugilato illustrato**, nei pressi di un letto, ai piedi di un camino nella casa ad est |
 

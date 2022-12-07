@@ -21,4 +21,4 @@ La stazione Seneca Nord Ovest fa parte del sistema metropolitano nella Zona cont
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="NW_Seneca_Station_loc.webp">}}  | {{<figure src="Northwest_Seneca_Station_loc.webp">}}  |  {{<figure src="Northwest_Seneca_Station_interior.webp">}} |
+| {{<figure src="fo3/NW_Seneca_Station_loc.webp">}}  | {{<figure src="fo3/Northwest_Seneca_Station_loc.webp">}}  |  {{<figure src="fo3/Northwest_Seneca_Station_interior.webp">}} |

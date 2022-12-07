@@ -20,14 +20,14 @@ Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abband
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
-| {{<figure src="Minefield_loc.webp">}} | {{<figure src="Minefield_loc_map.webp">}} | {{<figure src="Minefield.webp">}} |
+| {{<figure src="fo3/Minefield_loc.webp">}} | {{<figure src="fo3/Minefield_loc_map.webp">}} | {{<figure src="fo3/Minefield.webp">}} |
 
 | Immagine                                                    | Oggetto e posizione                                                                                         |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| {{<figure src="FO3_PI_Minefield.webp">}}                    | **Pugilato illustrato**, casa Zane, nella stanza dei bambini sulle ginocchia di un orsacchiotto             |
-| {{<figure src="Grognak_the_Barbarian_Gillian_House.webp">}} | **Grognak il barbaro**, casa Gillian, sul letto del bambino al piano di sopra                               |
-| {{<figure src="Tumblers_Minefield.png">}}                   | **Lo scassinatore moderno** casa Gibson, su una scrivania                                                   |
-| {{<figure src="FO3_DCJOIM_Minefield.webp">}}                | **Giornale di medicina interna del D.C.**, casa Benson, nella camera da letto principale al piano superiore |
+| {{<figure src="fo3/FO3_PI_Minefield.webp">}}                    | **Pugilato illustrato**, casa Zane, nella stanza dei bambini sulle ginocchia di un orsacchiotto             |
+| {{<figure src="fo3/Grognak_the_Barbarian_Gillian_House.webp">}} | **Grognak il barbaro**, casa Gillian, sul letto del bambino al piano di sopra                               |
+| {{<figure src="fo3/Tumblers_Minefield.png">}}                   | **Lo scassinatore moderno** casa Gibson, su una scrivania                                                   |
+| {{<figure src="fo3/FO3_DCJOIM_Minefield.webp">}}                | **Giornale di medicina interna del D.C.**, casa Benson, nella camera da letto principale al piano superiore |
 
 
 Altri oggetti:

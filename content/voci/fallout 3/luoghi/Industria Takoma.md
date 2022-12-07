@@ -20,11 +20,11 @@ Industria Takoma è quello che resta di un edificio industriale abbastanza isola
 
 | Mappa                           | Panoramica                  |
 | ------------------------------- | --------------------------- |
-| {{<figure src="Takoma_Industrial_loc.webp">}} | {{<figure src="Takoma_Industrial.webp">}} |
+| {{<figure src="fo3/Takoma_Industrial_loc.webp">}} | {{<figure src="fo3/Takoma_Industrial.webp">}} |
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="FO3_LCS_Takoma_Industrial.webp">}}  | **Stile da congresso, menzognero**, su una libreria nella parte orientale della fabbrica  |
+| {{<figure src="fo3/FO3_LCS_Takoma_Industrial.webp">}}  | **Stile da congresso, menzognero**, su una libreria nella parte orientale della fabbrica  |
 | TODO  | **Nuka-Cola Quantum**, in una cassa su una sporgenza? TODO  |
 
 

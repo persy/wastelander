@@ -22,11 +22,11 @@ La fogna tiepida è costituita da una rete sotterranea tra l'Anchorage Memorial,
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
-| {{<figure src="Tepid_Sewers_loc.webp">}}  | {{<figure src="Metro_Tepid_Sewer_loc.webp">}}  |  {{<figure src="Tepid_sewer_exterior.webp">}} |
+| {{<figure src="fo3/Tepid_Sewers_loc.webp">}}  | {{<figure src="fo3/Metro_Tepid_Sewer_loc.webp">}}  |  {{<figure src="fo3/Tepid_sewer_exterior.webp">}} |
 
 | Immagine | Oggetto e posizione                                                                                         |
 | -------- | ----------------------------------------------------------------------------------------------------------- |
-|  {{<figure src="Dean's_Electronics_tepid_sewers.webp">}}        | **Elettronica di Dean**, nel nascondiglio del pedatori, nell'angolo destro dietro la cassetta degli attrezzi, vicino a un generatore (A) | 
+|  {{<figure src="fo3/Dean's_Electronics_tepid_sewers.webp">}}        | **Elettronica di Dean**, nel nascondiglio del pedatori, nell'angolo destro dietro la cassetta degli attrezzi, vicino a un generatore (A) | 
 
 
 
