@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Le acque della vita* è l'ottava missione principale di Fallout 3. È data da James al Jefferson Memorial.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -43,13 +52,16 @@ graph TD;
     id7-->id14-->id8
     id7-->id15-->id8
     id8-->id9-->id10
-    click id2 "../../luoghi/rivet-city"
-    click id3 "../../luoghi/jefferson-memorial"
-    click id8 "../../luoghi/cittadella"
+    
+    
+    
     click id10 "../in-cerca-di-indizi"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                               |
 | :---: | :----------------: | ------------------------------------------------------------------------- |
@@ -70,7 +82,7 @@ graph TD;
 |  90   |                    | Risolvi la "situazione" di Garza.                                         |
 |  100  | :white_check_mark: | Accompagna la Dottoressa Li alla Cittadella attraverso il Tunnel di Taft. |
 
-Note:
+**Note**:
 - Uccidendo Garza con un'arma da fuoco la missione diverrà impossibile da completare
 - Dopo aver completato la missione l'Enclave dispiegherà molti piu uomini nella Zona contaminata e sarà più facile imbattersi nei loro avamposti
 - Con il DLC Broken Steel installato, nel tunnel potrebbero essere presenti diversi ghoul tecnologisti feroci
@@ -78,3 +90,7 @@ Note:
 - Grazie questa missione sarà possibile ottenere l'addestramento per l'armatura atomica
 
 
+
+
+
+</div>

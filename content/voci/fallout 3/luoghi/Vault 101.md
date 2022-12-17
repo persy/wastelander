@@ -15,9 +15,10 @@ tags: [Luoghi della Zona contaminata della Capitale,Vault della Zona contaminata
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Vault 101 è un Vault della Vault-Tec situato nella zona nord-ovest di Washington, D.C. vicino a Megaton e ad ovest di Springvale. È la casa natale del Vagabondo Solitario.
+Il **Vault 101** è un Vault della Vault-Tec situato nella zona nord-ovest di Washington, D.C. vicino a Megaton e ad ovest di Springvale. È la casa natale del Vagabondo Solitario.
 
 | Mappa                                 | Mappa locale                                | Entrata                                        | Atrio                                       |
 | ------------------------------------- | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
@@ -34,4 +35,4 @@ Altri oggetti:
 - **Stuzzicadenti di Butch**, portato da Butch durante *Problemi sul fronte interno*
 - **Tuta centrale modificata**, consegnata da Amata per aver completato *Problemi sul fronte interno* pacificamente
 
-
+</div>

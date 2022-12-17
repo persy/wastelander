@@ -16,13 +16,15 @@ hidden: true
 private: false 
 ---
 
-Il ponte di osservazione è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Raggiungibile dalla passeggiata nello spazio, si connette al laboratorio biologico, alla sala di progettazione e al laboratorio armi. 
+<div class="fo3">
+
+Il **ponte di osservazione** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Raggiungibile dalla passeggiata nello spazio, si connette al laboratorio biologico, alla sala di progettazione e al laboratorio armi. 
 
 | Mappa locale | Panoramica |
 | ------------ | ---------- |
 | {{<figure src="fo3/Observation_Deck_map.webp">}}            |  {{<figure src="fo3/Observation_Deck.webp">}}         |
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
-
+</div>

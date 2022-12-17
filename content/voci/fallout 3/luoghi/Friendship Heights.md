@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Friendship Heights è un grande complesso di appartamenti con annessa stazione della metropolitana ed è situato nella periferia nord di Washington, D.C. Fornisce l'accesso alla stazione di Tenleytown / Friendship e tramite, la metropolitana, alla piazza dell'edificio di GNR.
+**Friendship Heights** è un grande complesso di appartamenti con annessa stazione della metropolitana ed è situato nella periferia nord di Washington, D.C. Fornisce l'accesso alla stazione di Tenleytown / Friendship e tramite, la metropolitana, alla piazza dell'edificio di GNR.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,3 +26,6 @@ Friendship Heights è un grande complesso di appartamenti con annessa stazione d
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/Friendship_Heights_SMC_mini_nuke.webp">}}  |  **Munizione nucleare**, nell'accampamento dei supermutanti a ovest |
+
+</div>
+

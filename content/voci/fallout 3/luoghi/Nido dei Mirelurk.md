@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il nido dei Mirelurk è una caverna accessibile attraverso una grata nella parte meridionale del Mall, vicino alla metro per il centro smaltimento materiali pericolosi L5.
+Il **nido dei Mirelurk** è una caverna accessibile attraverso una grata nella parte meridionale del Mall, vicino alla metro per il centro smaltimento materiali pericolosi L5.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ Il nido dei Mirelurk è una caverna accessibile attraverso una grata nella parte
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/NCQ_Mirelurk_nesting_hole.jpg">}}     | **Nuka-Cola Quantum**, nell'angolo più sud-ovest della grotta meridionale, per terra vicino una radio amatoriale                                                       |
 | {{<figure src="fo3/CA_SOTM_Mirelurk_nesting_hole.jpg">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella grotta meridionale, nell'angolo nord-ovest, in una scatola di legno per terra, vicino a uno scheletro |
+
+</div>

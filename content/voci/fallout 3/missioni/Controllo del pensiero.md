@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Controllo del pensiero* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -33,12 +42,15 @@ graph TD;
     id8(300 PE):::rewardfo3
     id9(Prossima missione: <b>Un incontro tra menti</b>):::questfo3
     id1-->id2-->id3-->id4-->id5 & id6-->id7-->id8-->id9
-    click id2 "../../luoghi/villa-di-calvert"
-    click id2 "../../luoghi/attracco-del-pellegrino"
+    
+    
     click id9 "../un-incontro-di-menti"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                                                |
 |:-----:|:------------------:| -------------------------------------------------------------------------------------------------------------------------- |
@@ -50,3 +62,5 @@ graph TD;
 |  100  | :white_check_mark: | Torna alla villa.                                                                                                          |
 
 
+
+</div>

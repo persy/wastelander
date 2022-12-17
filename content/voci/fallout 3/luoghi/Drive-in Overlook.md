@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il drive-in Overlook si trova ad est della caverna sulla rupe.
+Il **drive-in Overlook** si trova ad est della caverna sulla rupe.
 
 | Mappa                                   | Panoramica                                    |
 | --------------------------------------- | --------------------------------------------- |
@@ -27,3 +28,4 @@ Il drive-in Overlook si trova ad est della caverna sulla rupe.
 Altri oggetti:
 - 7 mine a frammentazione, lungo la strada che porta al drive-In
 
+</div>

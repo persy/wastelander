@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazionale Everglow, a sud dell'area di ristoro Five Axles e ad est del Vault 87 e della torre di trasmissione KT8.
+La **stazione di servizio Rockbreaker** si trova a nord dell'area campeggio nazionale Everglow, a sud dell'area di ristoro Five Axles e ad est del Vault 87 e della torre di trasmissione KT8.
 
 | Mappa                                      | Panoramica                                    |
 | ------------------------------------------ | --------------------------------------------- |
@@ -27,3 +28,5 @@ La stazione di servizio Rockbreaker si trova a nord dell'area campeggio nazional
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in cima a un distributore automatico Nuka-Cola all'interno dell'area recintata
+
+</div>

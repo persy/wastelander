@@ -15,6 +15,7 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situato nel centro della Zona contaminata della Capitale. È una delle vie d'accesso alla metropolitana di Meresti, usato come covo sotterraneo della Famiglia, e si collega con la stazione Seneca Nord ovest. 
@@ -25,4 +26,4 @@ La stazione metropolitana di Meresti è un cantiere ferroviario abbandonato situ
 
 *Vedi [Cratere del villaggio](../cratere-del-villaggio), [Stazione metropolitana di Meresti](stazione-metropolitana-di-meresti) e [Tunnel di servizio di Meresti](tunnel-di-servizio-di-meresti)*
 
-
+</div>

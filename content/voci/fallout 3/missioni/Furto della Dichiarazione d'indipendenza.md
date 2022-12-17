@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Furto della Dichiarazione d'Indipendenza* è una missione secondaria di Fallout 3. È data da Abraham Washington a Rivet City e da Sydney agli Archivi nazionali.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -69,11 +78,14 @@ graph TD;
     id25-->id31
     id19 & id30 & id31-->id26-->id27-->id28
     id22-->id26
-    click id29 "../../luoghi/rivet-city"
-    click id2 "../../luoghi/archivi-nazionali"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                        |
 | :---: | :----------------: | ------------------------------------------------------------------ |
@@ -83,9 +95,12 @@ graph TD;
 |  60   | :white_check_mark: | Torna da Abraham Washington a Rivet City.                          |
 
 
-Note:
+**Note**:
 - Per disattivare le torrette è necessario Ripara 60, ma per poter accedere al generatore è necessario riparare la porta con Scienza 67
 - Sydney non si comporta come un normale companion e la sua salute non si ripristinerà finita la battaglia ma bisognerà fornirle costantemente stimpak
-    - Con il reverse-pickpocketing è possibile darle un'armatura più resistente
+    - Con il reverse pickpocketing è possibile darle un'armatura più resistente
 - È possibile ottenere la "Super" mitragliatrice da 10mm di Sydney dandole a fine missione la nota "Una nota dal padre di Little Moonbeam"
   - La nota si trova al piano intermedio dello Statesman Hotel
+
+
+</div>

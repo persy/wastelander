@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Un bel giorno per un bel matrimonio* è una missione nascosta di Fallout 3. È data da Angela Staley a Rivet City.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,10 +41,16 @@ graph TD;
     id7(Karma positivo):::rewardfo3 
     id1-->id2-->id3 & id4-->id6-->id7
     id2-->id5
-    click id2 "../../luoghi/rivet-city"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - I ferormoni di formica regina si possono acquistare al Quick-Fix di Rivet City o si possono ottenere uccidendo una regina delle formiche, come quella nella stazione di Marigold
+
+
+</div>

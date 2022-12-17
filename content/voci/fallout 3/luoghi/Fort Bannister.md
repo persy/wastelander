@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Fort Bannister è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti  Jalbert Brothers. È la base operativa dei mercenari della Compagnia dell'Artiglio.
+**Fort Bannister** è una base militare prebellica e si trova a nord di Evergreen Mills e a sud dello smaltimento rifiuti Jalbert Brothers. È la base operativa dei mercenari della Compagnia dell'Artiglio.
 
 | Mappa                                      | Mappa locale                                     | Panoramica                             |
 | ------------------------------------------ | ------------------------------------------------ | -------------------------------------- |
@@ -40,3 +41,4 @@ Altri oggetti:
 	- **Rasoio di Occam** e l'**elmo da combattimento dell'Artiglio**, indossato dal comandante Jabsco, nella stanza più meridionale
 	- **Nuka-Cola Quantum**, dietro un armadietto sotto le scale nella stanza più meridionale
 
+</div>

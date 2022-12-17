@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il forte delle auto abbandonate è un piccolo forte improvvisato e si trova immediatamente a nord-est di Shalebridge, a nord-ovest del Area di ristoro Five Axles e a sud-est del Gruppo satelliti SatCom NW-07c.
+Il **forte delle auto abbandonate** è un piccolo forte improvvisato e si trova immediatamente a nord-est di Shalebridge, a nord-ovest del Area di ristoro Five Axles e a sud-est del Gruppo satelliti SatCom NW-07c.
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
@@ -29,4 +30,4 @@ Il forte delle auto abbandonate è un piccolo forte improvvisato e si trova imme
 | {{<figure src="fo3/D.C._Journal_of_Internal_Medicine_acf.webp">}}               | **Giornale di medicina interna del D.C.** e uno **Stealth Boy**, a sud del forte, oltre un treno distrutto e una zona irradiata, tra alcuni nidi di formiche, accanto al cadavere di uno sciacallo |
 | {{<figure src="fo3/Abandoned_car_fort_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** , accanto al letto nord-ovest                                                                                                                    |
 
-
+</div>

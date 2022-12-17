@@ -15,8 +15,9 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La stazione intercambio Anacostia è una stazione metropolitana ed è la fermata più meridionale della linea rossa. Si trova direttamente a nord di Rivet City.
+La **stazione intercambio Anacostia** è una stazione metropolitana ed è la fermata più meridionale della linea rossa. Si trova direttamente a nord di Rivet City.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,3 +26,5 @@ La stazione intercambio Anacostia è una stazione metropolitana ed è la fermata
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 |  {{<figure src="fo3/FO3_PI_Anacostia.webp">}} | **Pugilato illustrato**, su un tavolino, nell'area sopraelevata rispetto ai binari  |
+
+</div>

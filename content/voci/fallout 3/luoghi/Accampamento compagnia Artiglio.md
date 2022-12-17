@@ -15,8 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'accampamento compagnia Artiglio è una località non contrassegnata a sud-ovest della stazione fognaria e a sud-est di Megaton.
+
+L'**accampamento compagnia Artiglio** è una località non contrassegnata a sud-ovest della stazione fognaria e a sud-est di Megaton.
 
 | Mappa                            | Mappa locale                         | Panoramica                   |
 | -------------------------------- | ------------------------------------ | ---------------------------- |
@@ -26,3 +28,7 @@ L'accampamento compagnia Artiglio è una località non contrassegnata a sud-oves
 | Immagine                                     | Oggetto e posizione                                                                                               |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Tumblers_Today_Talon_Company_camp.webp">}}  | **Lo scassinatore moderno**, su uno scaffale del magazzino |
+
+
+</div>
+

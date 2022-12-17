@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Lo smaltimento rifiuti Fratelli Jalbert è una discarica di rifiuti radioattivi e si trova a nord del Fort Bannister, a sud-est  dell'area campeggio nazionale Everglow e della stazione di servizio Rockbreaker, a ovest della centrale elettrica VAPL-58.
+Lo **smaltimento rifiuti Fratelli Jalbert** è una discarica di rifiuti radioattivi e si trova a nord del Fort Bannister, a sud-est  dell'area campeggio nazionale Everglow e della stazione di servizio Rockbreaker, a ovest della centrale elettrica VAPL-58.
 
 | Mappa                                         | Panoramica                                              |
 | --------------------------------------------- | ------------------------------------------------------- |
@@ -32,3 +33,4 @@ Lo smaltimento rifiuti Fratelli Jalbert è una discarica di rifiuti radioattivi 
 Altri oggetti:
 - **Mina da tappo**, negli uffici, sotto il banco di lavoro
 
+</div>

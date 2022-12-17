@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La fogna tiepida è costituita da una rete sotterranea tra l'Anchorage Memorial, nei pressi della casa di Dukov, e Georgetown. Le fogne sono abitate da diversi ratti talpa e predatori.
+La **fogna tiepida** è costituita da una rete sotterranea tra l'Anchorage Memorial, nei pressi della casa di Dukov, e Georgetown. Le fogne sono abitate da diversi ratti talpa e predatori.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -33,3 +34,5 @@ La fogna tiepida è costituita da una rete sotterranea tra l'Anchorage Memorial,
 Altri oggetti:
 - 2**Libri prebellici**: nel nascondiglio dei predatori, in cima ad una libreria (B); dietro una porta chiusa,  sul ripiano centrale in una cassa di legno sotto alcuni libri bruciati (D)
 - **Mina da tappo**,  su un banco da lavoro (E)
+
+</div>

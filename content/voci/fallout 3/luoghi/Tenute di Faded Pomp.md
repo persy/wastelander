@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Le tenute di Faded Pomp sono una serie di case in rovina si trovano a nord della Accademia Roosevelt e a sud della stazione di trasmissione WKML e del drive-in Silver Lining.
+Le **tenute di Faded Pomp** sono una serie di case in rovina si trovano a nord della Accademia Roosevelt e a sud della stazione di trasmissione WKML e del drive-in Silver Lining.
 
 | Mappa                                | Panoramica                                 |
 | ------------------------------------ | ------------------------------------------ |
@@ -27,3 +28,4 @@ Le tenute di Faded Pomp sono una serie di case in rovina si trovano a nord della
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/FO3_PI_Faded_Pomps_Estate.webp">}} | **Pugilato illustrato**, nei pressi di un letto, ai piedi di un camino nella casa ad est |
 
+</div>

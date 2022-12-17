@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La centrale elettrica MDPL-13 è una grande centrale elettrica abbandonata situata a metà strada tra Germantown e la discarica di Greener Pastures e a nord di Minefield.
+La **centrale elettrica MDPL-13** è una grande centrale elettrica abbandonata situata a metà strada tra Germantown e la discarica di Greener Pastures e a nord di Minefield.
 
 | Mappa                    | Mappa locale                            | Panoramica                   |
 | ------------------------ | --------------------------------------- | ---------------------------- |
@@ -28,4 +29,4 @@ La centrale elettrica MDPL-13 è una grande centrale elettrica abbandonata situa
 | {{<figure src="fo3/MDPL-13_substation_interior.webp">}} | **Schemi - Sparachiodi**, **Nuka-Cola Quantum** e **Mina da tappo** sul banco da lavoro |
 | {{<figure src="fo3/Derelict_PP_Fisto!.webp">}}          | **Fisto!**, su una scrivania nell'ufficio al piano superiore della centrale elettrica   |
 
-
+</div>

@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Morte dai cieli* è una missione del DLC *Broken Steel* di Fallout 3. È data dall'Anziano Lyons alla Cittadella.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -36,12 +45,15 @@ graph TD;
     id11(1300 PE):::rewardfo3
     id12(Prossima missione: <b>Ai generatori</b>):::questfo3
     id1-->id2-->id3-->id4-->id5 & id6-->id7-->id8-->id9-->id10-->id11-->id12
-    click id2 "../../luoghi/cittadella"
-    click id8 "../../luoghi/stazione-ripetitore-del-satellite"
+    
+    
     click id12 "../ai-generatori"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                         |
 |:-----:|:------------------:| --------------------------------------------------- |
@@ -56,5 +68,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Usa il comando `player.setstage xx000802 20` nel caso non riuscissi a muoverti dal letto e `player.setstage xx000802 20` nel caso la missione non riuscisse ad avanzare
+
+
+
+</div>

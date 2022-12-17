@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La caverna di Kelly è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. E' raggiungibile dalle miniere di Herzog.
+<div class="fo3">
+
+La **caverna di Kelly** è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. E' raggiungibile dalle miniere di Herzog.
 
 | Mappa                     | Mappa locale Blackdamp          | Panoramica | 
 | ------------------------- | ---------------------- | ---------- |
@@ -27,7 +29,7 @@ La caverna di Kelly è una località disponibile solo con il DLC *Point Lookout*
 | {{<figure src="fo3/Kenny's_Bear.webp">}}                              | **Orsetto Kenny**, TODO                   |
 | {{<figure src="fo3/Fo3PL_Pint-Sized_slasher_mask_Miner's_Rest.webp">}}| **Maschera della squartatore nano**, TODO |
 
-
+</div>
 
 
 

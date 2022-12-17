@@ -16,6 +16,7 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 Il villaggio in rovina è un luogo non contrassegnato, situato a nord dello smaltimento rifiuti Fratelli Jalbert ed è costituito da quattro baracche, tre delle quali accessibili. 
 
@@ -32,5 +33,7 @@ Il villaggio in rovina è un luogo non contrassegnato, situato a nord dello smal
 Altri oggetti:
 - **Nuka-Cola Quantum**, in un camion ribaltato a sud
 
-Note:
+**Note**:
 - Le baracche possono essere utilizzate come abitazioni
+
+</div>

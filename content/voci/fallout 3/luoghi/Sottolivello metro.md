@@ -16,6 +16,8 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
+
 Il sottolivello metro è un'area sotterranea disponibile solo con il DLC *Broken Steel* di Fallout 3. Collega l'area di servizio sotto la Casa Bianca con la metropolitana presidenziale. 
 
 | Mappa | Mappa locale | Panoramica |
@@ -27,4 +29,4 @@ Il sottolivello metro è un'area sotterranea disponibile solo con il DLC *Broken
 |  {{<figure src="fo3/Senate_employee_ID.webp">}}       |  **ID dipendente del Senato**, in un treno della metropolitana, accanto a uno scheletro                   | 
 |  {{<figure src="fo3/Presidential_sub_level_mini_nuke.webp">}}       | **Munizione nucleare**, nel vagone della metropolitana, direttamente dietro quello contenente l'ID del dipendente del Senato                    | 
 
-
+</div>

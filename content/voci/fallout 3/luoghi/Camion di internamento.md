@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il camion di internamento è una località non contrassegnata  e può essere trovato su un'autostrada a est del gruppo satelliti SatCom NW-07c e a nord-ovest del forte delle auto abbandonate.
+Il **camion di internamento** è una località non contrassegnata  e può essere trovato su un'autostrada a est del gruppo satelliti SatCom NW-07c e a nord-ovest del forte delle auto abbandonate.
 
 | Mappa                                | Panoramica                               |
 | ------------------------------------ | ---------------------------------------- |
@@ -27,3 +28,6 @@ Il camion di internamento è una località non contrassegnata  e può essere tro
 | ----------------------------------------------------------- | ---------------------------------------------------------------- |
 | {{<figure src="fo3/FO3_PI_SatCom_Array_07_Intern_truck.webp">}} | **Pugilato illustrato**, all'interno del rimorchio sul pavimento |
 | {{<figure src="fo3/Internment_orders_and_PI.webp">}}            | **Ordini di internamento**, vicino all'ingresso del rimorchio    |
+
+
+</div>

@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il covo di AntAgonizer è il nascondiglio dell'AntAgonizer e si trova a nord-ovest di Canterbury Commons. 
+Il **covo di AntAgonizer** è il nascondiglio dell'AntAgonizer e si trova a nord-ovest di Canterbury Commons. 
 
 | Mappa                           | Mappa locale                           | Panoramica                           |
 | ------------------------------- | -------------------------------------- | ------------------------------------ |
@@ -31,3 +32,4 @@ Altri oggetti:
 - **Costume** ed **elmo di AntAgonizer**, indossato dall'AntAgonizer
 - **Morso di formica**, ricompensa dell'AntAgonizer per aver sconfitto il Meccanicista in *Il gambetto superumano*; può essere ottenuto tramite reverse pickpocketing
 
+</div>

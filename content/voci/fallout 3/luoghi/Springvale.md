@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Springvale è costituita da una serie di case in rovine, subito a est del Vault 101.
+**Springvale** è costituita da una serie di case in rovine, subito a est del Vault 101.
 
 | Mappa                                  | Panoramica                                     |
 | -------------------------------------- | ---------------------------------------------- |
@@ -28,3 +29,4 @@ Springvale è costituita da una serie di case in rovine, subito a est del Vault 
 | ----------------------------------------- | ------------------------------------------------------ |
 | {{<figure src="fo3/FO3_PI_Springvale.webp">}} | **Pugilato illustrato**, in una cassetta delle lettere |
 
+</div>

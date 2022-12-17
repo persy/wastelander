@@ -15,9 +15,12 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
+{{< toc hide_on="xl" >}}
+
 TODO
 
-{{< toc hide_on="xl" >}}
+
+<div class="fo3">
 
 
 ## Missioni tutorial
@@ -237,3 +240,6 @@ Alcuni personaggi vogliono oggetti specifici. Questi possono essere consegnati r
 | Nome                | Luoghi          | Data da   | Ricompensa                      |
 | ------------------- | --------------- | --------- | ------------------------------- |
 | [La leggenda di Zeta](la-leggenda-di-zeta) | Mothership Zeta | Se stessi | Successo/trofeo Archivio Alieno |
+
+
+</div>

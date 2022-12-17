@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il distretto di Pennsylvania Avenue è immediatamente ad est di quella che una volta era la Casa Bianca. È accessibile dalla Metro Ave/Georgetown, dalla stazione di Freedom Street, dalla metropolitana centrale, dalla Metro Penn. Ave/Il Mall e dalla  Metro Chevy Ave/Seward Sq. È un territorio conteso fra i supermutanti e la Confraternita d'Acciaio.
+Il distretto di **Pennsylvania Avenue** è immediatamente ad est di quella che una volta era la Casa Bianca. È accessibile dalla Metro Ave/Georgetown, dalla stazione di Freedom Street, dalla metropolitana centrale, dalla Metro Penn. Ave/Il Mall e dalla  Metro Chevy Ave/Seward Sq. È un territorio conteso fra i supermutanti e la Confraternita d'Acciaio.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -29,3 +30,4 @@ Il distretto di Pennsylvania Avenue è immediatamente ad est di quella che una v
 |  {{<figure src="fo3/SS_sewer_Tumblers_Today.webp">}} | **Lo scassinatore moderno**, nella fogna, vicino a delle scatole di munizioni. L'ingresso è un tombino vicino al bordo settentrionale della mappa  |
 |  {{<figure src="fo3/Explosives_note_mercenary.webp">}} | **Nota sugli esplosivi di Pennsylvania Ave**, sul corpo di un mercenario, su un'impalcatura a nord-est dell'ingresso della metropolitana Penn. Ave/The Mall  |
 
+</div>

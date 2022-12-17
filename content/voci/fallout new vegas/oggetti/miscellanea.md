@@ -17,7 +17,7 @@ private: false # Nascosto dalle ricerche
 
 
 
-
+<div class="fnv">
 
 ## Gioco di base
 
@@ -426,5 +426,5 @@ private: false # Nascosto dalle ricerche
 </div>
 
 
-
+</div>
 

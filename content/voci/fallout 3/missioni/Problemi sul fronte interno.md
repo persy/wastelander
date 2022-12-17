@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Problemi sul fronte interno* è una missione secondaria di Fallout 3. È data dal segnale d'emergenza del Vault 101.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -50,10 +59,13 @@ graph TD;
     id8 & id16 & id17-->id14
     id11 & id12-->id13
     id14 & id13-->id15
-    click id "../../luoghi/vault-101"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                   |
 | :---: | :----------------: | --------------------------------------------- |
@@ -71,7 +83,10 @@ graph TD;
 |  200  | :white_check_mark: | Tutti nel Vault 101 sono stati uccisi.        |
 
 
-Note:
+**Note**:
 - Durante questa missione sarà ancora possibile ottenere la **Bambolina - Medicina** dall'ufficio di James, se non è stata già presa durante la missione *Scappa!*
 - Nella stessa stanza, all'interno della cassaforte che è dietro il quadro, è possibile trovare gli **Schemi - Lanciatutto**
 - Durante la missione sarà possibile fare il reverse pickpocketing a Butch e ottenere la sua arma unica, lo **Stuzzicadenti di Butch**
+
+
+</div>

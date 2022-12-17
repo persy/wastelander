@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La scuola di Springvale è un edificio occupato dai predatori ed situato a nord di Springvale.
+La **scuola di Springvale** è un edificio occupato dai predatori ed situato a nord di Springvale.
 
 | Mappa                                         | Mappa locale                                              | Panoramica                                    |
 | --------------------------------------------- | --------------------------------------------------------- | --------------------------------------------- |
@@ -29,3 +30,5 @@ La scuola di Springvale è un edificio occupato dai predatori ed situato a nord 
 | {{<figure src="fo3/Springvale_School_Ant_Cave_Chinese_Army_Special_Ops_Training_Manual.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, piano inferiore, sotto il cadavere di un abitante della Zona contaminata |
 | {{<figure src="fo3/Springvale_School_Nuka-Cola_Quantum.webp">}}                                 | **Nuka-Cola Quantum**, all'ultimo piano, sopra la cella, sul lato ovest della scuola                                                |
 | {{<figure src="fo3/Springvale_School_sheet_music_book.webp">}}                                  | **Libro di musica**, nell'aula sud-est al piano terra vicino la cattedra                                                            |
+
+</div>

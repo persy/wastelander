@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Stazione metropolitana Bethesda è situata nelle rovine di Bethesda. L'ingresso principale si trova a nord-est degli uffici Bethesda est e è infestata dai ghoul.
+La **stazione metropolitana Bethesda** è situata nelle rovine di Bethesda. L'ingresso principale si trova a nord-est degli uffici Bethesda est e è infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ Stazione metropolitana Bethesda è situata nelle rovine di Bethesda. L'ingresso 
 | -------- | ------------------- |
 |  {{<figure src="fo3/Bethesda_underworks_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown**  su una grande pentola di metallo su una panchina  |
 | {{<figure src="fo3/Bethesda_underworks_Most_notable_loot.webp">}}  | **Grognak il barbaro**, una **Nuka-Cola Quantum**, una **munizione nucleare**, **Stealth Boy**, nel ripostiglio  |
+
+</div>

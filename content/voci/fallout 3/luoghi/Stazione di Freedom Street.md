@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione di Freedom Street fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega Vernon Square a Pennsylvania Avenue. È infestata dai ghoul.
+La **stazione di Freedom Street** fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega Vernon Square a Pennsylvania Avenue. È infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,5 @@ La stazione di Freedom Street fa parte del sistema metropolitano sotto la Zona c
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/Tumblers_Today_Freedom_Street_station.webp">}}  | **Lo scassinatore moderno**, su un tavolo, nell'alcova dello sciacallo  |
+
+</div>

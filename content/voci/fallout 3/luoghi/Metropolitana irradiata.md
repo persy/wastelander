@@ -15,8 +15,9 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La metropolitana irradiata fa parte della Linea Blu del sistema metropolitano della Zona contaminata della Capitale. I suoi tunnel collegano la Zona contaminata, sul lato est del ponte vicino alla Cittadella, a L'Enfant sud.
+La **metropolitana irradiata** fa parte della Linea Blu del sistema metropolitano della Zona contaminata della Capitale. I suoi tunnel collegano la Zona contaminata, sul lato est del ponte vicino alla Cittadella, a L'Enfant sud.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,3 +26,5 @@ La metropolitana irradiata fa parte della Linea Blu del sistema metropolitano de
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/FO3_CA_SOTM_Irradiated_Metro.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sopra una consolle, sul lato ovest del seminterrato (A)  |
+
+</div>

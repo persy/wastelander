@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Operazioni sotto copertura* è una missione nascosta del DLC *Operation: Anchorage* di Fallout 3. È data dal Generale Chase durante la simulazione della liberazione di Anchorage.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -31,6 +40,9 @@ graph TD;
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Immagine                             | Luogo                                                                                                                                                                         |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,6 +59,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - L'abilità Operazioni sotto copertura conferisce un bonus permanente di 3 punti a Scienza, Armi leggere e Scasso
 - Se non si raccolgono le prime 4 valigette prima di completare *Le armi di Anchorage*, non sarà possibile recuperarle una seconda volta
+
+
+</div>

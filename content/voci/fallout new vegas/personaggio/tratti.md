@@ -14,7 +14,9 @@ commentable: true
 hidden: true
 ---
 
+<div class="fnv">
 
+TODO
 
 
 |           Tratto           |       DLC       | Descrizione                                                                                                                                                                                                                                                  |
@@ -35,3 +37,7 @@ hidden: true
 |       Telaio piccolo       |        -        | Date le tue piccole dimensioni, hai 8 AGL ma i tuoi arti vengono menomati più facilmente.                                                                                                                                                                    |
 |    Tiratore disciplinato   |        -        | Quando usi le armi e le armi a energia, spari più lentamente, ma i tuoi colpi sono più precisi.                                                                                                                                                              |
 | Zona contaminata selvaggia |        -        | La Zona contaminata selvaggia libera gli elementi più bizzarri e stupidi dell'America post-apocalittica. Non è adatta per i vili o i troppo seri.                                                                                                            |
+
+
+</div>
+

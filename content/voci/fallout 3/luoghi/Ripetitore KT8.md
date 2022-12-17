@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il ripetitore KT8 è una ripetitore e si trova a nord-est del Vault 87 e a sud di Shalebridge.
+Il **ripetitore KT8** è una ripetitore e si trova a nord-est del Vault 87 e a sud di Shalebridge.
 
 | Mappa                               | Panoramica                                  |
 | ----------------------------------- | ------------------------------------------- |
@@ -32,4 +33,4 @@ Altri oggetti:
 - **Cappello da commando cinese** e **tuta cinese**, sui cadaveri delle spie cinesi
 - **Chiave di crittografia**, su una scrivania nella camera di drenaggio, utile per accedere al terminale che apre il portello
 
-
+</div>

@@ -15,9 +15,10 @@ tags: [Luoghi della Zona contaminata della Capitale,Vault della Zona contaminata
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Vault 108 è un Vault della Vault-Tec situato a sud di Canterbury Commons e a nord-est della fabbrica Corvega.
+Il **Vault 108** è un Vault della Vault-Tec situato a sud di Canterbury Commons e a nord-est della fabbrica Corvega.
 
 | Mappa                                 | Panoramica                        |
 | ------------------------------------- | --------------------------------- |
@@ -40,3 +41,4 @@ Altri oggetti:
 - Laboratorio clonazione
 - **Registro clonazione**, laboratorio clonazione, nella stanza con una cassaforte chiusa a chiave, vicino a uno scheletro
 
+</div>

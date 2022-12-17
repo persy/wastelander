@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La centrale elettrica VAPL-66 si trova a sud-ovest dell'aea di ristoro e rifornimento di Jocko e a nord-est dell'edificio Dunwich.
+La **centrale elettrica VAPL-66** si trova a sud-ovest dell'area di ristoro e rifornimento di Jocko e a nord-est dell'edificio Dunwich.
 
 | Mappa                    | Panoramica                      |
 | ------------------------ | ------------------------------- |
@@ -27,5 +28,5 @@ La centrale elettrica VAPL-66 si trova a sud-ovest dell'aea di ristoro e riforni
 | {{<figure src="fo3/VAPL-66_power_station_office.webp">}}         | **Elettronica di Dean**, **munizione nucleare** e **bombe di zucchero**, sulla scrivania a forma di L e sul pavimento, direttamente di fronte all'ingresso |
 | {{<figure src="fo3/Duck_and_Cover!_Signal_Sierra_Victor.webp">}} | **Al riparo!**, **munizione nucleare** e **mina da tappo**, su un tavolo e su un banco da lavoro, nella camera sigillata a ovest                           |
 
-
+</div>
 

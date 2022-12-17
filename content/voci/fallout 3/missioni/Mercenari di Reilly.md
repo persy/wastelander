@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Mercenari di Reilly* è una missione secondaria di Fallout 3. È data da Reilly agli Inferi o da Butcher allo Statesman Hotel.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -46,12 +55,15 @@ graph TD;
     id9-->id10-->id12-->id13 & id14-->id16
     id9-->id11-->id15-->id16-->id17-->id18
     click id5 "../../area-dei-mercenari-di-reilly"
-    click id6 "../../luoghi/ospedale-nostra-signora-della-speranza"
-    click id3 "../../luoghi/inferi"
+    
+    
     click id18 "../geomappare-per-reilly"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                |
 | :---: | :----------------: | ---------------------------------------------------------- |
@@ -67,7 +79,7 @@ graph TD;
 |  50   | :white_check_mark: | Torna a Reilly all'Area dei mercenari.                     |
 
 
-Note:
+**Note**:
 - Se si perde la batteria a fissione, l'ascensore diventerà inutilizzabile e sarà impossibile lasciare l'hotel
 - Il geomapper è retroattivo e tutti i luoghi  già esplorati verranno conteggiati
 - Dopo aver completato *Broken Steel* e ottenuto l'analizzatore di sangue supermutante per la missione nascosta *Confraternita di sangue*, è possibile ottenere 50 tappi e 10 PE per ogni campione di sangue supermutante consegnato al Paladino Tristan. In questa missione è possibile raccoglierne più di 50
@@ -75,3 +87,6 @@ Note:
 - È possibile uccidere Brick personalmente senza che glia altri mercenari diventino ostili
 - Se tutti i mercenari muoiono, non verrà data alcuna ricompensa, nemmeno il modulo del geomapper
 - È possibile ottenere sia Eugene che l'armatura da battaglia del mercenario applicando il reverse-pickpocketing a Brick e Donovan
+
+
+</div>

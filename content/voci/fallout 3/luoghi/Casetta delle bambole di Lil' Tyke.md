@@ -16,8 +16,10 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La casetta delle bambole di Lil' Tyke è una piccola abitazione disponibile solo con il DLC *Point Lookout* di Fallout 3. E' a sud-ovest della baracca di Marguerite.
+
+La **casetta delle bambole di Lil' Tyke** è una piccola abitazione disponibile solo con il DLC *Point Lookout* di Fallout 3. E' a sud-ovest della baracca di Marguerite.
 
 | Mappa                              | Panoramica                      |
 | ---------------------------------- | ------------------------------- |
@@ -25,5 +27,6 @@ La casetta delle bambole di Lil' Tyke è una piccola abitazione disponibile solo
 
 
 Oggetti:
-- Tuta Red Racer, su un asse da stiro accanto alla casetta
+- **Tuta Red Racer**, su un asse da stiro accanto alla casetta
 
+</div>

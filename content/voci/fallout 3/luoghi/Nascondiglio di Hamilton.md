@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il nascondiglio di Hamilton è una piccola caverna a nord del cinema all'aperto Moonbeam e a sud-est della stazione metropolitana di Meresti.
+Il **nascondiglio di Hamilton** è una piccola caverna a nord del cinema all'aperto Moonbeam e a sud-est della stazione metropolitana di Meresti.
 
 | Mappa                                          | Mappa locale                                       | Panoramica                                  |
 | ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------- |
@@ -28,3 +29,4 @@ Il nascondiglio di Hamilton è una piccola caverna a nord del cinema all'aperto 
 | {{<figure src="fo3/Duck_and_Cover!_Hamilton's_hideaway.webp">}} | **Al riparo!** e una **Nuka-Cola Quantum**, su un bancone bancone |
 | {{<figure src="fo3/Hamiltons_hideaway_bottlecap_mine.webp">}}   | **Mina da tappo**, su un banco da lavoro                          |
 
+</div>

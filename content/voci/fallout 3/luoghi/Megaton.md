@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Megaton è un insediamento fortificato, costruito attorno a un cratere generato da una bomba atomica inesplosa. Protetta da grandi pareti metalliche realizzate con vari materiali di recupero, è la seconda città più popolosa della Zona contaminata della Capitale, superata solo da Rivet City.
+**Megaton** è un insediamento fortificato, costruito attorno a un cratere generato da una bomba atomica inesplosa. Protetta da grandi pareti metalliche realizzate con vari materiali di recupero, è la seconda città più popolosa della Zona contaminata della Capitale, superata solo da Rivet City.
 
 | Mappa                               | Mappa locale                             | Panoramica                               |
 | ----------------------------------- | ---------------------------------------- | ---------------------------------------- |
@@ -47,3 +48,5 @@ Altri oggetti:
 	- uno è nella casa di Lucas Simms al piano di sopra su un tavolo nella stanza sud-ovest
 - **Schemi - Lanciatutto**, venduto da Moira Brown
 - **Schemi - Mina da tappo**, **tuta protettiva**, **tuta corazzata Vault 101**, **cappello sospetto**, **bastone repellente**,  ottenuti aiutando Moira Brown nella missione *Guida di sopravvivenza della Zona contaminata*
+
+</div>

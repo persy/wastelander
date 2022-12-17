@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Mio Dio!* è una missione secondaria di Fallout 3. È data da Bryan Wilks a Grayditch.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -65,6 +74,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                                                                                         |
 | :---: | :----------------: | --------------------------------------------------------------------------------------------------- |
 |  10   |                    | Trova il padre di Bryan Wilks.                                                                      |
@@ -80,6 +92,9 @@ graph TD;
 |  60   | :white_check_mark: | Trova una casa per Bryan Wilks.                                                                     |
 
 
-Note:
+**Note**:
 - Assicurati di aver ucciso tutte le formiche guardiane, altrimenti il Dottor Lesko finirà ucciso prima di riuscire a raggiungere il terminale e attivare l'impulso inibitore
 - Finita la missione il Dottor Lesko si sposterà nella sua baracca e sarà possibile vendergli i nettari delle formiche di fuoco (40 tappi a campione; missione nascosta *Raccolta di nettare*)
+
+
+</div>

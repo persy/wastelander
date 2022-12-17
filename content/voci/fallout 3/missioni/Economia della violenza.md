@@ -16,9 +16,19 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
+
 *Economia della violenza* è una missione nascosta di Fallout 3. È data da Pronto a Paradise Falls.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -29,12 +39,15 @@ graph TD;
     id4(Porta i fucili <br />a Pronto)
     id5(Miglior inventario <br />al Lock and Load, <br />20% di sconto):::rewardfo3
     id1-->id2-->id3-->id4-->id5
-    click id2 "../../luoghi/paradise-falls"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - Dove trovare i fucili d'assalto cinesi:
   - soldati cinesi a Mama Dolce
   - sui supermutanti capo
@@ -48,3 +61,5 @@ Note:
   - Nel Tunnel di Taft
 - Se la missione è già iniziata, uccidere un qualsiasi schiavista a Paradise Falls la farà fallire
 - Dopo avergli dato i fucili, bisogna aspettare almeno 24 prima che l'inventario venga aggiornato
+
+</div>

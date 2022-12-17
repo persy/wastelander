@@ -14,12 +14,12 @@ commentable: true
 hidden: true
 ---
 
+
+
+
+<div class="fnv">
+
 TODO
-
-
-
-
-
 
 ## Generale
 
@@ -48,3 +48,7 @@ TODO
 |    Intelligenza     | Comprensione<br>Esperto<br>Entomologo<br>Allievo sveglio |                    Furia nerd!<br>Mantenimento<br>Ladruncolo                     |                                                                               Lezioni apprese                                                                               |       Mago del computer<br>Lettore vorace        |                                                        |
 |       Agilità       |                                                          |                       Ricarica rapida<br>Estrazione rapida                       |                                 Uomo d'azione/Donna d'azione<br>Passo leggero<br>Tocco leggero [Dead Money]<br>Corsa silenziosa<br>Cecchino                                 |          Nervi d'acciaio<br>Sventratore          |          Corriere dei tunnel [Lonesome Road]           |
 |       Fortuna       |                                                          |                         Cercatore fortunato<br>Scroccone                         |                                   Colpo letale migliorato<br>Munizioni di scarto [Dead Money]<br>Signorina Fortuna<br>Misterioso estraneo                                   |                                                  |                                                        |
+
+
+</div>
+

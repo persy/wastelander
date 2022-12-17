@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il gruppo satelliti SatCom NW-07c è un gruppo di satelliti nell'estremo nord-ovest della Zona contaminata della Capitale nel 2277. Si trova a ovest dal santuario degli artigli della morte e a nord-ovest del forte automobilistico abbandonato. 
+Il **gruppo satelliti SatCom NW-07c** è un gruppo di satelliti nell'estremo nord-ovest della Zona contaminata della Capitale nel 2277. Si trova a ovest dal santuario degli artigli della morte e a nord-ovest del forte automobilistico abbandonato. 
 
 | Mappa                                | Panoramica                                |
 | ------------------------------------ | ----------------------------------------- |
@@ -29,3 +30,5 @@ Il gruppo satelliti SatCom NW-07c è un gruppo di satelliti nell'estremo nord-ov
 | {{<figure src="fo3/Duck_and_Cover!_Array,_Power_Station.webp">}} | Appena a nord del [furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato), giù nella valle vicino ad alcuni relitti d'auto, accanto a uno scheletro e delle scatole di munizioni |
 
 *Vedi [Camion di internamento](../camion-di-internamento)*
+
+</div>

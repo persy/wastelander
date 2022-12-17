@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Da Lucky è un avamposto commerciale non contrassegnato nella Zona contaminata della Capitale ed è abitato da uno sciacallo. Si trova a sud-ovest della Torre Tenpenny e della stazione Warrington.
+**Da Lucky** è un avamposto commerciale non contrassegnato nella Zona contaminata della Capitale ed è abitato da uno sciacallo. Si trova a sud-ovest della Torre Tenpenny e della stazione Warrington.
 
 | Mappa                              | Panoramica                              |
 | ---------------------------------- | --------------------------------------- |
@@ -32,3 +33,4 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, su uno scaffale posteriore, vicino a due Nuka-Cola (va rubato)
 - Gnomo da giardino insolitamente piccolo, sullo scaffale sopra la radio
 
+</div>

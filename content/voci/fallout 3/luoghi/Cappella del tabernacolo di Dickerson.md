@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La cappella del tabernacolo di Dickerson è una chiesa in rovina nell'angolo nord-ovest della Zona contaminata della Capitale e si trova tra il santuario dei Deathclaw, la stazione di trasmissione WKML e l'area campeggio Mount Mabel. È sorvegliata da un cecchino.
+La **cappella del tabernacolo di Dickerson** è una chiesa in rovina nell'angolo nord-ovest della Zona contaminata della Capitale e si trova tra il santuario dei Deathclaw, la stazione di trasmissione WKML e l'area campeggio Mount Mabel. È sorvegliata da un cecchino.
 
 | Mappa                                    | Panoramica                                          |
 | ---------------------------------------- | --------------------------------------------------- |
@@ -27,4 +28,4 @@ La cappella del tabernacolo di Dickerson è una chiesa in rovina nell'angolo nor
 | {{<figure src="fo3/The_Drifter's_sniper_nest.webp">}}                    | **Fucile da riservista** e l'olonastro **coordinate dell'Oasi**, nell'inventario del cecchino |
 | {{<figure src="fo3/Dickerson_Tabernacle_Chapel_Guns_and_Bullets.webp">}} | **Pistole e proiettili** a terra, accanto a diverse scatole di munizioni                      |
 
-
+</div>

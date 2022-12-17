@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La grotta marina (nella versione inglese *Wrecked seatub*) è una caverna disponibile solo con il DLC *Point Lookout* di Fallout 3. E' accessibile dall'imbarcazione naufragata o dal pozzo fuori dalla Cattedrale Arca & Spirito santo.
+<div class="fo3">
+
+La **grotta marina** (nella versione inglese *Wrecked seatub*) è una caverna disponibile solo con il DLC *Point Lookout* di Fallout 3. E' accessibile dall'imbarcazione naufragata o dal pozzo fuori dalla Cattedrale Arca & Spirito santo.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,5 +27,5 @@ La grotta marina (nella versione inglese *Wrecked seatub*) è una caverna dispon
 Oggetti:
 - 39 denaro prebellico, vicino a una barca semiaffondata e a una cassa su un materasso
 
-
+</div>
 

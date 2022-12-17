@@ -18,7 +18,7 @@ private: false # Nascosto dalle ricerche
 {{< toc hide_on="xl" >}}
 
 
-
+<div class="fnv">
 
 
 ## Droghe
@@ -252,7 +252,7 @@ private: false # Nascosto dalle ricerche
 
 </div>
 
-
+</div>
 
 
 

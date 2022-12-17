@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La baracca del contrabbandiere è un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova su una piccola isola, a sud del faro.
+La **baracca del contrabbandiere** è un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova su una piccola isola, a sud del faro.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -25,6 +26,7 @@ La baracca del contrabbandiere è un luogo non contrassegnato disponibile solo c
 
 
 
-Note:
+**Note**:
 - Simile ad Arkansas di Minefield, il contrabbandiere solitario colpirà chiunque si avvicini al suo isolotto
 
+</div>

@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il Vecchio Olney è una città abbandonata infestata dai deathclaw.
+Il **Vecchio Olney** è una città abbandonata infestata dai deathclaw.
 
 | Mappa                                | Panoramica                        |
 | ------------------------------------ | --------------------------------- |
@@ -40,4 +41,4 @@ Altri oggetti:
 	- **Nuka-Cola Quantum**, dietro una scatola di munizioni in una stanza con quattro letti
 	- **Fat Man**, nella stessa stanza, appena sotto le tre casseforti a muro
 
-
+</div>

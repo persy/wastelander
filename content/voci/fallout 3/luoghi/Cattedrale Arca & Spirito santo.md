@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-La Cattedrale Arca & Spirito santo è una vecchia chiesa usata come insediamento dai tribali, disponibile solo con il DLC *Point Lookout* di Fallout 3.
+<div class="fo3">
+
+
+La **Cattedrale Arca & Spirito santo** è una vecchia chiesa usata come insediamento dai tribali, disponibile solo con il DLC *Point Lookout* di Fallout 3.
 A nord-ovest sono presenti il cimitero e un pozzo che conduce alla grotta marina
 
 | Mappa                      | Panoramica                       |
@@ -27,4 +30,4 @@ A nord-ovest sono presenti il cimitero e un pozzo che conduce alla grotta marina
 Oggetti:
 - **Pala fertilizzante**, data da Croatoa
 
-
+</div>

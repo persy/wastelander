@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Alimentari da Willy è un minimarket situato ad est della Torre Tenpenny.
+**Alimentari da Willy** è un minimarket situato ad est della Torre Tenpenny.
 
 | Mappa                       | Panoramica              |
 | --------------------------- | ----------------------- |
@@ -26,3 +27,8 @@ Alimentari da Willy è un minimarket situato ad est della Torre Tenpenny.
 | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Tales_of_a_JJV_Willys.jpg">}} | **Racconti di un venditore di carne di Junktown**, accanto al registratore di destra                  |
 | {{<figure src="fo3/FO3_TT_Tenpenny.webp">}}      | **Lo scassinatore moderno**, in un edificio in rovina a sud, su una mensola di legno al secondo piano |
+
+
+
+</div>
+

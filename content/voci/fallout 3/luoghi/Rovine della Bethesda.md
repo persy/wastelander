@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Le rovine di Bethesda si trovano a nord-ovest di Washington, D.C. Sono abitate da predoni e ghoul e divise in tre sezioni: uffici Bethesda ovest, uffici Bethesda est e la stazione metropolitana Bethesda. 
+Le **rovine di Bethesda** si trovano a nord-ovest di Washington, D.C. Sono abitate da predoni e ghoul e divise in tre sezioni: uffici Bethesda ovest, uffici Bethesda est e la stazione metropolitana Bethesda. 
 
 | Mappa                                      | Mappa locale                                       | Panoramica                             |
 | ------------------------------------------ | -------------------------------------------------- | -------------------------------------- |
@@ -38,7 +39,6 @@ Altri oggetti:
 - 2 **libri prebellici**, , uffici Bethesda ovest, in cima ad uno schedario al primo piano
 - **U.S. Army: 30 pratiche ricette per lanciafiamme** e **chiavi della cassaforte**, uffici Bethesda est, nell'inventario dal leader dei predoni
 
-
-
 *Vedi [Stazione metropolitana Bethesda](../capitale#stazione-metropolitana-bethesda)*
 
+</div>

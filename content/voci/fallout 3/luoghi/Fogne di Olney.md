@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Le fogne di Olney sono un piccolo sistema fognario posto al di sotto del Vecchio Olney
+<div class="fo3">
+
+Le **fogne di Olney** sono un piccolo sistema fognario posto al di sotto del Vecchio Olney.
 
 | Mappa                             | Mappa locale                   | Entrata 1                          | Entrata 2                            | 
 | --------------------------------- | ------------------------------ | ---------------------------------- | ------------------------------------ |
@@ -32,5 +34,5 @@ Le fogne di Olney sono un piccolo sistema fognario posto al di sotto del Vecchio
 | {{<figure src="fo3/Old_Olney_bottlecap_mine.webp">}}        | **Mina da tappo**, su un banco da lavoro, nella prima stanza a sinistra dopo la porta di metallo a sud                                                                                           |
 | TODO                                       | **Nuka-Cola Quantum**, vicino a una scatola di munizioni, nella seconda stanza a sinistra dopo la porta di metallo a sud                                                                                                                                   |
 
-
+</div>
 

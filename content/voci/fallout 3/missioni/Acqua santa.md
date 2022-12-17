@@ -16,10 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
 
 
 *Acqua santa* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bigsley al Jefferson Memorial.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -41,12 +49,15 @@ graph TD;
     id14(Guadagna almeno <br />800 RAD) 
     id15(100 PE, 300 tappi):::rewardfo3
     id1-->id16-->id2-->id3-->id4-->id5-->id6 & id7 & id8 & id9 & id10-->id11-->id12 & id13 & id14-->id15
-    click id16 "../../luoghi/jefferson-memorial"
-    click id2 "../../luoghi/megaton"
-    click id4 "../../luoghi/monastero-della-luce-sacra"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                    |
 |:-----:|:------------------:| ---------------------------------------------------------------------------------------------- |
@@ -62,5 +73,7 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Nno è possibile accettare la missione se la Cittadella è stata distrutta durante *Chi osa vince*
+
+</div>

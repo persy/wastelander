@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Giocattoli per i bambini* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Midea alla periferia del Pitt, dopo aver completato *Lavoro libero*.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,8 +41,15 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
 
 
 
-Note:
+
+**Note**:
 - Questa missione è disponibile solo se si rapisce il bambino in *Lavoro libero*
+
+
+
+</div>

@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Germantown è una città in rovina e fa parte dell'area prebellica di Washington, D.C. I supermutanti hanno trasformato la stazione di polizia nel loro quartier generale 
+**Germantown** è una città in rovina e fa parte dell'area prebellica di Washington, D.C. I supermutanti hanno trasformato la stazione di polizia nel loro quartier generale 
 
 
 | Mappa                                            | Panoramica                                   |
@@ -43,4 +44,7 @@ Germantown è una città in rovina e fa parte dell'area prebellica di Washington
 - Seminterrato
 	- **Fat Man**: nella stessa stanza de **Lo scassinatore moderno**, vicino al poligono di tiro
 	- **Nuka-Cola Quantum**, all'interno di una piccola stanza nell'angolo sud-occidentale della mappa, a terra accanto a una scatola di metallo
+
+
+</div>
 

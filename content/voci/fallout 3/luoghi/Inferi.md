@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Gli inferi sono un insediamento di ghoul all'interno del Museo di Storia di Washington, DC.
+Gli **inferi** sono un insediamento di ghoul all'interno del Museo di Storia di Washington, DC.
 
 | Mappa                                         | Mappa locale                           | Panoramica                                      |
 | --------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
@@ -30,3 +31,5 @@ Altri oggetti:
 - **Mina da tappo**, sul banco di lavoro di Tulip
 - **"Super" mitragliatrice da 10mm di Sydney** , può essere ottenuta da Sydney dopo averle dato la nota **Una nota del padre di Little Moonbeam** e completato *Furto della dichiarazione d'indipendenza* o saccheggiando il suo cadavere
 - **Paradiso perduto**, regalato da Tulip dopo averle chiesto le origini degli Inferi
+
+</div>

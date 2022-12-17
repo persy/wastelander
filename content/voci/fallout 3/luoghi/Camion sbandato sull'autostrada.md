@@ -15,8 +15,9 @@ tags: ["Luoghi della Zona contaminata della Capitale"]
 hidden: true
 ---
 
+<div class="fo3">
 
-Il camion sbandato sull'autostrada è un luogo non contrassegnato che si trova a nord-est dell'armeria di Wheaton e ad est del QG Giustizieri.
+Il **camion sbandato sull'autostrada** è un luogo non contrassegnato che si trova a nord-est dell'armeria di Wheaton e ad est del QG Giustizieri.
 
 | Mappa                                  | Panoramica                         |
 | -------------------------------------- | ---------------------------------- |
@@ -26,3 +27,4 @@ Il camion sbandato sull'autostrada è un luogo non contrassegnato che si trova a
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/FO3_CA_SOTM_Chinese_mobile_HQ.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo**, sul tavolo vicino alla radio |
 
+</div>

@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione metropolitana di Meresti è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. È accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti.
+La **stazione metropolitana di Meresti** è una stazione ferroviaria sotterranea di Washington, D.C., rifugio della Famiglia. È accessibile tramite il tunnel di servizio di Meresti,  dal deposito di Meresti.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -34,3 +35,5 @@ Altri oggetti:
 - **Mina da tappo**, su un banco da lavoro vicino a un terminale informativo al piano terra, a nord sulla mappa
 - **Cappotto di Vance**, indossato da Vance
 - **Schemi - Shishkebab**, nell'inventario di Vance; può essere ottenuto uccidendolo o terminando *Legami di sangue* in suo favore
+
+</div>

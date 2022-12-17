@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *La sfida di Nuka Cola* è una missione secondaria di Fallout 3. È data da Sierra Petrovita a Girdershade.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -59,10 +68,13 @@ graph TD;
     id15-->id18
     id19-->id20-->id6-->id23-->id21-->id24-->id25-->id26
     id5-->id20
-    click id "../../luoghi/girdershade"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                              |
 | :---: | :----------------: | ---------------------------------------------------------------------------------------- |
@@ -73,10 +85,13 @@ graph TD;
 |  40   |  :white_check_mark:                  | Recupera 30 bottiglie di Nuka Cola Quantum e portale a Sierra Petrovita                  |
 |  45   | :white_check_mark: | (Facoltativo) Recupera 30 bottiglie di Nuka Cola Quantum e portale a Ronald Laren        |
 
-Note:
+**Note**:
 - È possibile ottenere la maschera da hockey di Ledoux solo durante questa missione
   - Non è possibile ottenerla se si ha già consegnato le 30 Nuka-Cola Quantum a Sierra
 - Con l'abilità extra Chimico quantico (liv. 22) è possibile ottenere una Nuka-Cola Quantum ogni dieci bottiglie di Nuka-Cola normali
   - Le Nuka-Cola non possono essere convertite
 - Con tre **Schemi - Granata Nuka** è possibile fabbricare il triplo di granate nuka usando la stessa quantità di ingredienti
 - Con il giusto livello di Eloquenza è possibile vendere soltanto 29 Nuka-Cola Quantum a Ronald e poi 30 a Sierra per ottenere un totale di 2320 tappi
+
+
+</div>

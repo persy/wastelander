@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La centrale elettrica VAPL-58 è un insieme di linee elettriche recintate e trasformatori accanto a una sottostazione elettrica. Si trova a sud-ovest di Arefu, a nord della stazione della metropolitana di Jury Street e ad ovest di Vault 106, dove le due linee elettriche da nord e da est si intersecano. 
+La **centrale elettrica VAPL-58** è un insieme di linee elettriche recintate e trasformatori accanto a una sottostazione elettrica. Si trova a sud-ovest di Arefu, a nord della stazione della metropolitana di Jury Street e ad ovest di Vault 106, dove le due linee elettriche da nord e da est si intersecano. 
 
 | Mappa                    | Panoramica                     |
 | ------------------------ | ------------------------------ |
@@ -34,6 +35,7 @@ La centrale elettrica VAPL-58 è un insieme di linee elettriche recintate e tras
 | {{<figure src="fo3/1st_Keller_family_transcript_bottom_shelf.webp">}}                  |  **Trascrizione famiglia Keller 1 di 5**, su una libreria nella [capanna del traliccio](../capanna-del-traliccio), che si trova sotto il terzo pilone partendo dalla centrale elettrica e andando verso nord                                                                                                                            |
 
 
-
  Altri oggetti:
 - **Stealth Boy** , nella parte posteriore sui pannelli di controllo della stazione
+
+</div>

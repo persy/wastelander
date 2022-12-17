@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La rivendita d'auto Takoma è una piccola officina situata nel Parco Takoma, in Washington. D.C.
+La **rivendita d'auto Takoma** è una piccola officina situata nel Parco Takoma, in Washington. D.C.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -26,3 +27,4 @@ La rivendita d'auto Takoma è una piccola officina situata nel Parco Takoma, in 
 | -------- | ------------------- |
 | {{<figure src="fo3/US_Army_HFR_Takoma_Motor_auto_shop.webp">}}  | **U.S. Army: 30 pratiche ricette per lanciafiamme**, sulla scrivania dietro il bancone, nell'angolo sud-orientale dell'edificio  |
 
+</div>

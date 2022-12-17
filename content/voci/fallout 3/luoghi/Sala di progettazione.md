@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La sala di progettazione è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
+<div class="fo3">
+
+La **sala di progettazione** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
 Quest'area funge da hub tra numerose altre parti della nave e si connette al ponte, alle macchine a vapore, all'area cargo, al laboratorio criogenico, alla camera di decompressione, alla sala dei motori, all'hangar, al ponte di osservazione, alla fabbricazione robot e al livello manutenzione.
 
 | Mappa locale | Panoramica |
@@ -37,4 +39,4 @@ Altri oggetti:
 - Tuta di Paulson, indossata da Paulson
 - Armatura ed elmo del samurai, indossati da Toshiro Kago
 
-
+</div>

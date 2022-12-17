@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La Repubblica di Dave è un piccolo insediamento agricolo nell'estremo angolo nord-orientale della Zona contaminata della Capitale.
+La **Repubblica di Dave** è un piccolo insediamento agricolo nell'estremo angolo nord-orientale della Zona contaminata della Capitale.
 
 | Mappa                                        | Mappa locale                                     | Panoramica                               |
 | -------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
@@ -34,3 +35,4 @@ Altri oggetti:
 - Piatto caldo di grandi dimensioni, su uno degli scaffali del museo
 - **Chiave speciale di Dave**, nell'inventario di Dave
 
+</div>

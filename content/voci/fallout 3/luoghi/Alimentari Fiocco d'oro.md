@@ -13,7 +13,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Il Fiocco d'oro è un negozio d'alimentari all'interno di Jury Street, a nord-ovest della stazione metropolitana di Jury Street.
+<div class="fo3">
+
+
+Il **Fiocco d'oro** è un negozio d'alimentari all'interno di Jury Street, a nord-ovest della stazione metropolitana di Jury Street.
 
 | Mappa                        | Panoramica                    |
 | ---------------------------- | ----------------------------- |
@@ -23,3 +26,4 @@ Il Fiocco d'oro è un negozio d'alimentari all'interno di Jury Street, a nord-ov
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/FO3_Gold_Ribbon_Grocers_03.webp">}} | **Tu e Nikola Tesla**, **Lo scassinatore moderno**,  una **munizione nucleare**, 9 scatole di **Bombe di zucchero**, dalla buca nel soffitto a sud-ovest se si innescherà l'esplosione o si farà salatare il generatore sul retro | 
 
+</div>

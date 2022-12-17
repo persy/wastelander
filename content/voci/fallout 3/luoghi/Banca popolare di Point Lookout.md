@@ -1,13 +1,13 @@
 ---
 # Titolo, sommario, posizione e icona
-linktitle: TODO
+linktitle: Banca popolare di Point Lookout
 summary: ""
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas
 
 # Metadata pagina
-title: TODO
+title: Banca popolare di Point Lookout
 date: 2022-11-17
 type: book # Non modificare
 commentable: true
@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La Banca popolare di Point Lookout è una piccola banca prebellica situata nell'area dell'Attracco del Pellegrino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+<div class="fo3">
+
+La **Banca popolare di Point Lookout** è una piccola banca prebellica situata nell'area dell'Attracco del Pellegrino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,4 +28,4 @@ La Banca popolare di Point Lookout è una piccola banca prebellica situata nell'
 Oggetti:
 - **Cassetta 1191 - Backup password**, sulla scrivania destra dalla stanza principale
 
-
+</div>

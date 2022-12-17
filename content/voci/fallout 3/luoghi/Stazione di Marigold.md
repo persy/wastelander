@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione di Marigold è una delle stazioni della metropolitana sulla Linea Blu e si trova a Grayditch. È il percorso più semplice da prendere per raggiungere Falls Church. È infestato dalle formiche di fuoco.
+La **stazione di Marigold** è una delle stazioni della metropolitana sulla Linea Blu e si trova a Grayditch. È il percorso più semplice da prendere per raggiungere Falls Church. È infestato dalle formiche di fuoco.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -32,3 +33,5 @@ Altri oggetti:
 - **Camice di Lesko**, dato dal dottor Lesko per aver completato **Mio Dio!**, senza uccidere la regina e superando sfida Eloquenza
 - **Pigiama sexy**, in una cassaforte, ricompensa per aver completato la missione nascosta *Pacco di Grady*
 - **Ultima registrazione di Grady**, sul suo cadavere situato nella biglietteria all'ingresso della stazione
+
+</div>

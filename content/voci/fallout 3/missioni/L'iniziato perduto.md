@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *L'iniziato perduto* è una missione nascosta di Fallout 3. È data dal Paladino Hoss a Falls Church.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,12 +41,18 @@ graph TD;
     id7(Karma, tappi):::rewardfo3
     id1-->id2-->id3-->id4-->id6-->id7
     id4-->id5-->id6
-    click id2 "../../luoghi/falls-church"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - Il Paladino Hoss e l'Iniziato PEk posso essere uccisi, ma non verrà ottenuta alcuna ricompensa 
 - Entrando a Falls Church dalla stazione di Marigold la battaglia fra i membri della Confraternita d'Acciaio e i supermutanti inizierà immediatamente
   - Lasciando l'area e ritornando con un viaggio rapido è possibile che tutti i membri siano già stati uccisi
+
+
+</div>

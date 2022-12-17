@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Le fortificazioni di rottami dei predoni è una località non contrassegnata e si trova a sud-ovest del ripetitore KB5.
+Le **fortificazioni di rottami dei predoni** è una località non contrassegnata e si trova a sud-ovest del ripetitore KB5.
 
 | Mappa                                         | Panoramica                                                 |
 | --------------------------------------------- | ---------------------------------------------------------- |
@@ -31,3 +32,5 @@ Le fortificazioni di rottami dei predoni è una località non contrassegnata e s
 
 Altri oggetti:
 - **Stealth Boy**, ?
+
+</div>

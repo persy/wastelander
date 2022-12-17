@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-L'inghiottitoio allagato è un laghetto che separa la baracca del cacciatore dalla baracca del contadino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+L'**inghiottitoio allagato** è un laghetto che separa la baracca del cacciatore dalla baracca del contadino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                          | Panoramica                 |
 | ------------------------------ | -------------------------- |
@@ -27,4 +28,4 @@ L'inghiottitoio allagato è un laghetto che separa la baracca del cacciatore dal
 Altri oggetti:
 - 2 **Nuka-Cola Quantum**, galleggianti sulla superficie dopo essere scesi sul fondo
 
-
+</div>

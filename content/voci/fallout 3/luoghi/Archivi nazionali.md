@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Gli Archivi nazionali si trovano nella parte nord-est del Mall, a est del Museo di Storia e a nord del Museo di Tecnologia, oltre il campo trincerato.
+Gli **Archivi nazionali** si trovano nella parte nord-est del Mall, a est del Museo di Storia e a nord del Museo di Tecnologia, oltre il campo trincerato.
 
 
 | Mappa | Mappa locale | Panoramica |
@@ -46,3 +47,8 @@ Altri oggetti:
 		- Le risposte sono: Secondo Congresso Continentale, 13, John Hancock, 56, ratificazione, Re Giorgio III, felicità, Thomas Jefferson
 - 5 **libri prebellici**, archivi: uno in una libreria, vicino alla parete est della sala sud-ovest, con il distributore Nuka-Cola; quattro al piano inferiore vicino alla porta sul retro che porta al Mall,  sulla libreria al centro della stanza che contiene il libro **Al riparo!**
 - **Parrucca di Button**, camera blindata, in cima al banco di rifornimento di Button TODO
+
+
+</div>
+
+

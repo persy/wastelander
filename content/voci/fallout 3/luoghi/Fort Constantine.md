@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Fort Constantine è una grande base militare contenente un deposito di bombe atomiche e un impianto di lancio, posta nella parte nord-ovest della Zona contaminata della Capitale, tra il gruppo satelliti SatCom NW-05a e il gruppo satelliti SatCom NN-03d. È costituito da tre strutture: gli uffici, costituiti da un edificio in rovina a pianta quadrata; la base CO, una casa colonica posta a nord-ovest degli uffici;  il magazzino bombe, l'edificio più imponente, posto sulla collina a est.
+**Fort Constantine** è una grande base militare contenente un deposito di bombe atomiche e un impianto di lancio, posta nella parte nord-ovest della Zona contaminata della Capitale, tra il gruppo satelliti SatCom NW-05a e il gruppo satelliti SatCom NN-03d. È costituito da tre strutture: gli uffici, costituiti da un edificio in rovina a pianta quadrata; la base CO, una casa colonica posta a nord-ovest degli uffici;  il magazzino bombe, l'edificio più imponente, posto sulla collina a est.
 
 L'area è sorvegliata da un'ampia varietà di robot.
 
@@ -51,3 +52,6 @@ Altri oggetti:
 
 - La porta del bunker è nello scantinato della base CO
 	- Per accedere al bunker bisogna avere le chiavi ottenute durante la missione *Devi mirare la testa*, Signor Crowley agli [Inferi](../Inferi)
+	
+	
+</div>

@@ -16,11 +16,13 @@ hidden: true
 private: false 
 ---
 
-Il deposito collega la galleria del treno con il ponte per il Pitt ed è disponibile solo con DLC *The Pitt* di Fallout 3. 
+<div class="fo3">
+
+Il **deposito del Pitt** collega la galleria del treno con il ponte per il Pitt ed è disponibile solo con DLC *The Pitt* di Fallout 3. 
 
 | Mappa  | Panoramica |
 | ----- |  ---------- |
 |  {{<figure src="fo3/Pitt_Train_Yard_loc.webp">}}                  |  {{<figure src="fo3/Train_Yard.webp">}}         | 
 
-
+</div>
 

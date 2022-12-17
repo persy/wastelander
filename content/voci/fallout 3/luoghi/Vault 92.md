@@ -15,9 +15,10 @@ tags: [Luoghi della Zona contaminata della Capitale,Vault della Zona contaminata
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Vault 92 è un Vault della Vault-Tec e si trova a nord-ovest del Vecchio Olney.
+Il **Vault 92** è un Vault della Vault-Tec e si trova a nord-ovest del Vecchio Olney.
 
 | Mappa                                | Mappa locale                             | Panoramica                                |
 | ------------------------------------ | ---------------------------------------- | ----------------------------------------- |
@@ -44,4 +45,4 @@ Altri oggetti:
 	- 3 **libri prebellici**: su uno scaffale nella stanza nord all'ultimo piano; su un tavolo nella stanza orientale dell'ultimo piano, accanto al "terminal di Zoe Hammerstein"; su un tavolo in una  stanza con un distributore automatico Nuka-Cola
 	- **Stealth Boy** , a ovest dietro una porta chiusa a chiave, in una piccola stanza con una cassaforte 
 
-
+</div>

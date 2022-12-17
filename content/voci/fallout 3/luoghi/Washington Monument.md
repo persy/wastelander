@@ -15,10 +15,13 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il  Washington Monument è un grande obelisco prebellico posizionato al centro del Mall di Washington, D.C.
+Il **Washington Monument** è un grande obelisco prebellico posizionato al centro del Mall di Washington, D.C.
 
 | Mappa                                           | Mappa locale                                        | Panoramica                                  |
 | ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
 | {{<figure src="fo3/Washington_Monument_loc.webp">}} | {{<figure src="fo3/Washington_Monument_loc_map.webp">}} | {{<figure src="fo3/Washington_Monument.webp">}} |
+
+</div>

@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il centro del Pitt è un grande insediamento abitato da predoni Pitt e disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+Il **centro del Pitt** è un grande insediamento abitato da predoni Pitt e disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -24,4 +26,4 @@ Il centro del Pitt è un grande insediamento abitato da predoni Pitt e disponibi
 
 *Vedi Appartamenti abbandonati e Haven*
 
-
+</div>

@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La Torre Tenpenny è un insediamento fortificato costituito da un unico grattacielo e si trova nelle rovine a ovest di DC, direttamente a sud-ovest dell'Impianto RobCo.
+La **Torre Tenpenny** è un insediamento fortificato costituito da un unico grattacielo e si trova nelle rovine a ovest di DC, direttamente a sud-ovest dell'Impianto RobCo.
 
 | Mappa                                      | Mappa locale                                     | Panoramica                                    |
 | ------------------------------------------ | ------------------------------------------------ | --------------------------------------------- |
@@ -45,3 +46,4 @@ Altri oggetti:
 - **Maschera ghoul,** data da Roy Philips per aver completato la missione *Torre Tenpenny* aiutando lui e il suo gruppo di ghoul a entrare nella torre
 - **Tuta di Tenpenny**, indossato da Tenpenny
 
+</div>

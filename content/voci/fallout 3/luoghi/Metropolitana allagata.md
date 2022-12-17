@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La metropolitana allagata è una stazione metropolitana della linea blu della Zona contaminata della Capitale. L'ingresso alla stazione è vicino al confine meridionale della mappa, a ovest della Biblioteca di Arlington mentre l'uscita è al distretto Mason sud.
+La **metropolitana allagata** è una stazione metropolitana della linea blu della Zona contaminata della Capitale. L'ingresso alla stazione è vicino al confine meridionale della mappa, a ovest della Biblioteca di Arlington mentre l'uscita è al distretto Mason sud.
 
 *Vedi [[#Campo dei predatori della metro allagata*
 
@@ -30,3 +31,5 @@ La metropolitana allagata è una stazione metropolitana della linea blu della Zo
 | {{<figure src="fo3/Guns_and_Bullets_Minutemen_Metro_station.webp">}} | **Pistole e proiettili**, nella prima area del tunnel, sul lato ovest della stanza con degli armadietti, dietro il generatore | 
 | {{<figure src="fo3/Shocker_glove_(note)_Minuteman_MS.webp">}}        | **Folgorazione**, ina stanza minata, vicino all'ingresso di Mason District Sud,                                               |
 | {{<figure src="fo3/NCQ_Minutemen_Metro_station.jpg">}}               | **Nuka-Cola Quantum**, nella stessa stanza di Folgorazione, in cima a un armadietto per armi                                  |
+
+</div>

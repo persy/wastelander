@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La centrale di Arlington fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega il cimitero di Arlington e il tunnel DCTA 014-B di Potomac.
+La **centrale di Arlington** fa parte del sistema metropolitano sotto la Zona contaminata della Capitale e collega il cimitero di Arlington e il tunnel DCTA 014-B di Potomac.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,8 @@ La centrale di Arlington fa parte del sistema metropolitano sotto la Zona contam
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/US_Army_HFR_Arlington_utility.webp">}}  |  **U.S. Army: 30 pratiche ricette per lanciafiamme**, al secondo piano nella zona cucina, su degli scaffali di metallo |
+
+
+</div>
+
+

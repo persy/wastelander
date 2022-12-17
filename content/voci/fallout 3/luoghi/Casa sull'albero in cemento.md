@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La casa sull'albero in cemento è una piccola casa di fortuna non contrassegnata sulla mappa, a sud-est di Fort Independence, a metà strada tra le rovine di Fairfax e Andale.
+La **casa sull'albero in cemento** è una piccola casa di fortuna non contrassegnata sulla mappa, a sud-est di Fort Independence, a metà strada tra le rovine di Fairfax e Andale.
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
@@ -28,4 +29,4 @@ La casa sull'albero in cemento è una piccola casa di fortuna non contrassegnata
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Concrete_treehouse_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** - In una pila di libri rovinati, accanto al materasso |
 
-
+</div>

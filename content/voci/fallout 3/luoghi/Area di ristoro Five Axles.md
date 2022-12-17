@@ -15,7 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area di ristoro Five Axles si trova direttamente a nord della stazione di servizio Rockbreaker.
+<div class="fo3">
+
+
+L'**area di ristoro Five Axles** si trova direttamente a nord della stazione di servizio Rockbreaker.
 
 | Mappa                  | Panoramica                     |
 | ---------------------- | ------------------------------ |
@@ -30,3 +33,4 @@ Altri oggetti:
 - **Munizione nucleare**, nello stesso camion
 - **Registrazione parziale di CB Radio**, in un camion pieno di pneumatici
 
+</div>

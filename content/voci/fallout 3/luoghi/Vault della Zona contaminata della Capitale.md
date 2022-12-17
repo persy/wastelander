@@ -16,9 +16,10 @@ private: true # Nascosto dalle ricerche
 ---
 
 
-TODO
 
-Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare.
+
+
+<div class="fo3">
 
 
 - [Vault 87](../vault-87)
@@ -27,3 +28,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Vault 106](../vault-106)
 - [Vault 108](../vault-108)
 - [Vault 112](../vault-112)
+
+
+</div>
+

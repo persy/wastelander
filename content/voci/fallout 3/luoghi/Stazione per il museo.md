@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione per il museo fa parte del sistema metropolitano della Zona contaminata della Capitale e funge da passaggio sotterraneo tra il Museo di Storia e il Museo della Tecnologia. Originariamente faceva parte della Linea Rossa e connette la stazione interscambio Anacostia e la metropolitana centrale.
+La **stazione per il museo** fa parte del sistema metropolitano della Zona contaminata della Capitale e funge da passaggio sotterraneo tra il Museo di Storia e il Museo della Tecnologia. Originariamente faceva parte della Linea Rossa e connette la stazione interscambio Anacostia e la metropolitana centrale.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ La stazione per il museo fa parte del sistema metropolitano della Zona contamina
 | -------- | ------------------- |
 | {{<figure src="fo3/Museum_Station_Chinese_Army_Special_Ops_Training_Manual.webp">}}  | **Esercito cinese: operazioni speciali**, in una scatola vicino a uno scheletro nel bagno delle donne   |
 | {{<figure src="fo3/Museum_Station_Grognak.webp">}}  | **Grognak il barbaro**, su un tavolino nei pressi dell'uscita della metropolitana centrale, vicino a un tavolo da biliardo  |
+
+</div>

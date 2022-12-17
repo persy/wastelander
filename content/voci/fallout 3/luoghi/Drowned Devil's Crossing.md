@@ -15,10 +15,11 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 
-Drowned Devil's Crossing è un ponte crollato e si trova tra il drive-in Silver Lining e la discarica di Mason Dixon.
+**Drowned Devil's Crossing** è un ponte crollato e si trova tra il drive-in Silver Lining e la discarica di Mason Dixon.
 
 | Mappa                                   | Panoramica                                       |
 | --------------------------------------- | ------------------------------------------------ |
@@ -27,3 +28,6 @@ Drowned Devil's Crossing è un ponte crollato e si trova tra il drive-in Silver 
 | Immagine                                                        | Oggetto e posizione                                                                    |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Drowned_Devil's_Crossing_Tumblers_Today.webp">}} | **Lo scassinatore moderno**, nel camion, a destra di una cassaforte chiusa (Scasso 50) |
+
+
+</div>

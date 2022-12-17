@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il magazzino è un edificio abbandonato situato nell'area dell'Attracco del Pellegrino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+Il **magazzino** è un edificio abbandonato situato nell'area dell'Attracco del Pellegrino. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,4 @@ Il magazzino è un edificio abbandonato situato nell'area dell'Attracco del Pell
 | -------- | ------------------- |
 |  {{<figure src="fo3/Fo3PL_warehouse_mini_nuke.webp">}}       | **Munizione nucleare** e 14 missili, su uno scaffale                     | 
 
+</div>

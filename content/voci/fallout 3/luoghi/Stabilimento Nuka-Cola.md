@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Lo stabilimento Nuka-Cola è un grande edificio industriale a tre piani situato all'estremità meridionale ed è infestato da nukalurk e protettori.
+Lo **stabilimento Nuka-Cola** è un grande edificio industriale a tre piani situato all'estremità meridionale ed è infestato da nukalurk e protettori.
 
 | Mappa                                       | Panoramica                              |
 | ------------------------------------------- | --------------------------------------- |
@@ -49,4 +50,4 @@ Altri oggetti:
 	- **Aiutami**, su uno dei numerosi scheletri all'interno di un armadio al primo piano, dietro una porta chiusa (Scasso 75)
 	- **Stealth Boy** e **Trovare la Formula**, vicino al cadavere di Winger Mercier
 
-
+</div>

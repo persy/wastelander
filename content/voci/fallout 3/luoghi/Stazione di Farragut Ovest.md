@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione di Farragut Ovest fa parte del sistema di tunnel metropolitani della Zona contaminata della Capitale e è collegata alla stazione di Tenleytown/Friendship. L'ingresso principale si trova a est del Super-Duper Mart.
+La **stazione di Farragut Ovest** fa parte del sistema di tunnel metropolitani della Zona contaminata della Capitale e è collegata alla stazione di Tenleytown/Friendship. L'ingresso principale si trova a est del Super-Duper Mart.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ La stazione di Farragut Ovest fa parte del sistema di tunnel metropolitani della
 | -------- | ------------------- |
 |  TODO | **U.S. Army: 30 pratiche ricette per lanciafiamme** e 3 **libri prebellici**, in fondo alla stanza con i ghoul, dietro una porta chiusa (Scasso 50)  |
 | {{<figure src="fo3/NT_and_You,_DCTA_firearms_protocol_and_MU_gate_key.webp">}}  | **Tu e Nikola Tesla** e il **Protocollo armi da fuoco laser DCTA**, oltre la porta di dirimpetto al cancello, in una cassaforte chiusa a chiave (B)  |
+
+</div>

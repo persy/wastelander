@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il falò dei supermutanti è una località non contrassegnata e si trova a nord-ovest di Rivet City.
+Il **falò dei supermutanti** è una località non contrassegnata e si trova a nord-ovest di Rivet City.
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
@@ -26,3 +27,5 @@ Il falò dei supermutanti è una località non contrassegnata e si trova a nord-
 | Immagine                                                     | Oggetto e posizione                                                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/FO3_LCS_Rivet_City_Super_Mutant_Camp.webp">}} | **Stile da congresso, menzognero**, accanto al letto di fortuna, vicino ad alcune scatole di munizioni |
+
+</div>

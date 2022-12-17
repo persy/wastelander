@@ -15,8 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il ripetitore KB5 si trova ad ovest del santuario Deathclaw.
+
+Il **ripetitore KB5** si trova ad ovest del santuario Deathclaw.
 
 | Mappa                              | Panoramica                                  | Ingressi camera di drenaggio                       |
 | ---------------------------------- | ------------------------------------------- | -------------------------------------------------- |
@@ -38,3 +40,4 @@ Altri oggetti:
 
 *Vedi [[Forte delle auto abbandonate](../forte-delle-auto-abbandonate); [Furgone che esplode dello scienziato](../furgone-che-esplode-dello-scienziato)*
 
+</div>

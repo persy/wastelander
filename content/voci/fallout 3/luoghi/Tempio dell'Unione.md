@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Tempio dell'Unione è un luogo nella Zona contaminata della Capitale situato a nord-ovest di Canterbury Commons e a sud del Grisly diner. 
+Il **Tempio dell'Unione** è un luogo nella Zona contaminata della Capitale situato a nord-ovest di Canterbury Commons e a sud del Grisly diner. 
 
 | Mappa                                           | Mappa locale                                        | Panoramica                                  |
 | ----------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
@@ -29,3 +30,4 @@ Altri oggetti:
 - **Libro prebellico**, nella stanza di Caleb (va rubato)
 - **Racconti di un venditore di carne di Junktown**, **Grognak il barbaro**, **libro prebellico**, nel forte dei predoni sull'autostrada collassata a sud-ovest, dopo aver terminato le missioni *Le acque della vita* e  *Capo di stato* 
 
+</div>

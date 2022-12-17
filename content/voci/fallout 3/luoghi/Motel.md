@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il motel è un piccolo albergo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord dell'Attracco del Pellegrino e solo tre camere e l'ufficio sono accessibili.
+<div class="fo3">
+
+Il **motel** è un piccolo albergo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord dell'Attracco del Pellegrino e solo tre camere e l'ufficio sono accessibili.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,7 +29,7 @@ Oggetti:
 - Stealth Boy, vicino al terminale nella stanza 1D
 - Occhiali cruptocromatici, nel gabinetto della stanza 1D
 
-Note:
+**Note**:
 - Le stanze 1D, 1G e !k possono essere usate come rifugio
 
-
+</div>

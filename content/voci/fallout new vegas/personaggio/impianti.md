@@ -14,7 +14,9 @@ commentable: true
 hidden: true
 ---
 
+<div class="fnv">
 
+TODO
 
 | Impianto                 | Costo in tappi | Come installarlo                          | Bonus                                | Descrizione                                                                                                                                                    |
 | ------------------------ | :------------: | ----------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,3 +29,6 @@ hidden: true
 | Impianto Percezione      |      4000      | Dottor Usanagi (Clinica Medica New Vegas) | Aumenta di un punto la Percezione    | Il tuo nervo ottico è stato migliorato con il Potenziatore ottico, aumentando la tua Percezione di 1.                                                          |
 | Impianto Stamina         |      4000      | Dottor Usanagi (Clinica Medica New Vegas) | Aumenta di un punto la Stamina       | Il tuo sistema nervoso è stato migliorato con il Regolatore di nocicezione, aumentando la tua Stamina di 1.                                                    |
 | Riproduttore di monociti |     12000      | Dottor Usanagi (Clinica Medica New Vegas) | Rigenera 1 TP ogni 10 secondi        | La tua abilità rigenerativa è stata migliorata dall'impianto di Autofertilizzante di monociti PHOENIX, facendoti rigenerare lentamente i punti ferita perduti. |
+
+
+</div>

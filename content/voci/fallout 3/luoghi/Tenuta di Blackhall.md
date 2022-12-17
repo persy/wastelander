@@ -16,13 +16,16 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La Tenuta di Blackhall è la residenza di Obadiah Blackhall, disponibile solo con il DLC *Point Lookout* di Fallout 3.
+
+La **Tenuta di Blackhall** è la residenza di Obadiah Blackhall, disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                         | Panoramica                |
 | ----------------------------- | ------------------------- |
 | {{<figure src="fo3/Blackhall_Manor_loc.webp">}}| {{<figure src="fo3/Blackhall_Manor.webp">}}|
 
-Note: 
+**Note**: 
 - E' possibile utilizzare la tenuta come rifugio e depositare gli oggetti
 
+</div>

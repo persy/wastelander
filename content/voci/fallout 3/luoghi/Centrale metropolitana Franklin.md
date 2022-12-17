@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La centrale metropolitana Franklin è un tunnel di utilità e fa parte della rete metropolitana della Zona contaminata della Capitale. È irradiato e parzialmente allagato. I tunnel della metropolitana sono una sezione della Linea Blu, situata ad est della stazione di Franklin (nel gioco Metro Falls Church/Mason Dst), ed ha le uscite a Falls Church e a Hubris Comics.
+La **centrale metropolitana Franklin** è un tunnel di utilità e fa parte della rete metropolitana della Zona contaminata della Capitale. È irradiato e parzialmente allagato. I tunnel della metropolitana sono una sezione della Linea Blu, situata ad est della stazione di Franklin (nel gioco Metro Falls Church/Mason Dst), ed ha le uscite a Falls Church e a Hubris Comics.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -39,3 +40,6 @@ Altri oggetti:
 	- 2 sono nella parte superiore della mappa, su uno scaffale prima di tornare all'inizio
 - 2 **libri prebellici**: nella parte superiore della prima stanza, leggermente a sinistra della porta di entrata/uscita; subito a destra del cassonetto aperto
 - 15 barattoli di trementina, sparsi nell'area
+
+</div>
+

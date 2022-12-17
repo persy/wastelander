@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La fattoria dei predatori è una località non contrassegnata ed situata a nord della discarica di Greener Pastures e ad ovest del Vecchio Olney.
+La **fattoria dei predatori** è una località non contrassegnata ed situata a nord della discarica di Greener Pastures e ad ovest del Vecchio Olney.
 
 | Mappa                                        | Panoramica                               |
 | -------------------------------------------- | ---------------------------------------- |
@@ -27,3 +28,4 @@ La fattoria dei predatori è una località non contrassegnata ed situata a nord 
 | {{<figure src="fo3/Raider_farmhouse_Dean's_Electronics.webp">}} | **Elettronica di Dean**, all'interno del casale, su uno scaffale                     |
 | {{<figure src="fo3/Raider_farmhouse_mini_nuke.webp">}}          | **Munizione nucleare**, all'interno del casale, a terra di fronte all'armadio aperto |
 
+</div>

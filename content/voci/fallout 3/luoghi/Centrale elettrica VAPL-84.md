@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La centrale elettrica VAPL-84 si trova a nord dell'Impianto RobCo e a sud-est di Evergreen Mills.
+La **centrale elettrica VAPL-84** si trova a nord dell'Impianto RobCo e a sud-est di Evergreen Mills.
 
 | Mappa                    | Panoramica                     |
 | ------------------------ | ------------------------------ |
@@ -26,4 +27,4 @@ La centrale elettrica VAPL-84 si trova a nord dell'Impianto RobCo e a sud-est di
 | ----------------------------------------- | ---------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/VAPL-84_power_station_mini_nuke.webp">}} | **Munizione nucleare**, in un rimorchio appena fuori dalla recinzione sud della stazione |
 
-
+</div>

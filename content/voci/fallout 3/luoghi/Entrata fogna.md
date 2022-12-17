@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'entrata fogna è una località non contrassegnata situata a Vernon Square, nelle rovine di Washington, D.C. Si trova nella strada a fondo cieco vicino al cinema a nord dell'area.
+L'**entrata fogna** è una località non contrassegnata situata a Vernon Square, nelle rovine di Washington, D.C. Si trova nella strada a fondo cieco vicino al cinema a nord dell'area.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,3 +26,5 @@ L'entrata fogna è una località non contrassegnata situata a Vernon Square, nel
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 |  {{<figure src="fo3/Dean's_Electronics_Sewer_entrance.webp">}} | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |
+
+</div>

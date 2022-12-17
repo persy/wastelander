@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La Fossa è l'arena dei combattimenti del Pitt, disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+La **Fossa** è l'arena dei combattimenti del Pitt, disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -24,9 +26,9 @@ La Fossa è l'arena dei combattimenti del Pitt, disponibile solo con il DLC *The
 
 
 
-Note:
+**Note**:
 - Sono presenti due bottiglie di Rad-X sul tavolo medico vicino a Faydra
 - E' possibile recuperare il proprio equipaggiamento dall'armadietto dietro a Faydra, solo dopo aver sconfitto Gruber
 - Faydra curerà anche le radiazioni tra un round e l'altro
 
-
+</div>

@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Torre Tenpenny* è una missione secondaria di Fallout 3. È data da Capo Gustavo alla Torre Tenpenny o Roy Phillips alla stazione di Warrington.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -48,11 +57,14 @@ graph TD;
     id10-->id14
     id11-->id15
     id13 & id14 & id15-->id16
-    click id2 "../../luoghi/torre-tenpenny"
-    click id6 "../../luoghi/stazione-di-warrington"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                    |
 | :---: | :----------------: | ---------------------------------------------------------------------------------------------- |
@@ -64,7 +76,7 @@ graph TD;
 |  120  | :white_check_mark: | Avvisa Roy Phillips che i ghoul possono entrare.                                               |
 
 
-Note:
+**Note**:
 - Se si hanno altre missioni in corso come *Un servitore maltrattato* e *Solo affari* è consigliabile non dire a Capo Gustavo agli altri residenti di voler risolvere il problema dei ghoul, così da non far partire immediatamente la missione
   - Bisogna schiavizzare Susan Lancaster prima di far partire la missione e di parlare con Allistair Tenpenny
 - Non nominare il Sig. Crawley ad Allistair Tenpenny altrimenti questo diventerà ostile e non sarà possibile risolvere pacificamente la missione
@@ -80,7 +92,7 @@ Note:
     2. Parla con Herbert Dashwood a proposito di Argyle, per ottenere gli **Schemi - Mina da tappo**
     3. Schiavizza Susan Lancaster per la missione *Solo affari*
     4. Parla con Capo Gustavo e far partire la missione
-    5 . Vai da Roy Phillips alla stazione di Warrinton e proporre un accordo paicifico
+    5 . Vai da Roy Phillips alla stazione di Warrington e proporre un accordo pacifico
     5. Vai da Allistair Tenpenny e convincerlo di far entrare i ghoul. Evita di parlare del Sig. Crawley
     6. Convinci Lydia Montenegro a far entrare i ghoul e poi ucciderla
        1. È possibile spingerla nei bagni e ucciderla silenziosamente senza allerta gli altri residenti)
@@ -89,3 +101,6 @@ Note:
     8. Convinci Millicent Wellington ed Edgar Wellington III
     9.  Informa Tenpenny che i residenti sono d'accordo nel far entrare i ghoul per ricevere 500 tappi e, immediatamente, uccidilo con un colpo alla testa per la missione *Devi mirare alla testa*
     10. Torna da Roy Phillips per ricevere la maschera ghoul
+
+
+</div>

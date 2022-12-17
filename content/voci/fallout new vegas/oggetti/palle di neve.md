@@ -15,9 +15,9 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-TODO
+<div class="fnv">
 
-Le Palle di neve sono oggetti collezionabili, sparsi nella Zona contaminata del Mojave. Con i DLC installati ce ne sono undici e ognuno può essere ceduti
+Le **Palle di neve** sono oggetti collezionabili, sparsi nella Zona contaminata del Mojave. Con i DLC installati ce ne sono undici e ognuno può essere ceduti
 a Jane, che si trova nella suite presidenziale del Lucky 38, per 2000 tappi ciascuno.
 
 
@@ -35,3 +35,8 @@ a Jane, che si trova nella suite presidenziale del Lucky 38, per 2000 tappi cias
 | Palla di neve del Parco Nazionale di Zion  |  Honest Hearts  | Nell'Emporio di Zion, in un armadio rotto, sul ripiano in basso.                                                                    |
 | Palla di neve di Big MT                    | Old World Blues | Nella Stazione meteorologica X-17, vicino ad un pannello elettronico.                                                               |
 | Palla di neve di Lonesome Road             |  Lonesome Road  | Nell'Area di sosta Junction 7, nello shop sotto la collina, piano superiore, in una libreria ribaltata.                             |
+
+
+</div>
+
+

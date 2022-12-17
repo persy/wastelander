@@ -14,6 +14,9 @@ hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
+
 - [Centrale di Arlington](../centrale-di-arlington)
 - [Centrale metropolitana Franklin](../centrale-metropolitana-franklin)
 - [Centro smaltimento materiali pericolosi L5](../centro-smaltimento-materiali-pericolosi-l5)
@@ -57,3 +60,4 @@ private: true # Nascosto dalle ricerche
 - [Tunnel di Warrington](../tunnel-di-warrington)
 - [Vernon Est/Parco Takoma](../vernon-est-parco-takoma)
 
+</div>

@@ -16,10 +16,11 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
 
-Il campo dei predatori della metro allagata è un accampamento di predoni non contrassegnato e si trova a sud-est della metro allagata.
+Il **campo dei predatori della metro allagata** è un accampamento di predoni non contrassegnato e si trova a sud-est della metro allagata.
 
 | Mappa                                         | Panoramica                                        |
 | --------------------------------------------- | ------------------------------------------------- |
@@ -35,4 +36,4 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, in una cassa in cima allo scaffale, vicino ai due frigoriferi
 - **Leve freno motocicletta**, **serbatoi motocicletta**, **pistole a vernice** e altri materiali per il crafting
 
-
+</div>

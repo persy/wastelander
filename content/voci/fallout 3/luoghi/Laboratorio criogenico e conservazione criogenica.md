@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il laboratorio criogenico è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio di conservazione criogenica e alla sala progettazione.
+Il **laboratorio criogenico** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio di conservazione criogenica e alla sala progettazione.
 
 
 | Mappa locale                 | Panoramica                       |
@@ -34,4 +35,4 @@ Il laboratorio criogenico è un luogo disponibile solo con il DLC *Mothership Ze
 Altri oggetti:
 - 2 **armature** ed **elmi medici invernali**, sui cadaveri di Daniels e Beckett 
 
-
+</div>

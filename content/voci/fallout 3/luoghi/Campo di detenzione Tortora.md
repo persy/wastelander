@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il Campo di detenzione Tortora è una struttura carceraria, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest dei rottami del camion. 
+Il **Campo di detenzione Tortora** è una struttura carceraria, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest dei rottami del camion. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -33,3 +34,4 @@ Altri oggetti:
 - **Stealth Boy**, nell'armadietto del dormitorio A
 - **Codici di auto-distruzione**, nella cella refrigerante con il cadavere di Wan Yang, nell'obitorio
 
+</div>

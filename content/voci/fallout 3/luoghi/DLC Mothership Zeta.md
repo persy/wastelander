@@ -16,11 +16,12 @@ private: true # Nascosto dalle ricerche
 tags: "Luoghi di Fallout 3"
 ---
 
-TODO
-
 {{< toc hide_on="xl" >}}
 
+<div class="fo3">
 
+
+TODO
 
 - [Ricerca biologica](../ricerca-biologica)
 - [Ponte](../ponte-mothership-zeta)
@@ -43,3 +44,4 @@ TODO
 - [Macchine a vapore](../macchine-a-vapore)
 - [Laboratorio armi](../laboratorio-armi)
 
+</div>

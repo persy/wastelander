@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il laboratorio di ricerca biologica è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio esperimenti e al ponte.
+<div class="fo3">
+
+Il **laboratorio di ricerca biologica** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio esperimenti e al ponte.
 
 | Mappa locale                      | Panoramica                          |
 | --------------------------------- | ----------------------------------- |
@@ -27,5 +29,5 @@ Il laboratorio di ricerca biologica è un luogo disponibile solo con il DLC *Mot
 |  {{<figure src="fo3/Alien_captive_recording_log_18_bio_research.webp">}}        |  **Registrazione prigioniero 18**, TODO                   | 
 |  {{<figure src="fo3/Alien_power_cells_biological_research.webp">}}       |  109 energie aliene, su uno scaffale nella sezione inferiore                    | 
 
-
+</div>
 

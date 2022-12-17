@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il tunnel di Yao Guai è una località a ovest dell'ossario e a nord-ovest del garage di Smith Casey. 
+Il **tunnel di Yao Guai** è una località a ovest dell'ossario e a nord-ovest del garage di Smith Casey. 
 
 | Mappa                                        | Mappa locale                                 | Panoramica                                    |
 | -------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
@@ -35,3 +36,4 @@ Il tunnel di Yao Guai è una località a ovest dell'ossario e a nord-ovest del g
 Altri oggetti:
 - **Libro prebellico** sul tavolo da picnic vicino all'ingresso del tunnel
 
+</div>

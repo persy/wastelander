@@ -14,10 +14,9 @@ commentable: true
 hidden: true
 ---
 
+<div class="fnv">
+
 TODO
-
-
-
 
 
 
@@ -27,3 +26,5 @@ TODO
 | # | Parata degli Scriba     |   1   | Metti dei vestiti formali o una tenuta della White Glove Society nell'inventario di Veronica                                | Gli Scriba della Confraternita d'Acciaio spesso non sono ben addestrati nell'uso in combattimento degli attrezzi high-tech impiegati dai Paladini. Si servono di mosse difensive disarmate come la Parata degli Scriba per tenere a bada i nemici. Sferra un attacco standard partendo da una reazione di blocco del colpo per eseguire una Parata degli Scriba. |
 | # | Takedown del Mercenario |   1   | Parla con il Mercenario Andy in una sfida Eloquenza 30 o completa la missione nascosta Il Generale Novac saluta e interroga | Quando vengono sorpresi disarmati, i mercenari della RNC si servono del Takedown del Mercenario per mettere rapidamente fuori combattimento gli avversari. Sferra un Attacco Possente mentre retrocedi per eseguire un Takedown del Mercenario.                                                                                                                  |
 | # | Trucco Khan             |   1   | Completa tutte gli obiettivi di Aba Daba Honeymoon per i Great Khan                                                         | Durante un combattimento senza armi, affidati agli sporchi trucchi dei Great Khan: getta polvere negli occhi dei tuoi nemici per disorientarli temporaneamente. Per usare questa tecnica, sferra un Attacco Possente mentre ti muovi a sinistra o a destra.                                                                                                      |
+
+</div>

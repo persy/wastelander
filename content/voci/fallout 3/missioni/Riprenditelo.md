@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Riprenditelo!* è la dodicesima missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -54,6 +63,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 
 | Tappe |       Stato        | Descrizione                                                    |
 | :---: | :----------------: | -------------------------------------------------------------- |
@@ -68,9 +80,12 @@ graph TD;
 |  65   | :white_check_mark: | Ordina al tuo collaboratore di avviare il purificatore.        |
 |       |                    |                                                                |
 
-Note:
+**Note**:
 - Il DLC Broken Steel inizia dopo che è finita questa missione
   - Con il DLC Broken Steel installato è possibile far entrare nel compartimento stagno un Seguace
 - Dire a Lyons l'Anziano che il Vault 87 è l'origine dei supermutanti farà guadagnare karma positivo
 - Liberty Prime attaccherà qualsiasi carovana, considerandola ostile
 - Terminata la missione è possibile che Fawkes resti inottenibile fino a *Chi osa vince*
+
+
+</div>

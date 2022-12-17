@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La camminata nello spazio è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, al di fuori dell'astronave omonima. Si connette alla camera di decompressione e al ponte di osservazione.
+La **camminata nello spazio** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, al di fuori dell'astronave omonima. Si connette alla camera di decompressione e al ponte di osservazione.
  
 
 | Mappa locale | Panoramica |
@@ -25,7 +26,8 @@ La camminata nello spazio è un luogo disponibile solo con il DLC *Mothership Ze
 | {{<figure src="fo3/Space_Walk_map.webp">}}            |   {{<figure src="fo3/Space_Walk.webp">}}        |
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 - E' necessario indossare la tuta spaziale lungo  tutto il tragitto
 
+</div>

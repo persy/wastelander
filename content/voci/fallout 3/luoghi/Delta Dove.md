@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Delta Dove è una serie di piccoli banchi di sabbia, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nel sud-ovest della mappa.
+**Delta Dove** è una serie di piccoli banchi di sabbia, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nel sud-ovest della mappa.
 
 | Mappa                     | Panoramica                        |
 | ------------------------- | --------------------------------- |
@@ -28,3 +29,4 @@ Delta Dove è una serie di piccoli banchi di sabbia, disponibile solo con il DLC
 Oggetti:
 - **Per Ozwaldo**, per terra, su un'isola con un solo albero direttamente a sud-ovest del piccolo molo
 
+</div>

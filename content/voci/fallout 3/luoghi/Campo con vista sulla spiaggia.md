@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il campo con vista sulla spiaggia Situato a sud del sito rituale, disponibile solo con il DLC *Point Lookout* di Fallout 3. E' abitato dal popolo della palude.
+Il **campo con vista sulla spiaggia** è situato a sud del sito rituale, disponibile solo con il DLC *Point Lookout* di Fallout 3. E' abitato dal popolo della palude.
 
 | Mappa                            | Panoramica                   |
 | -------------------------------- | ---------------------------- |
 | {{<figure src="fo3/Beachview_Campsite_loc.webp">}}| {{<figure src="fo3/Beachview_Campsite.webp">}}|
 
+</div>

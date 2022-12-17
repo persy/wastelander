@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Un sorso di Whiskey* è una missione secondaria del DLC *Point Lookout* di Fallout 3. È data da TODO a TODO.
+<div class="fo3">
 
+*Un sorso di Whiskey* è una missione secondaria del DLC *Point Lookout* di Fallout 3. 
+
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -40,10 +49,13 @@ graph TD;
     id1-->id2-->id3 & id4-->id6-->id7-->id8-->id9 & id10-->id11-->id12-->id13-->id14
     id3-->id5
     id7-->di13
-    click id2 "../../luoghi/baracca-di-marguerite"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                       |
 |:-----:|:------------------:| --------------------------------------------------------------------------------- |
@@ -55,5 +67,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Con Baratto 30 per i frutti di Punga coltivati e 63 per quelli selvatici il valore totale degli ingredienti sarà superiore dei 300 tappi e del moonshine ottenuti
+
+
+
+</div>

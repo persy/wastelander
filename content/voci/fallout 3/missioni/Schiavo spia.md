@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Schiavo spia* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da TODO a TODO.
+<div class="fo3">
 
+*Schiavo spia* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Snitch al Mulino.
+
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,8 +41,15 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
 
-Note:
+
+**Note**:
 - Questa missione ha un effetto piuttosto limitato sulla trama principale del DLC
 - Dire a Snitch che Marco sta fabbricando delle armi lo farà uccidere all'istante
 
+
+
+
+</div>

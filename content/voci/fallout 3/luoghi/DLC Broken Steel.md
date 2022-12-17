@@ -16,9 +16,11 @@ private: true # Nascosto dalle ricerche
 tags: "Luoghi di Fallout 3"
 ---
 
+{{< toc hide_on="xl" >}}
+
 TODO
 
-{{< toc hide_on="xl" >}}
+<div class="fo3">
 
 
 - [Base aeronautica Adams](../base-aeronautica-adams)
@@ -42,6 +44,6 @@ TODO
     - [Sottolivello metro](../sottolivello-metro)
 
 
-
+</div>
 
 

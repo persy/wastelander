@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
-L'emporio è un piccolo negozio di proprietà di Panada, disponibile solo con il DLC *Point Lookout* di Fallout 3. Il suo unico altro abitante è un protettore amichevole. 
+<div class="fo3">
+
+L'**emporio** è un piccolo negozio di proprietà di Panada, disponibile solo con il DLC *Point Lookout* di Fallout 3. Il suo unico altro abitante è un protettore amichevole. 
 
 | Mappa                        | Panoramica               |
 | ---------------------------- | ------------------------ |
 | {{<figure src="fo3/House_of_Wares_loc.webp">}}| {{<figure src="fo3/House_of_Wares.webp">}}|
 
-
+</div>

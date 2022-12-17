@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-L'ossario è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a nord-ovest di Evergreen Mills e ad est del tunnel yao guai. 
+L'**ossario** è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a nord-ovest di Evergreen Mills e ad est del tunnel yao guai. 
 
 | Mappa                                     | Panoramica                            |
 | ----------------------------------------- | ------------------------------------- |
@@ -30,3 +31,5 @@ L'ossario è un edificio in rovina e si trova a sud-ovest di Fort Bannister, a n
 Altri oggetti:
 - **Pugilato illustrato**, nella camera di drenaggio a ovest, seguendo il [Segnale Papa November (PN)](../camere-di-drenaggio)
 - **Nuka-Cola Quantum** e due **libri prebellici**, nella casa dello sciacallo
+
+</div>

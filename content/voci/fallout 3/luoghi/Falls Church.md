@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Falls Church è un luogo di Washington, D.C., subito a sud di Grayditch. 
+**Falls Church** è un luogo di Washington, D.C., subito a sud di Grayditch. 
 
 
 
@@ -28,3 +29,4 @@ Falls Church è un luogo di Washington, D.C., subito a sud di Grayditch.
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/Falls_Church_loc.webp">}} | {{<figure src="fo3/Falls_Church_streets.webp">}}  | {{<figure src="fo3/Falls_Church.webp">}}  |
 
+</div>

@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Oasis è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](../baracche-sul-promontorio). 
+**Oasis** è un insediamento situato a nord della Zona contaminata della Capitale, a nord-ovest delle [baracche sul promontorio](../baracche-sul-promontorio). 
 
 
 | Mappa                             | Mappa locale caverne                      | Mappa locale camere sprofondate                   |
@@ -37,3 +38,5 @@ Altri oggetti:
 - **Veste di Acero**, come ricompensa per aver completato la missione Oasis in favore di Birch
 - **Cappuccio di Betulla** e **armatura atomica dei Rinnegati di Linden**, come ricompense per aver completato la missione *Oasi* in favore di Madre foglia Edera
 - **Nuka-Cola Quantum**, grotta umida, sul lato destro
+
+</div>

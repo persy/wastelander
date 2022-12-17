@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La USS Ozymandias è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. È il relitto di una piccola nave arenata su alcuni scogli appena al largo della costa.
+<div class="fo3">
+
+La **USS Ozymandias** è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. È il relitto di una piccola nave arenata su alcuni scogli appena al largo della costa.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -26,4 +28,4 @@ La USS Ozymandias è un luogo disponibile solo con il DLC *Point Lookout* di Fal
 Oggetti:
 - 10 bombole di biogas, 3 tute antiradiazioni, droghe, nella cassaforte. Può essere aperta seguendo la missione *Una terra antica*
 
-
+</div>

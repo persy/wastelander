@@ -16,11 +16,13 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La baracca di Marguerite è una piccola capanna disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest della Ferramenta di Haley. 
+
+La **baracca di Marguerite** è una piccola capanna disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest della Ferramenta di Haley. 
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
 |  {{<figure src="fo3/Marguerites_Shack_loc.webp">}}                  |  {{<figure src="fo3/Marguerite's_Shack.webp">}}         | 
 
-
+</div>

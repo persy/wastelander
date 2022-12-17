@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-Gli appartamenti abbandonati sono un condominio di medie dimensioni del centro del Pitt e e disponibile solo con il DLC *The Pitt* di Fallout 3. E' infestato dai trogloditi.
+<div class="fo3">
+
+
+Gli **appartamenti abbandonati** sono un condominio di medie dimensioni del centro del Pitt e disponibili solo con il DLC *The Pitt* di Fallout 3. Sono infestati dai trogloditi.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,5 +30,5 @@ Gli appartamenti abbandonati sono un condominio di medie dimensioni del centro d
 | {{<figure src="fo3/Safe_with_Hat_of_the_People.webp">}}         |  **Cappello della gente**, appartamenti abbandonati, in una cassaforte sul pavimento al primo piano                   | 
 | {{<figure src="fo3/The_Pitt_Abandoned_apartments_Top_floor_Nuka-Cola_Quantum.webp">}}         |  3 **Nuka-Cola Quantum**, nelle cucine degli appartamenti abbandonati                   | 
 
-
+</div>
 

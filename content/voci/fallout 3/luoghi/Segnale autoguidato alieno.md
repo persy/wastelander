@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il segnale autoguidato alieno è un luogo non contrassegnato equidistante dalle baracche sul promontorio a nord-ovest e dalla discarica di Greener Pastures a sud-est. 
+Il **segnale autoguidato alieno** è un luogo non contrassegnato equidistante dalle baracche sul promontorio a nord-ovest e dalla discarica di Greener Pastures a sud-est. 
 
 | Mappa                                        | Panoramica                                |
 | -------------------------------------------- | ----------------------------------------- |
@@ -29,6 +30,7 @@ Il segnale autoguidato alieno è un luogo non contrassegnato equidistante dalle 
 
 
 
-Note:
+**Note**:
 - Avvicinandoci al sito verremo trasportarti a Mothership Zeta. Usare Dogmeat per recuperare il blaster e le munizioni
 
+</div>

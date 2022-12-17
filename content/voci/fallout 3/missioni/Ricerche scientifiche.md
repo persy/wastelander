@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Ricerche scientifiche* è la sesta missione principale di Fallout 3. È data da Tre Cani all'edificio di GNR o dalla Dottoressa Li a Rivet City.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -30,12 +39,15 @@ graph TD;
     id6(500 PE):::rewardfo3
     id7(Prossima missione: <b>Tranquillity Lane</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7
-    click id2 "../../luoghi/rivet-city"
-    click id5 "../../luoghi/vault-112"
+    
+    
     click id7 "../tranquility-lane"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                         |
 | :---: | :----------------: | ------------------------------------------------------------------- |
@@ -48,5 +60,8 @@ graph TD;
 | 65      |                    | Indossa una tuta del Vault 112.                                     |
 | 70      | :white_check_mark: | Siediti nella "Poltrona rilassante" libera.                         |
 
-Note:
+**Note**:
 - È possibile saltare buona parte di questa missione parlando direttamente con la Dottoressa Li o dirigendoci al Vault 112 o al Jefferson Memorial
+
+
+</div>

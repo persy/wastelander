@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La caverna sulla rupe, conosciuta anche come caverna degli Yao Guai, è una grande caverna posta ad est della Torre Tenpenny e direttamente ad ovest di Andale. È occupata dai predoni e numerosi yao guai. 
+La **caverna sulla rupe**, conosciuta anche come caverna degli Yao Guai, è una grande caverna posta ad est della Torre Tenpenny e direttamente ad ovest di Andale. È occupata dai predoni e numerosi yao guai. 
 
 
 | Mappa                                        | Mappa locale                                 | Panoramica                               |
@@ -36,7 +37,7 @@ Altri oggetti:
 - Avamposto dei predoni
 	- **Libro prebellico**, sul tavolo accanto al letto nella tenda
 
-Note:
+**Note**:
 - La caverna degli Yao Guai non va confusa con il [Tunnel di Yao Guai](../tunnel-di-yao-guai), che contiene la **Bambolina - Furtivo**
 
-
+</div>

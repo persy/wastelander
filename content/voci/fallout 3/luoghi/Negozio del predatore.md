@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il negozio del predatore è una località non contrassegnata e si trova in un vicolo cieco a est della fabbrica Red Racer.
+Il **negozio del predatore** è una località non contrassegnata e si trova in un vicolo cieco a est della fabbrica Red Racer.
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
@@ -28,3 +29,4 @@ Il negozio del predatore è una località non contrassegnata e si trova in un vi
 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, accanto all'armadietto vicino al letto | {{<figure src="fo3/USA_30_HFR_Raider_shop.webp">}} |
 | {{<figure src="fo3/FO3_GAB_Raider_Shop.webp">}}                                                 | **Pistole e proiettili**, sul bancone          |
 
+</div>

@@ -14,7 +14,9 @@ commentable: true
 hidden: true
 ---
 
-TODO
+<div class="fo3">
+
+<div class="scrollwrapper">
 
   | Mercante                         | Luogo                             | Negozio                  |    Orario    | Guarigione | Letto |      Ripara      | Medicine | Munizioni | Vestiti | Miscellanea | Armi |
 | -------------------------------- | --------------------------------- | ------------------------ |:------------:|:----------:|:-----:|:----------------:|:--------:|:---------:|:-------:|:-----------:|:----:|
@@ -70,6 +72,8 @@ TODO
 | Drogato della Zona contaminata   | incontro casuale                  |                          |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❔     |   ❔    |     ❔      |  ❔  |
 | Sciacallo della Zona contaminata | Diverse località                  |                          |    24 ore    |     ❌     |  ❌   |        ✔️        |    ✔️    |    ✔️     |   ✔️    |     ✔️      |  ✔️  |
 
+</div>
+
 ## Mercanti carovanieri
 
 I mercanti carovanieri trasportano merci attraverso la Zona contaminata. Viaggiano accompagnati da una sola guardia carovana armata e da un brahmino da soma.
@@ -86,4 +90,4 @@ Investire in una carovana consente a quel commerciante di vendere una varietà p
 
 
 
- 
+</div> 

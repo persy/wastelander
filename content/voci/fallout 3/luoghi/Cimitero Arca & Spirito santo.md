@@ -16,10 +16,13 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il cimitero Arca & Spirito santo è un piccolo camposanto, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-est della Cattedrale di Arca e Colomba ed è infestatato dai ghoul ferali. 
+
+Il **cimitero Arca & Spirito santo** è un piccolo camposanto, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-est della Cattedrale di Arca e Colomba ed è infestatato dai ghoul ferali. 
 
 | Mappa                      | Panoramica                       |
 | -------------------------- | -------------------------------- |
 | {{<figure src="fo3/Ark_&_Dove_Resting_Grounds.webp">}}| {{<figure src="fo3/Ark_Dove_RG_loc.webp">}}|
 
+</div>

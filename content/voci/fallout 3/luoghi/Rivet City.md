@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Rivet City è una città situata all'interno del relitto di una portaerei a Washington, D.C. È il più grande insediamento nella Zona contaminata della Capitale. La prua, staccata dal resto della nave, è infestata dai mirelurk e racchiude il laboratorio segreto di Pinkerton.
+**Rivet City** è una città situata all'interno del relitto di una portaerei a Washington, D.C. È il più grande insediamento nella Zona contaminata della Capitale. La prua, staccata dal resto della nave, è infestata dai mirelurk e racchiude il laboratorio segreto di Pinkerton.
 
 | Mappa                                  | Mappa locale ponte superiore                       | Mappa locale ponte intermedio                    |
 | -------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
@@ -45,4 +46,4 @@ Altri oggetti:
 - **Vestito della Dottoressa Li**, indossato dalla Dottoressa Madison Li
 - **Diario Progetto purezza**, i nastri 1, 3 e 5 si trovano a Rivet City nell'alloggio personale della Dottoressa Li, che si trova sul ponte superiore, direttamente di fronte a una porta del laboratorio scientifico. Sono su un tavolo accanto al suo terminale
 
-
+</div>

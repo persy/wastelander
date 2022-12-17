@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il Museo di Storia è un edificio di Washington, D.C. posto sul lato settentrionale del Mall. È stato in parte convertito in un insediamento da alcuni ghoul pacifici. Si raggiunge tramite la stazione interscambio Anacostia.
+Il **Museo di Storia** è un edificio di Washington, D.C. posto sul lato settentrionale del Mall. È stato in parte convertito in un insediamento da alcuni ghoul pacifici. Si raggiunge tramite la stazione interscambio Anacostia.
 
 *Vedi [Inferi](../inferi)*
 
@@ -43,3 +44,6 @@ Il Museo di Storia è un edificio di Washington, D.C. posto sul lato settentrion
 | {{<figure src="fo3/FO3_Coin_Collection.webp">}}                    | **Antica collezione di monete di Lincoln**, uffici, all'ultimo piano della biblioteca, nella prima sala a destra, su una libreria sul lato ovest |
 | {{<figure src="fo3/FO3_War_draft.webp">}}                          | **Poster della guerra civile**, uffici, al piano inferiore della biblioteca, sullo scaffale nell'angolo sud-est                                  |
 | {{<figure src="fo3/FO3_CA_SOTM_Museum_of_History.webp">}}          | **Esercito cinese: Corpi speciali. Manuale addestrativo**, uffici, su una scrivania al secondo piano, vicino la teca del fucile di Lincoln       |
+
+</div>
+

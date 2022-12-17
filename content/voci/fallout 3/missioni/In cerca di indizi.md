@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *In cerca di indizi* è la nona missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -34,12 +43,15 @@ graph TD;
     id10(Prossima missione: <b>Ricerca Giardino dell'Eden</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id8--->id9-->id10
     id5-->id7-->id8
-    click id6 "../../luoghi/sentiero-della-morte"
-    click id8 "../../luoghi/vault-87"
+    
+    
     click id10 "../ricerca-giardino-delleden"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                          |
 | :---: | :----------------: | ---------------------------------------------------------------------------------------------------- |
@@ -51,8 +63,11 @@ graph TD;
 |  50   |                    | Ottieni l'accesso alla città di Little Lamplight.                                                    |
 |  60   | :white_check_mark: | Entra nel Vault 87.                                                                                  |
 
-Note:
-- Con l'abilità extra Bambino dentro è possibile ottere immediato accesso a Little Lamplight e ssbloccare diversi dialoghi unici con i suoi abitanti
+**Note**:
+- Con l'abilità extra Bambino dentro è possibile ottenere immediato accesso a Little Lamplight e sbloccare diversi dialoghi unici con i suoi abitanti
 - Il Sentiero della Morte è abitato da diversi supermutanti
 - Per ottenere l'accesso al terminale bisogna superare una sfida Scienza 50
 - Usare il terminale mentre non è già attiva la missione potrebbe rendere impossibile completarla in seguito
+
+
+</div>

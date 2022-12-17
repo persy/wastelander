@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-La pietra cava è una sporgenza rocciosa e si trova vicino a Megan, fra tre alberelli.
+La **pietra cava** è una sporgenza rocciosa e si trova vicino a Megan, fra tre alberelli.
 
 | Mappa                               | Panoramica                                              |
 | ----------------------------------- | ------------------------------------------------------- |
@@ -28,6 +29,8 @@ La pietra cava è una sporgenza rocciosa e si trova vicino a Megan, fra tre albe
 Altri oggetti:
 - Fucile da cecchino,  **Stealth Boy**, nota "Come richiesto", all'interno della pietra cava
 
-Note:
+**Note**:
 - È possibile usare Dogmeat per trovare velocemente la posizione della pietra cava
 - Una volta preso il fucile da cecchino, potrebbe apparire Sam Warrick
+
+</div>

@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-L'impianto di rifornimento è è un luogo accessibile dalla stadera e disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+L'**impianto di rifornimento** è è un luogo accessibile dalla stadera e disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,5 +28,5 @@ L'impianto di rifornimento è è un luogo accessibile dalla stadera e disponibil
 | -------- | ------------------- |
 | {{<figure src="fo3/Fo3TP_Man_Opener.webp">}}        | **Apri-umani**, alla fine dell'impianto, su un letto 
 
-
+</div>
 

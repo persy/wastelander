@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il molo dei predatori di Meresti è una località non contrassegnata e si trova appena ad ovest della stazione metropolitana di Meresti.
+Il **molo dei predatori di Meresti** è una località non contrassegnata e si trova appena ad ovest della stazione metropolitana di Meresti.
 
 | Mappa                                            | Panoramica                                    |
 | ------------------------------------------------ | --------------------------------------------- |
@@ -28,3 +29,4 @@ Il molo dei predatori di Meresti è una località non contrassegnata e si trova 
 Altri oggetti:
 - Sigarette, munizioni e droghe, sugli scaffali
 
+</div>

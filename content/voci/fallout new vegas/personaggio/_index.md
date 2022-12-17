@@ -17,7 +17,7 @@ private: true # Nascosto dalle ricerche
 
 TODO
 
-
+<!--
 {{< cta cta_text="S.P.E.C.I.A.L." cta_link="special" cta_new_tab="false" >}}
 {{< cta cta_text="Tratti" cta_link="tratti" cta_new_tab="tratti" >}}
 {{< cta cta_text="Impianti" cta_link="impianti" cta_new_tab="impianti" >}}
@@ -28,4 +28,16 @@ TODO
 {{< cta cta_text="Mosse disarmato" cta_link="mosse-disarmato" cta_new_tab="mosse-disarmato" >}}
 {{< cta cta_text="Modalità Duro" cta_link="modalita-duro" cta_new_tab="modalita-duro" >}}
 {{< cta cta_text="Mappe" cta_link="#" cta_new_tab="false" >}}
+-->
+
+<a href="abilita-extra" class="btn mojave">Abilità extra</a>
+<a href="abilita" class="btn mojave">Abilità</a>
+<a href="impianti" class="btn mojave">Impianti</a>
+<a href="karma" class="btn mojave">Karma</a>
+<a href="modalita-duro" class="btn mojave">Modalità Duro</a>
+<a href="mosse-disarmato" class="btn mojave">Mosse disarmato</a>
+<a href="reputazione" class="btn mojave">Reputazione</a>
+<a href="sfide" class="btn mojave">Sfide</a>
+<a href="special" class="btn mojave">S.P.E.C.I.A.L.</a>
+<a href="tratti" class="btn mojave">Tratti</a>
 

@@ -16,8 +16,9 @@ hidden: true
 private: false
 ---
 
+<div class="fo3">
 
-Il cingolato della base mobile è un grande veicolo e centro di comando dell'Enclave. Si trova presso la Base aeronautica Adams ed è disponibile solo con il DLC *Broken Steel* di Fallout 3.
+Il **cingolato della base mobile** è un grande veicolo e centro di comando dell'Enclave. Si trova presso la Base aeronautica Adams ed è disponibile solo con il DLC *Broken Steel* di Fallout 3.
 
 | Mappa locale                                  | Mappa locale base di lancio                            | Panoramica                    |
 | --------------------------------------- | ---------------------------------------- | ----------------------------- |
@@ -29,4 +30,4 @@ Il cingolato della base mobile è un grande veicolo e centro di comando dell'Enc
 |  {{<figure src="fo3/Armory_master.webp">}}       | **Laser Gatling di precisione**, **armatura** ed **elmo da ricognizione composti**, usati dal capomastro armeria                    | 
 | {{<figure src="fo3/Slo-burn_flamer.webp">}}        |    **Lanciafiamme lento**, piattaforma di lancio, in una camera di stasi dietro al segnale "Sensitive Electronics"                 | 
 
-
+</div>

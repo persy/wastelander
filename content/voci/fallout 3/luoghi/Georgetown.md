@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il distretto di Georgetown è un quartiere di Washington, D.C. situato nella parte settentrionale della città. È accessibile dalle fogne tiepide, dal tunnel DCTA 014-B di Potomac, dalla stazione di Foggy Bottom, dalla Metro Ave/Georgetown e dalla Metro Georgetown/Il Mall.
+Il distretto di **Georgetown** è un quartiere di Washington, D.C. situato nella parte settentrionale della città. È accessibile dalle fogne tiepide, dal tunnel DCTA 014-B di Potomac, dalla stazione di Foggy Bottom, dalla Metro Ave/Georgetown e dalla Metro Georgetown/Il Mall.
 
 
 | Mappa | Mappa locale | Panoramica |
@@ -37,3 +38,7 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, nel rifugio di preservazione Pulowski, accanto al Cornucopia Fresh Groceries
 - **Nuka-Cola Quantum**, La Maison Beauregard, su uno scaffale dietro il bar al piano superiore
 - **Stealth Boy**, e una **munizione nucleare**, La Maison Beauregard, su un tavolo da biliardo al piano superiore
+
+</div>
+
+

@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Extraterrestre* è una missione del DLC *Mothership Zeta* di Fallout 3. È data dal segnale autoguidato alieno.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -35,11 +44,14 @@ graph TD;
     id10(300 PE):::rewardfo3
     id11(Prossima missione: <b>Tuffo nelle stelle</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10-->id11
-    click id2 "../../luoghi/segnale-autoguidato-alieno"
+    
     click id11 "../tuffo-nelle-stelle"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                    |
 |:-----:|:------------------:| ------------------------------------------------------------------------------ |
@@ -56,5 +68,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Uccidere gli operai alieni farà guadagnare karma negativo
+
+
+
+</div>

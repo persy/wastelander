@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La metropolitana presidenziale collega i vari edifici governativi nell'area di Washington D.C., tra cui la Casa Bianca, il Campidoglio e la Base aeronautica Adams.
+La **metropolitana presidenziale** collega i vari edifici governativi nell'area di Washington D.C., tra cui la Casa Bianca, il Campidoglio e la Base aeronautica Adams.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -29,3 +30,5 @@ La metropolitana presidenziale collega i vari edifici governativi nell'area di W
 | TODO  | **Nuka-Cola Quantum**, nell'area di servizio che collega le linee ovest e est  |
 |  {{<figure src="fo3/Presidential_metro1.webp">}} | **Cappello da poliziotto**, nei pressi di M.A.R.Go.T., su una panca vicino ad unoa scheletro  |
 | TODO  | **Munizione nucleare**, situata all'interno di un vagone semisepolto in un tunnel senza uscita  |
+
+</div>

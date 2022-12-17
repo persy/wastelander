@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-L'area abbandonata è una piccola porzione della fabbrica che collega il mulino e la stadera ed è disponibile solo con il DLC *The Pitt* di Fallout 3. E' infestata dai trogloditi.  
+<div class="fo3">
+
+
+L'**area abbandonata** è una piccola porzione della fabbrica che collega il mulino e la stadera ed è disponibile solo con il DLC *The Pitt* di Fallout 3. E' infestata dai trogloditi.  
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -24,7 +27,7 @@ L'area abbandonata è una piccola porzione della fabbrica che collega il mulino 
 
 
 
-Note:
+**Note**:
 - L'armadietto può essere usato per depositare gli oggetti in sicurezza, senza che essi vengano eliminati finendo il DLC
 
-
+</div>

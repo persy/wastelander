@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il canale dei predatori è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. È pattugliato da predatori e supermutanti.
+Il **canale dei predatori** è una località non contrassegnata e si trova a sud-est della stazione metropolitana Farragut ovest, affacciato al Potomac. È pattugliato da predatori e supermutanti.
 
 | Mappa                                        | Panoramica                           |
 | -------------------------------------------- | ------------------------------------ |
@@ -27,3 +28,4 @@ Il canale dei predatori è una località non contrassegnata e si trova a sud-est
 Altri oggetti:
 - Lanciamissili o mitragliatrice a canne rotanti, su uno dei supermutanti
 
+</div>

@@ -15,11 +15,11 @@ hidden: false
 private: true
 ---
 
-TODO
+{{< toc hide_on="xl" >}}
+
+<div class="fo3">
 
 Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare. Per i distretti e gli edifici della Capitale vai [qui](../washington)
-
-{{< toc hide_on="xl" >}}
 
 
 ## A
@@ -52,7 +52,7 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Camere di drenaggio](../camere-di-drenaggio)
 - [Camion di internamento](../camion-di-internamento)
 - [Camion sbandato sull'autostrada](../camion-sbandato-sullautostrada)
-- [Campeggio tra le roccie](../campeggio-tra-le-roccie)
+- [Campeggio tra le rocce](../campeggio-tra-le-rocce)
 - [Campo abbandonato](../campo-abbandonato)
 - [Campo da baseball Fordham Flash](../campo-da-baseball-fordham-flash)
 - [Campo dei predatori della metro allagata](../campo-dei-predatori-della-metro-allagata)
@@ -198,3 +198,5 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Vault 112/Tranquility Lane](../vault-112)
 - [Vecchio Olney](../vecchio-olney)
 - [Villaggio in rovina](../villaggio-in-rovina)
+
+</div>

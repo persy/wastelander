@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell'Unione e a sud-ovest del ripetitore KX-B8-11. È usato dai predoni per tendere imboscate.
+Il **Grisly diner** è un fatiscente Dot's Diner che si trova a nord del Tempio dell'Unione e a sud-ovest del ripetitore KX-B8-11. È usato dai predoni per tendere imboscate.
 
 | Mappa                                    | Panoramica                             |
 | ---------------------------------------- | -------------------------------------- |
@@ -29,3 +30,4 @@ Il Grisly diner è un fatiscente Dot's Diner che si trova a nord del Tempio dell
 | {{<figure src="fo3/US_Army_HFR_Grisly_Diner.jpg">}}                 | **U.S. Army: 30 pratiche ricette per lanciafiamme**, in un autobus distrutto appena a nord |
 | {{<figure src="fo3/Grisly_diner_Keller_family_transcript_3.webp">}} | **Trascrizione famiglia Keller 3 di 5**, su una scrivania sul retro                        |
 
+</div>

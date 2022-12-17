@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-La piazza dell'edificio di GNR ospita la sede dell'omonima trasmissione radiofonica ed è anche una base della Confraternita d'Acciaio. Al centro, appena entrati, comparirà un supermutante behemoth.
+La **piazza dell'edificio di GNR** ospita la sede dell'omonima trasmissione radiofonica ed è anche una base della Confraternita d'Acciaio. Al centro, appena entrati, comparirà un supermutante behemoth.
 
 | Mappa                            | Mappa locale                   | Panoramica                   |
 | -------------------------------- | ------------------------------ | ---------------------------- |
@@ -30,3 +31,5 @@ La piazza dell'edificio di GNR ospita la sede dell'omonima trasmissione radiofon
 
 Altri oggetti:
 - **Bandana di Tre Cani**, indossato da Tre Cani
+
+</div>

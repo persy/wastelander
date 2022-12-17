@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Tranquillity Lane* è la settima missione principale di Fallout 3. È data dal robocervello al Vault 112, sotto il garage di Smith Casey.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -40,6 +49,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                                                                         |
 | :---: | :----------------: | ----------------------------------------------------------------------------------- |
 |   5   |                    | Trova papà.                                                                         |
@@ -58,7 +70,7 @@ graph TD;
 |  75   | :white_check_mark: | Parla con papà.                                                                     |
 |       |                    |                                                                                     |
 
-Note:
+**Note**:
 - Il codice di esito-certo va composto nella casa abbandonata interagendo con (nell'ordine): 
 	1. la radio rotta
 	2. la brocca di vetro
@@ -67,3 +79,7 @@ Note:
 	5. il blocco di cemento
 	6. lo gnomo da giardino
 	7. la bottiglia di soda vuota
+
+
+
+</div>

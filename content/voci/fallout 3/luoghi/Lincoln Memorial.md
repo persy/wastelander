@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il  Lincoln Memorial è un edificio commemorativo situato all'estremità occidentale del Mall a Washington, DC.
+Il **Lincoln Memorial** è un edificio commemorativo situato all'estremità occidentale del Mall a Washington, DC.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,5 @@ Il  Lincoln Memorial è un edificio commemorativo situato all'estremità occiden
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/NCQ_Lincoln_Memorial.jpg">}}  |  **Nuka-Cola Quantum**, stanza di manutenzione, al piano terra su una mensola metallica |
+
+</div>

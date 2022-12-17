@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. È il luogo dove è possibile incontrare e reclutare Dogmeat.
+Il **rottamaio** è costituito da un mucchio di rottami d'automobili e si trova a sud di Minefield e a nord-est del Vault 101, oltre il Potomac. È il luogo dove è possibile incontrare e reclutare Dogmeat.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -28,3 +29,5 @@ Il rottamaio è costituito da un mucchio di rottami d'automobili e si trova a su
 | {{<figure src="fo3/JohnsTreasureBoxLocation.webp">}}             | **Grognak il barbaro**, **Pistole e proiettili** e **U.S. Army: 30 pratiche ricette per lanciafiamme**, nella scatola del tesoro di John, a nord-ovest del rottamaio. Per aprire la scatola è necessario Scasso 75 o la chiave di John, ottenibile da un incontro casuale di tipo A |
 | {{<figure src="fo3/FO3_LCS_Scrapyard.webp">}}                    | **Stile da congresso, menzognero**,  nell'ufficio del rottamaio, in un contenitore bianco. La chiave dell'ufficio si ottiene solo avendo l'abilità estra Omicida a contratto (liv. 14)                                                                                              |
 | {{<figure src="fo3/Fo3_Quantums_power_station_scrapyard.webp">}} | 2 **Nuka-Cola Quantum**, all'interno del recinto di una centrale elettrica a nord-ovest, vicino a uno scheletro; disposta come bersaglio sul traliccio nella stessa area                                                                                                            |
+
+</div>

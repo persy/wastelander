@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Seguendo le sue orme* è la quinta missione principale di Fallout 3. È data non appena terminata la missione *Scappa!*, fuori dal Vault 101.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -36,14 +45,17 @@ graph TD;
     id9-->id11(Completa la missione <br /><b>Galaxy News Radio</b>)
     id10-->id12(Prossima missione: <b>Ricerche scientifiche</b>):::questfo3
     id11-->id12
-    click id2 "../../luoghi/megaton"
-    click id4 "../../luoghi/springvale"
-    click id7 "../../luoghi/piazza-delledificio-di-gnr"
+    
+    
+    
     click id11 "../galaxy-news-radio"
     click id12 "../ricerche-scientifiche"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe | Stato              | Descrizione                                                                   |
 | :-----: | :------------------: | ----------------------------------------------------------------------------- |
@@ -57,6 +69,9 @@ graph TD;
 |  70     | :white_check_mark: | Chiedi a Tre Cani informazioni su papà.                                       |
 
 
-Note:
+**Note**:
 - È possibile saltare questa missione andando direttamente a Rivet City e incontrando la Dottoressa Li
 - È possibile estorcere i tappi a Silver e poi ucciderla comunque, perdendo karma, ma raccogliendo in totale ben 500 tappi
+
+
+</div>

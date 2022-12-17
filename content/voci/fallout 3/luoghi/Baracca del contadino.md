@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La baracca del contadino è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-est della Tenuta di Blackhall.
+La **baracca del contadino** è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-est della Tenuta di Blackhall.
 
 | Mappa                       | Panoramica               |
 | --------------------------- | ------------------------ |
@@ -32,3 +33,4 @@ Altri ggetti:
 - **Munizione nucleare**, dietro l'olonastro vicino al letto
 - **Cappello da poliziotto**, sulla televisione
 
+</div>

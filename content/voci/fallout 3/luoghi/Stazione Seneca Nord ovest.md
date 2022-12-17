@@ -15,10 +15,13 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione Seneca Nord Ovest fa parte del sistema metropolitano nella Zona contaminata della Capitale. L'ingresso è appena a nord di Arefu, sulla riva opposta del fiume Potomac.
+La **stazione Seneca Nord Ovest** fa parte del sistema metropolitano nella Zona contaminata della Capitale. L'ingresso è appena a nord di Arefu, sulla riva opposta del fiume Potomac.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/NW_Seneca_Station_loc.webp">}}  | {{<figure src="fo3/Northwest_Seneca_Station_loc.webp">}}  |  {{<figure src="fo3/Northwest_Seneca_Station_interior.webp">}} |
+
+</div>

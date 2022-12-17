@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Laboratorio di ricerca è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette all'area cargo.
+Il **laboratorio di ricerca** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette all'area cargo.
 
 | Mappa locale | Panoramica |
 | ------------ | ---------- |
@@ -31,6 +32,7 @@ Laboratorio di ricerca è un luogo disponibile solo con il DLC *Mothership Zeta*
 
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
+</div>

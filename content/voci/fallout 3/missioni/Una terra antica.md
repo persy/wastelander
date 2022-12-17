@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Una terra antica* è una missione secondaria del DLC *Point Lookout* di Fallout 3. È data da TODO a TODO.
+<div class="fo3">
 
+*Una terra antica* è una missione secondaria del DLC *Point Lookout* di Fallout 3. 
+
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,13 +41,16 @@ graph TD;
     id7(Raccogli il bottino contenuto nella cassaforte) 
     id8(50 PE, 10 bombole di biogas, <br />3 tute antiradiazionidroghe/medicine):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
-    click id2 "../../luoghi/uss-ozymandias"
-    click id3 "../../luoghi/mucchio-di-spazzatura"
-    click id4 "../../luoghi/casetta-delle-bambole-di-lil'-tyke"
-    click id5 "../../luoghi/sito-del-jet-precipitato"
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                    |
 |:-----:|:------------------:| ---------------------------------------------- |
@@ -48,3 +60,7 @@ graph TD;
 |  50   | :white_check_mark: | Inserisci i dati a bordo della nave pattuglia. |
 
 
+
+
+
+</div>

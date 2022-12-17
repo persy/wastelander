@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il faro di Pointlookout è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova all'estremo sud-est della mappa.
+<div class="fo3">
+
+Il **faro di Point Lookout** è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova all'estremo sud-est della mappa.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -26,5 +28,5 @@ Il faro di Pointlookout è un luogo disponibile solo con il DLC *Point Lookout* 
 | ---------------------------------------- | ------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Fo3PL_holotape_note_Lighthouse.webp">}}| **Nota olografica**, in cima al faro, su un tavolo                                          |
 
-
+</div>
 

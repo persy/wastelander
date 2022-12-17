@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-L'Edificio S. Wilson a Olney è un edificio per uffici in rovina disponibile solo con il DLC *Broken Steel* di Fallout 3. E' accessibile tramite la metropolitana di Old Olney, durante la mission *Ai generatori*.
+<div class="fo3">
+
+L'**Edificio S. Wilson a Olney** è un edificio per uffici in rovina disponibile solo con il DLC *Broken Steel* di Fallout 3. E' accessibile tramite la metropolitana di Old Olney, durante la mission *Ai generatori*.
 
 
 
@@ -28,4 +30,4 @@ L'Edificio S. Wilson a Olney è un edificio per uffici in rovina disponibile sol
 | -------- | ------------------- |
 |  {{<figure src="fo3/Old_Olney_S._Wilson_Building_mini_nukes.webp">}}       |  2 **munizioni nucleari**, nell'area centrale sul pilone della radio                   | 
 
-
+</div>

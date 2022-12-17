@@ -16,10 +16,11 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
 
-Il campo dei predatori sulla collina è una località non contrassegnata e si trova appena ad ovest del ripetitore KB5.
+Il **campo dei predatori sulla collina** è una località non contrassegnata e si trova appena ad ovest del ripetitore KB5.
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
@@ -30,3 +31,4 @@ Il campo dei predatori sulla collina è una località non contrassegnata e si tr
 | {{<figure src="fo3/Raider_house1.webp">}} | **Lo scassinatore moderno**, su uno scaffale  |
 | {{<figure src="fo3/Raider_house2.webp">}} | **Munizione nucleare**, in una vasca da bagno |
 
+</div>

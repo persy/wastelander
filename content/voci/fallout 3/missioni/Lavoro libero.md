@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Lavoro libero* è una missione del DLC *The Pitt* di Fallout 3. È data da Krenshaw al Pitt.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,11 +41,14 @@ graph TD;
     id7(Prossima missione: <br /><b>Operaio del laminatoio</b>):::questfo3
     id8(Prossima missione: <br /><b>Giocattoli per i bambini</b>):::questfo3
     id1-->id2-->id3-->id4 & id5-->id6-->id7 & id8
-    click id7 "../../luoghi/operaio-del-laminatoio"
-    click id7 "../../luoghi/giocattoli-per-bambini"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                 |
 |:-----:|:------------------:| --------------------------------------------------------------------------- |
@@ -60,6 +72,10 @@ graph TD;
 |  190  |                    | Torna da Ashur.                                                             |
 |  195  | :white_check_mark: | Scappa verso Market Square.                                                 |
 
-Note:
+**Note**:
 - Scegliendo di schierarsi con Ashur è ancora possibile uccidere gli schiavi, guadagnando però karma negativo
 - Terminata la missione a favore degli schiavi sarà possibile consegnare a Midea degli orsacchiotti (vedi *Giocattoli per i bambini*)
+
+
+
+</div>

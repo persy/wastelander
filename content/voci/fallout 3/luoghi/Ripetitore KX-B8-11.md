@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale.
+Il **ripetitore KX-B8-11** si trova a nord-est della Zona contaminata della Capitale.
 
 
 
@@ -32,3 +33,5 @@ Il ripetitore KX-B8-11 si trova a nord-est della Zona contaminata della Capitale
 | {{<figure src="fo3/Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, su un barile di materiale nucleare a sud-est                                                               |
 
 *Vedi [Rovine della fattoria sulla collina](../rovine-della-fattoria-sulla-collina)*
+
+</div>

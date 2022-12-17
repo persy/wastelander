@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-L'impianto di Olney è una vecchia centrale elettrica accessibile attraverso le fogne e si trova a sud-est del Vault 92 e a nord-ovest del caseificio Chaste Acres.
+L'**impianto di Olney** è una vecchia centrale elettrica accessibile attraverso le fogne e si trova a sud-est del Vault 92 e a nord-ovest del caseificio Chaste Acres.
 
 | Mappa                                | Mappa locale                                     | Panoramica                                |
 | ------------------------------------ | ------------------------------------------------ | ----------------------------------------- |
@@ -31,3 +32,4 @@ Altri oggetti:
 - **Bobina di Tesla**, all'interno del reattore centrale, necessaria per la missione *Ai generatori*
 - In numero variabile, altre energie aliene si possono trovare in due scatole di munizioni in una piccola stanza alla fine della sala server, nell'angolo sopra le due torrette
 
+</div>

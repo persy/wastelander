@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il mulino è una località nel Pitt disponibile solo con il DLC *The Pitt* di Fallout 3. 
+<div class="fo3">
+
+Il **mulino** è una località nel Pitt disponibile solo con il DLC *The Pitt* di Fallout 3. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -24,8 +26,8 @@ Il mulino è una località nel Pitt disponibile solo con il DLC *The Pitt* di Fa
 
 
 
-Note:
-- E' possibile curare o uccidere lo schiavo ferito con Mediicina 50 o superiore. Non ci sono però ricompense
+**Note**:
+- E' possibile curare o uccidere lo schiavo ferito con Medicina 50 o superiore. Non ci sono però ricompense
 - Parlando con Marco è possibile ottenere un'ascia automatica
 
-
+</div>

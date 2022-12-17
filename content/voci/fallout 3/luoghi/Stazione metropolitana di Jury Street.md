@@ -15,10 +15,11 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 
-La stazione metropolitana di Jury Street è una località della Zona contaminata della Capitale e si trova a ovest del Vault 101, a sud del Vault 106 e a nord-est di Calverton. 
+La **stazione metropolitana di Jury Street** è una località della Zona contaminata della Capitale e si trova a ovest del Vault 101, a sud del Vault 106 e a nord-est di Calverton. 
 
 | Mappa                                      | Mappa locale                                        | Panoramica                                        |
 | ------------------------------------------ | --------------------------------------------------- | ------------------------------------------------- |
@@ -35,3 +36,6 @@ La stazione metropolitana di Jury Street è una località della Zona contaminata
 
 Altri oggetti:
 - Fucile d'assalto Xuanlong, sul cadavere di Prime all'interno della tavola calda dopo aver risolto la missione nascosta al Museo della Tecnologia.
+
+
+</div>

@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il tunnel di Jury St. è un sistema di tunnel che può essere raggiunto attraverso la stazione di Jury St.
+Il **tunnel di Jury St.** è un sistema di tunnel che può essere raggiunto attraverso la stazione di Jury St.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -28,3 +29,5 @@ Il tunnel di Jury St. è un sistema di tunnel che può essere raggiunto attraver
 | -------- | ------------------- |
 | {{<figure src="fo3/FO3_LCS_JuryStMetro.webp">}}  | **Stile da congresso, menzognero**, in cima alla cassaforte di Ryan Brigg  |
 | {{<figure src="fo3/Fo3_JST_terminal_and_Quantum.webp">}}  | **Nuka-Cola Quantum**, accanto al terminale di Ryan Brigg (Scienza 25), nella sua stanza  |
+
+</div>

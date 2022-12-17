@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-La stazione di trasmissione WKML si trova nella parte nord-ovest della Zona contaminata della Capitale, appena a sud di Fort Constantine, a nord delle tenute di Faded Pomp, a nord-ovest del drive-in Silver Lining, a ovest di Drowned Devil's Crossing e ad est della cappella del tabernacolo di Dickerson.
+La **stazione di trasmissione WKML** si trova nella parte nord-ovest della Zona contaminata della Capitale, appena a sud di Fort Constantine, a nord delle tenute di Faded Pomp, a nord-ovest del drive-in Silver Lining, a ovest di Drowned Devil's Crossing e ad est della cappella del tabernacolo di Dickerson.
 
 | Mappa                               | Panoramica                                     |
 | ----------------------------------- | ---------------------------------------------- |
@@ -30,3 +31,4 @@ La stazione di trasmissione WKML si trova nella parte nord-ovest della Zona cont
 
 *Vedi [Segnale Kilo Bravo (KB)](../camere-di-drenaggio)*
 
+</div>

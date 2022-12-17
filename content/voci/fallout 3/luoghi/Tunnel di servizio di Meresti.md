@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il tunnel di servizio di Meresti è il tunnel di accesso che collega il deposito di Meresti alla stazione della metropolitana Meresti, dove risiede la famiglia. È disseminato di vari tipi di trappole.
+Il **tunnel di servizio di Meresti** è il tunnel di accesso che collega il deposito di Meresti alla stazione della metropolitana Meresti, dove risiede la famiglia. È disseminato di vari tipi di trappole.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,6 @@ Il tunnel di servizio di Meresti è il tunnel di accesso che collega il deposito
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/Meresti_service_tunnel_Tumblers.webp">}}  | **Lo scassinatore moderno**, sul tavolo al posto di guardia, vicino una radio   |
+
+
+</div>

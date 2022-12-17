@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Mamma Dolce è un edificio del distretto di Arlington e può essere raggiunto sia attraverso la metropolitana di Arlington, partendo dalla Zona contaminata, sia attraverso quella di Arlington / Falls Church, partendo da Falls Church.
+**Mamma Dolce** è un edificio del distretto di Arlington e può essere raggiunto sia attraverso la metropolitana di Arlington, partendo dalla Zona contaminata, sia attraverso quella di Arlington / Falls Church, partendo da Falls Church.
 
 | Mappa                     | Mappa locale              | Panoramica                     |
 | ------------------------- | ------------------------- | ------------------------------ |
@@ -44,3 +45,5 @@ Altri oggetti:
 - 2 **libri prebellici**:  
 	- area distribuzione alimenti, ,accanto a un terminale al livello superiore
 	- area alimenti trattati, sopra un tavolino al livello superiore nella parte sud-est
+
+</div>

@@ -18,13 +18,19 @@ TODO
 
 {{< toc hide_on="xl" >}}
 
-Legenda
+<div class="fo3">
+
+**Legenda**
+
+<div class="scrollwrapper">
 
 | Simbolo | Significato       | Simbolo | Significato      | Simbolo | Significato      |
 | :-------: | ----------------- | :-------: | ---------------- | :-------: | ---------------- |
 | ⚔️    | Danno da mischia  | 💀     | Danno veleno     | **PE**      | Punti esperienza |
 | ☢️    | Danno radioattivo | 👿     | Aggressivo       | **PER**     | Percezione       |
 | 🔥     | Danno da fuoco    | 👿👿  | Molto aggressivo | **HP**/**TP**   | Punti ferita     |
+
+</div>
 
 Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se equivalenti a 0. 
 
@@ -33,9 +39,13 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Ghoul
 
+<div class="scrollwrapper">
+
 |   Feroce  | Tecnologista     |  Splendente   |
 | --- | --- | --- |
 |  {{<figure src="fo3/Feral_ghoul.webp" width="250px">}}   |  {{<figure src="fo3/Feral_ghoul_reaver.webp" width="250px">}}   |  {{<figure src="fo3/Glowing_one.webp" width="250px">}}   |
+
+</div>
 
 <div class="scrollwrapper">
 
@@ -500,3 +510,4 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 </div>
 
+</div>

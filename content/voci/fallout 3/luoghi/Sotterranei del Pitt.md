@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-I sotterranei del Pitt racchiudono la centrale elettrica e collegano la stadera al cortile di Haven, nel centro del Pitt. Quest'area è disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+I **sotterranei del Pitt** racchiudono la centrale elettrica e collegano la stadera al cortile di Haven, nel centro del Pitt. Quest'area è disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -30,4 +32,4 @@ I sotterranei del Pitt racchiudono la centrale elettrica e collegano la stadera 
 Altri oggetti:
 - Vicino all'uscita per il centro del Pitt è presente un banco da lavoro, l'unico dell'intero DLC
 
-
+</div>

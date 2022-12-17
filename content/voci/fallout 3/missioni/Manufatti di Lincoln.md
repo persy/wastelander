@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Manufatti di Lincoln* è una missione nascosta di Fallout 3. È data da Abraham Washington a Rivet City, Leroy Walker al Lincoln Memorial o da Hannibal Hamlin al Tempio dell'Unione.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -30,10 +39,13 @@ graph TD;
     id5(Vendi gli oggetti <br />a Hannibal Hamlin <br />al Tempio dell'Unione)
     id6(Tappi):::questfo3
     id1-->id2-->id3 & id4 & id5 & id6
-    click id2 "../../luoghi/museo-di-storia"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 | Oggetto                                      | Hannibal Hamlin            | Leroy Walker    | Abraham Washington |
 | -------------------------------------------- | -------------------------- | --------------- | ------------------ |
 | Cappello di Lincoln                          | 25 o 50 tappi (ripetibile) | 25 o 50 tappi   | 70 o 140 tappi     |
@@ -46,8 +58,11 @@ graph TD;
 | Poster del Lincoln Memorial                  | nessuna offerta            | 100 o 200 tappi | nessuna offerta    |
 
 
-Note:
+**Note**:
 - È possibile borseggiare gli oggetti venduti a Hannibal e rivenderli a Abraham Washington, ma senza poter chiedere un prezzo maggiorato
 - Dando il poster del Lincoln Memorial a Caleb non sarà più possibile venderlo a Leroy Walker
 - La vendita di almeno un oggetto a Leroy garantirà il libero accesso al Lincoln Memorial quando questi è sotto dominio degli schiavisti
 - Barattando con Hannibal sarà necessario superare per ogni oggetto un sfida Eloquenza separata
+
+
+</div>

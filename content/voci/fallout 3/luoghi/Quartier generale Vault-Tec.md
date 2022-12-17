@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il quartier generale Vault-Tec si trova a Vernon Square nelle rovine di Washington, D.C., ad est di una stazione metropolitana omonima.
+Il **quartier generale Vault-Tec** si trova a Vernon Square nelle rovine di Washington, D.C., ad est di una stazione metropolitana omonima.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -34,3 +35,5 @@ Altri oggetti:
 -  **Libro prebellico**, uffici aziendali,  al primo piano, sopra un bidone della spazzatura nella stessa stanza della cassaforte
 -  **Nuka-Cola Quantum**, uffici aziendali, nella stanza a nord al secondo piano, sul ripiano inferiore di una libreria
 -  **Stealth Boy**, uffici aziendali, su uno scaffale nella stanza a nord-ovest al secondo piano
+
+</div>

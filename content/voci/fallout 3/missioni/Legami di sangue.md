@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Legami di sangue* è una missione secondaria di Fallout 3. È data da Lucy West a Megaton e da Evan King ad Arefu.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -52,15 +61,18 @@ graph TD;
     id2-->id4-->id5-->id6 & id7 & id8 & id9
     id8 & id9-->id10-->id11 & id12 & id13 & id21-->id14-->id15 & id16-->id17-->id18-->id19-->id20
     id20-->id22-->id23
-    click id2 "../../luoghi/arefu"
-    click id3 "../../luoghi/megaton"
-    click id6 "../../luoghi/nascondiglio-di-hamilton"
-    click id7 "../../luoghi/cinema-allaperto-di-moonbeam"
-    click id8 "../../luoghi/stazione-seneca-nord-ovest"
-    click id9 "../../luoghi/deposito-di-meresti"
+    
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                              |
 | :---: | :----------------: | ---------------------------------------- |
@@ -77,10 +89,14 @@ graph TD;
 | 65 |                    |     Torna da Vance per confermare l'accordo (se possibile)                                     |
 
 
-Note:
+**Note**:
 - Se si va direttamente ad Arefu senza aver parlato prima con Lucy West a Megaton, più tardi potrebbe risultare impossibile convincere Ian a lasciare la Famiglia
 - Se nella tregua si decide che Arefu venderà sacche si sangue in cambio di protezione, sarà possibile vendere a Vance le proprie sacche di sangue per 15 tappi ciascuna
   - La casa di Alan è quella vicino al recinto dei bramini, prima della rampa che porta ad Arefu. Al suo interno è possibile rubare un **Pugilato illustrato**
 - Se si  convince Ian a rimanere con la Famiglia tutte le opzioni di dialogo successive con Evan King saranno bugie ma non bloccheranno l'avanzamento della missione
 - Uccidere un qualsiasi abitante di Arefu farà fallire la missione
 - A causa di un bug se si uccidono tutti i membri della Famiglia dopo aver convinto Ian a tornare ad Arefu, gli abitanti di Arefu risulteranno ostili e non sarà possibile finire la missione. Questo perché una volta siglata la tregue la Famiglia e gli abitanti di Arefu risulteranno alleati nella stessa fazione
+
+
+
+</div>

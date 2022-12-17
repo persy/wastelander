@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il sito del jet precipitato è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest della baracca del cacciatore.
+Il **sito del jet precipitato** è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord-ovest della baracca del cacciatore.
 
 | Mappa                        | Panoramica                     |
 | ---------------------------- | ------------------------------ |
@@ -27,4 +28,4 @@ Il sito del jet precipitato è una località disponibile solo con il DLC *Point 
 | -------- | ------------------- |
 |  {{<figure src="fo3/Fo3PL_blackbox_recording_holotape.webp">}}       | **Registrazione scatola nera**,  all'interno del registratore                    | 
 
-
+</div>

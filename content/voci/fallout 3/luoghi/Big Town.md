@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Big Town è un insediamento di medie dimensioni circondato da un muro di fortuna e si trova a nord del Vault 101 e a sud-est del Moonbeam Outdoor Cinema.
+**Big Town** è un insediamento di medie dimensioni circondato da un muro di fortuna e si trova a nord del Vault 101 e a sud-est del Moonbeam Outdoor Cinema.
 
 | Mappa                  | Mappa locale               | Panoramica         |
 | ---------------------- | -------------------------- | ------------------ |
@@ -31,3 +32,5 @@ Big Town è un insediamento di medie dimensioni circondato da un muro di fortuna
 
 Altri oggetti:
 - **Palla 8 fortunata**, ottenuto da Bomba a orologeria, dopo aver respinto l'attacco dei supermutanti
+
+</div>

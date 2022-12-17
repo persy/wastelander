@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Calverton è un luogo non contrassegnato, costituito da una piccola città abbandonata con una cappella, posizionato a sud-ovest della stazione metropolitana di Jury Street. 
+**Calverton** è un luogo non contrassegnato, costituito da una piccola città abbandonata con una cappella, posizionato a sud-ovest della stazione metropolitana di Jury Street. 
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
@@ -32,4 +33,4 @@ Calverton è un luogo non contrassegnato, costituito da una piccola città abban
 | {{<figure src="fo3/Calverton_Nikola_Tesla_and_You.jpg">}}           | **Tu e Nikola Tesla**, nella casa a sud-ovest della chiesa, in cima a una libreria  |
 | {{<figure src="fo3/Goodies_Calverton.webp">}}                       | **Munizione nucleare**, sopra un tavolo nella chiesa                                |
 
-
+</div>

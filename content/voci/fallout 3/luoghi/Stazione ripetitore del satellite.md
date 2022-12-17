@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
-La stazione ripetitore del satellite è un grande edificio disponibile solo con il DLC *Broken Steel* di Fallout 3. E' occupato dalle truppe dell'Enclave ed è accessibile attraverso il tunnel di Rockland.
+<div class="fo3">
+
+La **stazione ripetitore del satellite** è un grande edificio disponibile solo con il DLC *Broken Steel* di Fallout 3. E' occupato dalle truppe dell'Enclave ed è accessibile attraverso il tunnel di Rockland.
 
 | Mappa locale                           | Panoramica                        |
 | -------------------------------------- | --------------------------------- |
 | {{<figure src="fo3/Fo3BS_Satellite_facility_map.webp">}}| {{<figure src="fo3/Satellite_Relay_Station.webp">}}|
 
-
+</div>

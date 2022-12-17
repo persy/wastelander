@@ -16,9 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
 
 *Capo di Stato* è una missione secondaria di Fallout 3. È data da Hannibal Hamlin al Tempio dell'Unione e da Leroy Walker al Lincoln Memorial.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -56,12 +64,15 @@ graph TD;
     id20-->id22
     id21-->id23
     id7-->id10
-    click id4 "../../luoghi/tempio-dell-unione"
-    click id5 "../../luoghi/lincoln-memorial"
-    click id10 "../../luoghi/museo-di-storia"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                    |
 | :---: | :----------------: | -------------------------------------------------------------- |
@@ -82,7 +93,7 @@ graph TD;
 |  90   |                    | Parla con Leroy Walker.                                        |
 |  100  | :white_check_mark: | Trova gli schiavi fuggitivi.                                   |
 
-Note:
+**Note**:
 - Se casualmente dei mercenari della Compagnia dell'Artiglio dovessero uccidere Hannibal, sarà impossibile completare la missione
 - Dopo aver completato la missione in favore di Hannibal, sarà impossibile parlare con gli altri schiavi
 - Tutti gli oggetti nella stanza di manutenzione sotto il Lincoln Memorial possono essere presi senza perdere karma
@@ -90,3 +101,5 @@ Note:
 - Se l'Enclave ha già preso possesso del Jefferson Memorial, sarà impossibile completare la missione poiché saranno presenti delle barriere laser lungo il percorso della carovana
 - Se si parla prima con Leroy senza sapere del Tempio dell'Unione, la missione consisterà nel trovare gli schiavi in fuga, se si ha intenzione di uccidere gli schiavisti. Si può semplicemente andare da Hannibal, quindi parlare con Caleb
 - Alcuni soldati dell'Enclave potrebbero comparire lungo la strada degli schiavisti. Nel conflitto gli schiavisti potrebbero diventare ostili al giocatore
+
+</div>

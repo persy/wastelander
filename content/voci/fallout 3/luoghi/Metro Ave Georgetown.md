@@ -15,9 +15,12 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La Metro Ave/Georgetown fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Pennsylvania Avenue e Georgetown.
+La **Metro Ave**/**Georgetown** fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Pennsylvania Avenue e Georgetown.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 |  {{<figure src="fo3/Penn_Ave_GT_loc.webp">}} |  {{<figure src="fo3/Metro_Penn_Ave_Georgetown_Metro.webp">}} | {{<figure src="fo3/Penn_Ave_Georgetown_Metro.webp">}}  |
+
+</div>

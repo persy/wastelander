@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Museo di Tecnologia è un edificio di Washington, DC, posto sul lato meridionale del Mall. Si trova a breve distanza dall'uscita orientale della stazione per il museo.
+Il **Museo di Tecnologia** è un edificio di Washington, DC, posto sul lato meridionale del Mall. Si trova a breve distanza dall'uscita orientale della stazione per il museo.
 
 | Mappa                              | Mappa locale                           | Panoramica                     |
 | ---------------------------------- | -------------------------------------- | ------------------------------ |
@@ -37,3 +38,6 @@ Il Museo di Tecnologia è un edificio di Washington, DC, posto sul lato meridion
 
 Altri oggetti:
 - 3 **Stealth Boy**: uno nell'atrio, angolo sud-ovest; due nella sala d'ingresso che conduce alla mostra "Halls of Today"
+
+
+</div>

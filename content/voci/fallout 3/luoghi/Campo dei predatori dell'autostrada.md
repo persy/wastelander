@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il campo dei predatori dell'autostrada è una fortezza dei predoni in cima a un'autostrada appena a nord del Vault 101.
+Il **campo dei predatori dell'autostrada** è una fortezza dei predoni in cima a un'autostrada appena a nord del Vault 101.
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
@@ -28,3 +29,5 @@ Il campo dei predatori dell'autostrada è una fortezza dei predoni in cima a un'
 
 Altri oggetti:
 - Fucile da cecchino e lanciafiamme, nell'inventario di alcuni predoni
+
+</div>

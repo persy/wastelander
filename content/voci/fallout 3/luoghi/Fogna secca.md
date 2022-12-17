@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. È un punto d'accesso per l'ospedale Nostra Signora della Speranza. È pattugliata dai mercenari della Compagnia dell'Artiglio.
+La **fogna secca** fa parte del un sistema fognario raggiungibile da Dupont Circle. È un punto d'accesso per l'ospedale Nostra Signora della Speranza. È pattugliata dai mercenari della Compagnia dell'Artiglio.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -25,4 +26,7 @@ La fogna secca fa parte del un sistema fognario raggiungibile da Dupont Circle. 
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="fo3/Dean's_Electronics_dry_sewer.webp">}}  | **Elettronica di Dean**, in un ripostiglio a sud dello svincolo fognaro, su degli scaffali  |
+| {{<figure src="fo3/Dean's_Electronics_dry_sewer.webp">}}  | **Elettronica di Dean**, in un ripostiglio a sud dello svincolo fognario, su degli scaffali  |
+
+</div>
+

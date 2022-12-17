@@ -15,7 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area dei mercenari è un edificio semidiroccato che funge da quartier generale alla compagnia mercenaria di Reilly. Può essere raggiunto dalla stazione interscambio Anacostia e da Seward Square.
+<div class="fo3">
+
+L'**area dei mercenari di Reilly** è un edificio semidiroccato che funge da quartier generale alla compagnia mercenaria di Reilly. Può essere raggiunto dalla stazione interscambio Anacostia e da Seward Square.
 
 | Mappa                         | Panoramica                            |
 | ----------------------------- | ------------------------------------- |
@@ -24,3 +26,7 @@ L'area dei mercenari è un edificio semidiroccato che funge da quartier generale
 | Immagine                   | Oggetto e posizione                                    | 
 | -------------------------- | ------------------------------------------------------ |
 | {{<figure src="fo3/Free_Ranger_Loot.webp">}} | **Elettronica di Dean**, sul generatore nella dispensa |
+
+
+
+</div>

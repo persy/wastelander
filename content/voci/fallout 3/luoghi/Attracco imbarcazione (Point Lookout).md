@@ -16,10 +16,13 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-L'attracco imbarcazione è il luogo dal quale parte il traghetto Duchess Gambit per raggiungere Point Lookout, dell'omonimo DLC.
+L'**attracco imbarcazione** è il luogo dal quale parte il traghetto Duchess Gambit per raggiungere Point Lookout, dell'omonimo DLC.
 
 | Mappa                           | Panoramica                  |
 | ------------------------------- | --------------------------- |
 | {{<figure src="fo3/Riverboat_Landing_loc.webp">}} | {{<figure src="fo3/Riverboat_Landing.webp">}} |
+
+</div>

@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La caverna di Rock Creek è composta da un grande tunnel metropolitano infestato dai mirelurk e da un'unica camera interna.
+La **caverna di Rock Creek** è composta da un grande tunnel metropolitano infestato dai mirelurk e da un'unica camera interna.
 
 | Mappa                                  | Mappa locale                                   | Panoramica                                     |
 | -------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
@@ -27,3 +28,7 @@ La caverna di Rock Creek è composta da un grande tunnel metropolitano infestato
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, in una cassa di legno (B) 
+
+
+</div>
+

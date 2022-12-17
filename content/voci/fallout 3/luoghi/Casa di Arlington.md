@@ -16,9 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-
-La casa di Arlington è un edificio di medie dimensioni e si trova al centro del cimitero di Arlington.
+La **casa di Arlington** è un edificio di medie dimensioni e si trova al centro del cimitero di Arlington.
 
 | Mappa                            | Mappa locale                     | Panoramica                |
 | -------------------------------- | -------------------------------- | ------------------------- |
@@ -33,3 +33,5 @@ La casa di Arlington è un edificio di medie dimensioni e si trova al centro del
 
 Altri oggetti:
 - **Punti validi di Plunkett** e **dito di Junders Plunkett**, nell'inventario di Junders Plunkett. È necessaria l'abilità extra Portatore di legge
+
+</div>

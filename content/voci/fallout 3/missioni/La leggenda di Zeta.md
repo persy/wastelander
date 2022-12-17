@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *La leggenda di Zeta* è una missione nascosta del DLC *Mothership Zeta* di Fallout 3. È data non appena veniamo teletrasportati sulla nave aliena.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -39,6 +48,9 @@ graph TD;
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Mappa 1                                          | Mappa 2                                           |
 | ------------------------------------------------ | ------------------------------------------------- |
@@ -69,5 +81,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Le porte vengono sigillate una volta che si attraversa la porta rotonda con l'ologramma conico, che porta alla passeggiata nello spazio, e sarà impossibile tornare indietro
+
+
+
+</div>

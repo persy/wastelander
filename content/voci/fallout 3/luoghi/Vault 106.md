@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il Vault 106 è un Vault della Vault-Tec situato all'interno di una grande caverna a sud-est di Arefu, direttamente a sud del Bed & Breakfast di Kaelyn e a nord della stazione metropolitana di Jury Street.
+Il **Vault 106** è un Vault della Vault-Tec situato all'interno di una grande caverna a sud-est di Arefu, direttamente a sud del Bed & Breakfast di Kaelyn e a nord della stazione metropolitana di Jury Street.
 
 | Mappa                                 | Panoramica                                 |
 | ------------------------------------- | ------------------------------------------ |
@@ -40,3 +41,4 @@ Il Vault 106 è un Vault della Vault-Tec situato all'interno di una grande caver
 | {{<figure src="fo3/FO3_TT_Vault_106.webp">}}               | **Lo scassinatore moderno**, laboratori scientifici, su uno dei macchinari del mainframe ribaltato                                          |
 | {{<figure src="fo3/FO3_Vault_106_mini_nuke.webp">}}        | **Munizione nucleare** e la **chiave principale del Vault 106**, laboratori scientifici, su uno scaffale della stanza del sopravvissuto     |
 
+</div>

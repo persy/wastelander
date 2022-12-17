@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La centrale elettrica MDPL si trova a sud dell'Accademia Roosevelt e ad est dell'area di ristoro Five Axles.
+La **centrale elettrica MDPL** si trova a sud dell'Accademia Roosevelt e ad est dell'area di ristoro Five Axles.
 
 | Mappa                                | Panoramica                                      |
 | ------------------------------------ | ----------------------------------------------- |
@@ -32,3 +33,6 @@ La centrale elettrica MDPL si trova a sud dell'Accademia Roosevelt e ad est dell
 
 Altri oggetti:
 - **Maschera del saldatore**, indossata dal predone Saldatore all'interno della stazione
+
+
+</div>

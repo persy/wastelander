@@ -16,11 +16,13 @@ hidden: true
 private: false 
 ---
 
-La tana di Ruzka è una località non contrassegnata disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nell'angolo nord-ovest della mappa. E' abitata da Ruzka, uno yao guai unico
+<div class="fo3">
+
+La **tana di Ruzka** è una località non contrassegnata disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nell'angolo nord-ovest della mappa. E' abitata da Ruzka, uno yao guai unico
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
 | {{<figure src="fo3/Ruzkas_lair_loc.webp">}}                   |  {{<figure src="fo3/Ruzka's_Lair.webp">}}         | 
 
 
-
+</div>

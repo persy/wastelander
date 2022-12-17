@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La Villa di Calvert è una grande villa vittoriana, abitata da Desmond Lockheart, disponibile solo con il DLC *Point Lookout* di Fallout 3.
+La **Villa di Calvert** è una grande villa vittoriana, abitata da Desmond Lockheart, disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                         | Mappa locale                        | Panoramica                |
 | ----------------------------- | ----------------------------------- | ------------------------- |
@@ -27,3 +28,4 @@ Oggetti:
 - **Nuka-Cola Quantum**, nel bunker
 - **Occhiali di Desmond**, indossati da Desmond
 
+</div>

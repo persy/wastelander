@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *La meravigliosa carne di Ryan Brigg* è una missione nascosta e ripetibile di Fallout 3. È data da Ryan Brigg nei Tunnel di Jury St.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -28,8 +37,15 @@ graph TD;
     id3(Usa il produttore di carne prodigiosa)
     id4(Carne prodigiosa di ratto talpa):::rewardfo3
     id1-->id2-->id3-->id4
-    click id2 "../../luoghi/tunnel-di-jury-st"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
+
+
+
+</div>

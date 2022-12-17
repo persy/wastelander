@@ -15,8 +15,9 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di Washington, D.C. e si trova a nord-est della fabbrica Red Racer. È infestata dai ghoul.
+La **Metro incrocio di Bailey** è una piccola porzione del sistema metropolitano di Washington, D.C. e si trova a nord-est della fabbrica Red Racer. È infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -24,5 +25,7 @@ La Metro incrocio di Bailey è una piccola porzione del sistema metropolitano di
 
 
 
-Note:
+**Note**:
 - Sebbene l'ingresso principale della metropolitana dalla Zona contaminata della Capitale sia bloccato dalle macerie, è possibile accedere alla metropolitana attraverso un tunnel di servizio nelle vicinanze
+
+</div>

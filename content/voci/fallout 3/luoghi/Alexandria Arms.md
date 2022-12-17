@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della Biblioteca di Arlington e occupato di predatori.
+**Alexandria Arms** è un hotel a due piani in rovina, a nord-ovest della Biblioteca di Arlington e occupato di predatori.
 
 
 | Mappa | Mappa locale | Panoramica |
@@ -31,3 +32,5 @@ Alexandria Arms è un hotel a due piani in rovina, a nord-ovest della Biblioteca
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, dietro una porta chiusa (Scasso/Scienza 50), dietro al bancone a forma di L, in una cassa di legno su degli scaffali
+
+</div>

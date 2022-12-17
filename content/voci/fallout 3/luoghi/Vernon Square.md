@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Vernon Square è una sezione di Washington, D.C., fra il Parco Takoma a est e la piazza dell'edificio GNR a ovest. Fra gli edifici principali ci sono il quartier generale Vault-Tec, a nord-est, lo Statesman Hotel e l'Ospedale Nostra Signora della Speranza, a sud.
+**Vernon Square** è una sezione di Washington, D.C., fra il Parco Takoma a est e la piazza dell'edificio GNR a ovest. Fra gli edifici principali ci sono il quartier generale Vault-Tec, a nord-est, lo Statesman Hotel e l'Ospedale Nostra Signora della Speranza, a sud.
 
 
 
@@ -33,3 +34,5 @@ Vernon Square è una sezione di Washington, D.C., fra il Parco Takoma a est e la
 
 Altri oggetti:
 -  **Stealth Boy**, sugli scaffali, nelle fogne
+
+</div>

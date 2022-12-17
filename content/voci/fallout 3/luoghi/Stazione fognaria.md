@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del Super-Duper Mart. 
+La **stazione fognaria** si trova a nord-ovest di Grayditch e direttamente a sud del Super-Duper Mart. 
 
 | Mappa                                        | Mappa locale                                   | Panoramica                               |
 | -------------------------------------------- | ---------------------------------------------- | ---------------------------------------- |
@@ -33,3 +34,4 @@ La stazione fognaria si trova a nord-ovest di Grayditch e direttamente a sud del
  Altri oggetti:
 - 21 orsacchiotti, sui nastri trasportatori e sul pavimento
 
+</div>

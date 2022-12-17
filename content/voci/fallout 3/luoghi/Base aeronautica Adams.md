@@ -16,7 +16,9 @@ hidden: true
 private: false
 ---
 
-La Base aeronautica Adams è un complesso pesantemente fortificato dell'Enclave, fuori dalla Zona contaminata della Capitale e disponibile solo con il DLC *Broken Steel* di Fallout 3. La base può essere raggiunta dalla metropolitana presidenziale, solo dopo aver iniziato la missione *Chi osa vince*. 
+<div class="fo3">
+
+La **Base aeronautica Adams** è un complesso pesantemente fortificato dell'Enclave, fuori dalla Zona contaminata della Capitale e disponibile solo con il DLC *Broken Steel* di Fallout 3. La base può essere raggiunta dalla metropolitana presidenziale, solo dopo aver iniziato la missione *Chi osa vince*. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -36,5 +38,7 @@ Altri oggetti:
 - 2 **cannoni Tesla**, in una cassa di rifornimento sul lato ovest all'estremità sud dell'hangar 2B (dopo aver completato *Chi osa vince*)
 - 2 **cannoni Tesla**, in una cassa di rifornimento a sud-est della torre di controllo aereo, circondato da un semicerchio di sacchi di sabbia (dopo aver completato *Chi osa vince*)
 
-Note:
+**Note**:
 - Nell'Hangar 2B è presente un letto
+
+</div>

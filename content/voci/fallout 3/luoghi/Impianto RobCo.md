@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-L'impianto RobCo è una fabbrica ndi robot e si trova leggermente a nord-est rispetto la Torre Tenpenny e a sud-ovest di Fort Independence.
+L'**impianto RobCo** è una fabbrica ndi robot e si trova leggermente a nord-est rispetto la Torre Tenpenny e a sud-ovest di Fort Independence.
 
 | Mappa                                      | Mappa locale                                     | Panoramica                                      |
 | ------------------------------------------ | ------------------------------------------------ | ----------------------------------------------- |
@@ -40,3 +41,7 @@ Altri oggetti:
 - Uffici e caffetteria
 	- **Stealth Boy**, sulla scrivania più vicina alla stazione di ricarica
 	-  **Libro prebellico**, nella zona del mainframe al secondo piano, su una scrivania
+
+
+</div>
+

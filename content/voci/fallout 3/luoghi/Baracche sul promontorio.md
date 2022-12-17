@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Le baracche sul promontorio fanno parte di un accampamento di medie dimensioni e si trovano a sud-est dell'Oasi e ad ovest del Vault 92. Sono abitate dai supermutanti.
+Le **baracche sul promontorio** fanno parte di un accampamento di medie dimensioni e si trovano a sud-est dell'Oasi e ad ovest del Vault 92. Sono abitate dai supermutanti.
 
 | Mappa                         | Panoramica                |
 | ----------------------------- | ------------------------- |
@@ -31,3 +32,5 @@ Le baracche sul promontorio fanno parte di un accampamento di medie dimensioni e
 
 Altri oggetti:
 - **Libro prebellico**,  baracca nord, sul comodino
+
+</div>

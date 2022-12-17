@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il santuario degli Deathclaw è una caverna e la sua entrata si trova tra la cappella del tabernacolo di Dickerson e il ripetitore KB5. Può essere raggiunto viaggiando a sud-ovest da Fort Constantine, a sud dal gruppo satelliti SatCom NW-05a, o ad est dal gruppo satelliti SatCom NW-07c. Come suggerisce il nome, è la tana di numerosi deathclaw.
+Il **santuario degli Deathclaw** è una caverna e la sua entrata si trova tra la cappella del tabernacolo di Dickerson e il ripetitore KB5. Può essere raggiunto viaggiando a sud-ovest da Fort Constantine, a sud dal gruppo satelliti SatCom NW-05a, o ad est dal gruppo satelliti SatCom NW-07c. Come suggerisce il nome, è la tana di numerosi deathclaw.
 
 | Mappa                                          | Mappa locale                                        | Panoramica                                  |
 | ---------------------------------------------- | --------------------------------------------------- | ------------------------------------------- |
@@ -31,6 +32,6 @@ Il santuario degli Deathclaw è una caverna e la sua entrata si trova tra la cap
 | {{<figure src="fo3/Jack_Enclave_officer.webp">}}                       | **Jack**, sul cadavere di ufficiale dell'Enclave morto nella parte meridionale della caverna, a ovest di Vendetta. Compare solo dopo aver completato *Le acque della vita* |
 |    {{<figure src="fo3/NCQ_Deathclaw_Sanctuary.jpg">}}                                                                   | **Nuka-Cola Quantum**, a pochi passi a est della bambolina, accanto al cadavere di alcuni vagabondi                                                                      |
 
-
+</div>
 
 

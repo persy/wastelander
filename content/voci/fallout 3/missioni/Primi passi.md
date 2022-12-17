@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Primi passi* è la prima missione principale di Fallout 3. È data da James al Vault 101.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -36,6 +45,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                       |
 | :---: | :----------------: | --------------------------------- |
 |  10   |                    | Vai da papà.                      |
@@ -44,5 +56,8 @@ graph TD;
 |  40   |                    | Consulta il libro S.P.E.C.I.A.L.. |
 |  80   | :white_check_mark: | Segui papà                        |
 
-Note:
+**Note**:
 - Gli S.P.E.C.I.A.L. potranno essere riassegnati prima di abbandonare il Vault 101
+
+
+</div>

@@ -15,7 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area campeggio Mount Mabel si trova a sud-ovest della Cappella del tabernacolo di Dickerson e a sud-est dal santuario dei Deathclaw.
+<div class="fo3">
+
+L'**area campeggio Mount Mabel** si trova a sud-ovest della Cappella del tabernacolo di Dickerson e a sud-est dal santuario dei Deathclaw.
 
 | Mappa                       | Panoramica                       |
 | --------------------------- | -------------------------------- |
@@ -23,3 +25,6 @@ L'area campeggio Mount Mabel si trova a sud-ovest della Cappella del tabernacolo
 
 Altri oggetti:
 - ?
+
+</div>
+

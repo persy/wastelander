@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Aiuto mercenario* è una missione nascosta di Fallout 3. È data da Ahzrukhal al Nono Cerchio o agli Inferi.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -29,10 +38,15 @@ graph TD;
     id4(Uccidi Greta con discrezione<br /> per ottenere il contratto)
     id5(Caronte come compagno):::rewardfo3
     id1-->id2-->id3 & id4-->id5
-    click id2 "../../luoghi/inferi"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - Greta finisce il turno alla Casa di Carol alle ore 20:00. Passato questo orario sarà possibile ucciderla furtivamente al di fuori degli Inferi, senza allertare gli altri ghoul 
+
+</div>

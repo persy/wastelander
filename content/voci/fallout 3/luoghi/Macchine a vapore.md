@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Le macchine a vapore sono un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
+<div class="fo3">
+
+Le **macchine a vapore** sono un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
  è una massiccia serie di condotti e macchinari progettati per aiutare a spingere Mothership Zeta attraverso lo spazio. È una sotto-area del ponte di ingegneria e del secondo livello incontrato.
 
 | Mappa locale | Panoramica |
@@ -28,7 +30,7 @@ Le macchine a vapore sono un luogo disponibile solo con il DLC *Mothership Zeta*
 |  {{<figure src="fo3/Alien_power_cells_steamworks.webp">}}       |  48 **energie aliene**, su uno scaffale nella stanza nord-ovest                   | 
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
-
+</div>

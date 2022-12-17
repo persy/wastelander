@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il nascondiglio di Wernher è una piccola casa all'interno della stadera del Pitt e abitata dall'omonimo schiavo liberato. Il luogo è disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+Il **nascondiglio di Wernher** è una piccola casa all'interno della stadera del Pitt e abitata dall'omonimo schiavo liberato. Il luogo è disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa                           | Panoramica                 |
 | ------------------------------- | -------------------------- |
@@ -26,7 +28,7 @@ Il nascondiglio di Wernher è una piccola casa all'interno della stadera del Pit
 | ------------------------------------------- | ----------------------------------------------------------------------------- |
 | {{<figure src="fo3/Wernher's_hideout_Power_plant_key.webp">}}| **Chiave della centrale elettrica**, su un tavolo nel nascondiglio di Wernher | 
 
-Note:
+**Note**:
 - E' necessario progredire nella missione *Lavoro libero* per poter accedere a quest'area
 
-
+</div>

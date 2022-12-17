@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Il gambetto superumano* è una missione secondaria di Fallout 3. È data da Zio Roe a Canterbury Commons.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -45,6 +54,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                                                                 |
 | :---: | :----------------: | --------------------------------------------------------------------------- |
 |  20   |                    | Trova il Meccanicista o l'AntAgonizer e metti fine alla loro rivalità.      |
@@ -55,6 +67,9 @@ graph TD;
 |  115  |                    | (Facoltativo) Trova l'AntAgonizer e fermala.                                |
 |  120  | :white_check_mark: | Presentati in città per ottenere la tua ricompensa.                         |
 
-Note:
+**Note**:
 - Uccidendo uno dei due o entrambi i rivali, appena arrivati a Canterbury Commons, Zio Roe ci consegnerà subito 400 tappi, ringraziandoci
 - È possibile che, ad alti livelli, un deathclaw o uno scorpione albino uccida tutti gli abitanti della città
+
+
+</div>

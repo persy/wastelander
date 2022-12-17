@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Ci sono sette camere di drenaggio e due cisterne sigillate sparse per la Zona contaminata della Capitale. Tutte ospitano stazioni radio che trasmettono in codice Morse (tranne il segnale Oscar Zulu e Yankee Bravo) un segnale di soccorso.
+Ci sono sette **camere di drenaggio** e due cisterne sigillate sparse per la Zona contaminata della Capitale. Tutte ospitano stazioni radio che trasmettono in codice Morse (tranne il segnale Oscar Zulu e Yankee Bravo) un segnale di soccorso.
 
 #### Segnale Kilo Bravo (KB)
 A nord-ovest dalla stazione di trasmissione WKML, un po' a sud-est del segnale Alfa Lima e molto a sud di Fort Constantine.
@@ -123,3 +124,7 @@ Si trova a ovest di Megaton, vicino al bordo occidentale della mappa, presso una
 | {{<figure src="fo3/Signal_Papa_November_map.webp">}} | {{<figure src="fo3/Signal_Papa_November.webp">}} |
 
 *Vedi [Ossario](../ossario)*
+
+
+</div>
+

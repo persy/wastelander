@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Vernon Est/Parco Takoma è un tunnel metropolitano che collega Vernon Square e Parco Takoma.
+**Vernon Est**/**Parco Takoma** è un tunnel metropolitano che collega Vernon Square e Parco Takoma.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -28,3 +29,5 @@ Vernon Est/Parco Takoma è un tunnel metropolitano che collega Vernon Square e P
 | -------- | ------------------- |
 | {{<figure src="fo3/FO3_LCS_Vernon_East 1.webp">}}  | **Stile da congresso, menzognero**, nella biglietteria, vicino all'uscita Vernon Square Est  |
 | TODO  | **Nuka-Cola Quantum**, in un nascondiglio di supermutanti nella zona ovest della stazione Abernathy, su uno scaffale  |
+
+</div>

@@ -20,6 +20,8 @@ TODO
 
 {{< toc hide_on="xl" >}}
 
+<div class="fo3">
+
 
 - [Galleria del treno](../galleria-del-treno)
 - [Ponte del Pitt](../ponte-del-pitt)
@@ -36,3 +38,4 @@ TODO
   - [Appartamenti abbandonati](../appartamenti-abbandonati)
   - [Haven](../haven)
 
+</div>

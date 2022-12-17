@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Protezione della via dell'acqua* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data da TODO a TODO.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -38,12 +47,15 @@ graph TD;
     id13(100 PE, Armatura atomica <br />ed elmo dell'Enclave, <br />Laser Gatling, Pistola al plasma, <br />munizioni):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7 & id8 & id9 & id10-->id12-->id13
     id8-->id10
-    click id2 "../../luoghi/jefferson-memorial"
-    click id2 "../../luoghi/rivet-city"
-    click id6 "../../luoghi/molo-di-wilhem"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                                                      |
 |:-----:|:------------------:| -------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +71,11 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Indossare già un'armatura di metallo renderà amichevole Split Jack già al primo confronto
 - Nonna Sparkle ucciderà tutti i membri della gang una volta scelta e superata la sfida Eloquenza
 
+
+
+
+</div>

@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Raven Rock (noto come Sito R) è la principale base operativa dell'Enclave ed è posta nella zona più a nord della Zona contaminata della Capitale.
+**Raven Rock** (noto come Sito R) è la principale base operativa dell'Enclave ed è posta nella zona più a nord della Zona contaminata della Capitale.
 
 | Mappa                                 | Mappa locale                                 | Panoramica                        |
 | ------------------------------------- | -------------------------------------------- | --------------------------------- |
@@ -30,3 +31,4 @@ Raven Rock (noto come Sito R) è la principale base operativa dell'Enclave ed è
 Altri oggetti:
 - 117 forchette, al livello 3
 
+</div>

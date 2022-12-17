@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il generatore e accesso metropolitana è un piccolo tunnel di accesso che collega la Torre Tenpenny alla stazione Warrington.
+Il **generatore e accesso metropolitana** è un piccolo tunnel di accesso che collega la Torre Tenpenny alla stazione Warrington.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,6 @@ Il generatore e accesso metropolitana è un piccolo tunnel di accesso che colleg
 
 Altri oggetti:
 - **Chiave della sala generatori di Tenpenny**, nell'inventario di Capo Gustavo, alla Torre Tenpenny. Va presa prima di completare la missione *Torre Tenpenny* in favore dei ghoul, altrimenti diventerà inottenibile
+
+</div>
+

@@ -14,7 +14,7 @@ commentable: true
 hidden: true
 ---
 
-TODO
+<div class="fnv">
 
 
 |     Abilità     | Descrizione                                                                                                                                                                                                                  | Attributo S.P.E.C.I.A.L. |     Rivista dell'abilità      |                    Libro dell'abilità                    |
@@ -32,3 +32,7 @@ TODO
 |     Scasso      | L'abilità Scasso serve per aprire porte e contenitori bloccati.                                                                                                                                                              |        Percezione        |    Il periodico del fabbro    |                 Lo scassinatore moderno                  |
 |     Scienza     | L'abilità Scienza rappresenta le tue conoscenze scientifiche ed è utilizzata principalmente per accedere a terminali informatici riservati.                                                                                  |       Intelligenza       |   Bollettino programmatore    |              Il grande libro della scienza               |
 |  Sopravvivenza  | L'abilità Sopravvivenza aumenta i punti ferita recuperati consumando da cibi e bevande. Ti aiuta anche a creare oggetti consumabili nei fuochi.                                                                              |         Stamina          |        Vita da uomini         |              Guida soprav. Zona contaminata              |
+
+
+</div>
+

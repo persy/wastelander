@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La metropolitana di Olney è una metro disponibile solo con il DLC *Broken Steel* di Fallout 3 e accessibile tramite una scala dalle fogne di Olney, sotto il Vecchio Olney.
+<div class="fo3">
+
+La **metropolitana di Olney** è una metro disponibile solo con il DLC *Broken Steel* di Fallout 3 e accessibile tramite una scala dalle fogne di Olney, sotto il Vecchio Olney.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -28,4 +30,4 @@ La metropolitana di Olney è una metro disponibile solo con il DLC *Broken Steel
 |  {{<figure src="fo3/OOUnderground_Quantum.webp">}}       |         **Nuka-Cola Quantum**, in  una grande stanza con tre deathclaw, dietro una radio amatoriale             | 
 |  {{<figure src="fo3/OO_underground_bottlecap_mine.webp">}}       |  **Mina da tappo**, a nord-ovest su un banco da lavoro                  | 
 
-
+</div>

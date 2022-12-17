@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il deposito della Guardia nazionale è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. È  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
+Il **deposito della Guardia nazionale** è un'installazione militare che si trova lungo il bordo settentrionale del centro di D.C. È  direttamente a sud del Vault 108 e del centro riparazione robot. Si può raggiungere da est da Friendship Heights lungo gli edifici oltre le caverne di Rock Creek. Il luogo è pattugliato da robot sentinella, Mister Gutsies, robocervelli e protettori.
 
 | Mappa                                            | Mappa locale                                     | Panoramica                                   |
 | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------- |
@@ -45,7 +46,7 @@ Altri oggetti:
 	- **Mina da tappo**: su un banco da lavoro, verso sud
 
 
-Note:
+**Note**:
 - La porta dell'ala di addestramento è subito dopo la saletta con i due distributori di Nuka-Cola, lato est del deposito
 - Per l'accesso all'armeria è necessario trovare l'interruttore della porta sigillata; è all'ultimo piano dell'area iniziale del deposito, ma è raggiungibile solo percorrendo l'ala addestramento e gli uffici 
 - Per ottenere l'accesso al bunker, all'interno dell'armeria è necessario completare la missione nascosta *Rifugio della famiglia Keller*. I luoghi in cui trovare le cinque trascrizioni sono:
@@ -54,3 +55,5 @@ Note:
 	- 3 di 5, [Grisly diner](../grisly-diner), sul tavolo nel retro
 	- 4 di 5, [Baracca del cecchino](../baracca-abbandonata), sul banco da lavoro
 	- 5 di 5, [Anchorage Memorial](../anchorage-memorial), nel campo dei supermutanti a nord, vicino a un semirimorchio oltre il fiume, su un tavolo vicino a una radio
+
+</div>

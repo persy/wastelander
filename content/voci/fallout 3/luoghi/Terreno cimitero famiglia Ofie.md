@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il terreno cimitero famiglia Ofie è un piccolo cimitero disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest del motel. 
+Il **terreno cimitero famiglia Ofie** è un piccolo cimitero disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest del motel. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/Ofie_Clan_Plot_loc.webp">}}     |              |    {{<figure src="fo3/Ofie_Clan_Plot.webp">}}       | 
 
+</div>

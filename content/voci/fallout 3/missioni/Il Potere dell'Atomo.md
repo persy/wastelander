@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Il Potere dell'Atomo* è una missione secondaria di Fallout 3. È data da Lucas Simms a Megaton e da Mister Burke alla Torre Tenpenny.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -39,11 +48,14 @@ graph TD;
     id2-->id11-->id3
     id4-->id12
     id20-->id6-->id7-->id8-->id9
-    click id20 "../../luoghi/megaton"
-    click id8 "../../luoghi/torre-tenpenny"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                             |
 | :---: | :----------------: | --------------------------------------------------------------------------------------- |
@@ -60,10 +72,13 @@ graph TD;
 |  60   | :white_check_mark: | Ricevi la rincompensa dal Signor Burke alla Torre di Tenpenny.                          |
 
 
-Note:
+**Note**:
 - Superando una sfida Eloquenza è possibile ottenre ben 500 tappi da Simms nel caso  si volesse disinnescare la bomba
 - È possibile accettare la proposta di Simms, parlare con Burke, denunciarlo a Simms e lasciare che Burke uccida lo sceriffo per ottenere così lo spolverino da sceriffo unico e la chiave della sua residenza (dove è possibile trovare la **Bambolina - Forza**)
 - È possibile uccidere in qualunque momento il Sig. Burke senza rendere ostili gli abitanti di Megaton
 - Per ottenere sia la ricompensa in tappi che il karma positivo bisogna disinnescare la bomba prima di parlare con Simms
 - Scegliendo di far esplodere Megaton, Moira diventerà un ghoul e sarà ancora possibile iniziare/completare la missione *Guida di sopravvivenza della Zona contaminata
   - Non sarà invece possibile recuperare la **Bambolina - Forza**
+
+
+</div>

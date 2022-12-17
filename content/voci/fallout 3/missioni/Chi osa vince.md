@@ -16,9 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
 
 *Chi osa vince* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla piazza della Casa Bianca (TODO).
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -102,14 +110,17 @@ graph TD;
     id50 & id51-->id52-->id53 & id54-->id55
     id55-->id56-->id57
     id55-->id58-->id59-->id60 & id61
-    click id2 "../../luoghi/centrale"
-    click id14 "../../luoghi/metropolitana-presidenziale"
-    click id17 "../../luoghi/base-aeronautica-adams"
-    click id56 "../../luoghi/cittadella"
-    click id58 "../../luoghi/cittadella"
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                      |
 |:-----:|:------------------:| -------------------------------------------------------------------------------- |
@@ -123,3 +134,5 @@ graph TD;
 |  70   |                    | Fuggi dalla piattaforma mobile dell'Enclave.                                     |
 |  80   | :white_check_mark: | Sali a bordo del Vertibird conquistato.                                          |
 
+
+</div>

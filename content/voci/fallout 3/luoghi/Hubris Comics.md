@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Hubris Comics è un edificio del distretto di Mason, vicino al tunnel metropolitano di Falls Church/Mason Dst.
+**Hubris Comics** è un edificio del distretto di Mason, vicino al tunnel metropolitano di Falls Church/Mason Dst.
 
 | Mappa                       | Mappa locale                         | Panoramica              |
 | --------------------------- | ------------------------------------ | ----------------------- |
@@ -38,3 +39,6 @@ Altri oggetti:
 - **Libro prebellico**, casa editrice,ella prima sala entrando dal quartiere Mason, su una mensola
 - **Libro prebellico**, tipografia, su uno scaffale  vicino alla parete orientale di una stanza nell'angolo sud-est
 - **Stealth Boy**, tunnel di servizio, sul pavimento vicino della stanza più a nord
+
+
+</div>

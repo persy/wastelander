@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'area picnic patriottica è una località non contrassegnata situata a nord-est della metropolitana di Jury Street, a sud del Vault 106 e a nord-ovest della Vault 101. È spesso frequentata dagli yao guai.
+L'**area picnic patriottica** è una località non contrassegnata situata a nord-est della metropolitana di Jury Street, a sud del Vault 106 e a nord-ovest della Vault 101. È spesso frequentata dagli yao guai.
 
 | Mappa                   | Panoramica                      |
 | ----------------------- | ------------------------------- |
@@ -26,3 +27,6 @@ L'area picnic patriottica è una località non contrassegnata situata a nord-est
 
 Altri oggetti:
 - ?
+
+
+</div>

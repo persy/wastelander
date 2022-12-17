@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Camp RHO è un piccolo campo dell'Enclave situato nella parte orientale della Zona contaminata della Capitale, vicino a Canterbury Commons, a nord-ovest del Vault 108 e a sud-ovest del centro riparazione dei robot. È un luogo non contrassegnato e appare solo dopo aver completato la missione *Le Acque della Vita*. 
+Il **Campo RHO** è un piccolo campo dell'Enclave situato nella parte orientale della Zona contaminata della Capitale, vicino a Canterbury Commons, a nord-ovest del Vault 108 e a sud-ovest del centro riparazione dei robot. È un luogo non contrassegnato e appare solo dopo aver completato la missione *Le Acque della Vita*. 
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
@@ -27,3 +28,4 @@ Camp RHO è un piccolo campo dell'Enclave situato nella parte orientale della Zo
 Altri oggetti:
 - **ID Rho sperimentale**, nell'inventario dell'ufficiale dell'Enclave
 
+</div>

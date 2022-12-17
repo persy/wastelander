@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La sala dei motori è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette alla sala progettazione.
+La **sala dei motori** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette alla sala progettazione.
 
 | Mappa locale | Panoramica |
 | ------------ | ---------- |
@@ -28,7 +29,7 @@ La sala dei motori è un luogo disponibile solo con il DLC *Mothership Zeta* di 
 |  {{<figure src="fo3/Fo3MZ_Electro_Suppressor.webp">}}       | **Electrosoppressore**, sul tavolo in una stanza appena dietro la finestra vicino alla stanza principale                    | 
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
-
+</div>

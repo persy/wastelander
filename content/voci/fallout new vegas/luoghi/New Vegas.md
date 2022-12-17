@@ -16,21 +16,25 @@ hidden: false
 private: true
 ---
 
-TODO
+<div class="fnv">
 
-- Freeside 
-- Negozio di Mick e Ralph 
-- Old Mormon Fort 
-- Cerulean Robotics 
-- Atomic Wrangler 
-- Silver Rush 
-- King's School of Impersonation 
-- La Strip 
-- Lucky 38 328
-- Gomorrah 329
-- Stazione Las Vegas Boulvard 
-- The Tops 
-- Ultra-Luxe 
-- Vault 21 
-- Laboratorio di Michael Angelo 
-- Ambasciata dell'RNC 
+
+- [Freeside](../freeside)
+  - [Negozio di Mick e Ralph](../negozio-di-mick-e-ralph)
+  - [Old Mormon Fort](../old-mormon-fort)
+  - [Cerulean Robotics](../cerulean-robotics)
+  - [Atomic Wrangler](../atomic-wrangler)
+  - [Silver Rush](../silver-rush)
+  - [King's School of Impersonation](../kings-school-of-impersonation)
+- [La Strip](../la-strip)
+  - [Lucky 38](../lucky-38)
+  - [Gomorrah](../gomorrah)
+  - [Stazione Las Vegas Boulevard](../stazione-las-vegas-boulevard)
+  - [The Tops](../the-tops)
+  - [Ultra-Luxe](../ultra-luxe)
+  - [Vault 21](../vault-21)
+  - [Laboratorio di Michael Angelo](../laboratorio-di-michael-angelo)
+  - [Ambasciata dell'RNC](../ambasciata-dellrnc)
+
+
+</div>

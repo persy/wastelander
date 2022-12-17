@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-L'Anchorage Memorial è un monumento situato nel quadrante sud-est della Zona contaminata della Capitale. All'interno ci sono diversi livelli e un'area di manutenzione  infestati dai mirelurk.
+L'**Anchorage Memorial** è un monumento situato nel quadrante sud-est della Zona contaminata della Capitale. All'interno ci sono diversi livelli e un'area di manutenzione  infestati dai mirelurk.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -38,3 +39,8 @@ L'Anchorage Memorial è un monumento situato nel quadrante sud-est della Zona co
 
 Altri oggetti:
 - 3 **libri prebellici**, edificio principale, al secondo piano, nella stanza sul lato ovest
+
+
+
+</div>
+

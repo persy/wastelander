@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. È data da TODO a TODO.
+<div class="fo3">
+
+*Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. È data da non appena si prende uno dei 5 olonastri della famiglia Keller, sparsi nella Zona Contaminata.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -34,15 +43,18 @@ graph TD;
     id9(Accedi al terminale al livello inferiore <br />per aprire la porta del bunker dell'armeria)
     id10(MIRV sperimentale, 5 Munizioni nucleari, <br />U.S. Army: 30 pratiche ricette per lanciafiamme <br />e Nuka-Cola Quantum):::rewardfo3
     id1-->id2-->id3 & id4 & id5 & id6 & id7-->id8-->id9-->id10
-    click id2 "../../luoghi/capanna-del-traliccio"
-    click id2 "../../luoghi/cimitero-di-hallowed-moors"
-    click id2 "../../luoghi/grisly-diner"
-    click id2 "../../luoghi/baracca-abbandonata"
-    click id2 "../../luoghi/anchorage-memorial"
-    click id2 "../../luoghi/deposito-della-guardia-nazionale"
+    
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Immagine                                                          | Oggetto e posizione                                                                                         |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -52,3 +64,7 @@ graph TD;
 | {{<figure src="fo3/FO3_Sniper_Shack_Keller.webp">}}                   | **Trascrizione famiglia Keller 4 di 5**, sopra e nei pressi del banco da lavoro                             |
 | {{<figure src="fo3/FO3_Keller_family_transcript_5.webp">}}            | **Trascrizione famiglia Keller 5 di 5**, nel campo dei super mutanti, su un tavolo all'interno di una tenda |
 
+
+
+
+</div>

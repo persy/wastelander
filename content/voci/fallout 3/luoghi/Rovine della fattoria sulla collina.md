@@ -15,10 +15,11 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 
-Le rovine della fattoria sulla collina sono un luogo non contrassegnato della Zona contaminata della Capitale. Sono a sud del ripetitore KX-B8-11, a nord-est del Tempio dell'Unione e a nord di Canterbury Commons.
+Le **rovine della fattoria sulla collina** sono un luogo non contrassegnato della Zona contaminata della Capitale. Sono a sud del ripetitore KX-B8-11, a nord-est del Tempio dell'Unione e a nord di Canterbury Commons.
 
 | Mappa                                          | Panoramica                                 |
 | ---------------------------------------------- | ------------------------------------------ |
@@ -29,4 +30,4 @@ Le rovine della fattoria sulla collina sono un luogo non contrassegnato della Zo
 | {{<figure src="fo3/Hilltop_Farm_ruins_Guns_and_Bullets_near_farmhouse.webp">}} | **Pistole e proiettili**, nella latrina                                                              |
 | {{<figure src="fo3/Hilltop_Farm_ruins_Dean's_Electronics.webp">}}              | **Elettronica di Dean**, sopra un barile rovesciato di scorie radioattive, nella pozza d'acqua a est |
 
-
+</div>

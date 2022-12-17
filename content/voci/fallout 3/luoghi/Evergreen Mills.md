@@ -17,9 +17,10 @@ hidden: true
 
 
 
+<div class="fo3">
 
 
-Evergreen Mills è una vecchia fabbrica nel quadrante sud-ovest della Zona contaminata della Capitale, appena ad est del garage di Smith Casey. È abitata da un gran numero di predoni, alcuni schiavi prigionieri e uno dei pochi super mutanti behemoth, rinchiuso in un recinto elettrificato. 
+**Evergreen Mills** è una vecchia fabbrica nel quadrante sud-ovest della Zona contaminata della Capitale, appena ad est del garage di Smith Casey. È abitata da un gran numero di predoni, alcuni schiavi prigionieri e uno dei pochi super mutanti behemoth, rinchiuso in un recinto elettrificato. 
 
 | Mappa                                       | Mappa locale                                    | Mappa locale fonderia                               | Mappa locale bazaar                                |
 | ------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
@@ -54,5 +55,7 @@ Altri oggetti:
 	- **Chiave del baule di Jack il sorridente**, posseduto da Jack il sorridente
 	- 6 **macchine fotografiche**, sparse qua e là, quattro vicino alle celle  di Madame
 
-Note:
+**Note**:
 - Sparando al generatore vicino alla gabbia farà liberare il behemoth
+ 
+</div>

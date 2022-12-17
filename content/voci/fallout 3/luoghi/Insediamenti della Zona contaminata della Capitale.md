@@ -16,7 +16,10 @@ private: true # Nascosto dalle ricerche
 ---
 
 
-TODO
+
+
+<div class="fo3">
+
 
 Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare.
 
@@ -46,3 +49,5 @@ Seleziona una località per scoprire la posizione sulla mappa e gli oggetti util
 - [Vault 101](../vault-101)
 - [Vault 112/Tranquility Lane](../vault-112)
 - [Villaggio in rovina](../villaggio-in-rovina)
+
+</div>

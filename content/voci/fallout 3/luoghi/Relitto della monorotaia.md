@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il relitto della monorotaia è un luogo non contrassegnato e si trova a nord-est della centrale di polizia di Germantown.
+Il **relitto della monorotaia** è un luogo non contrassegnato e si trova a nord-est della centrale di polizia di Germantown.
 
 | Mappa                                    | Panoramica                               |
 | ---------------------------------------- | ---------------------------------------- |
@@ -27,3 +28,4 @@ Il relitto della monorotaia è un luogo non contrassegnato e si trova a nord-est
 | --------------------------------------------------------------- | --------------------------------------------------------- |
 | {{<figure src="fo3/Duck_and_Cover!_monorail_train_wreckage.webp">}} | **Al riparo!**, sul pavimento accanto alla vasca da bagno |
 
+</div>

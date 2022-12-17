@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Liberazione dal Paradiso* è una missione secondaria data dal Sindaco MacCready a Little Lamplight o da Sammy a Paradise Falls. A seconda delle scelte nelle altre missioni correlate diventa essenziale superarla per progredire nella trama principale.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -42,10 +51,13 @@ graph TD;
     id3-->id8-->id9-->id12
     id3-->id10-->id11-->id12
     id7-->id14-->id15-->id12
-    click id3 "../../luoghi/paradise-falls"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                     |
 | :---: | :----------------: | ------------------------------------------------------------------------------- |
@@ -66,6 +78,9 @@ graph TD;
 |  170  | :white_check_mark: | Incontra i bambini a sud ovest di Paradise Falls.                               |
 
 
-Note:
+**Note**:
 - È possibile completare questa missione anche senza aver ottenuta in precedenza da MacCready: è sufficiente uccidere gli schiavisti e liberare i bambini dalle gabbie
 - Con l'abilità extra Bambino dentro o superando una sfida Eloquenza con MacCready, è possibile saltare completamente questa missione
+
+
+</div>

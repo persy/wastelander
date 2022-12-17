@@ -35,9 +35,11 @@ table {
     width: fit-content;
 }
 
-table thead {
-    color: #4eff01;
+td {
+    padding-left: 3px;
+    padding-right: 3px;
 }
+
 
 /* Scrolling orizzontale per le tabelle su mobile */
 .scrollwrapper {
@@ -53,3 +55,259 @@ table thead {
 td:first-child {
     font-weight: bold;
 }
+
+/* Elementi barra superiore e sidebar */
+.docs-toggle {
+    color: rgb(247, 247, 247);
+}
+
+.docs-sidebar .docs-toc-item a.active {
+    color: rgb(247, 247, 247);
+}
+
+.docs-sidebar .nav > .active > a 
+{
+    color: rgb(247, 247, 247);
+}
+
+.docs-sidebar .nav > .active:hover > a, .docs-sidebar .nav > .active > a {
+    color: #f8f8f2;
+}
+
+/* TOC laterale */
+#TableOfContents li a:hover, .toc-top li a:hover {
+    color: rgb(247, 247, 247);
+}
+
+#TableOfContents li a.active {
+    color: rgb(247, 247, 247);
+    font-weight: 700;
+}
+
+/* Pulsanti */
+.btn {
+    padding: 1em 2.1em 1.1em;
+    border-radius: 3px;
+    margin: 8px 8px 8px 8px;
+    display: inline-block;
+    color:rgb(247, 247, 247);
+    text-shadow: 1px 1px 3px rgb(29, 29, 29);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: .85em;
+    text-align: center;
+    text-decoration: none;
+    -webkit-box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0em -0.3rem 0em rgba(0, 0, 0, 0.1) inset;
+    position: relative;
+}
+.btn:hover, .btn:focus {
+    opacity: 0.9;
+    color: #fff;
+}
+.btn:active {
+    -webkit-transform: scale(0.80);
+    -moz-transform: scale(0.80);
+    -ms-transform: scale(0.80);
+    -o-transform: scale(0.80);
+    transform: scale(0.80);
+}
+.btn.block {
+    display: block !important;
+}
+.btn.circular {
+  border-radius: 50em !important;
+}
+
+/* Pulsante Homepage */
+.wg-hero.dark .btn {
+    color: #363636;
+    text-shadow: none;
+}
+
+.capitol {
+    background-color: #4eff01;
+    color: #444857;
+}
+.mojave {
+    background-color: #ffe100;
+    color: #444857;
+}
+
+/* Tema pagine Fallout 3 */
+.fo3 > p strong, .fo3 thead, .fo3 td strong, .fo3 li strong, .fo3 li a, .fo3 a, .fo3 em
+{
+    color: #4eff01;
+}
+
+.fo3 a:hover, .fo3 td a:hover {
+    color: #c9ffb2!important;
+}
+
+/*
+.fo3 thead
+{
+    color: #4eff01;
+}
+
+.fo3 td strong
+{
+    color: #4eff01;
+}
+
+.fo3 li strong
+{
+    color: #4eff01;
+}
+
+.fo3 li a
+{
+    color: #4eff01;
+}
+
+.fo3 a {
+    color: #4eff01;
+}
+
+.fo3 em {
+    color: #4eff01;
+}
+*/
+
+
+/* Tema pagine Fallout: New Vegas */
+.fnv > p strong, .fnv thead, .fnv td strong, .fnv li strong, .fnv li a, .fnv a, .fnv em
+{
+    color: #ffe100;
+}
+
+.fnv a:hover, .fnv td a:hover {
+    color:#fff7bc!important;
+}
+
+/*
+.fnv thead
+{
+    color: #ffe100;
+}
+
+.fnv td strong
+{
+    color: #ffe100;
+}
+
+.fnv li strong
+{
+    color: #ffe100;
+}
+
+.fnv li a
+{
+    color: #ffe100;
+}
+
+.fnv a {
+    color: #ffe100;
+}
+
+.fnv em {
+    color: #ffe100;
+}
+*/
+
+
+
+/*
+ CSS diagrammi collassabili
+*/
+.chart-collapse > input[type="checkbox"] {
+    position: absolute;
+    left: -100vw;
+}
+  
+.chart-collapse .content {
+    overflow-y: hidden;
+    height: 0;
+    transition: height 0.3s ease;
+}
+  
+.chart-collapse > input[type="checkbox"]:checked ~ .content {
+    height: auto;
+    overflow: visible;
+}
+  
+.chart-collapse label {
+    display: block;
+}
+  
+/*
+Styling
+*/
+
+
+.chart-collapse {
+margin-bottom: 1em;
+}
+
+.fnv .chart-collapse > input[type="checkbox"]:checked ~ .content {
+padding: 15px;
+border: 1px solid #ffe100;
+border-top: 0;
+}
+
+.fo3 .chart-collapse > input[type="checkbox"]:checked ~ .content {
+padding: 15px;
+border: 1px solid #4eff01;
+border-top: 0;
+}
+
+.chart-collapse .handle {
+margin: 0;
+font-size: 1.125em;
+line-height: 1.2em;
+}
+
+.fnv .chart-collapse label {
+color: #333;
+cursor: pointer;
+font-weight: normal;
+padding: 10px;
+background: #ffe100;
+border-radius: 5px;
+}
+
+.fo3 .chart-collapse label {
+color: #333;
+cursor: pointer;
+font-weight: normal;
+padding: 10px;
+background: #4eff01;
+border-radius: 5px;
+}
+
+.chart-collapse label:hover,
+.chart-collapse label:focus {
+background: #d8d8d8;
+}
+
+.chart-collapse .handle label:before {
+font-family: 'fontawesome';
+content: "\f054";
+display: inline-block;
+margin-right: 10px;
+font-size: .58em;
+line-height: 1.556em;
+vertical-align: middle;
+}
+
+.chart-collapse > input[type="checkbox"]:checked ~ .handle label:before {
+content: "\f078";
+}
+
+
+

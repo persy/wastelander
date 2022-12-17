@@ -15,10 +15,13 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
  
-La Metro Penn. Ave/Seward Sq.  fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Pennsylvania Avenue e Seward Square.
+La **Metro Penn. Ave**/**Seward Sq.** fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Pennsylvania Avenue e Seward Square.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/Penn_Ave_Seward_loc.webp">}}  | {{<figure src="fo3/Metro_Penn_Ave_Seward_Sq_Metro.webp">}}  | {{<figure src="fo3/Penn_Ave_Seward_Sq_Metro.webp">}} |
+
+</div>

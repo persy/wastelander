@@ -15,7 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area per escursioni e campeggio F. Scott Key è un campeggio situato a sud di Girdershade e a nord dell'edificio Dunwich. La zone è infestata da diverse creature, come yao guai e deathclaw e scorpioni radioattivi.
+<div class="fo3">
+
+
+L'**area per escursioni e campeggio F. Scott Key** è un campeggio situato a sud di Girdershade e a nord dell'edificio Dunwich. La zone è infestata da diverse creature, come yao guai e deathclaw e scorpioni radioattivi.
 
 | Mappa                         | Panoramica          |
 | ----------------------------- | ------------------- |
@@ -26,4 +29,4 @@ L'area per escursioni e campeggio F. Scott Key è un campeggio situato a sud di 
 | {{<figure src="fo3/F_Scott_Key_trail_and_campground_blue_print.webp">}} | **Schemi - Guanto da Deathclaw** , all'interno di un piccolo camper |
 | {{<figure src="fo3/Duck_'n_cover_scott.webp">}}                         | **Al riparo!**, sopra al tavolo centrale nell'area picnic           |
 
-
+</div>

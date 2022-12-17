@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L.O.B. Imprese è un edificio situato a Falls Church, raggiungibile attraverso la stazione di Marigold fino alla metropolitana Falls Church / Mason Dst o viaggiando attraverso la stazione di Foggy Bottom, il Mason District e la metropolitana Falls Church / Mason Dst. Si trova accanto al marcatore della mappa di Falls Church East.
+**L.O.B. Imprese** è un edificio situato a Falls Church, raggiungibile attraverso la stazione di Marigold fino alla metropolitana Falls Church / Mason Dst o viaggiando attraverso la stazione di Foggy Bottom, il Mason District e la metropolitana Falls Church / Mason Dst. Si trova accanto al marcatore della mappa di Falls Church East.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -40,3 +41,5 @@ Altri oggetti:
 - **Stealth Boy**, ala est, nella reception, accanto a un terminale non funzionante
 - 2 **libri prebellici**,  ala est, piano superiore, sulla scrivania vicino al terminale per le operazioni di ricerca e sviluppo
 - **Stealth Boy**, archivi,  nell'area del generatore, su una mensola sulla parete orientale
+
+</div>

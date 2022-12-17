@@ -15,9 +15,10 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La Metro Junction, chiamata anche Metro Chevy Chase/Vernon Sq., fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Dupont Circle, Vernon Square e Chevy Chase. È una sezione metropolitana relativamente piccola, infestata dai ghoul.
+La **Metro Junction**, chiamata anche Metro Chevy Chase/Vernon Sq., fa parte del sistema metropolitano della Zona contaminata della Capitale e collega Dupont Circle, Vernon Square e Chevy Chase. È una sezione metropolitana relativamente piccola, infestata dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -26,3 +27,5 @@ La Metro Junction, chiamata anche Metro Chevy Chase/Vernon Sq., fa parte del sis
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/Grognak_the_Barbarian_Metro_Junction.webp">}}  | **Grognak il barbaro**, su un tavolo vicino ad alcune macerie, all'angolo nord-est della piattaforma inferiore  |
+
+</div>

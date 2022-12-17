@@ -15,9 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Chiclandia è un banco dei pegni e si trova al Parco Takoma, in Washington, D.C. 
+**Chiclandia** è un banco dei pegni e si trova al Parco Takoma, in Washington, D.C. 
 
 
 | Mappa  | Panoramica |
@@ -27,3 +28,5 @@ Chiclandia è un banco dei pegni e si trova al Parco Takoma, in Washington, D.C.
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/Nifty_Thrifty_interior.webp">}}  | **Berretto giocatore junior Parco Takoma**, su un appendino  |
+
+</div>

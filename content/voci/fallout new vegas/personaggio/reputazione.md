@@ -14,11 +14,13 @@ commentable: true
 hidden: true
 ---
 
+<div class="fnv">
+
 TODO
 
-## Tipi di reputazione
 
-La Reputazione è l'opinione che le persone e le varie fazioni hanno di te. In Fallout: New Vegas la reputazione si guadagna o si perde a seconda delle
+
+La **Reputazione** è l'opinione che le persone e le varie fazioni hanno di te. In Fallout: New Vegas la reputazione si guadagna o si perde a seconda delle
 azioni che compiamo per ogni comunità, procurandoci fama e bonus commerciali o infamia e l'essere banditi e sparati a vista. Nelle meccaniche del
 gioco fama e infamia vengono conteggiate separatamente e il risultato della loro somma determina l'apprezzamento o meno di ogni singola fazione.
 Vestendo i panni di una fazione (es. indossando armature o cappelli di quella fazione), la nostra reputazione verso quel gruppo di persone si azzera a
@@ -28,6 +30,9 @@ indossiamo vesti o armature della fazione sbagliato. Ecco un paio di esempi:
 ranno dalla lista sul Pip-Boy, come se non le avessimo mai incontrate
 - tuttavia indossando la stessa armatura dell'RNC incontrassimo dei membri della Legione di Caesar, essi aprirebbero il fuoco contro di noi,
 senza pensarci due volte
+
+
+## Tipi di reputazione
 
 I cambiamenti di reputazione, dettati dallo svolgimento delle missioni, non vengono mascherati indossando un'armatura. Un esempio per capire
 meglio il meccanismo:
@@ -47,7 +52,7 @@ La tabella seguente mostra le varie combinazioni di reputazione positiva, neutra
 |                                   | Grado 4 |          Diffamato          |  Gorilla clemente | Diavolo dal cuore tenero | Bambino selvaggio |
 
 
-## Fazioni e reputazione
+
 
 
 | Fazione                           | Reputazione       | Effetto                                                                                                                                                                              |
@@ -91,3 +96,7 @@ La tabella seguente mostra le varie combinazioni di reputazione positiva, neutra
 | Strip                             | Positiva          | Marjorie farà diventare il Corriere membro onorario della White Glove Society durante la missione Oltre il manzo                                                                     |
 |                                   | Amato             | Mister Holdout non venderà più armi al Corriere                                                                                                                                      |
 |                                   | Negativa          | Mister Holdout non venderà più armi al Corriere                                                                                                                                      |
+
+
+
+</div>

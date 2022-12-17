@@ -16,9 +16,19 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
-*TODO* è una missione nascosta e ripetibile di Fallout 3. È data dal Confessore Cromwell a Megaton e Padre Clifford a Rivet City.
+<div class="fo3">
 
 
+*Donazioni alla Chiesa* è una missione nascosta e ripetibile di Fallout 3. È data dal Confessore Cromwell a Megaton e Padre Clifford a Rivet City.
+
+
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -29,11 +39,16 @@ graph TD;
     id4(Dona 10, 50 o 100 tappi)
     id5(Karma positivo <br />per ogni donazione):::rewardfo3
     id1-->id2 & id3-->id4-->id5
-    click id2 "../../luoghi/megaton"
-    click id2 "../../luoghi/rivet-city"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - Il karma positivo guadagnato è proporzionale all'ammontare di tappi donati (10 tappi, 10 punti karma; 50 tappi, 50 punti karma; 100 tappi, 100 punti karma)
+
+</div>

@@ -15,6 +15,7 @@ tags: [Luoghi della Zona contaminata della Capitale,Vault della Zona contaminata
 hidden: true
 ---
 
+<div class="fo3">
 
 
 Il Vault 112 è un Vault della Vault-Tec situato nella parte sud-occidentale della regione, sotto il garage di Smith Casey, a ovest di Evergreen Mills e a sud dell'Ossario. Da qui è possibile accedere alla simulazione di Tranquillity Lane.
@@ -29,7 +30,7 @@ Il Vault 112 è un Vault della Vault-Tec situato nella parte sud-occidentale del
 
 
 
-Note:
+**Note**:
 - Il codice di esito-certo va composto nella casa abbandonata interagendo con (nell'ordine): 
 	1. la radio rotta
 	2. la brocca di vetro
@@ -39,4 +40,4 @@ Note:
 	6. lo gnomo da giardino
 	7. la bottiglia di soda vuota
 
-
+</div>

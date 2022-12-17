@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La stazione di reclutamento è un piccolo edificio, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a est del motel.
+La **stazione di reclutamento** è un piccolo edificio, disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a est del motel.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,4 @@ La stazione di reclutamento è un piccolo edificio, disponibile solo con il DLC 
 Altri oggetti:
 - **Munizione nucleare**, sul tavolo accanto al terminal nella seconda sala.
 
+</div>

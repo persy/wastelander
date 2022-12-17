@@ -16,11 +16,12 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La miniera di Herzog è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nella roccia, a sud del cimitero Arca & Spirito santo e a sud-ovest della grotta marina. Al suo interno è presente la caverna di Kelly.
+La **miniera di Herzog** è una località disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova nella roccia, a sud del cimitero Arca & Spirito santo e a sud-ovest della grotta marina. Al suo interno è presente la caverna di Kelly.
 
 | Mappa                     | Panoramica            |
 | ------------------------- | --------------------- |
 | {{<figure src="fo3/Herzog_Mine_loc.webp">}}| {{<figure src="fo3/Herzog_Mine.webp">}}| 
 
-
+</div>

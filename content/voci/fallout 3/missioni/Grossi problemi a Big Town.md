@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Grossi problemi a Big Town* è una missione secondaria di Fallout 3. È data da Dusty a Big Town.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -56,6 +65,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                                                            |
 | :---: | :----------------: | ---------------------------------------------------------------------- |
 |  10   |                    | Chiedi alle persone di Big Town informazioni sui loro amici catturati. |
@@ -67,7 +79,10 @@ graph TD;
 |  49   | :white_check_mark: | Spiega la morte di Red alle persone di Big Town.                       |
 |  50   | :white_check_mark: | Parla con Red della tua ricompensa.                                    |
 
-Note:
+**Note**:
 - Con *Broken Steel* installato è possibile che un supermutante overlord compaia proprio fuori dall'uscita
 - Non è possibile completare questa missione se Red è già stato schiavizzato per la missione *Solo affari*. È necessario rimuovere il collare o ucciderlo
 - Avere Fawkes come Seguace consente al giocatore di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi TODO
+
+
+</div>

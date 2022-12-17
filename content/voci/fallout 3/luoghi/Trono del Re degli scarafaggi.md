@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il Trono del Re degli scarafaggi è una località non contrassegnata situata a nord-est di Minefield. È abitata dal Re degli scarafaggi. 
+Il **Trono del Re degli scarafaggi** è una località non contrassegnata situata a nord-est di Minefield. È abitata dal Re degli scarafaggi. 
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
@@ -25,3 +26,6 @@ Il Trono del Re degli scarafaggi è una località non contrassegnata situata a n
 | Immagine                                    | Oggetto e posizione                                         |
 | ------------------------------------------- | ----------------------------------------------------------- |
 | {{<figure src="fo3/Roach_King_treasure.webp">}} | **Munizione nucleare**, nascosta all'interno del Red Rocket |
+
+
+</div>

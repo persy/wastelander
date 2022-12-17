@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il rifugio è una località non contrassegnata e si trova a sud dell'edificio Chryslus e ad est della stazione metropolitana Farragut Ovest. L'ingresso è una porta sotto a un ponte.
+Il **rifugio** è una località non contrassegnata e si trova a sud dell'edificio Chryslus e ad est della stazione metropolitana Farragut Ovest. L'ingresso è una porta sotto a un ponte.
 
 | Mappa                               | Panoramica                      |
 | ----------------------------------- | ------------------------------- |
@@ -27,3 +28,5 @@ Il rifugio è una località non contrassegnata e si trova a sud dell'edificio Ch
 Altri oggetti:
 - **Munizione nucleare**, nel piccolo accampamento ad est
 - 49 siringhe, nella sala principale
+
+</div>

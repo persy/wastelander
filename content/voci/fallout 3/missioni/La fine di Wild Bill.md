@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *La fine di Wild Bill* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Milly alla periferia del Pitt.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -32,7 +41,14 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
 
 
-Note:
+
+**Note**:
 - Se si segue la missione nascosta *Operaio del laminatoio* è impossibile non notare il corpo di Wild Bill, essendo esso vicino ad alcune delle barre d'acciaio
+
+
+
+</div>

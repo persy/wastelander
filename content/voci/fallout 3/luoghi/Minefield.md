@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Minefield, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. È situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
+**Minefield**, precedentemente noto come Ridgefield, è un insediamento quasi abbandonato pieno di mine antiuomo. È situato a est di Germantown, a nord-ovest del rottamaio e a sud-ovest del Tempio dell'Unione.
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -43,3 +44,4 @@ Altri oggetti:
 - Casa Benson (Scasso 75): 
 	- 2 **libri prebellici**, in cima a una libreria al primo piano e nella camera da letto principale al piano superiore
 
+</div>

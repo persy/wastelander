@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Alla ricerca di Cheryl* è una missione nascosta di Fallout 3. È data consultando l'olonastro "Registro Gruppo di ricerca #1" che si può raccogliere in una tomba a L'Enfant Sud.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -31,14 +40,17 @@ graph TD;
     id6(Trova il corpo di Manny Kock)
     id7(Munizione nucleare):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7
-    click id2 "../../luoghi/lenfant"
-    click id2 "../../luoghi/area-dei-mercenari-di-reilly"
-    click id2 "../../luoghi/casa-di-dukov"
-    click id2 "../../luoghi/stazione-metropolitana-di-jury-street"
-    click id2 "../../luoghi/calverton"
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 |  {{<figure src="fo3/Search_party_log1.webp">}} | **Registro Gruppo di ricerca #1**, in una tomba a L'Enfant Sud  |
@@ -49,5 +61,7 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Entrare nel container con i carrelli della spesa farà comparire un supermutante behemoth
+
+</div>

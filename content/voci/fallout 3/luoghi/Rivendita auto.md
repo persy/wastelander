@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La rivendita auto è una posizione non contrassegnata che si trova a nord-est delle Rovine di Fairfax e a nord-ovest della Fabbrica Red Racer. 
+La **rivendita auto** è una posizione non contrassegnata che si trova a nord-est delle Rovine di Fairfax e a nord-ovest della Fabbrica Red Racer. 
 
 | Mappa                                      | Panoramica                             |
 | ------------------------------------------ | -------------------------------------- |
@@ -27,4 +28,4 @@ La rivendita auto è una posizione non contrassegnata che si trova a nord-est de
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/US_Army_HFR_car_dealership.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nella rimessa, a sinistra dall'ingresso, su un generatore |
 
-
+</div>

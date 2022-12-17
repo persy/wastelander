@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-L'Attracco del pellegrino è il luogo di attracco della Duchess Gambitt, disponibile solo con il DLC *Point Lookout* di Fallout 3.
+
+<div class="fo3">
+
+L'**Attracco del pellegrino** è il luogo di attracco della Duchess Gambitt, disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                          | Panoramica                  |
 | ------------------------------ | --------------------------- |
@@ -31,4 +34,4 @@ L'Attracco del pellegrino è il luogo di attracco della Duchess Gambitt, disponi
 Altri oggetti:
 - **Tenuta di Tobar**, indossato da Tobar
 
-
+</div>

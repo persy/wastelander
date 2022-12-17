@@ -15,8 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'edificio autorità del museo è una struttura di medie dimensioni nel Mall di Washington, DC. I soci di Griffon stanno usando questo luogo come loro quartier generale.
+
+L'**edificio autorità del museo** è una struttura di medie dimensioni nel Mall di Washington, DC. I soci di Griffon stanno usando questo luogo come loro quartier generale.
 
 | Mappa                                   | Mappa locale                                  | Panoramica                          |
 | --------------------------------------- | --------------------------------------------- | ----------------------------------- |
@@ -26,3 +28,5 @@ L'edificio autorità del museo è una struttura di medie dimensioni nel Mall di 
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Museum_authority_ladies_room.webp">}}               | **Nuka-Cola Quantum**, in uno dei sciaquoni del bagno delle donne                   |
 | {{<figure src="fo3/Museum_Authority_Bottling_instruction_disk.webp">}} | **Istruzioni imbottigliamento di Griffon**, su un tavolino rotondo nel seminterrato |
+
+</div>

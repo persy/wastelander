@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il mucchio di spazzatura è una discarica disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova vicino al bordo nord-ovest della mappa.
+Il **mucchio di spazzatura** è una discarica disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova vicino al bordo nord-ovest della mappa.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -27,4 +28,4 @@ Il mucchio di spazzatura è una discarica disponibile solo con il DLC *Point Loo
 | ------------------------------ | ------------------------------------------------ |
 | {{<figure src="fo3/Trash_heap_mini_nuke.webp">}}| **Munizione nucleare**, in una cassaforte aperta |
 
-
+</div>

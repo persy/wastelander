@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-ovest del forte delle auto abbandonate. È costituita da una torre di trasmissione diroccata, una serie  tunnel e da Shalebridge Hill. Questi ultimi ospitano colonie di formiche rivali.
+**Shalebridge** si trova a nord della torre di trasmissione KT8 e leggermente a sud-ovest del forte delle auto abbandonate. È costituita da una torre di trasmissione diroccata, una serie  tunnel e da Shalebridge Hill. Questi ultimi ospitano colonie di formiche rivali.
 
 | Mappa                                   | Mappa locale tunnel                             | Panoramica                          |
 | --------------------------------------- | ----------------------------------------------- | ----------------------------------- |
@@ -31,3 +32,5 @@ Shalebridge si trova a nord della torre di trasmissione KT8 e leggermente a sud-
 Altri oggetti:
 - **Stealth Boy**, sul cadavere di un pradatore vicino al relitto del treno a circa metà strada tra il forte abbandonato e Shalebridge
 - Feromoni della regina delle formiche, sul cadavere della regine delle formiche
+
+</div>

@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il ripetitore LP8 è una ripetitore e si trova a nord-est del Bacino della contea di Montgomery e a sud dell'Oasi.
+Il **ripetitore LP8** è una ripetitore e si trova a nord-est del Bacino della contea di Montgomery e a sud dell'Oasi.
 
 | Mappa                              | Panoramica                                  |
 | ---------------------------------- | ------------------------------------------- |
@@ -27,3 +28,4 @@ Il ripetitore LP8 è una ripetitore e si trova a nord-est del Bacino della conte
 | --------------------------------------------------------------- | ----------------------------------------------------------- |
 | {{<figure src="fo3/Signal_Echo_Foxtrot_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella fogna su un tavolo |
 
+</div>

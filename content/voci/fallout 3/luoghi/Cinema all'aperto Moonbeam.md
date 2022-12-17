@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il cinema all'aperto Moonbeam si trova tra il  campo da baseball Fordham Flash a sud-ovest, il nascondiglio di Hamilton a nord-ovest e Big Town a sud-est.
+Il **cinema all'aperto Moonbeam** si trova tra il  campo da baseball Fordham Flash a sud-ovest, il nascondiglio di Hamilton a nord-ovest e Big Town a sud-est.
 
 | Mappa                     | Panoramica                        |
 | ------------------------- | --------------------------------- |
@@ -28,7 +29,7 @@ Il cinema all'aperto Moonbeam si trova tra il  campo da baseball Fordham Flash a
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/FO3_PI_Moonbeam_Outdoor_Cinema.webp">}} | **Pugilato illustrato**, su uno dei due tavoli da picnic più vicini allo schermo, nella parte centrale |
 
-
+</div>
 
 
 

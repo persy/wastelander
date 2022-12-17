@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La metropolitana presidenziale è una rete di tunnel metropolitani prebellici disponibili solo con il DLC *Broken Steel* di Fallout 3. Collegano vari edifici governativi nell'area di Washington D.C., tra cui la Casa Bianca, il Campidoglio e la base aeronautica Adams. 
+<div class="fo3">
+
+La **metropolitana presidenziale** è una rete di tunnel metropolitani prebellici disponibili solo con il DLC *Broken Steel* di Fallout 3. Collegano vari edifici governativi nell'area di Washington D.C., tra cui la Casa Bianca, il Campidoglio e la base aeronautica Adams. 
 
 | Mappa                            | Mappa locale                     | Panoramica                                    |
 | -------------------------------- | -------------------------------- | --------------------------------------------- |
@@ -24,7 +26,7 @@ La metropolitana presidenziale è una rete di tunnel metropolitani prebellici di
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|   TODO       |  **Nuka-Cola Qunatum**, nella sala macchine che collega le linee ovest e est                   | 
+|   TODO       |  **Nuka-Cola Quantum**, nella sala macchine che collega le linee ovest e est                   | 
 |   TODO       |  **Munizione nucleare**, situato in un vagone semisepolto in un tunnel senza uscita                  | 
 
-
+</div>

@@ -15,8 +15,9 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La Metro Falls Church/Mason Dst, chiamata anche stazione Franklin, è una stazione della metropolitana sulla Linea Blu, posta a est di Falls Church Metro e a ovest della metropolitana allagata. È collegata alla centrale metropolitana Franklin.
+La **Metro Falls Church**/**Mason Dst**, chiamata anche stazione Franklin, è una stazione della metropolitana sulla Linea Blu, posta a est di Falls Church Metro e a ovest della metropolitana allagata. È collegata alla centrale metropolitana Franklin.
 
 
 | Mappa | Mappa locale | Panoramica |
@@ -32,3 +33,5 @@ La Metro Falls Church/Mason Dst, chiamata anche stazione Franklin, è una stazio
 Altri oggetti:
 - **Stealth Boy**, all'interno della tavola calda, in cima alla stufa nel campo dei predatori
 - **Libro prebellico**, all'interno della tavola calda sul tavolo in alto a destra
+
+</div>

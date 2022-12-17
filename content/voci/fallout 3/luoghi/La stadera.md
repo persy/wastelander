@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La stadera è un'enorme fonderia disponibile solo con il DLC *The Pitt* di Fallout 3.
+<div class="fo3">
+
+La **stadera** è un'enorme fonderia disponibile solo con il DLC *The Pitt* di Fallout 3.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -30,8 +32,8 @@ La stadera è un'enorme fonderia disponibile solo con il DLC *The Pitt* di Fallo
 | TODO                                  | **Armatura protettiva Gamma**, in un fossato circondato da barili radioattivi a sud-ovest                                                 | 
 
 
-Note:
+**Note**:
 - Il cadavere dello schiavo vicino all'entrata è permanente, quindi può essere usato per depositare gli oggetti in sicurezza
 
-
+</div>
 

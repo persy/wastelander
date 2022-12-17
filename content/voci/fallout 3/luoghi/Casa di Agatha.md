@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La casa di Agatha è una piccola casa con una sola stanza e si trova a ovest del Rottamaio e a nord-est della Stazione metropolitana di Meresti. Può essere facilmente individuata dal ripetitore radio che si erge sopra i massi che circondano la casa. 
+La **casa di Agatha** è una piccola casa con una sola stanza e si trova a ovest del Rottamaio e a nord-est della Stazione metropolitana di Meresti. Può essere facilmente individuata dal ripetitore radio che si erge sopra i massi che circondano la casa. 
 
 | Mappa                                     | Panoramica                             |
 | ----------------------------------------- | -------------------------------------- |
@@ -28,3 +29,4 @@ Altri oggetti:
 - **Munizione nucleare**, in una scatola di munizioni sul tavolo a sinistra dell'ingresso (va rubata)
 - **Blackhawk**, dato da Agatha per aver completato *Canzone di Agatha* 
 
+</div>

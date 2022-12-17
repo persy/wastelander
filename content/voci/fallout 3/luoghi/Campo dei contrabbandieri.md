@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il campo dei contrabbandieri è un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest della Cattedrale Arca & Spirito santo ed è abitata dai contrabbandieri. 
+Il **campo dei contrabbandieri** è un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest della Cattedrale Arca & Spirito santo ed è abitata dai contrabbandieri. 
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 |   {{<figure src="fo3/Smuggler_camp_map.webp">}}   |              |  {{<figure src="fo3/Fo3PL_smuggler_camp.webp">}}         | 
 
+</div>

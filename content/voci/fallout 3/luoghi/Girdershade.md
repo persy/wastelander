@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Girdershade è un piccolo insediamento e si trova nell'estremo sud-ovest della Zona contaminata della Capitale, a sud-ovest di Evergreen Mills. 
+**Girdershade** è un piccolo insediamento e si trova nell'estremo sud-ovest della Zona contaminata della Capitale, a sud-ovest di Evergreen Mills. 
 
 | Mappa                                   | Panoramica                                         |
 | --------------------------------------- | -------------------------------------------------- |
@@ -25,3 +26,6 @@ Girdershade è un piccolo insediamento e si trova nell'estremo sud-ovest della Z
 
 Altri oggetti:
 - **Lo spaccaginocchia**, posseduto da Ronald
+
+
+</div>

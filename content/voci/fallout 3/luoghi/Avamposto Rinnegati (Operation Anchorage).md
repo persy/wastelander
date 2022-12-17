@@ -15,8 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'avamposto Rinnegati è un piccolo complesso dei Rinnegati della Confraternita situato in un bunker militare prebellico. Si raggiunge dalla Metro incrocio di Bailey, a nord-est della Fabbrica RedRacer. Da questo luogo è possibile iniziare il DLC *Operation: Anchorage*.
+
+L'**avamposto Rinnegati** è un piccolo complesso dei Rinnegati della Confraternita situato in un bunker militare prebellico. Si raggiunge dalla Metro incrocio di Bailey, a nord-est della Fabbrica RedRacer. Da questo luogo è possibile iniziare il DLC *Operation: Anchorage*.
 
 | Mappa                         | Mappa locale                  | Panoramica                |
 | ----------------------------- | ----------------------------- | ------------------------- |
@@ -33,3 +35,6 @@ L'avamposto Rinnegati è un piccolo complesso dei Rinnegati della Confraternita 
 
 Altri oggetti:
 - Veste da scriba Rinnegato, indossata dallo specialista Olin
+
+
+</div>

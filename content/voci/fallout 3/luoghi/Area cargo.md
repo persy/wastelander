@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-L'area cargo è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio di ricerca e alla sala progettazione.
+<div class="fo3">
+
+
+L'**area cargo** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio di ricerca e alla sala progettazione.
 
 | Mappa locale | Panoramica                 |
 | ------------ | -------------------------- |
@@ -31,4 +34,4 @@ L'area cargo è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallou
 Altri oggetti:
 - 2 **mine da tappo**, su uno scaffale a destra dell'ingresso sud
 
-
+</div>

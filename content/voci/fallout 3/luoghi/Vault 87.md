@@ -15,9 +15,10 @@ tags: [Luoghi della Zona contaminata della Capitale,Vault della Zona contaminata
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il Vault 87 è un Vault della Vault-tec e si trova a nord-ovest di Little Lamplight e a sud-ovest della torre di trasmissione KT8. È il luogo di origine dei supermutanti e dei centauri della Zona contaminata della Capitale.
+Il **Vault 87** è un Vault della Vault-tec e si trova a nord-ovest di Little Lamplight e a sud-ovest della torre di trasmissione KT8. È il luogo di origine dei supermutanti e dei centauri della Zona contaminata della Capitale.
 
 | Mappa                                | Panoramica                                |
 | ------------------------------------ | ----------------------------------------- |
@@ -38,3 +39,4 @@ Il Vault 87 è un Vault della Vault-tec e si trova a nord-ovest di Little Lampli
 Altri oggetti:
 - **Super martello di Fawkes**,  nell'inventario di Fawkes
 
+</div>

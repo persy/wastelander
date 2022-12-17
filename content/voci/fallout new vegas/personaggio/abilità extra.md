@@ -17,6 +17,8 @@ hidden: true
 
 {{< toc hide_on="xl" >}}
 
+<div class="fnv">
+
 ## Abilità extra salendo di livello
 
 
@@ -235,3 +237,4 @@ hidden: true
 | Sfregiato                | Uccidi tre Sfregiati                                                       |   1   | Hai affrontato le torture per mano degli Sfregiati... è il momento della vendetta (+10% alla resistenza ai danni e 14% ai danni contro gli Sfregiati).                                                                                                                                                                                                                                                 |     |
 | Flagello dell'Est        | Lancia i missili nucleari contro la Legione di Caesar                      |   1   | Sic semper tyrannis! Puoi aumentare di un punto uno qualsiasi dei tuoi attributi S.P.E.C.I.A.L. e selezionare una nuova Specialità. Inoltre, ottieni reputazione con l'RNC per aver spezzato le reni alla Legione di Caesar, ma perdi reputazione con la Legione di Caesar.                                                                                                                            |     |
 
+</div>

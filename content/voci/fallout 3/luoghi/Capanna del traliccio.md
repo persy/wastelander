@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La capanna del traliccio è una località non contrassegnata, situata a nord della centrale elettrica VAPL-58 e ad ovest di Arefu.
+La **capanna del traliccio** è una località non contrassegnata, situata a nord della centrale elettrica VAPL-58 e ad ovest di Arefu.
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
@@ -32,3 +33,4 @@ La capanna del traliccio è una località non contrassegnata, situata a nord del
 Altri oggetti:
 - **Libro prebellico**, sul pilone nord-orientale
 
+</div>

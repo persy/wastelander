@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il Super-Duper Mart è un negozio di alimentari situato vicino al fiume Potomac, a nord-est di Megaton e a nord-ovest di Grayditch. È completamente invaso dai predatori.
+Il **Super-Duper Mart** è un negozio di alimentari situato vicino al fiume Potomac, a nord-est di Megaton e a nord-ovest di Grayditch. È completamente invaso dai predatori.
 
 | Mappa                                        | Mappa locale                                       | Panoramica                                 |
 | -------------------------------------------- | -------------------------------------------------- | ------------------------------------------ |
@@ -36,3 +37,5 @@ Il Super-Duper Mart è un negozio di alimentari situato vicino al fiume Potomac,
 
 Altri oggetti:
 - 10 bottiglie di Nuka-Cola sul pavimento e in scatole nel magazzino col protettore
+
+</div>

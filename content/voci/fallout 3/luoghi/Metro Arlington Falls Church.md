@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La Metro Arlington/Falls Church è una stazione della linea bianca metropolitana che collega Falls Church e il cimitero di Arlington.
+La **Metro Arlington**/**Falls Church** è una stazione della linea bianca metropolitana che collega Falls Church e il cimitero di Arlington.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ La Metro Arlington/Falls Church è una stazione della linea bianca metropolitana
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 |  TODO | **U.S. Army: 30 pratiche ricette per lanciafiamme**,  in un cassonetto vicino alla parete nord  |
+
+</div>

@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Galaxy News Radio* è una missione principale di Fallout 3. È data da Tre Cani all'edificio di GNR.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -35,13 +44,16 @@ graph TD;
     id10(Pistole e proiettili,<br/>munizione nucleare e<br/>Stealth Boy):::rewardfo3
     id1-->id2-->id3-->id4-->id11-->id5-->id6-->id7
     id6-->id8-->id9-->id10-->id7
-    click id2 "../../luoghi/museo-di-tecnologia"
-    click id4 "../../luoghi/washington-memorial"
+    
+    
     click id7 "../ricerche-scientifiche"
     click id9 "../../nascondiglio-di-hamilton"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                        |
 | :---: | :----------------: | -------------------------------------------------- |
@@ -53,6 +65,9 @@ graph TD;
 |  55   |                    | Parla a Tre Cani del deposito di armi              |
 
 
-Note:
-- Sebbene sia una missione principale, è possibile saltarla prendendo direttamente i diari personari del Progetto Purezza al Jefferson Memorial, parlando con la Dottoressa Li a Rivet City o dirigendosi direttamente al Vault 112
+**Note**:
+- Sebbene sia una missione principale, è possibile saltarla prendendo direttamente i diari personali del Progetto Purezza al Jefferson Memorial, parlando con la Dottoressa Li a Rivet City o dirigendosi direttamente al Vault 112
 - Finita la missione la portata di Galaxy New Radio coprirà l'intera regione della Zona contaminata della Capitale
+
+
+</div>

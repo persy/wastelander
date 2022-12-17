@@ -17,8 +17,9 @@ hidden: true
 
 
 
+<div class="fo3">
 
-Il molo dei predatori è una località non contrassegnata vicino al gruppo satelliti SatCom Array NW-05a. È popolato da predoni e mirelurk.
+Il **molo dei predatori** è una località non contrassegnata vicino al gruppo satelliti SatCom Array NW-05a. È popolato da predoni e mirelurk.
 
 | Mappa                                    | Panoramica                                  |
 | ---------------------------------------- | ------------------------------------------- |
@@ -33,3 +34,4 @@ Il molo dei predatori è una località non contrassegnata vicino al gruppo satel
 Altri oggetti:
 - **Stealth Boy**, nella barca sommersa
 
+</div>

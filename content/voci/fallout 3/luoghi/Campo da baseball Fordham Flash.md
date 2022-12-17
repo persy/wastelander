@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il campo da baseball Fordham Flash è un campo da baseball e si trova a est di Arefu, vicino al cinema all'aperto Moonbeam.
+Il **campo da baseball Fordham Flash** è un campo da baseball e si trova a est di Arefu, vicino al cinema all'aperto Moonbeam.
 
 | Mappa                                         | Panoramica                                           |
 | --------------------------------------------- | ---------------------------------------------------- |
@@ -26,3 +27,5 @@ Il campo da baseball Fordham Flash è un campo da baseball e si trova a est di A
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, sul lato sinistro del molo, in cima a un palo
+
+</div>

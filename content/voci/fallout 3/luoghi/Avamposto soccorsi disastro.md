@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-L'avamposto soccorsi disastro è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a sud del Terreno cimitero famiglia Ofiee e a ovest dell'attracco del pellegrino.
+L'**avamposto soccorsi disastro** è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a sud del Terreno cimitero famiglia Ofiee e a ovest dell'attracco del pellegrino.
 
 | Immagine                        | Oggetto e posizione                                                                                         |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -26,3 +27,4 @@ L'avamposto soccorsi disastro è un luogo disponibile solo con il DLC *Point Loo
 Altri oggetti:
 - **Stealth Boy**, sulla scrivania della tenda dell'amministrazione.
 
+</div>

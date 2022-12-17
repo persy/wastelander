@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'armeria di Wheaton è una località non contrassegnata e si trova ad est del Scrapyard. 
+L'**armeria di Wheaton** è una località non contrassegnata e si trova ad est del Scrapyard. 
 
 | Mappa                        | Mappa locale                 | Panoramica                         |
 | ---------------------------- | ---------------------------- | ---------------------------------- |
@@ -29,3 +30,4 @@ L'armeria di Wheaton è una località non contrassegnata e si trova ad est del S
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/US_Army_Handy_Flamethrower_Recipes_Wheaton_Armory.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, dietro una porta chiusa (Scasso/Scienza 100), vicino a dei lanciamissili |
 
+</div>

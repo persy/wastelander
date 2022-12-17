@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Pely il pirata è un negozio di pesca, non contrassegnato sulla mappa, situato appena a sud della metropolitana irradiata e a nord del Jefferson Memorial.
+**Pely il pirata** è un negozio di pesca, non contrassegnato sulla mappa, situato appena a sud della metropolitana irradiata e a nord del Jefferson Memorial.
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
@@ -27,3 +28,5 @@ Pely il pirata è un negozio di pesca, non contrassegnato sulla mappa, situato a
 
 Altri oggetti:
 - ?
+
+</div>

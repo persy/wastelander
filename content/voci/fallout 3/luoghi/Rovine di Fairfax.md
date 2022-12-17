@@ -15,8 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Le rovine di Fairfax sono costituite da negozi e abitazioni diroccate. Si trovano a sud del Vault 101, a est di Fort Independence e a nord di Andale. 
+
+Le **rovine di Fairfax** sono costituite da negozi e abitazioni diroccate. Si trovano a sud del Vault 101, a est di Fort Independence e a nord di Andale. 
 
 
 | Mappa                                     | Mappa locale                                  | Panoramica                            |
@@ -34,3 +36,4 @@ Altri oggetti:
 
 *Vedi [Stazione della metro di Fairfax](../capitale#stazione-della-metro-di-fairfax)*
 
+</div>

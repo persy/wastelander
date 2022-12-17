@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Guida di sopravvivenza della Zona contaminata* è una missione secondaria di Fallout 3. È data da Moira Brown a Megaton.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -91,16 +100,19 @@ graph TD;
     id33-->id42
     id34-->id43
     id2-->id45-->id46
-    click id2 "../../luoghi/megaton"
-    click id4 "../../luoghi/super-duper-mart"
-    click id6 "../../luoghi/minefield"
-    click id19 "../../luoghi/anchorage-memorial"
-    click id32 "../../luoghi/rivet-city"
-    click id33 "../../luoghi/impianto-robco"
-    click id34 "../../luoghi/biblioteca-di-arlington"
+    
+    
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 ### Opzioni di dialogo uniche (Capitolo I)
 Una volta completati gli obiettivi della missione, selezionando una maggioranza di risposte della rispettiva tipologia (standard, sarcastico, intelligente, duro o scaltro) è possibile ottenere un differente bonus dall'abilità extra Esperto di sopravvivenza (e le sue varianti Superstite principiante e Guru di sopravvivenza). 
@@ -319,7 +331,7 @@ Una volta completati gli obiettivi della missione, selezionando una maggioranza 
 |  98   | :white_check_mark: | Torna da Moira.                                                                        |
 
 
-Note:
+**Note**:
 - Ogni parte del capitolo può essere fatta in qualsiasi ordine e solo completando gli obiettivi facoltativi si avranno dei bonus finali importanti
 - Sebbene si possa considerare ogni capitolo una missione a se stante, questi condividono i meccanismi delle ricompense:
   - Tutte le ricompense che riguardano oggetti non unici (es. stimpak, droghe, cibo...) vengono assegnate in quantità proporzionata al livello del giocatore
@@ -337,3 +349,6 @@ Note:
 - Se si fa saltare in aria Megaton è ancora possibile ottenere/completare questa missione: se la missione non è stata ancora fornita è possibile trovare Moira fra le macerie della città, mentre se è già stata fornita Moira avrà trovato rifugio agli Inferi
 - Completare *L'uomo duplicato* potrebbe interferire con la parte della missione riguardante la storia di Rivet City
 - Moira proporrà di usare il bastone repellente contro i rattitalpa delle fogne tiepide ma si può usare sui rattitalpa di tutta la Zona contaminata
+
+
+</div>

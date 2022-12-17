@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'avamposto ghoul è un piccolo accampamento all'interno di un edificio situato a sud-ovest della stazione di Marigold ed è infestato dai ghoul.
+L'**avamposto ghoul** è un piccolo accampamento all'interno di un edificio situato a sud-ovest della stazione di Marigold ed è infestato dai ghoul.
 
 | Mappa                         | Mappa locale                | Panoramica                       |
 | ----------------------------- | --------------------------- | -------------------------------- |
@@ -29,3 +30,6 @@ L'avamposto ghoul è un piccolo accampamento all'interno di un edificio situato 
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, nella stanza sul retro
+
+
+</div>

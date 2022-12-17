@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il gruppo satelliti SatCom NN-03d è un gruppo di satelliti che si trova tra Fort Constantine e la centrale elettrica MDPL-21.
+Il **gruppo satelliti SatCom NN-03d** è un gruppo di satelliti che si trova tra Fort Constantine e la centrale elettrica MDPL-21.
 
 | Mappa                                | Panoramica                                  |
 | ------------------------------------ | ------------------------------------------- |
@@ -29,3 +30,6 @@ Il gruppo satelliti SatCom NN-03d è un gruppo di satelliti che si trova tra For
 | {{<figure src="fo3/Shack_with_Shishkebab_Schematics.webp">}} | **Schemi - Shishkebab**, nella baracca dei Rinnegati a sud-ovest, vicino a un banco di lavoro |
 | {{<figure src="fo3/SatCom_Array_NN-03d_mini_nukes.webp">}}   | 2 **Munizioni nucleari**, situate in cima a un bersaglio da tiro, sulla parabola              |
 | {{<figure src="fo3/NCQ_SatCom_NN-03d.jpg">}}                 | **Nuka-Cola Quantum**, sul tetto della baracca dei Rinnegati, a sud-ovest                     |
+
+</div>
+

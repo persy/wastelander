@@ -16,11 +16,12 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Le fosse di letame scavate sono un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trovano a nord-est della Casa delle bambole di Lil' Tyke . Fanno parte della missione secondaria *Una terra antica*. 
+Le **fosse di letame scavate** sono un luogo non contrassegnato disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trovano a nord-est della Casa delle bambole di Lil' Tyke . Fanno parte della missione secondaria *Una terra antica*. 
 
 | Mappa                      | Panoramica                      |
 | -------------------------- | ------------------------------- |
 | {{<figure src="fo3/Excavated_MH_loc.webp">}}| {{<figure src="fo3/Excavated_muck_hole_1.webp">}}|
 
-
+</div>

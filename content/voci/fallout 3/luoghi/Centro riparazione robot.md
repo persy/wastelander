@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il centro riparazione robot è un edificio a sud-sud-ovest di Canterbury Commons.
+Il **centro riparazione robot** è un edificio a sud-sud-ovest di Canterbury Commons.
 
 | Mappa                  | Mappa locale                      | Panoramica                    |
 | ---------------------- | --------------------------------- | ----------------------------- |
@@ -34,7 +35,7 @@ Altri oggetti:
 - **Costume** ed **elmo da Meccanicista**, indossato dal Meccanicista
 - **Sguardo del Protettore**, dato dal Meccanicista se gli si consegna il costume da AntAgonizer
 
-Note:
+**Note**:
 - La forgia può essere usata come base e contiene un letto di proprietà, un banco da lavoro e dei contenitori dove poter depositare gli oggetti dell'inventario
 
-
+</div>

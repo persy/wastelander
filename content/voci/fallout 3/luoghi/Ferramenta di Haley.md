@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-La Ferramenta di Haley è un piccolo edificio disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord dell'Attracco del Pellegrino.
+La **Ferramenta di Haley** è un piccolo edificio disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a nord dell'Attracco del Pellegrino.
 
 | Mappa                         | Panoramica                 |
 | ----------------------------- | -------------------------- |
@@ -26,8 +27,8 @@ La Ferramenta di Haley è un piccolo edificio disponibile solo con il DLC *Point
 Oggetti:
 - **Tuta tuttofare**, indossata da Haley
 
-Note:
+**Note**:
 - Ogni volta che si visita Haley la sua abilità Ripara aumenterà in maniera permanente di 5 punti
-	- Basta entrare nella ferramente, uscire, usare il salvataggio rapido, ricaricare e rientrare nella ferramenta
+	- Basta entrare nella ferramenta, uscire, usare il salvataggio rapido, ricaricare e rientrare nella ferramenta
 
-
+</div>

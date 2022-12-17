@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La baracca abbandonata, conosciuta anche come baracca del cecchino, è un edificio posto su una rupe a ovest della stazione di servizio Rockbreaker.
+La **baracca abbandonata**, conosciuta anche come baracca del cecchino, è un edificio posto su una rupe a ovest della stazione di servizio Rockbreaker.
 
 | Mappa                      | Panoramica             |
 | -------------------------- | ---------------------- |
@@ -31,3 +32,5 @@ La baracca abbandonata, conosciuta anche come baracca del cecchino, è un edific
  Altri oggetti:
 - **Stealth Boy**, sopra l'armadietto sinistro
 - Orsacchiotto di grandi dimensioni, sul letto
+
+</div>

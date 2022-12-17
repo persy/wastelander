@@ -16,12 +16,13 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il molo di Wilhelm, noto anche come Captain Paglia Dockside Bar & Grill, è un piccolo molo con una baracca situata sulle rive del fiume Potomac, a sud-est del Super-Duper Mart. È abitata da Nonna Sparkle mentre la banchina sono usate come quartier generale della banda di predoni di Split Jack.
+Il **molo di Wilhelm**, noto anche come Captain Paglia Dockside Bar & Grill, è un piccolo molo con una baracca situata sulle rive del fiume Potomac, a sud-est del Super-Duper Mart. È abitata da Nonna Sparkle mentre la banchina sono usate come quartier generale della banda di predoni di Split Jack.
 
 | Mappa                                      | Mappa locale                                      | Panoramica                             |
 | ------------------------------------------ | ------------------------------------------------- | -------------------------------------- |
 | {{<figure src="fo3/Wilhelms_Wharf_loc.webp">}} | {{<figure src="fo3/Wilhelm's_Wharf_Local_Map.webp">}} | {{<figure src="fo3/Wilhelms_Wharf.webp">}} |
 
-
+</div>
 

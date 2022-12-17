@@ -15,7 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Andale è una località nella zona meridionale della Zona contaminata della Capitale. 
+<div class="fo3">
+
+
+**Andale** è una località nella zona meridionale della Zona contaminata della Capitale. 
 
 | Mappa                | Mappa locale             | Panoramica       |
 | -------------------- | ------------------------ | ---------------- |
@@ -31,3 +34,6 @@ Andale è una località nella zona meridionale della Zona contaminata della Capi
 Altri oggetti:
 - **Nuka-Cola Quantum**, in un camion ribaltato sotto l'autostrada a nord di Andale, verso le rovine di Fairfax
 - **Carne strana**, 80 in totale: 10 in ogni frigorifero (tre nel seminterrato della casa Smith, tre nella casetta da giardino, uno nella cucina della casa Smith e uno nella cucina della casa Wilson); può essere scambiata per un fungo delle caverne a Little Lamplight nella missione non contrassegnata *Fungus Deal*
+
+
+</div>

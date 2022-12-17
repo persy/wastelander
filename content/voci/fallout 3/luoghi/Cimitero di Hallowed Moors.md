@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il cimitero di Hallowed Moors si trova a nord di Big Town, a nord-ovest della stazione metropolitana di Meresti e a nord-est del Vault 106 attraverso il Potomac.
+Il **cimitero di Hallowed Moors** si trova a nord di Big Town, a nord-ovest della stazione metropolitana di Meresti e a nord-est del Vault 106 attraverso il Potomac.
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
@@ -29,4 +30,4 @@ Il cimitero di Hallowed Moors si trova a nord di Big Town, a nord-ovest della st
 | {{<figure src="fo3/FO3_DCJOIM_Hallowed_Moors_Cemetery.webp">}} | **Giornale di medicina interna del D.C.** sullo scaffale accanto al kit di pronto soccorso           |
 | {{<figure src="fo3/Hallowed_Moors_Cemetery_MiniNuke.webp">}}   | **Munizione nucleare**, in una cassetta di legno vicino alla radio                                   |
 
-
+</div>

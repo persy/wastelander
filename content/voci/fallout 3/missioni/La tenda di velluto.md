@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *La tenda di velluto* è una missione secondaria del DLC *Point Lookout* di Fallout 3. È data dal terminale nella stanza 1D al Motel.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -50,16 +59,19 @@ graph TD;
     id25(Esci dall'area)
     id26(350 PE, Fucile vecchio stile):::rewardfo3
     id1-->id2 & id3 & id4 & id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13-->id14-->id15-->id16-->id17-->id18 & id19 & id20-->id21-->id22 & id23 & id24-->id25-->id26
-    click id2 "../../luoghi/motel"
-    click id3 "../../luoghi/campo-di-detenzione-tortora"
-    click id4 "../../luoghi/banca-del-popolo"
-    click id5 "../../luoghi/stazione-di-reclutamento"
-    click id8 "../../luoghi/attracco-del-pellegrino"
-    click id12 "../../luoghi/sito-recupero-del-sottomarino"
-    click id15 "../../luoghi/villa-di-calvert"
+    
+    
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                                                              |
 |:-----:|:------------------:| -------------------------------------------------------------------------------------------------------- |
@@ -80,3 +92,7 @@ graph TD;
 |  90   | :white_check_mark: | Scampa i pericoli del doppio gioco!                                                                      |
 
 
+
+
+
+</div>

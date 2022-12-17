@@ -14,6 +14,9 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
+
 TODO
 
 - [Zona contaminata della Capitale](zona-contaminata-della-capitale) 
@@ -206,3 +209,10 @@ TODO: Inserire mappa
 | Vernon Square Est                      |     53     |
 | Vernon Square Nord                     |     51     |
 | Washington Monument                    |     74     |
+
+
+
+
+</div>
+
+

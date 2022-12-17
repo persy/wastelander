@@ -15,10 +15,13 @@ tags: "Metro della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il tunnel crollato fa parte del sistema metropolitano di Washington, D.C. ed è situato direttamente sotto Dupont Circle. È infestato dai ghoul.
+Il **tunnel crollato** fa parte del sistema metropolitano di Washington, D.C. ed è situato direttamente sotto Dupont Circle. È infestato dai ghoul.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/Dupont_Station_loc.webp">}}  | {{<figure src="fo3/Metro_Collapsed_Car_Tunnel.webp">}}  |  {{<figure src="fo3/Collapsed_car_tunnel.webp">}} |
+
+</div>

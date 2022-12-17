@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Grayditch è un insediamento situato alla periferia delle rovine di Washington, D.C., a sud del Super-Duper Mart. 
+**Grayditch** è un insediamento situato alla periferia delle rovine di Washington, D.C., a sud del Super-Duper Mart. 
 
 | Mappa                                 | Mappa locale                              | Panoramica                        |
 | ------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -28,3 +29,6 @@ Grayditch è un insediamento situato alla periferia delle rovine di Washington, 
 
 Altri oggetti:
 - **Registrazione password del Dott. Lesko**, nella baracca del Dott. Lesko
+
+</div>
+

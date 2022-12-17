@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Sapori locali* è una missione del DLC *Point Lookout* di Fallout 3. È data dal messaggio radio sul Pip-Boy, una volta usciti dal Vault 101.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -38,13 +47,16 @@ graph TD;
     id13(Prossima missione: <b>Spiriti e fantasmi</b>):::questfo3
     id1-->id2-->id3-->id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13
     id3-->id4
-    click id2 "../../luoghi/attracco-imbarcazione-point-lookout"
-    click id3 "../../luoghi/villa-di-calvert"
+    
+    
     click id4 "../inseguire-il-maschiaccio"
     click id13 "../spiriti-e-fantasmi"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                  |
 |:-----:|:------------------:| ------------------------------------------------------------ |
@@ -62,5 +74,9 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Come per ogni altro DLC, non sarà possibile portare i propri Seguaci a Point Lookout
+
+
+
+</div>

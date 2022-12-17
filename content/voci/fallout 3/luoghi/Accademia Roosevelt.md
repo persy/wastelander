@@ -13,11 +13,16 @@ type: book # Do not modify.
 commentable: true
 tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
+banner:
+  image: "icon_old.png"
+  caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 ---
 
+<div class="fo3">
 
-L'Accademia Roosevelt è una base dei supermutanti e si trova appena a sud delle tenute di Faded Pomp e a nord della centrale elettrica MDPL.
- 
+
+L'**Accademia Roosevelt** è una base dei supermutanti e si trova appena a sud delle tenute di Faded Pomp e a nord della centrale elettrica MDPL.
+
 
 
 | Mappa                           | Mappa locale                    | Panoramica                   |
@@ -47,3 +52,4 @@ Altri oggetti:
 	- **Chiave della Biblioteca Roosevelt**, nell'inventario del super mutante con il minigun
 
 
+</div>

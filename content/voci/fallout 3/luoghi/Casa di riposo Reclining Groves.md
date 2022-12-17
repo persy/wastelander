@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-La casa di riposo Reclining Groves si trova a nord della centrale di polizia di Germantown e a nord-ovest dalla centrale elettrica MDPL-13.
+La **casa di riposo Reclining Groves** si trova a nord della centrale di polizia di Germantown e a nord-ovest dalla centrale elettrica MDPL-13.
 
 | Mappa                                 | Panoramica                                            |
 | ------------------------------------- | ----------------------------------------------------- |
@@ -30,3 +31,6 @@ La casa di riposo Reclining Groves si trova a nord della centrale di polizia di 
 | {{<figure src="fo3/FO3_CA_SOTM_Reclining_Groves.webp">}}                                        | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nell'armadietto chiuso dalla chiave dello sciacallo (Scasso 100) al piano superiore del fienile |
 | {{<figure src="fo3/US_Army_30_Handy_Flamethrower_Recipes_Reclining_Groves_Resort_Homes.jpg">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme** , in cima a una rupe a nord-est, a terra accanto ai cadaveri di un mercenario e un colono              |
 | {{<figure src="fo3/Fo3_Scavenger's_key.webp">}}                                                 | **Chiavi dello sciacallo**, sotto un autobus bruciato, dietro il fienile.                                                                                   |
+
+
+</div>

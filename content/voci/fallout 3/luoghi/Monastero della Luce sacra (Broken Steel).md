@@ -11,19 +11,20 @@ title: Monastero della Luce sacra (Broken Steel)
 date: 2022-11-17
 type: book # Non modificare
 commentable: true
-tags: "Luoghi della Zona contaminata della Capitale"
+tags: "Luoghi di Broken Steel"
 hidden: true
+private: false 
 ---
 
+<div class="fo3">
 
+Il **monastero della Luce sacra** è un piccolo insediamento disponibile solo con il DLC *Broken Steel* di Fallout 3. Si trova a est del Vault 101 ed è abitato dagli Apostoli della Luce Eterna.
 
-Il monastero della Luce sacra è un piccolo insediamento abitato dagli Apostoli della Luce eterna e si trova a nord di Megaton e a est del Vault 101.
-
-| Mappa                                            | Panoramica                                   |
-| ------------------------------------------------ | -------------------------------------------- |
-| {{<figure src="fo3/Holy_Light_Monastery_loc.webp">}} | {{<figure src="fo3/Holy_Light_Monastery.webp">}} |
-
-
+| Mappa                              | Panoramica                     |
+| ---------------------------------- | ------------------------------ |
+| {{<figure src="fo3/Holy_Light_Monastery_loc.webp">}}| {{<figure src="fo3/Holy_Light_Monastery.webp">}}| 
 
 Altri oggetti:
-- 2 casse di **acqua santa**, nel monastero
+- 2 casse di acqua santa, nel monastero
+
+</div>

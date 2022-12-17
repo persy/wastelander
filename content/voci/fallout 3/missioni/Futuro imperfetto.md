@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Futuro imperfetto* è la terza missione principale di Fallout 3. È data da James al Vault 101
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -36,6 +45,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe | Stato              | Descrizione                                       |
 | :---: | :----------------: | ------------------------------------------------- |
 |  10   |                    | Vai in classe e parla al Sig. Brotch del G.O.A.T. |
@@ -44,6 +56,9 @@ graph TD;
 |  80   | :white_check_mark: | Esci dalla classe.                                |
 
 
-Note:
+**Note**:
 - È possibile bypassare il G.O.A.T. semplicemente parlando al Sig. Brotch prima di entrare in classe
 - È possibile cambiare le specialità dopo aver fatto il G.O.A.T. e poco prima di abbandonare il Vault, durante la missione *Scappa!*
+
+
+</div>

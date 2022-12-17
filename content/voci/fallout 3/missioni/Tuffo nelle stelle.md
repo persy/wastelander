@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Tuffo nelle stelle* è una missione del DLC *Mothership Zeta* di Fallout 3. È data da Sally.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -41,12 +50,15 @@ graph TD;
     id16(300 PE):::rewardfo3
     id17(Prossima missione: <br /><b>Questa galassia mi sta stretta</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13-->id14-->id15-->id16-->id17
-    click id3 "../../luoghi/laboratorio-criogenico"
-    click id6 "../../luoghi/hangar"
-    click id9 "../../luoghi/fabbricazione-robot"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                                |
 |:-----:|:------------------:| ---------------------------------------------------------- |
@@ -63,7 +75,11 @@ graph TD;
 
 
 
-Note:
-- L'area manutenzione e smaltimenti rifiuti risulterà inaccessibile dopo la camminata nello spazio
+**Note**:
+- L'area manutenzione e smaltimento rifiuti risulterà inaccessibile dopo la camminata nello spazio
 - I sopravvissuti indossano degli abiti unici (tuta di Paulson, armatura ed elmo del samurai di Kago, armatura medica invernale di Tarcorien)
 - Una volta distrutti tutte e tre i generatori sarà impossibile ottenere la spada del samurai da Toshiro Kago
+
+
+
+</div>

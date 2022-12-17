@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La torre della radio The Pitt è una località aggiunta dal DLC *The Pitt* ed è la fonte del segnale di soccorso di Wernher.
+La **torre della radio The Pitt** è una località aggiunta dal DLC *The Pitt* ed è la fonte del segnale di soccorso di Wernher.
 
 | Mappa                                   | Panoramica                          |
 | --------------------------------------- | ----------------------------------- |
@@ -28,6 +29,7 @@ La torre della radio The Pitt è una località aggiunta dal DLC *The Pitt* ed è
 | {{<figure src="fo3/DC_Journal_of_IM_MDPL_21_PS.jpg">}} | **Giornale di medicina interna del DC**, a est della torre radio e a nord della centrale elettrica MDPL-21, vicino a una grande pozza d'acqua con barili radioattivi, su un tavolo |
 
 
-Note:
+**Note**:
 - Tornando dal Pitt questo luogo scomparirà dal Pip-Boy
 
+</div>

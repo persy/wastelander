@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il molo dello sciacallo è una località non contrassegnata e si trova a sud del molo di Wilhelm e ad ovest dell'Anchorage Memorial.
+Il **molo dello sciacallo** è una località non contrassegnata e si trova a sud del molo di Wilhelm e ad ovest dell'Anchorage Memorial.
 
 | Mappa                                       | Panoramica                             |
 | ------------------------------------------- | -------------------------------------- |
@@ -26,3 +27,5 @@ Il molo dello sciacallo è una località non contrassegnata e si trova a sud del
 
 Altri oggetti:
 - ?
+
+</div>

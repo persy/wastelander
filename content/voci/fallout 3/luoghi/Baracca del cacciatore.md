@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La baracca del cacciatore è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3.
+<div class="fo3">
+
+La **baracca del cacciatore** è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                        | Panoramica                |
 | ---------------------------- | ------------------------- |
@@ -31,4 +33,4 @@ Altri oggetti:
 - **Mina da tappo**, sul banco di lavoro in cantina.
 - **Stealth Boy**, su un tavolo in camera da letto
 
-
+</div>

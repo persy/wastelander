@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-L'edificio del Campidoglio ospitava parlamento federale del governo degli Stati Uniti e si trova nel cuore di Washington, D.C., in cima a Capitol Hill, all'estremità orientale di The Mall, affacciato a Seward Square. È il campo di battaglia tra i supermutanti e i mercenari della Compagnia dell'Artiglio.
+L'**edificio del Campidoglio** ospitava parlamento federale del governo degli Stati Uniti e si trova nel cuore di Washington, D.C., in cima a Capitol Hill, all'estremità orientale di The Mall, affacciato a Seward Square. È il campo di battaglia tra i supermutanti e i mercenari della Compagnia dell'Artiglio.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -41,3 +42,5 @@ Altri oggetti:
 - 2 **munizioni nucleari**, e un **Fat Man**, entrata ovest, sugli scaffali all'interno della cupola
 - **Libro prebellico**, entrata est, sul mobile caduto accanto alla scrivania con i **Racconti di un venditore di carne di Junktown** su di esso.
 - **Nuka-Cola Quantum**, entrata est, in una saletta ad est della scrivania con il  **Racconti di un venditore di carne di Junktown**
+
+</div>

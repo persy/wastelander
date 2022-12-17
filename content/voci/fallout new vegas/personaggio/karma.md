@@ -14,9 +14,9 @@ commentable: true
 hidden: true
 ---
 
+<div class="fnv">
 
-
-Il Karma riflette tutto ciò che abbiamo fatto di buono o cattivo nel corso della nostra partita e su come la gente ci percepisce. Misurato in "punti karma"
+Il **Karma** riflette tutto ciò che abbiamo fatto di buono o cattivo nel corso della nostra partita e su come la gente ci percepisce. Misurato in "punti karma"
 può essere cinque tipi: Neutro, Buono, Molto buono, Cattivo (tradotto erroneamente in Male) e Molto cattivo. Il gioco, tuttavia, non distingue il karma
 Molto buono da quello buono e il karma Male da quello Molto cattivo, quindi nella tabella sotto vengono considerati solo le tre "categorie di karma"
 principali.

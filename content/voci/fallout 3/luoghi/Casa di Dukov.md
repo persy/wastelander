@@ -15,8 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La casa di Dukov è un hotel prebellico situato vicino all'Anchorage Memorial e alle fogne tiepide, ora utilizzato come abitazione da Dukov e dalle sue due compagne, Cherry e Fantasia. 
+La **casa di Dukov** è un hotel prebellico situato vicino all'Anchorage Memorial e alle fogne tiepide, ora utilizzato come abitazione da Dukov e dalle sue due compagne, Cherry e Fantasia. 
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
@@ -32,3 +33,4 @@ Altri oggetti:
 - **Nuka-Cola Quantum**, vicino al **Pugilato illustrato**
 - **Chiave speciale di Dukov**, sul cadavere di Dukov o convincendo Cherry o Fantasia a recuperarla
 
+</div>

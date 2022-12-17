@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-La stazione di Warrington è una stazione della metropolitana della Zona contaminata della Capitale. L'ingresso alla stazione si trova a sud-ovest della Torre Tenpenny e si connette, attraverso il tunnel di Warrington, al deposito di Warrington.
+La **stazione di Warrington** è una stazione della metropolitana della Zona contaminata della Capitale. L'ingresso alla stazione si trova a sud-ovest della Torre Tenpenny e si connette, attraverso il tunnel di Warrington, al deposito di Warrington.
 
 | Mappa                            | Mappa locale                               | Panoramica                   |
 | -------------------------------- | ------------------------------------------ | ---------------------------- |
@@ -31,3 +32,5 @@ La stazione di Warrington è una stazione della metropolitana della Zona contami
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, nascosta tra alcune scatole di metallo intorno al centro del dormitorio
+
+</div>

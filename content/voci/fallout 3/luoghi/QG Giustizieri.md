@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. È accessibile solo con l'abilità extra Portatore di legge.
+Il **quartier generale dei Giustizieri** è ospitato all'interno di una fattoria situata a nord della Armeria di Wheaton e ad ovest di Canterbury Commons. È accessibile solo con l'abilità extra Portatore di legge.
 
 | Mappa                                    | Panoramica                           |
 | ---------------------------------------- | ------------------------------------ |
@@ -30,3 +31,5 @@ Il quartier generale dei Giustizieri è ospitato all'interno di una fattoria sit
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, nella stanza con la vasca, in uno degli scomparti aperti dell'armadietto
+
+</div>

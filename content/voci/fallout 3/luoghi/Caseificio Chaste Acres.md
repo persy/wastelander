@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il caseificio Chaste Acres è quel che resta di una piccola fattoria e si trova nella sezione nord-orientale della mappa, a sud-ovest della Repubblica di Dave.
+Il **caseificio Chaste Acres** è quel che resta di una piccola fattoria e si trova nella sezione nord-orientale della mappa, a sud-ovest della Repubblica di Dave.
 
 | Mappa                                | Panoramica                                      |
 | ------------------------------------ | ----------------------------------------------- |
@@ -33,3 +34,4 @@ Il caseificio Chaste Acres è quel che resta di una piccola fattoria e si trova 
 Altri oggetti:
 - 5 **Nuka-Cola Quantum**, in un camion della Nuka-Cola a ovest della fattoria
 
+</div>

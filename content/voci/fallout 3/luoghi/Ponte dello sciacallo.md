@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Il ponte dello sciacallo è una posizione non contrassegnata a nord della fabbrica Red Racer.
+Il **ponte dello sciacallo** è una posizione non contrassegnata a nord della fabbrica Red Racer.
 
 | Mappa                                         | Panoramica                                |
 | --------------------------------------------- | ----------------------------------------- |
@@ -32,3 +33,5 @@ Il ponte dello sciacallo è una posizione non contrassegnata a nord della fabbri
 
 Altri oggetti:
 - Cinque freni a mano per motociclette.
+
+</div>

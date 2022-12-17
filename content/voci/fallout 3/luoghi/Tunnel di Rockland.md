@@ -16,10 +16,12 @@ hidden: true
 private: false 
 ---
 
-Il tunnel di Rockland è una sezione di un tunnel stradale crollato disponibile solo con il DLC *Broken Steel* di Fallout 3 e situato nell'angolo sud-ovest della Zona contaminata della Capitale. 
+<div class="fo3">
+
+Il **tunnel di Rockland** è una sezione di un tunnel stradale crollato disponibile solo con il DLC *Broken Steel* di Fallout 3 e situato nell'angolo sud-ovest della Zona contaminata della Capitale. 
 
 | Mappa                             | Mappa locale                            | Panoramica                    |
 | --------------------------------- | --------------------------------------- | ----------------------------- |
 | {{<figure src="fo3/Rockland_Car_Tunnel_map.webp">}}| {{<figure src="fo3/Rockland_car_tunnel_local_map.webp">}}| {{<figure src="fo3/Rockland_Car_Tunnel.webp">}}|
 
-
+</div>

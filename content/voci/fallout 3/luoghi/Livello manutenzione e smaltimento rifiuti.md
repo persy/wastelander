@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il livello manutenzione e smaltimento rifiuti è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette con la sala progettazione.
+<div class="fo3">
+
+Il **livello manutenzione e smaltimento rifiuti** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette con la sala progettazione.
 
 
 | Mappa locale | Panoramica |
@@ -30,8 +32,8 @@ Il livello manutenzione e smaltimento rifiuti è un luogo disponibile solo con i
 | {{<figure src="fo3/Chase_overcoat_and_Anchorage_QM_shipment.webp">}}     | **Cappotto del Generale Chase** e olonastro **Quatermastro Anchorage**, in un armadietto militare | 
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
-
+</div>
 

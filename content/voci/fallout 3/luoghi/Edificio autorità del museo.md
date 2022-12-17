@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-L'edificio autorità del museo  è un edificio di medie dimensioni disponibile solo con il DLC *Broken Steel* di Fallout 3. Si trova all'interno del Mall di Washington, D.C. ed è usato come quartier generale dai soci di Griffon.
+<div class="fo3">
+
+L'**edificio autorità del museo** è un edificio di medie dimensioni disponibile solo con il DLC *Broken Steel* di Fallout 3. Si trova all'interno del Mall di Washington, D.C. ed è usato come quartier generale dai soci di Griffon.
 
 | Mappa                                   | Mappa locale                                  | Panoramica                          |
 | --------------------------------------- | --------------------------------------------- | ----------------------------------- |
@@ -26,4 +28,4 @@ L'edificio autorità del museo  è un edificio di medie dimensioni disponibile s
 | -------- | ------------------- |
 |  {{<figure src="fo3/Museum_authority_ladies_room.webp">}}       | **Nuka-Cola Quantum**, in un gabinetto nel bagno delle donne                    | 
 
-
+</div>

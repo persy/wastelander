@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il laboratorio armi è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio esperimenti e al ponte di osservazione.
+Il **laboratorio armi** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima. Si connette al laboratorio esperimenti e al ponte di osservazione.
 
 | Mappa locale | Panoramica |
 | ------------ | ---------- |
@@ -35,5 +36,7 @@ Il laboratorio armi è un luogo disponibile solo con il DLC *Mothership Zeta* di
 Altri oggetti:
 - 2 **Cannone robot Ex-B**, nell'inventario dei due robot armi sperimentali
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
+
+</div>

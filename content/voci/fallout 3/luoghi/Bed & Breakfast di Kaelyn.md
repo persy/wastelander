@@ -15,9 +15,14 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il Bed & Breakfast di Kaelyn è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. È presieduto dai predatori.
+
+Il **Bed & Breakfast di Kaelyn** è un edificio in rovina, posto su una collina a sud-est di Arefu, a nord dell'ingresso del Vault 106 e a sud-ovest del campo da baseball Fordham Flash. È presieduto dai predatori.
 
 | Mappa                   | Panoramica          |
 | ----------------------- | ------------------- |
 | {{<figure src="fo3/Kaelyn_BB_loc.webp">}} | {{<figure src="fo3/Kaelyn_BB.webp">}} |
+
+
+</div>

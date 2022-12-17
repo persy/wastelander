@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il cratere del villaggio è un luogo non contrassegnato e si trova a sud della stazione metropolitana di Meresti. L'area è irradiata.
+Il **cratere del villaggio** è un luogo non contrassegnato e si trova a sud della stazione metropolitana di Meresti. L'area è irradiata.
 
 | Mappa                        | Panoramica               |
 | ---------------------------- | ------------------------ |
@@ -28,4 +29,4 @@ Il cratere del villaggio è un luogo non contrassegnato e si trova a sud della s
 | ------------------------- | ------------------------------------------------------------------------------ |
 | {{<figure src="fo3/Cratered_ruins6.webp">}} | **Lo scassinatore moderno**, in una vasca da bagno in una delle case in rovina |
 
-
+</div>

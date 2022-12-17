@@ -15,7 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Il campo abbandonato è un luogo non contrassegnato della Zona contaminata della Capitale ed è situato sotto il ponte a nord del Super-Duper Mart. 
+<div class="fo3">
+
+Il **campo abbandonato** è un luogo non contrassegnato della Zona contaminata della Capitale ed è situato sotto il ponte a nord del Super-Duper Mart. 
 
 | Mappa                        | Panoramica                   |
 | ---------------------------- | ---------------------------- |
@@ -25,3 +27,4 @@ Il campo abbandonato è un luogo non contrassegnato della Zona contaminata della
 | ------------------------------------------ | -------------------------- |
 | {{<figure src="fo3/Duck_and_Cover!_Super_Duper_Mart.webp">}} | **Al riparo!**, sul tavolo |
 
+</div>

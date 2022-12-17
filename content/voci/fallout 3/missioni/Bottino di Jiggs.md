@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Bottino di Jiggs* è una missione nascosta di Fallout 3. È data da Prime attraverso i terminali del Museo di Tecnologia.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -34,12 +43,17 @@ graph TD;
     id8(Trova il cadavere di Prime)
     id9(500 tappi, <br />Fucile d'assalto Xuanlong):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id10-->id7-->id8-->id9
-    click id2 "../../luoghi/museo-di-tecnologia"
-    click id2 "../../luoghi/stazione-metropolitana-di-jury-street"
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
-Note:
+</div>
+</section>
+
+**Note**:
 - Il numero del terminale dal quale si inizia la caccia al tesoro sarà "#000"; dopo aver letto la nota cambierà in "#001"
 - Se si sbaglia a digitare il numero corretto anche una sola volta, sarà impossibile ottenere il bottino nella cassaforte e  il cadavere il Prime al Dot's Diner non comparirà
+
+</div>

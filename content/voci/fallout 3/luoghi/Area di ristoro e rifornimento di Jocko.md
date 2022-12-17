@@ -15,7 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area du ristoro e rifornimento di Jocko è una baracca isolata nella parte sud-ovest della Zona contaminata della Capitale.
+<div class="fo3">
+
+
+L'**area di ristoro e rifornimento di Jocko** è una baracca isolata nella parte sud-ovest della Zona contaminata della Capitale.
 
 | Mappa                        | Panoramica                    |
 | ---------------------------- | ----------------------------- |
@@ -28,3 +31,7 @@ L'area du ristoro e rifornimento di Jocko è una baracca isolata nella parte sud
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, sullo scaffale dietro il bancone
+
+
+</div>
+

@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il bunker servizi segreti cinesi è un luogo segreto sotto la Villa di Calvert e accessibile soltanto nella missione *La tenda di velluto*. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+<div class="fo3">
+
+Il **bunker servizi segreti cinesi** è un luogo segreto sotto la Villa di Calvert e accessibile soltanto nella missione *La tenda di velluto*. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa                         | Mappa locale                                    | Panoramica                            |
 | ----------------------------- | ----------------------------------------------- | ------------------------------------- |
@@ -28,5 +30,5 @@ Il bunker servizi segreti cinesi è un luogo segreto sotto la Villa di Calvert e
 | {{<figure src="fo3/Chinese_intelligence_bunker_mini_nuke.webp">}}| **Munizione nucleare**, **Stealth Boy** su uno scaffale                                     |
 | {{<figure src="fo3/Chinese_intelligence_bunker_bc_mine.webp">}}  | **Mina da tappo**, sul banco da lavoro                                                      |
 
-
+</div>
 

@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-*Un incontro tra menti* è una missione del DLC *Point Lookout* di Fallout 3. È data da TODO a TODO.
+<div class="fo3">
 
+*Un incontro tra menti* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
+
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -40,12 +49,15 @@ graph TD;
     id15(300 PE, Emettitore di microonde):::rewardfo3
     id1-->id2 & id3-->id4-->id5-->id6-->id7 & id8-->id9-->id10-->id11 & id12-->id13-->id14-->id15
     id11-->id15
-    click id2 "../../luoghi/villa-di-calvert"
-    click id5 "../../luoghi/faro-di-point-lookout"
-    click id6 "../../luoghi/laboratorio-sotterraneo"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                 |
 |:-----:|:------------------:| ------------------------------------------- |
@@ -72,7 +84,11 @@ graph TD;
 |  185  | :white_check_mark: | Parla con Desmond.                          |
 
 
-Note:
+**Note**:
 - Essendo un personaggio essenziale e buono, non sarà possibile ucciderlo ma ogni volta che sverrà ci sarà un orecchio nel suo inventario
 	- Nonostante sia un personaggio buono, ucciderlo non farà guadagnare karma negativo
 - Usciti dal laboratorio sotterraneo, è possibile imbattersi in un contrabbandiere, dotato di fucile da cecchino, appostato su un isolotto a sud
+
+
+
+</div>

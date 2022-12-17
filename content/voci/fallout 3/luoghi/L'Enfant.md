@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-L'Enfant Plaza e L'Enfant South fanno parte di Washington, D.C. e possono essere raggiunti attraverso il sito di smaltimento Hazmat L5, dal Mall sudovest e dalla metropolitana irradiata.
+L'**Enfant Plaza** e L'**Enfant South** fanno parte di Washington, D.C. e possono essere raggiunti attraverso il sito di smaltimento Hazmat L5, dal Mall sudovest e dalla metropolitana irradiata.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -31,3 +32,5 @@ L'Enfant Plaza e L'Enfant South fanno parte di Washington, D.C. e possono essere
 
 Altri oggetti:
 - ?
+
+</div>

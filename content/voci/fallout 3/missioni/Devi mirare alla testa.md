@@ -16,9 +16,18 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Devi mirare alla testa* è una missione secondaria di Fallout 3. È data dal Sig. Crowley agli Inferi.
 
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -51,15 +60,18 @@ graph TD;
     id13-->id14-->id17
     id4-->id20
     id12-->id15 & id16
-    click id2 "../../luoghi/inferi"
-    click id7 "../../luoghi/rivet-city"
-    click id8 "../../luoghi/casa-di-dukov"
-    click id9 "../../luoghi/repubblica-di-dave"
-    click id10 "../../luoghi/torre-tenpenny"
-    click id15 "../../luoghi/fort-constantine"
+    
+    
+    
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                              |
 | :---: | :----------------: | -------------------------------------------------------- |
@@ -77,10 +89,13 @@ graph TD;
 |  90   |                    | (Opzionale) Uccidi il Signor Crowley                     |
 |  100  | :white_check_mark: | Recupera la ricompensa da Alistair Tenpenny              |
 
-Note:
+**Note**:
 - È possibile completare la missione dando le chiavi a Crowley per poi ucciderlo e impossessarcene di nuovo
   - Ucciderlo fuori dagli Inferi, come per esempio nell'atrio del Museo di Storia, non renderà ostili i suoi residenti
 - È possibile completare la missione *Torre Tenpenny* in maniera pacifica se non si dice a Tenpenny che siamo i sicari di Crowley
   - Per ottenere il bonus del colpo alla testa bisogna ucciderlo prima di far entrare i ghoul dal seminterrato, altrimenti saranno loro ad ucciderlo
 - Sono necessarie solo tre chiavi per completare la missione e si possono consegnare in qualsiasi ordine, una alla volta o tutte assieme
 - Se ci si rifiuta di dargli le chiavi, Crowley diventerà ostile, come tutto il resto degli Inferi
+
+
+</div>

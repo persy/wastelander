@@ -15,6 +15,7 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 La Cittadella è il quartier generale della Confraternita d'Acciaio nella Zona contaminata della Capitale. È costruito dentro e sotto le rovine del Pentagono, all'estremità occidentale del Francis Scott Key Bridge, a nord-est della Biblioteca di Arlington. 
@@ -41,5 +42,5 @@ Altri oggetti:
 - Centinaia di bottiglie di **Aqua Pura**, nel cortile e in molte altre aree  (Broken Steel)
 - **Veste di Lyons l'Anziano**, indossata da Lyons, necessario il reverse pickpocketing
 
-
+</div>
 

@@ -16,8 +16,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-Il garage di Smith Casey è un garage abbandonato al cui interno possibile accedere al Vault 112, attraverso una porta nel pavimento. 
+Il **garage di Smith Casey** è un garage abbandonato al cui interno possibile accedere al Vault 112, attraverso una porta nel pavimento. 
 
 | Mappa                                             | Panoramica                                  |
 | ------------------------------------------------- | ------------------------------------------- |
@@ -30,3 +31,6 @@ Il garage di Smith Casey è un garage abbandonato al cui interno possibile acced
 
 Altri oggetti:
 - **Nuka-Cola Quantum**, dietro un bidone contenente molte lattine piegate e bottiglie di soda vuote
+
+</div>
+

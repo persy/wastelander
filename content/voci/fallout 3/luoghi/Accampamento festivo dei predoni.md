@@ -15,7 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'accampamento festivo dei predoni è un piccolo campo di predoni non contrassegnato direttamente a sud della casa di Dukov.
+
+<div class="fo3">
+
+L'**accampamento festivo dei predoni** è un piccolo campo di predoni non contrassegnato direttamente a sud della casa di Dukov.
 
 | Mappa                      | Panoramica                |
 | -------------------------- | ------------------------- |
@@ -24,3 +27,6 @@ L'accampamento festivo dei predoni è un piccolo campo di predoni non contrasseg
 | Immagine                                      | Oggetto e posizione                                           |
 | --------------------------------------------- | ------------------------------------------------------------- |
 | {{<figure src="fo3/Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, sul tavolo rotondo tra i due letti a castello |
+
+
+</div>

@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il distretto di Chevy Chase è situato nella parte nord di Washington, D.C. È raggiungibile dalla metro Tenleytown/Friendship e dalla metro Junction (metro Chevy Chase/Vernon Sq.), mentre a sud è collegata alla piazza dell'edificio di GNR.
+Il distretto di **Chevy Chase** è situato nella parte nord di Washington, D.C. È raggiungibile dalla metro Tenleytown/Friendship e dalla metro Junction (metro Chevy Chase/Vernon Sq.), mentre a sud è collegata alla piazza dell'edificio di GNR.
 
 | Mappa                           | Mappa locale              | Panoramica            |
 | ------------------------------- | ------------------------- | --------------------- |
@@ -28,4 +29,4 @@ Il distretto di Chevy Chase è situato nella parte nord di Washington, D.C. È r
 Altri oggetti:
 - 3 **acqua purificata**, nel rifugio di preservazione Pulowski a nord dell'ingresso della metro Tenleytown/Friendship
 
-
+</div>

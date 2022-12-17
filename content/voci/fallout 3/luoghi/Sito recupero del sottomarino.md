@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Il sito recupero del sottomarino è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest del faro.
+<div class="fo3">
+
+Il **sito recupero del sottomarino** è un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trova a ovest del faro.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -25,4 +27,4 @@ Il sito recupero del sottomarino è un luogo disponibile solo con il DLC *Point 
 Oggetti:
 - **Stealth Boy**, all'interno del sottomarino, accanto a una pistola cinese
 
-
+</div>

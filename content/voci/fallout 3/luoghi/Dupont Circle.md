@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il distretto di Dupont Circle si trova nella parte settentrionale di Washington, D.C.. È raggiungibile dal tunnel crollato, dalla Metro Junction, dalla piazza dell'edificio di GNR, e dalla fogna secca.
+Il distretto di **Dupont Circle** si trova nella parte settentrionale di Washington, D.C.. È raggiungibile dal tunnel crollato, dalla Metro Junction, dalla piazza dell'edificio di GNR, e dalla fogna secca.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -29,5 +30,4 @@ Il distretto di Dupont Circle si trova nella parte settentrionale di Washington,
 | {{<figure src="fo3/Tales_of_a_JJV_Frumpertons_Fashions.webp">}} | **Racconti di un venditore di carne di Junktown**, Lady Frumperton's Fashions, tra la stazione Dupont e Dupont Est, dietro una scrivania, in cima a una cassaforte |
 | {{<figure src="fo3/Stealth_Boy_Dupont_Circle.jpg">}}            | **Stealth Boy** e un **libro prebellico**, nel piano superiore di una casa occupata dai predatori, su una libreria                                           |
 
-Altri oggetti:
--
+</div>

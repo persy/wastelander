@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il cimitero di Arlington occupa la maggior parte di quello che resta del distretto di Arlington,  si trova a sud di Mamma Dolce ed è collegato alla Zona contaminata tramite la metro Arlington, il cui ingresso è posto a sud del molo di Wilhem.
+Il **cimitero di Arlington** occupa la maggior parte di quello che resta del distretto di Arlington,  si trova a sud di Mamma Dolce ed è collegato alla Zona contaminata tramite la metro Arlington, il cui ingresso è posto a sud del molo di Wilhem.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -27,3 +28,5 @@ Il cimitero di Arlington occupa la maggior parte di quello che resta del distret
 | Immagine                 | Oggetto e posizione                                                                                                                                                           | 
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Dead_Regulator.webp">}} | **Avviso taglia: Junders Plunkett**, sul cadavere di un giustiziere all'ingresso della stazione settentrionale di Arlington. È necessaria l'abilità extra Portatore di legge |
+
+</div>

@@ -15,7 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Il bacino della contea di Montgomery è un impianto di trattamento delle acque abbandonato e si trova a nord-ovest del casa di riposo Reclining Groves.
+<div class="fo3">
+
+Il **bacino della contea di Montgomery** è un impianto di trattamento delle acque abbandonato e si trova a nord-ovest del casa di riposo Reclining Groves.
 
 | Mappa                      | Panoramica                            |
 | -------------------------- | ------------------------------------- |
@@ -25,3 +27,6 @@ Il bacino della contea di Montgomery è un impianto di trattamento delle acque a
 
 Altri oggetti:
 - Munizioni, al piano superiore del fienile e in un silo a nord-ovest
+
+
+</div>

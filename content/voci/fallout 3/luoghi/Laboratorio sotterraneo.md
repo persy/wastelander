@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Il laboratorio sotterraneo è una località nascosta, sotto il faro di Point Lookout. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+Il **laboratorio sotterraneo** è una località nascosta, sotto il faro di Point Lookout. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 | Mappa locale                      | Panoramica                          |
 | --------------------------------- | ----------------------------------- |
@@ -32,3 +33,4 @@ Altri oggetti:
 - 3 **libri prebellici** nell'ufficio del Dottor Stewart
 - 2 laser Gatling, nove fucili laser AER9, 14 pistole laser AEP7, 71 celle di energia per il Mesmetron, in diverse stanze 
 
+</div>

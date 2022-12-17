@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *L'incredibile Acqua Cura!* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data da Griffon al Museo di Storia, dallo Scriba Bigsley o trovando un olonastro all'Edificio autorità del museo.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -46,12 +55,15 @@ graph TD;
     id10-->id14
     id11 & id15-->id16
     id13 & id14 & id16-->id12
-    click id2 "../../luoghi/museo-di-storia"
-    click id6 "../../luoghi/jefferson-memorial"
-    click id7 "../../luoghi/edificio-autorità-del-museo"
+    
+    
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione |
 | :---: | :----------------: | ----------- |
@@ -65,8 +77,12 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - Se si ha aggiunto il FEV in *Progetto impurità* convincere Griffon a vendere Aqua Pura farà guadagnare karma negativo
 - E' possibile prendere 600 tappi dal suo inventario senza rendere ostile la folla usando il Mesmetron
-- Anche se Griffon accetta di vendere la vera Aqua Pura, lui continuerà a vedenre quella irradiata
+- Anche se Griffon accetta di vendere la vera Aqua Pura, lui continuerà a vendere quella irradiata
 
+
+
+
+</div>

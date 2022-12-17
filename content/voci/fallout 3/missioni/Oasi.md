@@ -16,8 +16,17 @@ hidden: true # Visibile nella sidebar
 private: false # Nascosto dalle ricerche
 ---
 
+<div class="fo3">
+
 *Oasi* è una missione secondaria di Fallout 3. È data da Harold all'Oasi.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -51,6 +60,9 @@ graph TD;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
 
+</div>
+</section>
+
 | Tappe |       Stato        | Descrizione                                                                            |
 | :---: | :----------------: | -------------------------------------------------------------------------------------- |
 |   5   |                    | Esegui la cerimonia del Guardiano degli alberi.                                        |
@@ -62,8 +74,11 @@ graph TD;
 |  40   | :white_check_mark: | Parla con Padre Albero Pioppo.                                                         |
 |  50   | :white_check_mark: | Parla con Madre foglia Edera.                                                          |
 
-Note:
+**Note**:
 - Con le abilità Donatore di vita e Amico degli Animali saranno sbloccate altre opzioni di dialogo con Pioppo
 - Uccidere Harold è considerato un atto così abominevole da essere citato nel finale del gioco, a meno che non si sia fatta esplodere la bomba di Megaton o ucciso gli abitanti di Rivet City, considerati atti ancora più crudeli
 - È possibile uccidere Harold dopo aver completato la missione
 - Sapling Yew darà il suo orsetto dopo una sfida Eloquenza o con l'abilità Bambino dentro, prima del completamento della missione. Possedere l'orsetto fa guadagnare un bonus permanente di 10 punti all'Eloquenza
+
+
+</div>

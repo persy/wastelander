@@ -16,7 +16,10 @@ hidden: true
 private: false 
 ---
 
-I rottami del camion sono un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trovano a nord-ovest della Cattedrale Arca e Spirito santo.
+<div class="fo3">
+
+
+I **rottami del camion** sono un luogo disponibile solo con il DLC *Point Lookout* di Fallout 3. Si trovano a nord-ovest della Cattedrale Arca e Spirito santo.
 
 | Mappa                        | Panoramica               |
 | ---------------------------- | ------------------------ |
@@ -30,4 +33,4 @@ I rottami del camion sono un luogo disponibile solo con il DLC *Point Lookout* d
 Altri oggetti:
 - 2-4 sacchi di lievito, nelle casse
 
-
+</div>

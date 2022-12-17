@@ -15,8 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Il drive-in Silver Lining è un cinema drive-in e si trova a nord-ovest di Paradise Falls e a nord-est dell'Accademia Roosevelt.
+
+Il **drive-in Silver Lining** è un cinema drive-in e si trova a nord-ovest di Paradise Falls e a nord-est dell'Accademia Roosevelt.
 
 | Mappa                                        | Panoramica                                        |
 | -------------------------------------------- | ------------------------------------------------- |
@@ -26,3 +28,4 @@ Il drive-in Silver Lining è un cinema drive-in e si trova a nord-ovest di Parad
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/Silver_Lining_Drive-In_Grognak_the_barbarian.webp">}} | **Grognak il barbaro**, nella baracca a nord-ovest, in cima a una pila di libri sul tavolo |
 
+</div>

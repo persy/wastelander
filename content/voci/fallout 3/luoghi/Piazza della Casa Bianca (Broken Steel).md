@@ -15,7 +15,10 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-La piazza della Casa Bianca è immediatamente ad est di quella che una volta era la Casa Bianca ed è zona di battaglia costante tra la Confraternita d'Acciaio e i supermutanti.
+La **piazza della Casa Bianca** è immediatamente ad est di quella che una volta era la Casa Bianca ed è zona di battaglia costante tra la Confraternita d'Acciaio e i supermutanti.
 
 *Vedi [Pennsylvania Avenue](../pennsylvania-avenue)*
+
+</div>

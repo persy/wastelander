@@ -15,7 +15,9 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-Baracca dei predatori è una località non contrassegnata e si trova a est delle rovine di Bethesda, a nord dell'edificio Chryslus e a sud dell'Armeria di Wheaton.
+<div class="fo3">
+
+La **baracca dei predatori** è una località non contrassegnata e si trova a est delle rovine di Bethesda, a nord dell'edificio Chryslus e a sud dell'Armeria di Wheaton.
 
 | Mappa                    | Panoramica           |
 | ------------------------ | -------------------- |
@@ -28,3 +30,6 @@ Baracca dei predatori è una località non contrassegnata e si trova a est delle
 
 Altri oggetti:
 - **Super pugnale**, nell'inventario di uno dei predatori
+
+
+</div>

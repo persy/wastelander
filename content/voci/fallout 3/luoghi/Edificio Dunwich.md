@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-L'edificio Dunwich è un edificio di  uffici in rovina situato nel punto più sud-ovest della mappa, a sud di Girdershade e all'estremo ovest della Torre Tenpenny. È infestato dai ghoul.
+L'**edificio Dunwich** è un edificio di  uffici in rovina situato nel punto più sud-ovest della mappa, a sud di Girdershade e all'estremo ovest della Torre Tenpenny. È infestato dai ghoul.
 
 | Mappa                                        | Panoramica                               |
 | -------------------------------------------- | ---------------------------------------- |
@@ -39,5 +40,5 @@ L'edificio Dunwich è un edificio di  uffici in rovina situato nel punto più su
 | {{<figure src="fo3/Dunwich_Bld._Jaime's_personal_journal_8.jpg">}}    | **Diario personale di Jaime: voce 8**, al primo livello della sezione rovine, su una scrivania con il terminale del computer (Scienza 25) |
 | !{{<figure src="fo3/Dunwich_Bld._Jaime's_personal_journal_9.jpg">}}   | **Diario personale di Jaime: voce 9**, su una scrivania appena dopo l'ingresso alle camere sotterranee virulente                          |
 
-
+</div>
 

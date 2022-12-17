@@ -16,7 +16,12 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
+{{< toc hide_on="xl" >}}
+
 TODO
+
+<div class="fo3">
+
 
 ### Distretti
 - [Distretto di Anacostia](../stazione-interscambio-anacostia)
@@ -117,3 +122,4 @@ TODO
 - [Tunnel di Warrington](../tunnel-di-warrington)
 - [Vernon Est/Parco Takoma](../vernon-est-parco-takoma)
 
+</div>

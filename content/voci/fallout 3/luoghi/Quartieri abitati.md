@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-I quartieri abitati sono un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
+<div class="fo3">
+
+I **quartieri abitati** sono un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
 Gli alieni stessi apparentemente lo usano come luogo per dormire in piccole camere di stasi sparse per l'area centrale, e hanno fortificato la posizione con due coppie di generatori di campi di forza.
 
 Gli alloggi sono composti da tre stanze principali collegate da corridoi.
@@ -30,8 +32,8 @@ Gli alloggi sono composti da tre stanze principali collegate da corridoi.
 | {{<figure src="fo3/Alien_captive_recording_log_18_living_quarters.webp">}}  |      **Registrazione prigioniero 23**, TODO         |
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
-
+</div>
 

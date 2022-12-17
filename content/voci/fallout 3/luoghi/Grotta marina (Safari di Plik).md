@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-La grotta marina (nella versione inglese *Coastal grotto*) è una piccola caverna dove prende luogo il *Safari di Plik*. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
+<div class="fo3">
+
+La **grotta marina** (nella versione inglese *Coastal grotto*) è una piccola caverna dove prende luogo il *Safari di Plik*. E' disponibile solo con il DLC *Point Lookout* di Fallout 3.
 
 Non va confusa con la *Grotta marina (Imbarcazione naufragata)*
 
@@ -32,5 +34,5 @@ Non va confusa con la *Grotta marina (Imbarcazione naufragata)*
 Altri oggetti:
 - **L'accetta**, data da Plik come ricompensa per aver completato *Safari di Plik*.
 
-
+</div>
 

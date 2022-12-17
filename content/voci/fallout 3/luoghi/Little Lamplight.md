@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-Little Lamplight è un insediamento ricavato da una serie di caverne un tempo attrazione, gestita e popolata interamente da bambini di età inferiore ai 16 anni.
+**Little Lamplight** è un insediamento ricavato da una serie di caverne un tempo attrazione, gestita e popolata interamente da bambini di età inferiore ai 16 anni.
 
 | Mappa                                        | Mappa locale                                     | Panoramica                                        |
 | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------- |
@@ -34,3 +35,4 @@ Altri oggetti:
 - **Pigiama spaziale** , indossato da Ape
 - **Vestito da topo di caverna per bambino** e **cappello da Murray the Mole per bambino**, indossati da Zip
 
+</div>

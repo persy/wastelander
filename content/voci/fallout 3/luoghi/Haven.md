@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-Haven era uno dei tanti grattacieli nel centro di Pittsburgh e ora quartier generale dei predatori del Pitt. E' disponibile solo con il DLC *The Pitt* di Fallout 3
+L'**Haven** era uno dei tanti grattacieli nel centro di Pittsburgh e ora quartier generale dei predatori del Pitt. E' disponibile solo con il DLC *The Pitt* di Fallout 3
 
 | Mappa               | Mappa locale                 | Panoramica               |
 | ------------------- | ---------------------------- | ------------------------ |
@@ -31,3 +32,4 @@ Haven era uno dei tanti grattacieli nel centro di Pittsburgh e ora quartier gene
 Altri oggetti:
 - **Diario di Ashur**, nella cassaforte di Ashur al piano superiore 
 
+</div>

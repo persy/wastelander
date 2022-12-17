@@ -17,6 +17,7 @@ private: false # Nascosto dalle ricerche
 
 {{< toc hide_on="xl" >}}
 
+<div class="fnv">
 
 ## Armi da fuoco
 ### Pistole
@@ -654,5 +655,7 @@ private: false # Nascosto dalle ricerche
 | Rullino della macchina fotografica |                                                                                                                                              Codac R9000                                                                                                                                             |      0.01      |                  standard                 |        1        |                                                Nessun danno<br>Ispirazione classica                                               |                                                                                                                                                                               |
 | Chiodi                             |                                                                                                                                         Sparachiodi H&H Tools                                                                                                                                        |      0.01      |                  standard                 |        1        |                                                          SD bersaglio -5                                                          |                                                                                                                                                                               |
 |                                    |                                                                                                                                                                                                                                                                                                      |                |                   dardo                   |        1        |                                                         Spara stile fucile                                                        |                                                                                                                                                                               |
+
+</div>
 
 </div>

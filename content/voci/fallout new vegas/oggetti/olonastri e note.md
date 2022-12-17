@@ -16,7 +16,7 @@ private: false # Nascosto dalle ricerche
 ---
 
 
-
+<div class="fnv">
 
 ## Gioco principale
 
@@ -394,5 +394,5 @@ private: false # Nascosto dalle ricerche
 
 </div>
 
-
+</div>
 

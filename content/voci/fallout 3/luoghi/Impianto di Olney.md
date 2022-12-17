@@ -16,7 +16,9 @@ hidden: true
 private: false 
 ---
 
-Impianto di Olney è una vecchia centrale elettrica disponibile solo con il DLC *Broken Steel* di Fallout 3 e acccessibile attraverso le fogne di Olney.
+<div class="fo3">
+
+**Impianto di Olney** è una vecchia centrale elettrica disponibile solo con il DLC *Broken Steel* di Fallout 3 e accessibile attraverso le fogne di Olney.
 
 | Mappa                    | Mappa locale                       | Panoramica                  |
 | ------------------------ | ---------------------------------- | --------------------------- |
@@ -26,4 +28,4 @@ Altri oggetti:
 - **Bobina di Tesla**, all'interno del reattore centrale
 - **Energie aliene**, al piano inferiore nell'area appena prima della bobina di Tesla
 
-
+</div>

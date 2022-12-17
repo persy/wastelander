@@ -16,8 +16,9 @@ hidden: true
 private: false 
 ---
 
+<div class="fo3">
 
-L'area fabbricazione robot è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
+L'**area fabbricazione robot** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fallout 3, all'interno dell'astronave omonima.
 
 
 | Mappa locale | Panoramica |
@@ -29,6 +30,7 @@ L'area fabbricazione robot è un luogo disponibile solo con il DLC *Mothership Z
 | {{<figure src="fo3/Alien_power_cells_robot_assembly.webp">}}        |  44 **energie aliene**, vicino a uno scaffale nella prima camera al piano di inferiore                   | 
 
 
-Note:
+**Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile
 
+</div>

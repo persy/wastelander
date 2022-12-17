@@ -13,7 +13,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
-L'area campeggio nazionale Everglow si trova a nord-est di Little Lamplight e ad ovest del villaggio abbandonato.
+<div class="fo3">
+
+
+L'**area campeggio nazionale Everglow** si trova a nord-est di Little Lamplight e ad ovest del villaggio abbandonato.
 
 | Mappa                       | Panoramica              |
 | --------------------------- | ----------------------- |
@@ -27,4 +30,6 @@ L'area campeggio nazionale Everglow si trova a nord-est di Little Lamplight e ad
 Altri oggetti:
 - 11 **bombe di zucchero**, nello stesso camion
 - **Nuka-Cola Quantum**, a est dell'area di campeggio e a nord-ovest dello smaltimento rifiuti Fratelli Jalbert, vicino a un cartellone pubblicitario da bowling
+
+</div>
 

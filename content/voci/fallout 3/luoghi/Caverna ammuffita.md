@@ -15,9 +15,10 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
-La caverna ammuffita è una località non contrassegnata, situata ad est della discarica di Mason Dixon.
+La **caverna ammuffita** è una località non contrassegnata, situata ad est della discarica di Mason Dixon.
 
 | Mappa                                     | Panoramica                            |
 | ----------------------------------------- | ------------------------------------- |
@@ -28,4 +29,4 @@ La caverna ammuffita è una località non contrassegnata, situata ad est della d
 Altri oggetti:
 - ?
 
-
+</div>

@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Spiriti e fantasmi* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -34,13 +43,16 @@ graph TD;
     id9(300 PE, abilità extra: Potere di Punga!):::rewardfo3
     id10(Prossima missione: <b>Sento voci</b>):::questfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10
-    click id2 "../../luoghi/villa-di-calvert"
-    click id3 "../../luoghi/cattedrale-arca-&spirito-santo"
-    click id5 "../../luoghi/palude-sacra"
+    
+    
+    
     click id10 "../sento-voci"
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 | Tappe |       Stato        | Descrizione                                         |
 |:-----:|:------------------:| --------------------------------------------------- |
@@ -50,3 +62,7 @@ graph TD;
 |  150  | :white_check_mark: | Torna alla Cattedrale.                              |
 
 
+
+
+
+</div>

@@ -15,8 +15,9 @@ tags: "Luoghi della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
-Lo Statesman Hotel è un edificio di dodici piani situato a Vernon Square nelle rovine di Washington, D.C. Per raggiungerlo si deve passare attraverso l'ospedale Nostra Signora della Speranza e attraversare il traliccio caduto. L'edificio è infestato da supermutanti e centauri.
+Lo **Statesman Hotel** è un edificio di dodici piani situato a Vernon Square nelle rovine di Washington, D.C. Per raggiungerlo si deve passare attraverso l'ospedale Nostra Signora della Speranza e attraversare il traliccio caduto. L'edificio è infestato da supermutanti e centauri.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -36,5 +37,7 @@ Altri oggetti:
 - **Eugene**, nell'inventario di Brick
 - **Libro di musica**, tetto,  vicino ai leggii e alle sedie
 
-Note:
+**Note**:
 - **Una nota dal padre di Little Moonbeam** è utile per ottenre la **"Super" mitragliatrice da 10mm di Sydney** da Sydney dopo aver completato *Furto della dichiarazione d'indipendenza*
+
+</div>

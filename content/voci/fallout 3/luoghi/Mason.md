@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Il distretto di Mason è un'area di Washington, D.C. situata sul lato ovest del fiume Potomac ed è invaso da super mutanti. È collegato alla metro Falls Church/Mason Dst, dalla metropolitana allagata e dal tunnel di servizio Hubris Comis, accessibile nei pressi del molo di Wilhelm.
+Il distretto di **Mason** è un'area di Washington, D.C. situata sul lato ovest del fiume Potomac ed è invaso da super mutanti. È collegato alla metro Falls Church/Mason Dst, dalla metropolitana allagata e dal tunnel di servizio Hubris Comis, accessibile nei pressi del molo di Wilhelm.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -29,4 +30,4 @@ Il distretto di Mason è un'area di Washington, D.C. situata sul lato ovest del 
 |  {{<figure src="fo3/Deans_Electronics_Hubris_Comics_PPS.webp">}} |  **Elettronica di Dean**, nel rifugio di preservazione Pulowski, appena fuori dalla Hubris Comics |
 |  {{<figure src="fo3/Guns_and_Bullets_Mason_District_South.webp">}} | **Pistole e proiettili**, presso il covo del cecchino al secondo piano di un edificio che si affaccia sul parco, angolo sud-ovest, su un tavolo  |
 
-
+</div>

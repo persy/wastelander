@@ -15,6 +15,7 @@ tags: "Luoghi della Zona contaminata della Capitale"
 hidden: true
 ---
 
+<div class="fo3">
 
 
 La tenda abbandonata è un luogo non contrassegnato situato a nord della discarica di Mason Dixon e a sud-est del Gruppo satelliti SatCom NN-03d. Si trova approssimativamente a metà strada fra la discarica di Mason Dixon e la centrale elettrica MDPL-21. 
@@ -29,4 +30,4 @@ La tenda abbandonata è un luogo non contrassegnato situato a nord della discari
 | {{<figure src="fo3/Shack_with_Shishkebab_Schematics.webp">}}    | **Schemi - Shishkebab**, su un tavolo in una baracca a nord-ovest             |
 | {{<figure src="fo3/FO3_abandoned_tent_interior.webp">}}         | **Nuka-Cola Quantum**, su un tavolo nell'angolo nord-ovest                    |
 
-
+</div>

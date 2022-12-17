@@ -17,8 +17,17 @@ private: false # Nascosto dalle ricerche
 ---
 
 
+<div class="fo3">
+
 *Operaio del laminatoio* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Everett alla Stadera.
 
+
+<section class="chart-collapse">
+<input type="checkbox" name="collapse2" id="handle2">
+<h3 class="handle">
+<label for="handle2">Clicca per mostrare il diagramma</label>
+</h3>
+<div class="content">
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
@@ -29,10 +38,13 @@ graph TD;
     id4(Porta le barre <br />d'acciaio ad Everett)
     id5(Vestiti dell'operaio, <br />Elmo della filtrazione, <br />Tirapugni di acciaio, <br />Armatura in metallo del maestro, <br />Armatura in metallo del maestro, <br />Blaster in metallo, Armatura ordigno, <br />Ribelle di cuoio, <br />Il battitore, <br />Perforatrice, <br />Armatura atomica tribale di Ashur):::rewardfo3
     id1-->id2-->id3-->id4-->id5
-    click id2 "../../luoghi/stadera"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```
+
+</div>
+</section>
 
 
 | N. lingotti | Premio                            | Peso |
@@ -86,7 +98,11 @@ graph TD;
 
 
 
-Note:
+**Note**:
 - I primi lingotti sono nella stadera (79), 18 nell'impianto di rifornimento e 3 nell'area abbandonata, prima dell'uscita ma sbloccabile solo aver preso i primi dieci lingotti
 - E' necessario avere Scasso 50 per accedere a una stanza contenente dei lingotti; rompere la serratura di questa stanza farà tecnicamente fallire questa missione
 
+
+
+
+</div>

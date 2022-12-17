@@ -16,9 +16,10 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
 
-Paradise Falls è il quartier generale per tutte le attività degli schiavisti di tutta la Zona contaminata della Capitale, sorto dalle rovine di un centro commerciale.
+**Paradise Falls** è il quartier generale per tutte le attività degli schiavisti di tutta la Zona contaminata della Capitale, sorto dalle rovine di un centro commerciale.
 
 | Mappa                                      | Mappa locale                                   | Panoramica                             |
 | ------------------------------------------ | ---------------------------------------------- | -------------------------------------- |
@@ -40,3 +41,4 @@ Altri oggetti:
 - **Cappuccio dell'Uomo nero**, dato da Eulogy Jones come ricompensa per la missione non contrassegnata *The Kid-Kidnapper*
 - **Pugno potenziato**, in un contenitore bianco a sinistra entrando nella caserma
 
+</div>

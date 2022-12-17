@@ -16,9 +16,13 @@ private: true # Nascosto dalle ricerche
 tags: "Luoghi di Fallout 3"
 ---
 
-TODO
 
 {{< toc hide_on="xl" >}}
+
+<div class="fo3">
+
+
+TODO
 
 - [Cattedrale Arca & Spirito santo](../cattedrale-arca-&-spirito-santo)
 - [Cimitero Arca & Spirito santo](../cimitero-arca-&-spirito-santo)
@@ -59,3 +63,7 @@ TODO
 - [Rottami del camion](../rottami-del-camion)
 - [Campo di detenzione Tortora](../campo-di-detenzione-tortora)
 - [USS Ozymandias](../uss-ozymandias)
+
+
+</div>
+
