@@ -33,22 +33,55 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Oh, Papa</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Papa Khan)
+    id3(Parla con Regis <br />fuori dalla casa lunga)
+    id4(Ottieni il supporto <br />dei Great Khan <br />più influenti)
+    id5(Infama Karl davanti<br /> a Papa Khan)
+    id6(Ottieni il <br />supporto di <br />Regis)
+    id7(Ottieni il <br />supporto <br />Jack e Diane) 
+    id8(Ottieni il <br />supporto <br />di Melissa)
+    id9(Aba Daba Honeymoon):::questfnv
+    id10(<b>Eloquenza 50</b>: <br />convinci Jack <br />a supportarti)
+    id11(Di' a Melissa <br />che la Legione <br />non ammetterà mai <br />una donna <br />fra i soldati)
+    id12(Trova il suo <br />libro mastro al <br />Forte e consegnalo <br />a Regis)
+    id13(<b>Eloquenza 75</b>: <br />provocalo e rivela <br />i suoi piani davanti <br />agli altri Khan) 
+    id14(Ottenuto il supporto <br />degli altri Khan, <br />decidi il destino <br />della tribù<br />parlando con <br />Papa Khan)
+    id15(<b>Eloquenza 75</b>: <br />convinci Papa Khan a <br />lasciare il Mojave o <br />a condurre un attacco <br />suicida a Hoover Dam)
+    id17(Parla con il Colonnello <br />Cassandra Moore)
+    id18(700 PE, <br />500 tappi <br />oppure 5 SMG da 10mm <br />oppure 2 Super Stimpak):::rewardfnv
+    id19("(Opzionale) <br />Se sei già idolatrato <br />con l'RNC, elimina tutti <br />i Great Khan")
+
+    id20(Convincilo a sciogliere <br />l'alleanza con Caesar)
+    id21(Vai da Julie Farkas <br />all'Old Mormont Fort)
+    id22(Vai da Ezekiel alla <br />Base commerciale 188)
+    id23("Ottieni il libro <br />#quot;Trotta trotta <br />cavallino: La <br />storia dell'Impero <br />Mongolo#quot; e <br />dallo a Papa Khan")
+    id24(Sancisci l'alleanza <br />fra i Great Khan e l'RNC)
     
+    id26("(Opzionale) Se si è amati <br />dall'RNC, parla con <br />il Colonnello <br />Cassandra Moore<br />per cingere un'alleanza <br />fra i Khan l'RNC")
+    id27(Ottieni il supporto <br />degli altri Khan)
+    id28(Uccidi furtivamente <br />Papa Khan e <br />sostituiscilo con <br />Regis)
+    id29(Consegnalo a Papa Khan e <br />decidi le sorti dei Khan)
+
+
+
+    id1-->id2-->id20-->id27-->id3-->id4 & id5
+    id4-->id6 & id7 & id8
+    id6--->id14
+    id7-->id9-->id14
+    id7-->id10-->id14
+    id5-->id12 & id13--->id14
+    id8-->id11-->id14
+
+    id14-->id15------>id24-->id17-->id18
+    
+    id1-->id19----------------->id17
+
+    id14---->id21-->id22-->id23--->id29
+    
+
+    id14-->id26-->id28----->id24
+
+    id29-->id24
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
@@ -90,10 +123,10 @@ graph TD;
 
 
 **Note**:
-- Se si uccide Papa Khan e non si ha finito la missione *Perché non possiamo essere amici?*, essa fallirà istantaneamente 
-- Se il giocatore sceglie le sfide Eloquenza per screditare Karl, può succedere che sia impossibile usare il suo diario come prova per guadagnare il supporto di Regis; in questo è necessario usare il suo libro mastro per persuadere Regis 
-- Se, a fine missione, si chiede a Papa Khan di allearsi con l'RNC e poi di restare nei paraggi, la missione resterà inconclusa fintanto che non si parlerà con Regis/Moore e si avrà assassinato Papa Khan 
-- Se tutti gli ufficiali comandanti a Camp Forlorn Hope sono stati uccisi in *Siamo la Legione*, Papa Khan informerà il Corriere che, dati gli eventi, verrà eletto prossimo capo dei Khan; inoltre, uccidendo Papa Khan furtivamente nel sonno, il Corriere automaticamente diventerà il nuovo leader e, informato Regis, riceverà l'approvazione e la fama degli altri Khan, completando la missione
+- Se uccidi Papa Khan e non hai finito la missione *Perché non possiamo essere amici?*, questa fallirà istantaneamente 
+- Se scegli le sfide Eloquenza per screditare Karl, può succedere che sia impossibile usare il suo diario come prova per guadagnare il supporto di Regis; in questo è necessario usare il suo libro mastro per persuadere Regis 
+- Se, a fine missione, chiedi a Papa Khan di allearsi con l'RNC e poi di restare nei paraggi, la missione resterà inconclusa fintanto che non si parlerà con Regis/Moore e si avrà assassinato Papa Khan 
+- Se tutti gli ufficiali comandanti a Camp Forlorn Hope sono stati uccisi in *Siamo la Legione*, Papa Khan ti informerà che, dati gli eventi, verrà eletto prossimo capo dei Khan; inoltre, uccidendo Papa Khan furtivamente nel sonno, automaticamente diventerai il nuovo leader e, informato Regis, riceverai l'approvazione e la fama degli altri Khan, completando la missione
 
 
 </div>

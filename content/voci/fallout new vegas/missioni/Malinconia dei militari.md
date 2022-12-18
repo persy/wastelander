@@ -33,23 +33,50 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Malinconia dei militari</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Re)
+    id3(Assumi Orris come <br />guardia del corpo e seguilo <br />fino all'imboscata sospetta)
+    id4(<b>Intelligenza 6</b>, <br /><b>Baratto 60</b>: <br />smaschera la truffa)
+    id5(<b>Medicina 30</b>: <br />scopri che gli assalitori <br />stavano fingendo)
+    id6(Spara agli assalitori <br />o uccidi Orris)
+    id7(Torna dal Re) 
+    id8(Parla con Roy e Wayne <br />all'Old Mormon Fort a <br />proposito del loro assalto)
+    id9("(Opzionale) <br />Parla con Julie Farkas <br />per ottenere ulteriori <br />informazioni")
+    id10(Parla con i <br />missionari dell'RNC)
+    id11(<b>Eloquenza 50</b>: <br />menti al missionario <br />per poter passare)
+    id12(<b>Baratto 70</b>: <br />corrompi il missionario <br />con 100 tappi)
+    id13("Usa le parole d'ordine <br /> #quot;Tandi#quot;, <br /> #quot;Shady Sands#quot; e <br />#quot;Un orso a due teste#quot;")
+    id14(Borseggia la password <br />dal missionario) 
+    id15(Parla con Elizabeth Kieran <br />al Negozio rovinato) 
+    id16("(Opzionale) <br />Ottieni maggiori informazioni <br />sull'assalto nominando <br />Julie Farkas") 
+    id17(Torna dal Re e <br />accordati con Pacer) 
+    id18(<b>Baratto 50</b>: <br />Mantieni il silenzio <br />per 300 tappi) 
+    id19(Malmenalo <br />per 200 tappi) 
+    id20(Ignoralo e <br />spiffera tutto al Re) 
+    id21(Risolvi la sparatoria <br />fra Pacer e l'RNC) 
+    id22(Uccidi le truppe RNC) 
+    id23(Convinci Kieran che <br />è stato un malinteso) 
+    id24(Infamia dell'RNC):::rewardfnv
+    id25(Se hai detto al Re <br />che Kieran sfamava solo <br />i membri dell'RNC, <br />dovrai aiutare Pacer) 
+    id26(Se hai spifferato <br />tutto al Re, <br />Pacer proporrà una <br />soluzione pacifica) 
+    id27(Torna dal Re) 
+    id28(1500 PE, <br />favore del Re):::rewardfnv 
+    id29(Ottieni l'accesso <br />gratuito alla Strip):::rewardfnv 
+    id30(Vestito da King, <br />permesso di entrare nei King):::rewardfnv 
+    id31(1000 tappi):::rewardfnv
+    id32(Supporto nella missione <br /><b>Mossa dei King</b>):::rewardfnv
+
+    id1-->id2-->id3-->id4 & id5 & id6-->id7-->id8-->id9-->id10-->id11 & id12 & id13 & id14-->id15-->id16-->id17-->id18 & id19 & id20-->id21-->id22 & id23
+
+    id22--->id24
+
+    id23-->id25 & id26
+    id25-->id24
+
+    id24 & id26-->id27-->id28-->id29 & id30 & id31 & id32
+
+
     
-    click id "../TODO"
+    click id32 "../mossa-dei-king"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -70,7 +97,7 @@ graph TD;
 |                           65                          |            | Torna dal Re con le tue scoperte.                                                                                                                                           |
 |                           70                          |            | Dirigiti a uno dei campi squatter a Freeside e scopri perché i soldati dell'RNC sono entrati nell'area.                                                                     |
 |                           71                          |            | (Opzionale) Parla con Julie Farkas e scopri se i Seguaci sanno qualcosa riguardo alla situazione.                                                                           |
-|                           72                          |            | ((Opzionale) Parla con il Maggiore Elizabeth Kieran e fai il nome di Julie Farkas se è restia a collaborare.                                                                |
+|                           72                          |            | (Opzionale) Parla con il Maggiore Elizabeth Kieran e fai il nome di Julie Farkas se è restia a collaborare.                                                                |
 |                           73                          |            | (Opzionale) Informa il Re che l'RNC aveva precedentemente mandato un inviato a discutere della distribuzione dei rifornimenti a Freeside                                    |
 |                           75                          |            | Chiedi in giro al campo squatter per trovare un indizio sul motivo per cui i soldati dell'RNC sono a Freeside.                                                              |
 |                           80                          |            | Indaga sulle voci di una distribuzione notturna gratuita di cibo e acqua nella parte nordoccidentale di Freeside.                                                           |

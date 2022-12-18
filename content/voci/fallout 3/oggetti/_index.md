@@ -31,13 +31,16 @@ TODO
 {{< cta cta_text="Libri delle abilità" cta_link="libri-delle-abilita"  cta_new_tab="false" >}}
 -->
 
-<a href="#" class="btn capitol">Armature e vestiti (TODO)</a>
-<a href="#" class="btn capitol">Armi (TODO)</a>
+<a href="armature e vestiti" class="btn capitol">Armature e vestiti</a>
+<a href="armi" class="btn capitol">Armi</a>
+<a href="munizioni" class="btn capitol">Munizioni</a>
 <a href="bamboline" class="btn capitol">Bamboline</a>
-<a href="#" class="btn capitol">Consumabili (TODO)</a>
+<a href="consumabili" class="btn capitol">Consumabili</a>
 <a href="creazione" class="btn capitol">Creazione</a>
 <a href="libri-abilita" class="btn capitol">Libri abilità</a>
+
+<!--
 <a href="#" class="btn capitol">Miscellanea (TODO)</a>
 <a href="#" class="btn capitol">Olonastri e note (TODO)</a>
-
+-->
 

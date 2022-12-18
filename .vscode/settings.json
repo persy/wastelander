@@ -1,7 +1,8 @@
 {
     "spellright.documentTypes": [
         "latex",
-        "plaintext"
+        "plaintext",
+        "markdown"
     ],
     "spellright.language": [
         "it"
@@ -17,6 +18,7 @@
         "Fiutagesto",
         "Grognak",
         "Hopeville",
+        "Mothership",
         "Nellis",
         "REPCONN",
         "Securitron",

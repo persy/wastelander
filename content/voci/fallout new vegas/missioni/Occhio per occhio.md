@@ -33,23 +33,29 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Occhio per occhio</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Sergente <br />maggiore Astor a <br />Camp Searchlight a <br />proposito di Cottonwood Cove)
+    id3(I legionari di <br />Cottonwood sono <br />già morti)
+    id4(1000 PE, <br />200 tappi, <br />fama per l'RNC):::rewardfnv
+    id5(Accetta di mettere <br />una cimice e trova i <br />documenti della Legione)
+    id6(Torna a Cottonwood Cove e <br />decidi da che parte stare)
+    id7(Pianta la <br />cimice dell'RNC) 
+    id8(Trova i piani d'attacco <br />della Legione e le note <br />della pattuglia della <br />Legione)
+    id9(Porta le vere <br />informazioni al <br />Sergente maggiore Astor)
+    id10(500 PE, <br />fama per l'RNC):::rewardfnv
+    id11("(Opzionale) <b>Scasso 50</b>: <br />uccidi i legionari <br />usando i barili <br />radioattivi dal camion in <br />cima al crinale")
+    id12(1000 PE, <br />250 tappi, <br />fama per l'RNC, <br />infamia per la Legione):::rewardfnv
+    id13("(Fallimento) <br />Ho lasciato il mio cuore"):::questfnv 
+    id14(Rivela la cimice <br />ad Aurelius of Phoenix)
+    id15(Accetta le vecchie <br />scartoffie della Legione, <br />le vecchie note <br />della pattuglia <br />della Legione e i <br />vecchi piani di attacco <br />della Legione)
+    id16(Porta le informazioni <br />obsolete al Sergente <br />maggiore Astor)
+    id17(500 PE, <br />150 tappi, <br />fama per la Legione):::rewardfnv
+
+    id1-->id2-->id3-->id4
     
-    click id "../TODO"
+    id2-->id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13
+    id6-->id14-->id15-->id16---->id17
+    
+    click id13 "../ho-lasciato-il-mio-cuore"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

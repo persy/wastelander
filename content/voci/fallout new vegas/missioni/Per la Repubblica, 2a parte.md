@@ -147,11 +147,11 @@ graph TD;
 
 
 **Note**:
-- Se si ha deciso di intraprendere la linea di missioni di Yes Man, ad un certo punto risulterà impossibile salvare il Presidente Kimball, o perché la reputazione con l'RNC sarà diventata troppo bassa o perché egli stesso lo vorrà morto, facendo fallire la missione Lo saprai quando succederà. Il gioco tuttavia sembra che continui a considerare Kimball vivo e le truppe RNC lo aspetteranno a Hoover Dam per il discorso; lasciando Hoover Dam e tornando da Moore, ci darà la ricompensa come se lo avessimo salvato
-- Se si ottiene questa missione prima da Yes Man che dal Colonnello Moore, il Corriere deve completarla per lui; Moore gli chiederà di proteggere il Presidente, ma il Mercenario Grant non avrà nessuna opzione di dialogo, rendendo impossibile il completamente di tale missione: per evitare questo bug è consigliabile non parlare a Yes Man completamente ed evitare che assegni al giocatore la missione
-- Completando *La Casa vince sempre, IV*, questa missione fallirà; va notato che se il giocatore ha già iniziato Che poco ne sappiamo, quando finirà *La Casa vince sempre, III* completerà in automatico anche *La Casa vince sempre, IV*, fallendo però quest'ultima
-- Non sarà possibile scendere a patti con i Gret Khan se si ha già ultimato in precedenza *Oh, Papa*
-Se si ha già completato *Oh, Papa*, non sarà possibile parlare a Moore di Regis e di una possibile alleanza con i Khan; l'unico modo per proseguire è resettare la missione con il comando `resetquest 00140c3a`
+- Se hai deciso di intraprendere la linea di missioni di Yes Man, ad un certo punto risulterà impossibile salvare il Presidente Kimball, o perché la reputazione con l'RNC sarà diventata troppo bassa o perché egli stesso lo vorrà morto, facendo fallire  dunque la missione *Lo saprai quando succederà*. Il gioco tuttavia sembra che continui a considerare Kimball vivo e le truppe RNC lo aspetteranno comunque a Hoover Dam per il discorso; lasciando Hoover Dam e tornando da Moore, ci darà la ricompensa come se lo avessimo salvato
+- Se ottieni questa missione prima da Yes Man che dal Colonnello Moore, la devi completarla per Yes Man; Moore gli chiederà di proteggere il Presidente, ma il Mercenario Grant non avrà nessuna opzione di dialogo, rendendo impossibile il completamento di tale missione per l'RNC: per evitare questo bug è consigliabile non parlare a Yes Man così da evitare assegni al giocatore la missione
+- Completando *La Casa vince sempre, IV*, questa missione fallirà; va notato che se hai già iniziato *Che poco ne sappiamo*, quando finirà *La Casa vince sempre, III* completerà in automatico anche *La Casa vince sempre, IV*, fallendo però quest'ultima
+- Non sarà possibile scendere a patti con i Great Khan se hai già ultimato in precedenza *Oh, Papa*
+- Se si ha già completato *Oh, Papa*, non sarà possibile parlare a Moore di Regis per una possibile alleanza con i Khan; l'unico modo per proseguire è resettare la missione con il comando `resetquest 00140c3a`
 - Se i Great Khan sono stati convinti a lasciare il Mojave, è possibile informare Moore che non daranno più problemi
 
 

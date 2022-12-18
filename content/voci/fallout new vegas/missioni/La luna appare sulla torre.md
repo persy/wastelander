@@ -33,21 +33,13 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La luna appare sulla torre</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
+    id2(Parla con Emily Ortal <br />davanti al Lucky 38)
+    id3(Metti una cimice <br />in un punto di accesso <br />della rete dati <br />del Lucky 38 per i <br />Seguaci dell'Apocalisse)
+    id4(Torna da Emily Ortal)
+    id5("(Opzionale) <b>Eloquenza 35</b>: <br />ottieni ulteriori <br />informazioni su Benny")
+    id6("500 PE, <br />fama per i Seguaci dell'Apocalisse <br />(scorte di medicinali con <b>Baratto 40</b>)"):::rewardfnv
     id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id1-->id2-->id3-->id4-->id5-->id6
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

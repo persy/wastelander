@@ -33,21 +33,38 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>No, non molto</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Capitano Gilles a <br />Bitter Springs)
+    id3(Parla con il <br />Luogotenente Markland <br />a proposito delle <br />scorte di medicine)
+    id4(Blues dell'infermeria di Bitter Springs):::questfnv
+    id5(Trova le scorte <br />nelle caverne di <br />rifornimento dei <br />Great Khan)
+    id6(<b>Scienza 25</b>: <br />decontamina <br />la caverna)
+    id7(Menti a Markland <br />sulla sicurezza <br />della caverna) 
+    id8(Karma negativo):::rewardfnv
+    id9(Richiedi i rinforzi <br />dagli altri campi)
+    id10(Richiedi rinforzi <br />da Camp Golf)
+    id11(Bandiere di Our Foul-Ups):::questfnv
+    id12(Parla con il <br />Sergente McCredie)
+    id13(Richiedi rinforzi <br />da Camp Forlorn Hope) 
+    id14(Ripristino di Hope):::questfnv
+    id15(Parla con il <br />Maggiore Polatli)
+    id16(Richiedi rinforzi <br />da Camp McCarran)
+    id17(Ti ho stregato):::questfnv
+    id18(Parla con il <br />Colonnello James Hsu)
+    id19(Sei già amato o <br />idolatrato dall'RNC)
+    id20(Ritorna dal Capitano Gilles)
+    id21(300 PE, <br />fama per l'RNC, <br />karma positivo):::rewardfnv
+    id22(300 PE, <br />scorte cibo, <br />20$ RNC):::rewardfnv
+    id23(300 PE, <br />munizioni, <br />100$ RNC):::rewardfnv
+
+
+    id1-->id2-->id3-->id4-->id5-->id6 & id7
+    id7-->id8
+    id8-->id9
+    id6--->id9
+    id9-->id10-->id11-->id12-->id20
+    id9-->id13-->id14-->id15-->id20
+    id9-->id16-->id17-->id18-->id20
+    id9-->id19---->id20-->id21 & id22 & id23
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

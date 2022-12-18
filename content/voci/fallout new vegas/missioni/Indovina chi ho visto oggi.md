@@ -33,21 +33,18 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Indovina chi ho visto oggi?</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai a Jacobstown e <br />parla con il Dottor Henry)
+    id3(Prendi lo Stealth Boy <br />masticato dalla <br />Caverna di Charleston)
+    id4(Torna dal Dottor Henry)
+    id5(Parla con Lily)
+    id6(Affronta Keene)
+    id7(Uccidilo assieme <br />agli altri nightkin) 
+    id8(<b>Eloquenza 80</b>: <br />convincilo ad andarsene)
+    id9(Parla con il Dottor Henry)
+    id10("(Opzionale) <b>Scienza 90</b>: <br />convincilo a usare gli <br />Stealth Boy MK II sui <br />nightstalker")
+    id11(500 PE):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6-->id7 & id8-->id9-->id10-->id11
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

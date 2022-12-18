@@ -33,21 +33,32 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Non mi fare mendicare</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai fino all'Accampamento <br />dei Great Khan e <br />parla con Melissa)
+    id3(Vai Sloan e <br />cerca la valigia<br /> nell'ufficio <br />di Chomps Lewis)
+    id4(Parla con Chomps <br />e poi con Tyrone <br />a Primm)
+    id5(Ottieni le <br />droghe da Tyrone)
+    id6(Provocalo facendolo <br />diventare ostile)
+    id7(Ruba le droghe <br />dal suo inventario) 
+    id8(Uccidilo)
+    id9(Forza 7/<br />Eloquenza 40/<br />Baratto 35/<br />Vedova nera: <br />convincilo a <br />cedere le droghe)
+    id10(Karma negativo):::rewardfnv
+    id11(Karma negativo, <br />infamia per l'RNC):::rewardfnv
+    id12(Torna da Melissa <br />e consegnale le droghe)
+    id13(Informa il Luogotenente <br />Hayes dei traffici illeciti <br />di Tyrone) 
+    id14(100 PE, <br />150 tappi, <br />droghe, <br />fama per i Great Khan):::rewardfnv
+    id15(100 PE, <br />karma positivo, <br />fama per l'RNC):::rewardfnv
+    id16(Decidi che <br />fazione appoggiare)
+
+    id1-->id2-->id3-->id4-->id5-->id6 & id7 & id8 & id9
+    id7-->id10
+    id8-->id11
+
+    id10-->id16
+    id6--->id16 
+    id9--->id16
+    id11-->id16-->id12 & id13 
+    id12-->id14
+    id13-->id15
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

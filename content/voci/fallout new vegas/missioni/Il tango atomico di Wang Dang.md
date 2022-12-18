@@ -33,21 +33,26 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Il tango atomico di Wang Dang</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con James Garret <br />all'Atomic Wrangler)
+    id3("Trova un #quot;cowboy ghoul#quot;: <br />Beatrix Russell <br />all'Old Mormon Fort")
+    id4(<b>Eloquenza 35</b>/<b>Baratto 35</b>: <br />convincila a lavorare <br />per James Garret)
+    id5(Corrompila con dell'assenzio)
+    id6("Trova un #quot;oratore diplomatico#quot;: <br />Santiago o il Vecchio Ben")
+    id7(Recluta Santiago) 
+    id8(<b>Eloquenza 50</b>/<br /><b>Uno scapolo incallito</b>/<br /><b>Vedova nera</b>: <br />recluta il Vecchio Ben)
+    id9("Trova un #quot;sex bot#quot;: <br />Fisto, al Cerulean Robotics")
+    id10(Usa la tessera d'accesso <br />al terminale per attivarlo)
+    id11(<b>Scienza 60</b>: <br />riprogrammalo)
+    id12(Ottieni l'olonastro <br />da Ralph e <br />attendi 24 ore)
+    id13(<b>Eloquenza 50</b>: <br />ottieni gratis <br />l'olonastro) 
+    id14(Pagalo 150 tappi)
+    id15(<b>Baratto 50</b>: <br />ottienilo per <br />100 tappi)
+    id16(Torna da James per <br />concludere la missione)
+    id17(450 PE, <br />400 tappi, <br />fama per Freeside):::rewardfnv
+
+    id1-->id2-->id3-->id4 & id5-->id6-->id7 & id8-->id9-->id10-->id11 & id12
+    id12-->id13 & id14 & id15-->id16-->id17
+    id11--->id16
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

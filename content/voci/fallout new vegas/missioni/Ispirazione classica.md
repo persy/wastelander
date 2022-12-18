@@ -33,21 +33,20 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ispirazione classica</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla a Michael Angelo <br />nel suo negozio)
+    id3(<b>Eloquenza 50</b>: <br />bullizza Michael Angelo)
+    id4(Fallimento <br />della missione):::questfnv
+    id5(Con la Codac R9000 <br />fai le foto alle principali <br />insegne del Mojave)
+    id6(L'insegna del <br />Bison Steve <br />a Primm)
+    id7(Il termometro <br />di Novac) 
+    id8(L'insegna di <br />Camp McCarran)
+    id9(L'insegna di <br />HELIOS One)
+    id10(La bottiglia <br />della Sede <br />Sunset Sarsaparilla)
+    id11(Ritorna da Michael Angelo)
+    id12(950 PE, <br />750 tappi, <br />fama per la Strip):::rewardfnv
+
+    id1-->id2-->id3---->id4
+    id2-->id5-->id6 & id7 & id8 & id9 & id10-->id11-->id12
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

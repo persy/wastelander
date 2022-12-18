@@ -33,21 +33,21 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Non faccio più male a nessuno</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Luogotenente Gorobets <br />a Camp McCarran <br />a proposito del <br />Caporale Betsy)
+    id3(Parla con il <br />Caporale Betsy)
+    id4(<b>Medicina 40</b><br />: diagnosticale un <br />trauma psicologico)
+    id5(<b>Eloquenza 60</b><br />: convincila che il<br /> trauma la fa <br />sembrare debole)
+    id6("Consulta gli altri <br />membri del 1° Ricognitori")
+    id7(Parla con <br />10 of Spades) 
+    id8(Parla con il <br />Caporale Sterling)
+    id9(Parla con il <br />Sergente Bitter-Root)
+    id10(Parla al <br />Luogotenente Gorobets)
+    id11(Parla con il <br />Dottor Usanagi alla<br /> Clinica Medica New Vegas)
+    id12(250 PE, <br />karma positivo, <br />fama per l'RNC):::rewardfnv
+
+    id1-->id2-->id3-->id4 & id5 & id6
+    id6-->id7 & id8 & id9-->id10
+    id4 & id5--->id10-->id11-->id12
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;

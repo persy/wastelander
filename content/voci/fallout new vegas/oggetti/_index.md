@@ -30,6 +30,7 @@ TODO
 
 <a href="armature-e-vestiti" class="btn mojave">Armature e vestiti</a>
 <a href="armi" class="btn mojave">Armi e munizioni</a>
+<a href="munizioni" class="btn mojave">Munizioni</a>
 <a href="#" class="btn mojave">Consumabili</a>
 <a href="creazione" class="btn mojave">Creazione</a>
 <a href="libri-abilita" class="btn mojave">Libri abilità</a>

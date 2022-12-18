@@ -33,21 +33,13 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La vista ai ciechi</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con l'Anziano McNamara)
+    id3(Vai nell'ufficio delle <br />trasmissioni a Black Mountain e <br />raggiungi la sala comandi)
+    id4(Installa il trasmettitore <br />di segnale remoto in <br />uno dei terminali)
+    id5(Torna dall'Anziano McNamara)
+    id6(Membro della Confraternita d'Acciaio, <br />addestramento per l'armatura atomica, <br />Armatura atomica T-45d):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
@@ -67,7 +59,8 @@ graph TD;
 
 
 **Note**:
-- Se hai sostituito McNamara con Hardin, questa missione sarà inaccessibile e sostituita da *Fatti gli affari tuoi*
+- Questa missione è disponibile solo dopo aver completato *Ancora al buio*
+- Se hai sostituito McNamara con Hardin, questa missione sarà inaccessibile e verrà sostituita da *Fatti gli affari tuoi*
 - Se hai già completato la missione *Valzer delle candele*, è possibile dire a McNamara di aver già avuto l'addestramento per l'armatura atomica 
 
 

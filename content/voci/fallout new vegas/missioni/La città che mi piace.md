@@ -33,23 +33,36 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La città che mi piace</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Johnson Nash)
+    id3(Vai all'Hotel Bison Steve <br />e parla con l'Agente Beagle)
+    id4(Ottieni le informazioni <br />su Benny, in cambio di <br />aiuto per la sua fuga)
+    id5(<b>Eloquenza 40</b>: <br />ottieni le informazioni <br />e liberalo)
+    id6(Uccidi l'Agente Beagle <br />e prendi il suo diario)
+    id7(Ritorna da Johnson Nash <br />e trova un nuovo sceriffo) 
+    id8(Parla con le <br />truppe locali dell'RNC)
+    id9(Vai da Mayers al <br />Complesso Penitenziario dell'RNC)
+    id10(Assolda Primm Slim)
+    id11(<b>Baratto 20</b>: <br />convincile a prendere <br />il controllo di Primm)
+    id12(Riesci a trovarlo <br />nel tuo cuore?):::questfnv
+    id13(<b>Eloquenza 30</b>: <br />convinci il Maggiore Knight <br />a perdonare Mayers) 
+    id14(Corrompi il <br />Maggiore Knight <br />con 200 tappi)
+    id15(<b>Scienza 30</b>: <br />riprogrammalo)
+    id16(Usa tre batterie <br />a fissione e <br />quattro conduttori)
+    id17(Parla con Johnson Nash)
+    id18(Parla con l'Agente Beagle)
+    id19(330 PE):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5 & id6-->id7-->id8 & id9 & id10
+
+    id8-->id11 & id12-->id17
+
+    id9-->id13 & id14-->id17
+
+    id10-->id15 & id16-->id18
+
+    id17 & id18-->id19
+    
+    click id12 "../riesci-a-trovarlo-nel-tuo-cuore"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

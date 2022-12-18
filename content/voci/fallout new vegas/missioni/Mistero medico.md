@@ -33,21 +33,21 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Mistero medico</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Dott. Richards <br />a Bitter Springs)
+    id3(Sorveglia la tenda <br />medica dall'1 alle 2:30)
+    id4(<b>Medicina 50</b>: <br />chiedi al Dott. Richards <br />gli effetti dell'Hydra)
+    id5(Parla con il <br />Soldato semplice Sexton <br />a proposito delle <br />scorte mancanti)
+    id6(Borseggia Stone, <br />prendendogli una siringa <br />vuota come prova di <br />colpevolezza)
+    id7(Affronta il <br />Soldato semplice Stone) 
+    id8(Segnalalo al <br />Dott. Richards)
+    id9(<b>Eloquenza 60</b>: <br />convincilo a costituirsi)
+    id10(<b>Eloquenza 50</b>: <br />convincilo a smettere <br />di drogarsi)
+    id11(300 PE, <br />fama per l'RNC):::rewardfnv
+    id12(Nessuna ricompensa):::rewardfnv
+
+    id1-->id2-->id3 & id4 & id5 & id6-->id7-->id8 & id9 & id10
+    id8 & id9-->id11
+    id10-->id12
     
     click id "../TODO"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
