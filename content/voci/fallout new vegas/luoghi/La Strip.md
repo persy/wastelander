@@ -26,14 +26,14 @@ La **Strip**, ufficialmente nota come la Free Economic Zone of New Vegas, è la 
 
 ## Luoghi della Strip
 
-- [Lucky 38](lucky-38)
-- [Gomorrah](gomorrah)
-- [Stazione Las Vegas Boulevard](stazione-las-vegas-boulevard)
-- [The Tops](the-tops)
-- [Ultra-Luxe](ultra-luxe)
-- [Vault 21](vault-21)
-- [Laboratorio di Michael Angelo](laboratorio-di-michael-angelo)
-- [Ambasciata dell'RNC](ambasciata-dellrnc)
+- [Lucky 38](../lucky-38)
+- [Gomorrah](../gomorrah)
+- [Stazione Las Vegas Boulevard](../stazione-las-vegas-boulevard)
+- [The Tops](../the-tops)
+- [Ultra-Luxe](../ultra-luxe)
+- [Vault 21](../vault-21)
+- [Laboratorio di Michael Angelo](../laboratorio-di-michael-angelo)
+- [Ambasciata dell'RNC](../ambasciata-dellrnc)
 
 
 **Note**:
