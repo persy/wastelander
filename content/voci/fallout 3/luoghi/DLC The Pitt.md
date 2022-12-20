@@ -16,7 +16,7 @@ private: true # Nascosto dalle ricerche
 tags: "Luoghi di Fallout 3"
 ---
 
-TODO
+
 
 {{< toc hide_on="xl" >}}
 

@@ -14,8 +14,6 @@ commentable: true
 hidden: true
 ---
 
-TODO
-
 I Seguaci, o companion, sono dei personaggi del gioco che possono essere assoldati per accompagnare il Corriere nella sua avventura. In *Fallout: New Vegas* è possibile avere fino a due seguaci, uno di supporto, come ED-E e Rex, l'altro umanoide, come Boone, Lily o Arcade Gannon.
 Caratteristiche
 
@@ -55,7 +53,7 @@ Ci sono diversi modi per reclutare un seguace e tutti dipendono dal singolo pers
 - Lily: puoi reclutarla in qualsiasi movimento
 - Raul: per poterlo reclutare devi liberarlo dalla prigione a Black Mountain e completare la missione *Pazzo, pazzo, pazzo*
 - Cass: per poterla reclutare devi parlarle e ottenere la missione *Heartache by the Number*. Poi raggiungere la Crimson Caravan Company e proseguire con la missione Puoi dipendere da me
-- Veronica: puoi reclutarla in qualsiasi momento, purché tu non abbia una pessima reputazione con la Confraternità d'Acciaio o non sia stata distrutta
+- Veronica: puoi reclutarla in qualsiasi momento, purché tu non abbia una pessima reputazione con la Confraternita d'Acciaio o non sia stata distrutta
 - ED-E: per essere reclutato devi ripararlo, superando una sfida Riparazione 65, una sfida Scienza 55 e Riparazione 35 oppure usando 3 rottami di ferro, 2 moduli sensore e un rottame elettronico
 - Rex: può essere reclutato solo dopo aver parlato al Re alla King's School of Impersonation, dopo aver completato *Malinconia dei militari*
 

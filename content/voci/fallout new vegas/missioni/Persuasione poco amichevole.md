@@ -33,23 +33,25 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Persuasione poco amichevole</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Marcus)
+    id3(Uccidi i mercenari)
+    id4(<b>Eloquenza 65</b>/<br /><b>fama per l'RNC</b>: <br />convincili ad <br />andarsene)
+    id5(Chiedi a Marcus i <br />2500 tappi per <br />pagarli)
+    id6(Chiedi a Marcus <br />3000 tappi)
+    id7(Infamia per l'RNC):::rewardfnv
+    id8(Karma negativo):::rewardfnv
+    id9(350 PE):::rewardfnv
+    id10(250 PE, <br />fino a 3000 tappi):::rewardfnv
+
+    id1-->id2-->id3 & id4 & id5 & id6
+    id3-->id7
+    id6-->id8
+    id7-->id9 
+    id4--->id9
+    id5--->id10 
+    id8-->id10
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

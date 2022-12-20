@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>In fondo è solo un nome</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Dottor O)
+    id3(<b>Eloquenza 65</b>: convincilo a <br />parlare del problema <br />del suo nome )
+    id4(<b>Intelligenza 7</b>, <b>9</b>: <br />dagli un consiglio su come <br />differenziare la O dalla 0)
+    id5(Vari PE, <br />rottami di ferro, <br />rottami elettronici):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

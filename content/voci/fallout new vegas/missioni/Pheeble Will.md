@@ -33,23 +33,35 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Pheeble Will</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Walter Phebus)
+    id3(<b>Baratto 70</b>: <br />accetta la missione <br />e ricevi 400 tappi)
+    id4(<b>Percezione 7</b>: <br />per scoprire il motivo <br />della sua visita <br />a New Vegas)
+    id5(<b>Eloquenza 75</b>: <br />ascolta Esthel e <br />persuadilo a <br />lasciar perdere)
+    id6(Parla con Heck Gunderson)
+    id7(375 PE):::rewardfnv  
+    id8(Torna da Walter Phebus)
+    id9(Uccidi Heck)
+    id10("100 PE, <br />500 tappi, <br />(1000 con <b>Baratto 90</b>)"):::rewardfnv
+    id11(Uccidi Ted)
+    id12("100 PE, <br />250 tappi <br />(500 tappi con <b>Baratto 80</b>)"):::rewardfnv
+    id13(Uccidi sia Heck <br />che Ted)
+    id14(200 PE, <br />1500 tappi):::rewardfnv 
+    id15(Accetta di aiutare <br />Heck nel trovare <br />il figlio Ted)
+    id16(Oltre il manzo):::questfnv
+    id17(Scegli di <br />salvare Ted)
+    id18(Fallimento <br />della missione):::questfnv
+
+    id1-->id2-->id3 & id4 & id5
+    id5-->id7
+    id3 & id4-->id6-->id8
+    id8-->id9---->id10
+    id8-->id11-->id12
+    id8-->id13---->id14
+    id8-->id15-->id16-->id17-->id18
+
+    id16-->id11
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

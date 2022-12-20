@@ -33,23 +33,24 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Scala ogni montagna</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Capitano Gilles <br />a Bitter Springs)
+    id3(Vai nella Caverna <br />di rifornimento dei <br />Great Khan a nord <br />e trova Oscar Velasco)
+    id4(Uccidi Oscar)
+    id5(Chiedigli i motivi <br />dei  suoi attacchi)
+    id6(<b>Eloquenza 50</b>: <br />convincilo a vendicarsi <br />su chi ha ucciso <br />la sua famiglia)
+    id7(<b>Eloquenza 50</b>: <br />convincilo a lasciarsi <br />il passato alle spalle <br />e a riunirsi con gli <br />altri Khan) 
+    id8(Karma negativo):::questfnv
+    id9(Karma positivo, <br />chiave per le scorte):::questfnv
+    id10(Torna dal Capitano Gilles <br />e dille che il problema <br />è stato risolto)
+    id11(100 PE, <br />fama per l'RNC):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5
+    id5-->id6 & id7
+    id6-->id8-->id10
+    id7-->id9-->id10
+    id4---->id10-->id11
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

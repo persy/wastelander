@@ -33,23 +33,28 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Il Corriere</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Entra nel Tempio)
+    id3("(Opzionale) Salva ED-E")
+    id4(Confrontati con Ulysses)
+    id5(Eloquenza 90/<br />alta reputazione <br />per la Legione/l'RNC/<br />la Strip/Eloquenza 100: <br />convincilo a ritirarsi)
+    id6(Uccidilo)
+    id7(Solidari-E-tà):::questfnv 
+    id8(Odissea di Ulysses):::questfnv
+    id9(Difenditi dall'assalto <br />degli sfregiati)
+    id10(Decidi cosa fare delle testate)
+    id11(Lancia le testate)
+    id12(Non lanciare le testate)
+    id13(Prossima missione: <br /><b>L'Apocalisse</b>):::questfnv 
+    id14(Prossima missione: <br /><b>La Fine</b>):::questfnv
+    id15(2200 PE):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5 & id6 & id7 & id8-->id9-->id10-->id11 & id12
+
+    id11-->id13-->id15
+    id12-->id14-->id15
+    
+    click id13 "../lapocalisse"
+    click id14 "../la-fine"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

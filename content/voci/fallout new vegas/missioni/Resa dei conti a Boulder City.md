@@ -33,23 +33,45 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Resa dei conti a Boulder City</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla al Luogotenente <br />Monroe a Boulder City)
+    id3(Risolvi la situazione <br />con i Great Khan)
+    id4(Parla con Jessup)
+    id5(Recupera <br />l'accendino inciso)
+    id6(Drin drin drin!):::questfnv
+    id7(Chiedigli del <br />platinum chip) 
+    id8(Sono andati di là):::questfnv
+    id9(<b>Eloquenza 45</b>: <br />convinci Jessup ad <br />andarsene con i Khan)
+    id10(Torna dal <br />Luogotenente Monroe)
+    id11(<b>Baratto 45</b>: <br />corrompilo con <br />400 tappi)
+    id12(Corrompilo con <br />500 tappi)
+    id13(Digli di onorare l'accordo) 
+    id14(Fama per i Great Khan, <br />Fama per l'RNC):::rewardfnv
+    id15(300 PE):::rewardfnv
+    id16(Uccidi i Great Khan <br />e libera gli ostaggi)
+    id17(Torna dal <br />Luogotenente Monroe)
+    id18(Infamia per i Great Khan, <br />Fama per l'RNC):::rewardfnv
+    id19(Uccidi i soldati RNC)
+    id20("(Opzionale) <br />Uccidi anche <br />gli ostaggi")
+    id21(Karma negativo):::rewardfnv
+    id22(Torna da Jessup)
+    id23(Fama per i Great Khan, <br />Infamia per l'RNC):::rewardfnv
+
+    id1-->id2-->id3-->id4
+    id4-->id5-->id6
+    id4-->id7-->id8
+    id4-->id9-->id10-->id11 & id12 & id13
+
+    id11-->id15
+    id12-->id15
+    id13-->id14-->id15
+
+    id3-->id16---->id17-->id18-->id15
+
+    id3-->id19-->id20-->id21-->id22-->id23-->id15
+    id19-->id22
     
-    click id "../TODO"
+    click id6 "../drin-drin-drin"
+    click id8 "../sono-andati-di-la"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

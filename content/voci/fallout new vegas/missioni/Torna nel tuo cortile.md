@@ -33,23 +33,16 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Torna nel tuo cortile</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla al Mercenario Milo <br />al checkpoint RNC, a <br />sudovest di Nelson)
+    id3(Uccidi tutti i Legionari <br />e salva gli ostaggi RNC)
+    id4(150 PE, <br />50 tappi, <br />fama per l'RNC, <br />infamia per la Legione di Caesar):::rewardfnv
+    id5(Uccidi tutti gli ostaggi)
+    id6(150 PE, <br />50 tappi, <br />infamia per la Legione di Caesar):::rewardfnv
+
+    id1-->id2-->id3-->id4
+    id2-->id5-->id6
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

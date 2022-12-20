@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La Fine</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai al pannello di controllo dei <br />missili e tenta di fermare <br />il loro lancio)
+    id3(Usa ED-E per <br />hackerare i missili )
+    id4(5000 PE <br />+1 punto S.P.E.C.I.A.L. <br />fama per la Confraternita d'Acciaio <br />e per i Seguaci dell'Apocalisse<br /> Ricetta della bevanda amara, <br />Spolverino del corriere, <br />Spolverino di Ulysses, <br />Maschera di Ulysses, Antica gloria, <br />Messaggio finale di Ulysses):::rewardfnv
+    id5(Completamento di Lonesome Road):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

@@ -33,23 +33,40 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ripristino di Hope</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Maggiore Polatli <br />nel centro di comando a <br />Camp Forlorn Hope e <br />chiedigli se ha bisogno <br />di aiuto)
+    id3(Occupati della <br />mancanza di scorte)
+    id4(Parla con il <br />Quartiermaestro Mayes)
+    id5(Viaggia fino a <br />HELIOS One e parla <br />con il Luogotenente <br />Haggerty delle scorte)
+    id6(Recupera le scorte e <br />torna da Mayer e Polatli)
+    id7(Occupati dei problemi medici) 
+    id8(Aiuta il Dott. Richards <br />con i suoi pazienti)
+    id9(<b>Medicina 35</b>, <b>50</b>, <b>75</b>: <br />cura i pazienti con le <br />tue conoscenze mediche)
+    id10(Cura i pazienti usando <br />3 Med-X, <br />un whiskey, <br />dei tubi chirurgici, <br />un tutore medico, <br />un segaossa, <br />delle pinzette e <br />un Super stimpak)
+    id11(Parla con Richards e <br />poi fai rapporto al <br />Maggiore Polatli)
+    id12(Aumenta il morale dei soldati)
+    id13(Mistero <br />medico):::questfnv 
+    id14(Restituire <br />al mittente):::questfnv
+    id15(Raccogli le <br />medagliette <br />per cani o le <br />orecchie <br />della Legione)
+
+    id17(Fai rapporto a Polatli)
+    id18(Incontra Sergente Cooper <br />fra Nelson e Camp Forlorn Hope, <br />assalta Nelson e uccidi Dead Sea)
+    id19(Ritorna dal Maggiore Polatli <br />fagli il rapporto sulla vittoria <br />per completare la missione)
+    id20(300 PE, <br />fama per l'RNC, <br />Liberatore):::rewardfnv
+    id21("(Fallimento) <br />Siamo la Legione"):::questfnv
     
-    click id "../TODO"
+    id1-->id2
+    
+    id2-->id3-->id4-->id5-->id6-->id18
+    
+    id2-->id7-->id8-->id9 & id10-->id11-->id18
+
+    id2-->id12-->id13 & id14 & id15-->id17-->id18
+
+    id18-->id21-->id19-->id20
+
+
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -88,6 +105,7 @@ graph TD;
   - *Tags of Our Fallen* (nascosta): +1 per ogni 5 medagliette per cani consegnata, per un massimo di +3 per 15 medagliette 
 - Curando i soldati feriti in infermeria e ottenendo le scorte da HELIOS One si guadagneranno altri 2 punti. Completando al meglio tutte le missioni, il massimo punteggio possibile è 12
 - Eliminando la guarnigione a HELIOS One o quella a Nelson di propria iniziativa, è possibile rimanere bloccati nel completamento di questa missione
+- Più è alto è il morale, meglio equipaggiate saranno le truppe nell'assalto contro Nelson
 
 
 </div>

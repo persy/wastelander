@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Nubi all'orizzonte</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Daniel vicino <br />all'Accampamento dei Tormenti)
+    id3(Di' a Daniel se <br />far lottare i Tormenti)
+    id4(Di' a Daniel se <br />evacuare i Tormenti)
+    id5(Vari PE):::rewardfnv
+    id6(Prossima missione: <br /><b>Sconfiggi gli Zampabianca</b>):::questfnv
+    id7(Prossima missione: <br /><b>Fuga da Zion</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3 & id4-->id5-->id6 & id7
+    
+    click id6 "../sconfiggi-gli-zampabianca"
+    click id7 "../fuga-da-zion"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

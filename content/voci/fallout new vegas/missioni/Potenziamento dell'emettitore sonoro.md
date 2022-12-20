@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Potenziamento dell'emettitore sonoro</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Viaggia fino al Centro di ricerca X-8)
+    id3(Potenzia l'emettitore sonoro <br />con il test istituzionale avanzato)
+    id4(Capacità dell'emettitore sonoro <br />di disattivare i campi di forza)
+    id5(Prossima missione: <b>Old World Blues</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5
+    
+    click id5 "../old-world-blues"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

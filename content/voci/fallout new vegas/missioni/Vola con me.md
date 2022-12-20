@@ -33,23 +33,38 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Vola con me</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Manny Vargas, <br />Jeannie May Crawford <br />o da Noonan No-bark)
+    id3(Parla con Jason Bright <br />al sito test REPCONN)
+    id4(Raggiungi il seminterrato <br />e occupati dei nightkin)
+    id5(Procedi furtivamente, <br />senza farti scoprire <br />dai nightkin)
+    id6(Parla con Davison <br />e poi con Harland)
+    id7(Trova il cadavere <br />dell'amica di Harlem <br />e torna da lui) 
+    id8(Accedi al terminale <br />e scarica la <br />nota di spedizione)
+    id9(Dai la nota a Davison <br />e aspetta che i <br />nightkin abbandonino <br />il seminterrato)
+    id10(Torna da Bright e <br />seguilo nel seminterrato)
+    id11(Uccidi i nightkin)
+    id12(Parla con Haversam)
+    id13("(Opzionale) <br /><b>Eloquenza 50</b>/<br /><b>Vedova nera</b>: <br />convincilo a <br />sabotare i razzi")
+    id14(Procurati tre <br />bombe di zucchero) 
+    id15(Karma negativo):::rewardfnv %%TODO%%
+    id16(Procurati l'agente di <br />ignizione isotopo-239 <br />dal corpo di uno sciacallo <br />nei pressi di Novac)
+    id17(Procurati i moduli di <br />comando propulsione <br />dall'Anziana signora Gibson)
+    id18(Comprali per <br />500 tappi)
+    id19(<b>Eloquenza 50</b>/<br /><b>Baratto 50</b>: <br />comprali per <br />250 tappi)
+    id20(<b>Donnaiolo</b>: <br />ottienili <br />gratuitamente)
+    id21(<b>Scasso 50</b>: <br />rubali da una cassetta <br />di metallo all'interno <br />dell'abitazione Gibson)
+    id22(Raggiungi la piattaforma <br />d'osservazione e <br />attiva i razzi)
+    id23(800-1000 PE, <br />fama per Novac):::rewardfnv
+
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10
+    id4-->id11-->id10
+
+    id10-->id12-->id13-->id14-->id15-->id22
+    id12-->id16---->id22
+    id12-->id17-->id18 & id19 & id20 & id21--->id22-->id23
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -102,7 +117,8 @@ graph TD;
   - nell'inventario dell'Anziana signora Gibson
   - in vendita da Cliff Briscoe a Novac
   - nel Negozio di Mick e Ralph a Freeside
-- Guadagni solo 200 PE se aiuti in maniera pacifica Davison e Harland, mentre guadagna 300 PE uccidendo quest'ultimo
+- Guadagni solo 200 PE se aiuti in maniera pacifica Davison e Harland, mentre guadagni 300 PE uccidendo quest'ultimo
+- Completando questa missione e *Uno per la mia piccola* di Boone avrai raggiunto abbastanza fama per Novac per ottenere una stanza gratuitamente al Dino-Dee Lite TODO
 
 
 </div>

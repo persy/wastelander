@@ -33,23 +33,42 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Puoi dipendere da me</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Alice McLafferty <br />alla Crimson Caravan Company)
+    id3(Porta la fattura della <br />Crimson Caravan al <br />Dott. Thomas Hildern <br />a Camp McCarran)
+    id4(Se si ha <br />già completato <br />Guarda tra l'erba):::questfnv
+    id5(Impossibile consegnare <br />la fattura a Hildern a <br />causa di un bug):::questfnv
+    id6(Torna da Alice McLafferty)
+    id7(Occupati di Henry Jamison <br />all'Atomic Wrangler) 
+    id8(Fama per l'RNC/<br />Eloquenza 50: <br />convincilo ad <br />andarsene)
+    id9(500 tappi):::rewardfnv
+
+    id11("300 tappi <br />(400 con Baratto 50)"):::rewardfnv
+    id12(Uccidilo)
+    id13(Ottieni l'offerta d'acquisto <br />della Cassidy Caravan da Cass)
+    id14(Heartache by the Number):::questfnv
+    id15(Baratto 50: <br />pagala 750 tappi)
+    id16("Baratto 75: <br />sfidala ad una <br />gara di bevute <br />(servono anche <br />12 whiskey)")
+    id17(Eloquenza 75: <br />convincila che non è <br />colpa sua se la carovana <br />è stata distrutta)
+    id18("(Opzionale) <br />Recupera le <br />specifiche <br />delle armi dei <br />Gun Runner")
+    id19("(Opzionale) <br />Entra furtivamente <br />a Gun Runner, <br />durante il cambio <br />di guardia, fra <br />le 22:00 e le 23:00")
+    id20(550 PE, 500 tappi, <br />fama per l'RNC):::rewardfnv
+
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4---->id5
+    id3---->id6
+
+    id2-->id7-->id8-->id9-->id6
+    id7-->id11-->id6
+    id7-->id12--->id6
+
+    id2-->id13-->id14-->id15 & id16 & id17-->id6
+
+    id2-->id18-->id19-->id6
+
+    id6-->id20
+
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

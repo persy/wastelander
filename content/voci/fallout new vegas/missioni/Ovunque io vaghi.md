@@ -33,23 +33,18 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ovunque io vaghi</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Soldato <br />semplice Renolds, nei <br />pressi di Nelson)
+    id3(<b>Baratto 67</b>: <br />chiedi un piccolo <br />incoraggiamento in tappi)
+    id4(Entra nella miniera e <br />trova i due soldati RNC <br />presi in ostaggio)
+    id5(Se hai una buona <br />reputazione con la Legione, <br />raggiungi Alexus)
+    id6(Se hai una cattiva <br />reputazione con la Legione, <br />uccidi tutti i legionari)
+    id7(Ottieni la chiave <br />delle celle da Alexus <br />o scassina le porte) 
+    id8(Libera i prigionieri <br />e scortali fino all'uscita)
+    id9(100 PE, <br />fama per l'RNC):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5 & id6-->id7-->id8-->id9
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

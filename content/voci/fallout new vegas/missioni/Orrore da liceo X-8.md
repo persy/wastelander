@@ -33,23 +33,16 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Orrore da liceo X-8!</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Viaggia fino al <br />Centro di ricerca X-8)
+    id3(Avvia il Test di guardia Cybercani <br />residenziali al terminale di test X-8)
+    id4(Entra nella Struttura <br />di test sui residenti X-8)
+    id5(Esamina i punti di scavo di <br />Gabe nella Struttura di test sui <br />residenti X-8 per trovare i campioni <br />audio del latrato di Gabriel)
+    id6(Vari PE, <br />Campione audio - Latrato di Gabriel):::rewardfnv
+    id7(Prossima missione: <b>Test di recupero dati X-8</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7
+    
+    click id7 "../test-di-recupero-dati-x-8"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

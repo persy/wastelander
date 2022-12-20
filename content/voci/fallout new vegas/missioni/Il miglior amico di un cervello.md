@@ -33,23 +33,16 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Il miglior amico di un cervello</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Cerca le tracce di <br />Gabe in Higgs Village)
+    id3(Trova la sua ciotola <br />dietro la casa del <br />Dottor Borous <br />all'Higgs Village)
+    id4(Uccidi Gabe al <br />Centro di ricerca X-8)
+    id5(Torna dal Dottor Borous)
+    id6(Vari PE):::rewardfnv
+    id7(Prossima missione: <b>Orrore da liceo X-8!</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7
+    
+    click id7 "../orrore-da-liceo-x-8"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

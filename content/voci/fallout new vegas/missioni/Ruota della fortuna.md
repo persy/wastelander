@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ruota della fortuna</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Logan <br />nel magazzino dell'RNC a <br />Camp Searchlight)
+    id3(Vai a Nipton e <br />parla con Boxcars)
+    id4(Trova alcune tute <br />antiradiazioni vicino a Nipton)
+    id5(Torna da Logan)
+    id6(Accompagna Logan e i <br />suoi scagnozzi nella <br />stazione di polizia e <br />recupera gli oggetti)
+    id7(Accompagna Logan e i <br />suoi scagnozzi nella <br />stazione dei pompieri <br />e recupera gli oggetti) 
+    id8(100 PE, <br />tutte le armi trovate):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -76,7 +70,17 @@ graph TD;
 - È possibile completare la missione anche se Logan muore durante il combattimento con la regina degli scorpioni radioattivi
 - Le armi e gli oggetti ottenuti non possono essere scartati o utilizzati fintanto che non si finisce la missione
 - Se ti sei è già impossessato delle tute antiradiazioni prima di cominciare la missione, è possibile che la missione non possa essere completata o che non compaiano alcuni voci di dialogo 
-
+- Gli oggetti da recuperare alla stazione di polizia sono: 
+  - una mitragliatrice da 9mm RNC
+  - una pistola da 10mm RNC
+  - 4 pezzi di computer RNC
+  - granate a frammentazione RNC
+  - un lanciagranate RNC
+- Gli oggetti da recuperare alla stazione dei pompieri sono:
+  - una mitragliatrice da 9mm RNC
+  - una pistola da 10mm RNC
+  - 2 pezzi di computer RNC
+  - 2 granate a frammentazione RNC
 
 </div>
 

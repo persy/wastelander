@@ -33,23 +33,15 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Grand Staircase</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Trova la mappa topografica di Grand Staircase)
+    id3(Dalla a Daniel)
+    id4(Dalla a Joshua Graham)
+    id5(Vari PE):::rewardfnv
+    id6(Prossima missione: <b>Nubi all'orizzonte</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3 & id4-->id5-->id6
+    
+    click id6 "../nubi-allorizzonte"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

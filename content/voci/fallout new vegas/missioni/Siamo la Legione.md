@@ -33,23 +33,30 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Siamo la Legione</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Torna nel tuo cortile):::questfnv
+    id3(Fallimento <br />della missione):::questfnv
+    id4(Raggiungi Nelson e <br />parla con Dead Sea)
+    id5("(Fallimento) <br />Ripristino di Hope"):::questfnv
+    id6("(Fallimento) <br />Mistero medico"):::questfnv
+    id7("(Fallimento) <br />Restituire al mittente"):::questfnv
+    id8(Uccidi i quattro ufficiali <br />RNC a Camp Forlorn Hope)
+    id9(Maggiore Polatli)
+    id10(Quartiermaestro Mayes)
+    id11(Sergente Reyes)
+    id12(Dott. Richards)
+    id13(Torna da Dead Sea e <br />informalo della tua vittoria) 
+    id14(300 PE, fama per la Legione di Caesar, Liberatore):::rewardfnv
+    id15(Vai a Camp Forlorn Hope <br />e parla con il <br />Maggiore Polatli)
     
-    click id "../TODO"
+    id1--->id15-->id2---->id3
+    id1-->id4-->id5 & id6 & id7-->id8-->id9 & id10 & id11 & id12-->id13-->id14
+
+
+    
+    click id2 "../torna-nel-tuo-cortile"
+    click id5 "../ripristino-di-hope"
+    click id6 "../mistero-medico"
+    click id7 "../restituire-al-mittente"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

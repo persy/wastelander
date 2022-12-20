@@ -33,23 +33,45 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Potrei risvegliare il tuo interesse</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Ottieni la missione reclutando <br />Veronica e parlando in <br />giro con le persone della <br />Zona contaminata del Mojave)
+    id3(Porta Veronica dall'Anziano <br />McNamara a Hidden Valley)
+    id4(Consulta il terminale di <br />Elijah nella baracca di Gibson)
+    id5(Ottieni almeno una delle <br />tre tecnologie indicate)
+    id6(Mirino di Euclid e Archimedes I)
+    id7(Quel vecchio Sole fortunato):::questfnv 
+    id8(Alimenta <br />Archimides II)
+    id9(Recupera il Mirino <br />di Euclid da <br />Max a Freeside)
+    id10(Rubaglielo)
+    id11(Baratto 45: <br />compraglielo per 20 <br />tappi, invece di 1000)
+    id12(Consegna la tecnologia <br />all'Anziano McNamara)
+    id13(Nuova tecnologia di coltivazione)
+    id14(Guarda tra l'erba):::questfnv
+    id15(Non permettere a <br />Keely di cancellare i <br />dati e assicurati di <br />averli copiati nel <br />Pip-Boy)
+    id16(Pistola a impulsi)
+    id17(Accedi all'armeria <br />del Vault 34)
+    id18(La chiave dell'armadietto <br />è nella caserma <br />di Pearl alla Base <br />aeronautica di Nellis)
+    id19(Esci dal bunker e <br />confrontarti con <br />i Paladini)
+    id20(Eloquenza 95: <br />se Veronica resta <br />nella Confraternita, <br />devi persuaderli a <br />non attaccare)
+    id21("1000 PE, <br />Veronica guadagna <br />Bonds of Steel (+4 SD)"):::rewardfnv
+    id22(Se Veronica lascia <br />la Confraternita potrà <br />farlo pacificamente)
+    id23(Se le suggerisci <br />di unirsi ai Seguaci <br />dell'Apocalisse, contatta <br />il Dottor Alvarez <br />all'Avamposto dei Seguaci)
+    id24(Aspetta 24 ore, <br />torna all'Avamposto e <br />uccidi i Paladini)
+    id25("Nessuna ricompensa, <br />Veronica ottiene <br />Causeless Rebel <br />(+30% attacco Disarmato)"):::rewardfnv
+
+
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5
+
+    id5-->id6-->id7-->id8-->id12
+    id6-->id9-->id10 & id11-->id12
+
+    id6-->id13-->id14-->id15-->id12
+    id6-->id16-->id17-->id18-->id12
+
+    id12-->id19-->id20---->id21
+    id19-->id22-->id23-->id24-->id25
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

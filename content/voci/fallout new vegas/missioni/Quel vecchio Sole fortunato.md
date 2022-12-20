@@ -33,23 +33,40 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Quel vecchio Sole fortunato</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Raggiungi HELIOS One)
+    id3(<b>Eloquenza 30</b>/<br /><b>Scienza 30</b>/<br /><b>fama per l'RNC</b>: <br />convinci il Luogotenente <br />Haggerty a farti entrare)
+    id4(Parla con Ignacio Rivas <br />e Fantastic e ottieni le <br />due password)
+    id5(Ottieni la password <br />da Rivas supportando <br />i Seguaci)
+    id6(Borseggialo per <br />ottenere la password)
+    id7(Usa i due terminali <br />di controllo e e dai <br />corrente al computer <br />centrale) 
+    id8(<b>Scienza 45</b>: <br />attiva PYTHON)
+    id9(<b>Riparazione 35</b>: <br />ripara il generatore)
+    id10(Usa la tessera <br />identificativa <br />dipendente della <br />Poseidon Energy)
+    id11(Seleziona a quale zona di <br />New Vegas erogare la corrente)
+    id12(Distribuisci l'energia <br />a Camp McCarran e <br />la Strip)
+    id13(Fama per l'RNC):::rewardfnv
+    id14(Distribuisci l'energia <br />a Westside e Freeside)
+    id15(Fama per i <br />Seguaci dell'Apocalisse):::rewardfnv
+    id16(Distribuisci l'energia<br /> all'intera regione)
+    id17(Fama per i Seguaci <br />dell'Apocalisse):::rewardfnv
+    id18(Parla con Ignacio Rivas)
+    id19(Il grande libro <br />della scienza, <br />3 stimpak, <br />2 borse mediche):::rewardfnv
+    id20(Distribuisci l'energia <br />all'intera regione, ma <br />in modalità d'emergenza) 
+    id21(Nessuna ricompensa):::rewardfnv
+    id22(Convergi l'energia per <br />armare ARCHIMEDES II)
+    id23(Rendi utilizzabile <br />il Mirino d'Euclid):::rewardfnv
+    id24(Potrei risvegliare <br />il tuo interesse):::questfnv
+
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5 & id6-->id7-->id8 & id9 & id10-->id11
+
+    id11-->id12-->id13
+    id11-->id14-->id15
+    id11-->id16-->id17-->id18-->id19
+    id11-->id20-->id21
+    id11-->id22-->id24-->id23
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

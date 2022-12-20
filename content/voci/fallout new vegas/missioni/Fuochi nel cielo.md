@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Fuochi nel cielo</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Porta Dog/God alla <br />Sottostazione di smistamento di <br />Salida del Sol sud)
+    id3(Trova un modo per <br />farlo restare e attivare <br />gli interruttori)
+    id4(<b>Intelligenza 7</b>: <br />persuadilo a <br />restare sul posto)
+    id5(Usa il nastro <br />comandi Dog)
+    id6(Prossima missione: <b>Dai inizio all'evento di gala</b>):::questfnv
+    id1-->id2-->id3-->id4 & id5-->id6
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

@@ -1,8 +1,7 @@
 {
     "spellright.documentTypes": [
         "latex",
-        "plaintext",
-        "markdown"
+        "plaintext"
     ],
     "spellright.language": [
         "it"
@@ -16,6 +15,7 @@
         "Eyebot",
         "Fantoma",
         "Fiutagesto",
+        "Gabe",
         "Grognak",
         "Hopeville",
         "Mothership",
@@ -33,6 +33,7 @@
         "webp"
     ],
     "cSpell.words": [
+        "furtività",
         "olomedagliette",
         "olonastro",
         "rewardfo",

@@ -33,23 +33,27 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Volare!</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Ottieni l'idolatria dai Boomer)
+    id3(Formiche indisciplinate):::questfnv
+    id4(Sunshine Boogie):::questfnv
+    id5(Giovani cuori):::questfnv
+    id6(<b>Medicina 60</b>: Aiuta Argyll a <br />curare i pazienti <br />nell'infermeria di Nellis)
+    id7(Ascolta la storia <br />dei Boomer da Pete, <br />al Museo dei Boomer) 
+    id8("(Opzionale) <br /><b>Esplosivi 40</b>, <br /><b>Scienza 35</b>, <br /><b>Sopravvivenza 40</b>, <br /><b>Riparazione 40</b>, <br /><b>Eloquenza 40</b>, <b>55</b>: <br />per ottenere ulteriore <br />fama per i Boomer")
+    id9(Parla con Pearl <br />e poi con Loyal)
+    id10("(Opzionale) <b>Scienza 45</b>: <br />ottieni un rebreather <br />da Jack")
+    id11(Vai al Lake Mead e <br />installa i ballast sotto <br />le ali del B-29)
+    id12(Attiva il detonatore <br />e torna da Pearl <br />e da Loyal)
+    id13(500 PE, <br />Tuta di volo da Boomer, <br />Elmo da Boomer, <br />fama per i Boomer):::rewardfnv
+
+    id1-->id2-->id3 & id4 & id5 & id6 & id7
+    id7-->id8
+    id3 & id4 & id5--->id9
+    id6 & id8-->id9-->id10-->id11-->id12-->id13
     
-    click id "../TODO"
+    click id3 "../formiche-indisciplinate"
+    click id4 "../sunshine-boogie"
+    click id5 "../giovani-cuori"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

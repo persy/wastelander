@@ -16,9 +16,10 @@ hidden: true
 
 {{< toc hide_on="xl" >}}
 
+<div class="fo3">
 
 ## Informazioni base
-TODO
+
 
 Ogni libro dell'abilità aggiunge un punto all'abilità corrispondente. Con l'abilità extra Comprensione viene aggiunto un ulteriore punto.
 
@@ -461,3 +462,6 @@ Nota che, a seconda delle tue scelte di gioco, una copia dei seguenti libri di a
 {{<figure src="fo3/Tales_of_a_Junktown_Jerky_Vendor.webp">}}
 {{<figure src="fo3/Tumblers_Today.webp">}}
 {{<figure src="fo3/US_Army_30_Handy_Flamethrower_Recipes.webp">}}
+
+
+</div>

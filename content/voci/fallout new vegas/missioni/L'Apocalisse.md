@@ -33,23 +33,27 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>L'Apocalisse</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai al pannello di controllo <br /> dei missili e lancia le testate <br />contro l'RNC o la Legione di <br />Caesar o entrambi)
+    id3(Colpisci la Legione)
+    id4(Accesso al Dry Wells)
+    id5(Fama per l'RNC <br />Infamia per la <br />Legione):::rewardfnv
+    id6(Colpisci l'RNC <br />e la Legione)
+    id7(Accesso a Dry Wells <br />e alla Long 15) 
+    id8(Fama per i Boomer e <br />per i Powder Ganger):::rewardfnv
+    id9(Colpisci l'RNC)
+    id10(Accesso alla Long 15)
+    id11(Fama per la Legione <br />infamia per l'RNC):::rewardfnv
+    id12(5000 PE <br />+1 punto S.P.E.C.I.A.L. <br />Ricetta della bevanda amara, <br />Spolverino del corriere, <br />Spolverino di Ulysses, <br />Maschera di Ulysses, Antica gloria, <br />Luce rossa, <br />Laccio per morsi di serpente <br />Messaggio finale di Ulysses):::rewardfnv
+    id13(Lascia il Tempio di Ulysses) 
+    id14(Completamento di Lonesome Road):::questfnv
     
-    click id "../TODO"
+    id1-->id2
+    id2-->id3-->id4-->id5-->id12
+    id2-->id6-->id7-->id8-->id12
+    id2-->id9-->id10-->id11-->id12
+    
+    id12-->id13-->id14
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

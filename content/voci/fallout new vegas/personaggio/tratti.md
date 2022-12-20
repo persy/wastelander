@@ -16,7 +16,8 @@ hidden: true
 
 <div class="fnv">
 
-TODO
+I tratti modificano vari aspetti del gameplay, garantendo un bonus in una certa specifica al costo di un malus in un'altra. Con l'eccezione di Zona contaminata selvaggia, che ha effetti meno diretti sul gioco, ogni tratto modifica positivamente o negativamente le statistiche del Corriere: questo può riguardare le statistiche primarie, quelle derivate, gli attributi S.P.E.C.I.A.L. o le abilità.
+Durante la creazione del personaggio il giocatore può scegliere fino a due tratti (o non sceglierne nessuno). Proseguendo nel DLC Old World Blues è possibile modificare la scelta dei tratti, eseguita a inizio gioco.
 
 
 |           Tratto           |       DLC       | Descrizione                                                                                                                                                                                                                                                  |

@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Mio Dio!
+linktitle: "Mio Dio!"
 summary: ""
 weight: 10
 icon: messages # message-question per le missioni nascoste
 icon_pack: fas
 
 # Page metadata.
-title: Mio Dio!
+title: "Mio Dio!"
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true

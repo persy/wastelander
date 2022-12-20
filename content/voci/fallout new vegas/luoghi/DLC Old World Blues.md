@@ -59,4 +59,7 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Tunnel settentrionale di Big MT](../tunnel-settentrionale-di-big-mt)
 - [Zona bersaglio "Boom Town" X-7b](../zona-bersaglio-boom-town-x-7b) 
 
+{{<figure src="fnv/FNV_Big_MT">}}
+
+
 </div>

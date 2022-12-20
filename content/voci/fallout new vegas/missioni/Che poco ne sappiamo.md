@@ -139,11 +139,11 @@ graph TD;
     
     click id2 "../per-la-repubblica-2a-parte"
     click id3 "../ciao-ciao-amore"
-    click id "../TODO"
-    click id "../TODO"
-    click id "../TODO"
-    click id "../TODO"
-    click id "../TODO"
+    
+    
+    
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

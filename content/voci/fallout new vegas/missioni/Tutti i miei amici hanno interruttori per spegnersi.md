@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Tutti i miei amici hanno interruttori per spegnersi</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai al Pozzo e installa il modulo della personalità dell'Unità centrale del Pozzo)
+    id3(Trova i moduli mancanti a Big MT)
+    id4(Torna al Pozzo e installa tutti i moduli)
+    id5(Vari servizi del Pozzo):::rewardfnv
+    id6(Prossima missione: <br /><b>Influenzare la gente</b>):::questfnv
+    id7(Prossima missione: <br /><b>Ricerca sul campo</b>):::questfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6 & id7
     
-    click id "../TODO"
+    click id "../influenzare-la-gente"
+    click id "../ricerca-sul-campo"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

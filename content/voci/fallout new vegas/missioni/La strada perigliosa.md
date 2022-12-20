@@ -33,23 +33,15 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>La strada perigliosa</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Viaggia fino al <br />Ponte di Old Rockville)
+    id3(Disattiva le trappole sul ponte)
+    id4(Uccidi gli Zampabianca <br />che piantano le trappole)
+    id5(Vari PE):::rewardfnv
+    id6(Prossima missione: <b>Nubi all'orizzonte</b>):::questfnv
+
+    id1-->id2-->id3 & id4-->id5-->id6
     
-    click id "../TODO"
+    click id6 "../nubi-allorizzonte"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

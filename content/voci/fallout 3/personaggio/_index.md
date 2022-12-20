@@ -15,7 +15,7 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-TODO
+
 
 <!--
 {{< cta cta_text="S.P.E.C.I.A.L." cta_link="special" cta_new_tab="false" >}}

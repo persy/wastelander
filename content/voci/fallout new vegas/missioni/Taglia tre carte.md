@@ -33,23 +33,26 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Taglia tre carte</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Maggiore Dhatri a  <br />Camp McCarran a <br /> proposito delle taglie)
+    id3(Vai a sud della  <br />Stazione di rifornimento  <br />Poseidon,  uccidi <br />Violet e  prendi <br />la sua testa)
+    id4(Vai alle Rovine  <br />di South Vegas , <br />uccidi Cook-Cook e  <br />prendi la sua testa)
+    id5(Vai allo Stabilimento  <br />macinazione rocce Samson,  <br />uccidi Driver Nephi e  <br />prendi la sua testa)
+    id6("(Opzionale) Ottieni il supporto  <br />del 1° Ricognitori dal  <br />Luogotenente Goroberts")
+    id7(Porta le teste  <br />al Maggiore Dhatri) 
+    id8(Le teste sono intatte)
+    id9(Le teste sono menomate)
+    id10(100 PE,  <br />250 tappi):::rewardfnv
+    id11(50 PE,  <br />125 tappi):::rewardfnv
+    id12(500 PE,  <br />500 tappi,  <br />fama per l'RNC):::rewardfnv
+
+    id1-->id2-->id3 & id4 & id6
+    id6-->id5
+    id3 & id4 & id5-->id7-->id8 & id9
+    id8-->id10-->id12
+    id9-->id11-->id12
+
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Missioni
-summary: 'TODO'
+summary: ''
 weight: 30
 icon: diagram-project
 icon_pack: fas
@@ -18,7 +18,7 @@ private: true # Nascosto dalle ricerche
 
 {{< toc hide_on="xl" >}}
 
-TODO
+Questa pagina contiene l'elenco di tutte le missioni (principali, secondarie e nascoste) di Fallout: New Vegas, DLC compresi. Il titolo delle missioni nascoste, non avendo una traduzione italiana, sono riportate con il nome inglese. 
 
 <div class="fnv">
 

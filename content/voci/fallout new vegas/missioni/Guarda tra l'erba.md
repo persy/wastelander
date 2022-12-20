@@ -65,7 +65,7 @@ graph TD;
     id13-->id22-->id23-->id21
     id13-->id24-->id25-->id21
 
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

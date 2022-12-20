@@ -32,24 +32,18 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1(<b>Trova il Collare 8: "Dog"</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id1("<b>Trova il Collare 14: #quot;Dog#quot;</b>"):::questfnv
+    id2(Vai alla Stazione <br />di polizia nella sezione <br />sudovest del Sierra Madre)
+    id3(Vai nel seminterrato della <br />stazione e prendi il nastro <br />comandi Dog sulla scrivania)
+    id4(Torna indietro e fai <br />partire il nastro davanti <br />alla cella di Dog)
+    id5(Convinci God a seguirti)
+    id6(Fai sentire il <br />nastro e convinci <br />Dog a seguirti)
+    id7(Fame insaziabile/<br />Passo felpato, <br />Dog/God possibile seguace):::rewardfnv 
+    id8(Prossima missione: <b>Fuochi nel cielo</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5 & id6-->id7-->id8
+    
+    click id8 "../fuochi-dal-cielo"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

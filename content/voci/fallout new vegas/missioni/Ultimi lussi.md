@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ultimi lussi</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Confrontati con Christine <br />nelle Suite di lusso)
+    id3(<b>Percezione</b>/<br /><b>Intelligenza ???</b>: <br />persuadila ad aiutarti) %%TODO%%
+    id4(Uccidila)
+    id5(Prossima missione: <b>Furto del secolo</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3 & id4-->id5
+    
+    click id5 "../furto-del-secolo"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

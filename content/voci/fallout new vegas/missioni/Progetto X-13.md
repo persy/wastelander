@@ -33,23 +33,25 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Progetto X-13</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Raggiungi la <br />Struttura di ricerca X-13)
+    id3("Attacco dell'infiltrato X-13!"):::questfnv
+    id4(Completa il test <br />di infiltrazione base)
+    id5("Firmware aggiornato alla versione 1.1<br />
+Sensori di attenuazione passi online (+10 Furtivo)"):::rewardfnv
+    id6(Completa il test di infiltrazione avanzato)
+    id7("Firmware aggiornato alla versione 1.2<br />
+Sottorete uditiva online (+1 Percezione)"):::rewardfnv 
+    id8(Completa il test di infiltrazione esperto)
+    id9("Firmware aggiornato alla versione 1.3<br />
+Adattamento torso alla fisiologia dell'utente (+1 Agilità)"):::rewardfnv
+    id10(Completa il test di conformità robotica)
+    id11("Firmware aggiornato alla versione 1.4<br />
+Acceleratore di impulsi online <br />(+20% di velocità di movimento in modalità furtivo)"):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id4-->id5-->id6-->id7-->id8-->id9-->id10-->id11
+    id3-->id4
+
+    click id "../attacco-dellinfiltrato-x-13"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -81,7 +83,7 @@ graph TD;
 **Note**:
 - L'area di osservazione della struttura ha parecchi Stealth Boy, utili per completare agevolmente il test
 - Il monitor della tuta X-13 evidenzia il percorso ottimale per finire il test
-I bonus ottenuti sono cumulativi: il livello di furtività della tuta sale quindi a +25
+- I bonus ottenuti sono cumulativi: il livello di furtività della tuta sale quindi a +25
 
 
 </div>

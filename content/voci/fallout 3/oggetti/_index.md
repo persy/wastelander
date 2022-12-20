@@ -15,7 +15,7 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-TODO
+
 
 <!--
 {{< cta cta_text="Armi" cta_link="#" cta_alt_text="Armi, armi uniche e munizioni" cta_alt_link="#" cta_new_tab="false" >}}

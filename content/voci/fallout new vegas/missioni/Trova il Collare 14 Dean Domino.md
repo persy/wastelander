@@ -33,23 +33,15 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Trova il Collare 14: Dean Domino</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Raggiungi il Distretto Residenziale)
+    id3(Oltrepassa le trappole <br />e sconfiggi i fantasmi)
+    id4(Trova Dean nel suo <br />nascondiglio e parlaci)
+    id5(Assuefazione, <br />Dean Domino possibile seguace):::rewardfnv
+    id6(Prossima missione: <b>Fai suonare la banda</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6
+    
+    click id6 "../fai-suonare-la-banda"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

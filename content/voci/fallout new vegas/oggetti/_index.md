@@ -15,7 +15,7 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-TODO
+
 <!--
 {{< cta cta_text="Armi" cta_link="armi" cta_alt_text="Armi, armi uniche e munizioni" cta_alt_link="armi" cta_new_tab="false" >}}
 {{< cta cta_text="Armature e vestiti" cta_link="armature-e-vestiti" cta_alt_text="Armature, vestiti e copricapi" cta_alt_link="armature-e-vestiti" cta_new_tab="false" >}}
@@ -31,11 +31,9 @@ TODO
 <a href="armature-e-vestiti" class="btn mojave">Armature e vestiti</a>
 <a href="armi" class="btn mojave">Armi e munizioni</a>
 <a href="munizioni" class="btn mojave">Munizioni</a>
-<a href="#" class="btn mojave">Consumabili</a>
+<a href="consumabili" class="btn mojave">Consumabili</a>
 <a href="creazione" class="btn mojave">Creazione</a>
 <a href="libri-abilita" class="btn mojave">Libri abilità</a>
-<a href="#" class="btn mojave">Miscellanea</a>
-<a href="#" class="btn mojave">Olonastri e note</a>
 <a href="palle-di-neve" class="btn mojave">Palle di neve</a>
 <a href="riviste-abilita" class="btn mojave">Riviste abilità</a>
 

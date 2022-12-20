@@ -16,14 +16,9 @@ hidden: true
 
 <div class="fnv">
 
-La **modalità Duro** è un'impostazione opzionale che rende il gioco più realistico, aggiungendo nuove variabili come l'idratazione e la non più istantanea
-guarigione degli stimpak. Questa sfida opzionale può essere disattivata in qualsiasi momento del gioco ma, per ottenere il trofeo ad esso annesso, va
-mantenuta dall'inizio fino alla fine della trama principale. Va comunque sottolineato il fatto che questa modalità non è collegata con la difficoltà stessa
-del gioco.
+La **modalità Duro** è un'impostazione opzionale che rende il gioco più realistico, aggiungendo nuove variabili come l'idratazione e la non più istantanea guarigione degli stimpak. Questa sfida opzionale può essere disattivata in qualsiasi momento del gioco ma, per ottenere il trofeo ad esso annesso, va mantenuta dall'inizio fino alla fine della trama principale. Va comunque sottolineato il fatto che questa modalità non è collegata con la difficoltà stessa del gioco.
 
-In modalità Duro il personaggio deve ricordarsi reidratarsi, mangiare e dormire per mantenere alta la propria salute e le proprie statistiche altrimenti
-morirà; inoltre i cibi, bevande e medicinali non ripristeranno istantaneamente la salute, ma molto lentamente. Questa modalità non ha impatto sul
-sistema di combattimento, non intaccando alcun parametro riguardante i danni subiti o effettuati.
+In modalità Duro il personaggio deve ricordarsi reidratarsi, mangiare e dormire per mantenere alta la propria salute e le proprie statistiche altrimenti morirà; inoltre i cibi, bevande e medicinali non ripristeranno istantaneamente la salute, ma molto lentamente. Questa modalità non ha impatto sul sistema di combattimento, non intaccando alcun parametro riguardante i danni subiti o effettuati.
 
 | Modalità normale                                                                                                           | Modalità Duro                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |

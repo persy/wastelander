@@ -33,23 +33,90 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Oltre il manzo</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai all'Ultra-Luxe e <br />parla con Heck Gunderson <br />a proposito di suo figlio <br />scomparso, Ted)
+    id3(Parla prima con <br />Marjorie e poi <br />con Mortimer)
+    id4(Eloquenza 62/<br />Cannibale: <br />mentigli per ottenere <br />informazioni su Ted)
+    id5(Karma negativo/<br />fama per la Strip bassa: <br />chiedigli le <br />sue intenzioni)
+    id6(Segui il consiglio <br />di Marjorie e domandagli <br />del detective scomparso)
+    id7(Lavora per Mortimer <br />e raggiungi il seminterrato <br />dell'Ultra-Luxe) 
+    id8(Parla a Marjorie <br />dell'investigatore scomparso <br />e mentile per ottenere <br />degli indizi)
+    id9(Eloquenza 55/<br />Riparazione 55: <br />convinci la guardia a <br />lasciarti passare)
+    id10(Travestiti da membro <br />della White Glove Society <br />o procedi furtivamente)
+    id11(Raggiungi la cucina <br />e la cella frigorifera <br />nella quale è rinchiuso Ted)
+    id12(Scienza 50: <br />hackera il <br />terminale e <br />fallo uscire)
+    id13(Borseggia il cuoco <br />Philippe e usa la <br />chiave per aprire <br />la cella) 
+    id14(Uccidi il cuoco e <br />rubagli la chiave)
+    id15(Parla con Ted e <br />riportalo da Heck senza <br />essere notato)
+    id16("(Opzionale) Medicina 25: <br />droga il vino con <br />il Med-X")
+    id17(500 tappi, <br />fama per la White <br />Glove Society):::questfnv
+    id18("(Opzionale) Rivela a Ted <br />le vere intenzioni <br />di Mortimer")
+    id19(Infamia per la <br />White Glove Society):::questfnv
+    id20(Prosegui le indagini)
+    id21(Parla a Marjorie <br />dell'investigatore scomparso<br /> e mentile per ottenere <br />degli indizi)
+    id22(Vai nella stanza <br />dell'investigatore e <br />raccogli la bustina di <br />fiammiferi dal suo corpo)
+    id23(Incontra Chauchey nel bagno <br />turco alle 16 e neutralizza <br />il sicario)
+    id24(Rivela tutto a Heck <br />e uccidi tutti i membri della<br /> White Glove Society, <br />eccetto Mortimer e Marjorie)
+    id25(Trova Ted nella cella <br />e portalo da Heck)
+    id26(500 PE, 500 tappi):::questfnv
+    id27(Torna da Marjorie  e <br />ottieni un vestito formale <br />e la chiave per entrare <br />al Gourmand)
+    id28(Trova il cuoco Philippe)
+    id29(Cucina una torta <br />di carne strana)
+    id30(Cucina Ted e <br />incolpa  il padre)
+    id31(Pheeble Will):::questfnv
+    id32(Non selezionare <br />nessuna sfida Baratto)
+    id33(Non garantire a Heck <br />di ritrovare e salvare <br />il figlio)
+    id34(Raggiungi Ted nella <br />cella frigorifera della <br />cucina e uccidilo)
+    id35(Prendi i campioni <br />e raggiungi l'Attico)
+    id36(Uccidi le guardie e <br />spargi i campioni nel <br />lavandino e sul letto)
+    id37(Esci dall'Ultra-Luxe <br />e denuncia  un sospetto <br />omicidio a un qualsiasi <br />Securitron della Strip)
+    id38(Aspetta che Heck <br />venga ucciso dai <br />Securitron e torna <br />da Mortimer)
+    id39(500 PE, <br />fama per la White <br />Glove Society, <br />fama per la Strip)
+    id40(Torna da Walter)
+    id41(200 PE, <br />1500 tappi):::rewardfnv
+    id42(Ottieni la ricetta <br />dal cuoco Philippe)
+    id43(Baratto 55/<br />Eloquenza 55: <br />ottieni la ricetta <br />direttamente dal cuoco)
+    id44(Medicina 55: <br />ottieni la chiave <br />della cella di Ted)
+    id45(Borseggiagliela <br />oppure uccidilo e <br />rubagliela)
+    id46(Intelligenza 6/Sopravv. 75: <br />cucina la torta <br />di carne strana senza <br />ricetta)
+    id47(Cucina il piatto e <br />chiama il cameriere, <br />non facendoti riconoscere)
+    id48(Aspetta che la portata <br />venga servita e che <br />il cameriere abbia lasciato <br />la zona)
+    id49(Aspetta che Mortimer <br />finisca il discorso senza <br />farti notare)
+    id50(Smaschera Mortimer <br />confessando di aver <br />scambiato la carne)
+    id51(Torna da Marjorie)
+    id52(Fama per la <br />White Glove Society):::rewardfnv
+    id53(Trova un sostituto per Ted)
+    id54(Trova Carlyle St. Clair III, <br />nella sua baracca vicino <br />alla Crimson Caravan)
+    id55(Vedova nera/<br />Scapolo incallito: <br />convincilo dopo aver <br />avuto un rapporto)
+    id56(Forza 7/<br />Medicina 45/<br />Armi 45/<br />Disarmato 45: <br />tramortiscilo)
+    id57(Stordiscilo con <br />un pungolo <br />per bestiame)
+    id58(Torna da Mortimer)
+    id59(Scegli uno dei tuoi <br />seguaci umani e <br />rinchiudilo nella cella)
+    id60(500 PE, <br />fama per la White <br />Glove Society, <br />fama per la Strip):::rewardfnv
     
-    click id "../TODO"
+
+    id1-->id2-->id3-->id4 & id5 & id6-->id7 & id8
+    
+    id7-->id9 & id10-->id11-->id12 & id13 & id14-->id15-->id16-->id17-->id18----->id19
+    
+    id8-->id21-->id22-->id23-->id24-->id25----------->id26
+
+    id23-->id27-->id28-->id11
+
+    id28-->id29
+
+    id28-->id30
+
+    id31-->id32-->id33---->id30-->id34-->id35-->id36-->id37-->id38-->id39-->id40--->id41
+
+    id29-->id46--->id47
+
+    id29-->id42-->id43 & id44 & id45-->id47-->id48-->id49-->id50-->id51--->id52
+
+    id17-->id53-->id59--->id58
+
+    id53-->id54-->id55 & id56 & id57-->id58-->id60
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

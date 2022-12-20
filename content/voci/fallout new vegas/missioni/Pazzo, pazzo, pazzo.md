@@ -33,23 +33,22 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Pazzo, pazzo, pazzo</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Neil alla sua baracca)
+    id3("(Opzionale) <b>Eloquenza 50</b>: <br />convinci Neil ad <br />accompagnarci fino <br />in cima alla montagna")
+    id4(Trova un modo per <br />raggiungere la vetta <br />di Black Mountain)
+    id5(Una volta arrivato <br />all'edificio delle comunicazioni, <br />accedi alla porta sul retro)
+    id6(Prendi la chiave delle <br />attrezzature, sotto le scale)
+    id7(Occupati di Tabitha) 
+    id8(Uccidila)
+    id9(<b>Scienza 60</b>: <br />ripara Rhonda)
+    id10(Karma positivo):::rewardfnv
+    id11(1000 PE):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8 & id9
+    id9-->id10-->id11
+    id8--->id11
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

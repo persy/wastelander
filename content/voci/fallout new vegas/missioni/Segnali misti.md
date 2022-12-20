@@ -33,23 +33,24 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Segnali misti</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai con Christine alla <br />Staz. smistamento Puesta del Sol)
+    id3(Ridai corrente all'edificio)
+    id4(<b>Riparazione 60</b>: <br />ripara la scatola <br />elettrica senza componenti)
+    id5(Trova tre fusibili <br />di riserva)
+    id6(Raggiungi l'ascensore <br />della Sala di controllo <br />manuale e parla con Christine)
+    id7(Chiedi a Christine di <br />prendere l'ascensore) 
+    id8(Accedi al terminale di <br />manutenzione remoto)
+    id9(<b>Scienza 100</b>: <br />hackera il terminale)
+    id10(Usa la password di Ennis, <br />rinchiusa in un armadietto)
+    id11(Parla di nuovo con Christine<br /> per completare la missione)
+    id12(800 PE):::rewardfnv
+    id13(Prossima missione: <b>Dai inizio all'evento di gala</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5-->id6-->id7 & id8
+    id7--->id11
+    id8-->id9 & id10-->id11-->id12-->id13
+    
+    click id13 "../dai-inizio-allevento-di-gala"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

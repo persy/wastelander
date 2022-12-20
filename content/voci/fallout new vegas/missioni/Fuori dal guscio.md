@@ -33,23 +33,15 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Fuori dal guscio</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con la Dottoressa Dala)
+    id3(Portale il suo <br />orsacchiotto, che si <br />trova nell'abitazione #104 <br />all'Higgs Village)
+    id4(<b>Percezione 8</b>/<br /><b>Vedova nera</b>/<br /><b>Cherchez La Femme</b>: <br />scopri la sua ossessione <br />per gli orsacchiotti)
+    id5(Varie munizioni <br />e altri oggetti):::rewardfnv
+
     
-    click id "../TODO"
+    id1-->id2-->id3 & id4-->id5
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

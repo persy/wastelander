@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Il Silo</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Libera ED-E, nella stanza <br />di controllo a destra <br />dell'entrata)
+    id3("(Opzionale) <b>Riparazione 50</b>: <br />disattiva le torrette dal <br />terminale vicino al missile")
+    id4(Trova il modo di decodificare <br /> la crittografia sul terminale <br />della porta di isolamento)
+    id5(Ottieni i codici  dalla <br />scrivania del Generale Martin <br /> Retslaf, sull'altro lato <br />del livello)
+    id6(Sblocca le porte esterne <br />del silo)
+    id7(2200 PE):::rewardfnv
+    id8(Prossima missione: <b>Il lavoro</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8
+    
+    click id8 "../il-lavoro"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

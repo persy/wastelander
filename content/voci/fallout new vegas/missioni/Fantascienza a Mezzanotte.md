@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Fantascienza a Mezzanotte!</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai al Drive-in del Mojave <br />fra le 23:00 e le 03:00)
+    id3(Mentre il film viene proiettato, <br />attiva il satellite schiantato)
+    id4(Vari PE, accesso a Big MT):::rewardfnv
+    id5(Prossima missione: <b>Benvenuti al Grande Vuoto</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5
+    
+    click id5 "../benvenuti-al-grande-vuoto"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

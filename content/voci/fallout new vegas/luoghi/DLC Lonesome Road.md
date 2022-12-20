@@ -63,4 +63,8 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Cancello per la Long 15](../cancello-per-la-long-15)
 - [Long 15](../long-15)
 
+
+{{<figure src="fnv/FNV_Divide">}}
+
+
 </div>

@@ -49,14 +49,14 @@ graph TD;
     id15(150 tappi):::rewardfnv
     id16(Raggiungi il Vault 3)
     id17(Motor-Runner è morto)
-    id18(Eloquenza 64: <br />convinci i Demoni <br />del Vault a <br />lasciarti passare )
+    id18(<b>Eloquenza 64</b>: <br />convinci i Demoni <br />del Vault a <br />lasciarti passare )
     id19(Fatti strada nel Vault, <br />uccidendo tutti i <br />Demoni tranne <br />Motor-Runner e i <br />suoi cani)
     id21(Consegna il pacco <br />a Motor-Runner)
-    id22("(Opzionale) Baratto 65: <br />convinci i Demoni <br />a comprare le droghe <br />a un prezzo maggiore")
+    id22("(Opzionale) <b>Baratto 65</b>: <br />convinci i Demoni <br />a comprare le droghe <br />a un prezzo maggiore")
     id23(Torna da Diane)
-    id24(Scienza 50: <br />insegna a Jack a <br />sintetizzare mentats <br />da sballo, razzi e <br />squartatori)
-    id25("(Opzionale) Eloquenza 66/Baratto 50: <br />convinci Diana o Jack ad<br /> espandere il loro business<br /> e a creare altre droghe")
-    id26("(Opzionale) Scienza 50, Sopravvienza 75: <br />insegna a Jack a sintetizzare <br />super stimpak e hydra")
+    id24(<b>Scienza 50</b>: <br />insegna a Jack a <br />sintetizzare Mentats <br />da sballo, razzi e <br />squartatori)
+    id25("(Opzionale) <b>Eloquenza 66</b>/<b>Baratto 50</b>: <br />convinci Diana o Jack ad<br /> espandere il loro business<br /> e a creare altre droghe")
+    id26("(Opzionale) <b>Scienza 50</b>, <b>Sopravvivenza 75</b>: <br />insegna a Jack a sintetizzare <br />super stimpak e hydra")
     id27(Karma positivo):::rewardfnv
     id28(Per ogni ricetta insegnata)
     id29(Jet e psycho):::rewardfnv
@@ -69,10 +69,10 @@ graph TD;
     id17-->id12
     id18-->id21
     id19-->id21-->id22-->id23
-    id23-->id24-->id25-->id26-->id27
-    id26-->id28-->id29 & id30 & id31-->id32
+    id23-->id24-->id25-->id26-->id27-->id28
+    id25-->id28-->id29 & id30 & id31-->id32
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

@@ -33,23 +33,19 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Sulla stessa lunghezza d'onda</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Cerca di parlare con Dottor 8)
+    id3(<b>Scienza 75</b>/<b>Percezione 7</b>: <br />decifra cosa dice)
+    id4(Viola il Dottor 8)
+    id5(Non violare il Dottor 8)
+    id6(Karma negativo):::rewardfnv
+    id7(Karma positivo):::rewardfnv 
+    id8(Vari PE):::rewardfnv
+
+    id1-->id2-->id3-->id4 & id5 
+    id4-->id6-->id8
+    id5-->id7-->id8
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

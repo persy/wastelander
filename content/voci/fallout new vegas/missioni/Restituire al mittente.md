@@ -33,23 +33,40 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Restituire al mittente</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il Sergente <br />Reyes a Camp Forlorn Hope)
+    id3(Consegna i nuovi codici <br />di sicurezza alle <br />Stazioni Mercenari )
+    id4(Porta il codice alla <br />Stazione Mercenari <br />Alpha)
+    id5(Porta il codice alla <br />Stazione Mercenari <br />Bravo)
+    id6(Porta il codice alla <br />Stazione Mercenari <br />Charlie)
+    id7(Porta il codice alla <br />Stazione Mercenari <br />Delta) 
+    id8(Porta il codice alla <br />Stazione Mercenari <br />Echo)
+    id9(Porta il codice alla <br />Stazione Mercenari <br />Foxtrot)
+    id10(Ritorna da Reyes)
+    id11(Indaga sui rapporti falsificati)
+    id12(Interroga il <br />Mercenario Lineholm alla <br />Stazione Mercenari Alpha)
+    id13(Interroga il <br />Mercenario Pason alla <br />Stazione Mercenari Delta)
+    id14(Interroga il <br />Mercenario Kudlow alla <br />Stazione Mercenari Foxtrot)
+    id15(Ritorna di nuovo da Reyes) 
+    id17(Confrontati con <br />Capo Hanlon a <br />Camp Golf)
+    id18(Hanlon si uccide)
+    id19(Sequoia dei mercenari):::rewardfnv
+    id20(Mantieni segrete <br />le falsificazioni)
+    id21(Digli che <br />Caesar è morto)
+    id22(Date a Caesar <br />quel che è di Caesar):::questfnv
+    id23(500-800 PE, <br />fama per l'RNC):::rewardfnv
+    id24(Smaschera Hanlon)
+
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5 & id6 & id7 & id8 & id9-->id10-->id11-->id12 & id13 & id14-->id15-->id17
+
+    id17-->id24-->id18-->id19-->id23
+    id17-->id20---->id23
+    id17-->id21---->id23
+
+    id22-->id21
+
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

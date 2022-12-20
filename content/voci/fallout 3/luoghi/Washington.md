@@ -18,7 +18,7 @@ private: true # Nascosto dalle ricerche
 
 {{< toc hide_on="xl" >}}
 
-TODO
+
 
 <div class="fo3">
 

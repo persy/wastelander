@@ -16,7 +16,11 @@ hidden: true
 
 <div class="fnv">
 
-TODO
+A differenza di Fallout 3, in Fallout: New Vegas non sono disponibili le bamboline per aumentare permanentemente di un punto ciascun valore SPECIAL, ma si possono invece installare degli impianti.
+Gli impianti sono dei miglioramenti cibernetici permanenti che il giocatore può farsi installare dal Dottor Usanagi, alla Clinica Medica New Vegas.
+L'effetto degli impianti è uguale a quello dell'abilità extra Addestramento intensivo, andando a migliorare un attributo S.P.E.C.I.A.L. per singolo. In aggiunta a questi, sono disponibili due ulteriori impianti che migliorano la Soglia danni e la rigenerazione della salute.
+Grazie al DLC Old World Blues Old World Blues è possibile installare ulteriori impianti, che riguardano la velocità di movimento in modalità furtiva o l'effetto dei consumabili. Il numero degli impianti installabili è uguale al valore dell'attributo Stamina del giocatore: questo valore non aumenta se viene installato l'impianto per la Stamina. Non si può inoltre installare un impianto se il valore base dell'attributo è già a 10 (con Forza 10, Per esempio, è impossibile installare l'impianto che riguarda la Forza). Gli impianti derivati dai DLC non vengono conteggiati.
+Il costo di ogni varia a 4000 a 12000 tappi. Il tempo per ogni singola installazione è di 3 ore.
 
 | Impianto                 | Costo in tappi | Come installarlo                          | Bonus                                | Descrizione                                                                                                                                                    |
 | ------------------------ | :------------: | ----------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

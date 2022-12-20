@@ -40,7 +40,7 @@ Altri oggetti:
 - 3 **munizioni nucleari**, nell'armeria (Broken Steel)
 - 72 **energie aliene**, nell'armeria (Broken Steel)
 - Centinaia di bottiglie di **Aqua Pura**, nel cortile e in molte altre aree  (Broken Steel)
-- **Veste di Lyons l'Anziano**, indossata da Lyons, necessario il reverse pickpocketing
+- **Veste di Lyons l'Anziano**, indossata da Lyons, necessario il reverse pick-pocketing
 
 </div>
 

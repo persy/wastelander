@@ -33,23 +33,25 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Uno per la mia piccola</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Boone a Novac <br />a proposito di sua moglie)
+    id3("Ottieni il berretto <br />1° Ricognitori da Boone")
+    id4(Indaga sulla moglie scomparsa)
+    id5(<b>Scasso ???</b>: <br />scassina la serratura <br />della cassaforte) %%TODO%%
+    id6(Borseggia la chiave <br />della cassaforte da <br />Jeannie May Crawford)
+    id7(Porta qualcuno di <br />fronte al Dino Dee-lite, <br />fra le 22 e le 9, <br />indossando il berretto) 
+    id8(Apri la cassaforte <br />dietro al bancone <br />dell'accettazione del <br />Dino Dee-lite e prendi <br />la fattura di vendita)
+    id9(<b>Eloquenza 55</b>: <br />convinci Boone che <br />quella persona era <br />l'informatore)
+    id10(Porta Jeannie May Crawford <br />davanti al Dino Dee-lite, <br />fra le 22 e le 9, <br />indossando il berretto)
+    id11(Prendi la fattura <br />di vendita dal <br />cadavere di Jeannie)
+    id12("150 PE, <br />100 tappi, <br />berretto 1° Ricognitori"):::rewardfnv
+    id13(Mi sono dimenticato di <br />ricordarmi di dimenticare):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5 & id6-->id8-->id10-->id11-->id12-->id13
+
+    id3-->id10
+    id4-->id7-->id9---->id12
+    
+    click id13 "../mi-sono-dimenticato-di-ricordarmi-di-dimenticare"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

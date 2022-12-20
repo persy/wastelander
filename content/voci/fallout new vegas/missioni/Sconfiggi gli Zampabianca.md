@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Sconfiggi gli Zampabianca</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai con Joshua Graham <br />a incontrare le forze <br />d'attacco alle Tre Marie)
+    id3(Incontra Joshua Graham <br />e decidi il destino di <br />Sale sulle Ferite)
+    id4(Lascia che Joshua Graham <br />uccida Sale sulle Ferite)
+    id5(<b>Eloquenza 75</b>, <b>90</b>: <br />convinci Joshua Graham <br />a risparmiare Sale sulle Ferite)
+    id6(Abbandona Zion)
+    id7(Vari PE, <br />Una luce nell'oscurità, <br />Armatura di Joshua Graham, <br />Vestito di Daniel, <br />Cappello di Daniel, <br />Elmo di Sale sulle Ferite, <br />Pugno potenziato di Sale sulle Ferite, <br />Copricapo Fiutagesso, <br />Scrittura):::rewardfnv
+    id8(Prossima missione: <b>Fuga dal paradiso</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5-->id6-->id7-->id8
+    
+    click id8 "../fuga-dal-paradiso"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

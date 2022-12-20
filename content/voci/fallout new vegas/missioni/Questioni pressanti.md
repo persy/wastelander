@@ -33,23 +33,18 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Questioni pressanti</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai alla Crimson <br />Caravan Company e <br />parla con <br />Alice McLafferty)
+    id3(Vai alla Sede Sunset <br />Sarsaparilla e disattiva <br />la pressa per tappi <br />di bottiglia)
+    id4("(Opzionale) <b>Scienza 50</b>: <br />attiva il Sig. Custode")
+    id5(Vai al cestino <br />della spazzatura)
+    id6("~500 tappi"):::rewardfnv
+    id7(Torna da Alice) 
+    id8(100 PE, <br />500 tappi, <br />fama per l'RNC):::rewardfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6
+    id3-->id7-->id8
+    
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

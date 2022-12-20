@@ -33,23 +33,14 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Radio di emergenza</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2("Seleziona #quot;Hai chiesto <br />il supporto dei rifornimenti <br />RNC#quot;, dopo aver <br />attivato la Radio di <br />emergenza RNC")
+    id3(Segui l'indicatore <br />l'indicatore del <br />deposito di rifornimento <br />sul Pip-Boy)
+    id4(Prendi le scorte)
+    id5(Supporto dei rifornimenti RNC):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

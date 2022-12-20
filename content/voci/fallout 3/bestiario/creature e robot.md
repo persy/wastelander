@@ -14,7 +14,7 @@ commentable: true
 hidden: true
 ---
 
-TODO
+In questa pagina vengono elencate tutte le specie animali e i robot che puoi incontrare nella Zona contaminata della Capitale.
 
 {{< toc hide_on="xl" >}}
 

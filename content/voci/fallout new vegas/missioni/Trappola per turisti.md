@@ -33,23 +33,16 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Trappola per turisti</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai all'Emporio e <br />trova cinque cestini da <br />pranzo Piccoli Scout)
+    id3(Vai alla Stazione Mercenari di Zion <br />e trova il kit di scorte mediche)
+    id4(Utilizza l'equipaggiamento <br />trovato per rimpiazzare <br />o sterilizzare le parti <br />contaminate)
+    id5(<b>Medicina 30</b>: <br />recupera il kit di scorte mediche <br />con le tue conoscenze)
+    id6(Vari PE):::rewardfnv
+    id7(Prossima missione: <b>Portatore dei Tormenti</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4 & id5-->id6-->id7
+    
+    click id7 "../portatore-di-tormenti"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

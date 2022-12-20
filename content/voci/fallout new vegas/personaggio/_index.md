@@ -15,7 +15,7 @@ hidden: false # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
 ---
 
-TODO
+
 
 <!--
 {{< cta cta_text="S.P.E.C.I.A.L." cta_link="special" cta_new_tab="false" >}}
@@ -29,6 +29,7 @@ TODO
 {{< cta cta_text="Modalità Duro" cta_link="modalita-duro" cta_new_tab="modalita-duro" >}}
 {{< cta cta_text="Mappe" cta_link="#" cta_new_tab="false" >}}
 -->
+
 
 <a href="abilita-extra" class="btn mojave">Abilità extra</a>
 <a href="abilita" class="btn mojave">Abilità</a>

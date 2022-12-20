@@ -6,7 +6,7 @@ hidden: true
 private: true
 ---
 
-TODO
+
 
 **Fallout** è una serie di videogiochi ambientata in un futuro postapocalittico a cavallo tra il XXII e il XXIII secolo, ma che vede l'iconografia e la tecnologia ispirate a quelle presenti negli Stati Uniti durante gli anni cinquanta, dominati dall'incubo di una guerra nucleare (il titolo si riferisce alla ricaduta radioattiva, detta «fall-out») e in pieno clima di guerra fredda (stile *atompunk*). 
 

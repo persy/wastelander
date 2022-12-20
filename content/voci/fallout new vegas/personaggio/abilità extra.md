@@ -19,6 +19,11 @@ hidden: true
 
 <div class="fnv">
 
+
+In Fallout: New Vegas si ottiene un'abilità extra ad ogni due livelli, anziché ogni tre livelli come succede in Fallout e Fallout 2, o ogni livello come in Fallout 3.
+
+*N.B. i requisiti S.P.E.C.I.A.L. di un'abilità extra non possono essere soddisfatti equipaggiando oggetti o usando droghe (ad eccezione della Palla 8 fortunata).* 
+
 ## Abilità extra salendo di livello
 
 

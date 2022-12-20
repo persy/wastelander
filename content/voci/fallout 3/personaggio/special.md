@@ -14,9 +14,16 @@ commentable: true
 hidden: true
 ---
 
-S.P.E.C.I.A.L. è un acronimo delle parole inglesi Strength (Forza), Perception (Percezione), Endurance (Stamina), Charisma (Carisma), Intelligence
-(Intelligenza), Agility (Agilità), Luck (Fortuna). Attraverso questi attributi, detti anche statistiche primarie, si definiscono i caratteri principali del perso-
-naggio, come la sua abilità con le armi, nel sopportare danni o nell'ottenere informazioni.
+**S.P.E.C.I.A.L.** è un acronimo delle parole inglesi **Strength** (Forza), **Perception** (Percezione), **Endurance** (Stamina), **Charisma** (Carisma), **Intelligence** (Intelligenza), **Agility** (Agilità), **Luck** (Fortuna). Attraverso questi attributi, detti anche statistiche primarie, si definiscono i caratteri principali del personaggio, come la sua abilità con le armi, nel sopportare danni o nell'ottenere informazioni.
+
+Il personaggio di default ha 5 punti per ognuno dei sette attributi, più un bonus di 5 punti da distribuire secondo il personale gusto del giocatore, tramite il libro "Sei S.P.E.C.I.A.L.", durante la prima missione del gioco *Primi passi*. Tuttavia è meglio ricordare che tutte le statistiche possono essere diminuite e i punti da ridistribuire essere così aumentati. Tutti i punti degli attributi vanno assegnati e ogni attributo può avere da un minimo di un punto a un massimo di 10. Oltre questi livelli i bonus e le penalità, anche se temporanei, vengono ignorati.
+A differenza di Fallout e Fallout 2, il gioco tiene traccia dei valori di ogni attributo, senza le modifiche temporanee (es. assumendo droghe o indossando un certo equipaggiamento). Questi valori di base sono usati come prerequisiti per apprendere le abilità extra o il numero di punti abilità da assegnare per ogni livello raggiunto. A ogni attributo S.P.E.C.I.A.L. corrisponde una o più abilità. Per ogni punto S.P.E.C.I.A.L. di Forza, Percezione, Stamina, Carisma, Intelligenza e Agilità vengono assegnati 2 punti alle abilità associate, mentre per ogni due punti di Fortuna viene assegnato un punto a tutte le abilità.
+
+Ci sono diversi modi per aumentare queste statistiche primarie:
+- usare l'abilità extra Addestramento intensivo
+- raccogliere una bambolina S.P.E.C.I.A.L.
+- selezionare l'abilità *Quasi perfetto*, che aumenta tutti gli S.P.E.C.I.A.L. a 9
+- completare la missione *Mio Dio!* (vale solo per la Forza e la Percezione)
 
 
 ## Generale 

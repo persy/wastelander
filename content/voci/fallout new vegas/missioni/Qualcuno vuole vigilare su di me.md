@@ -33,23 +33,48 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Qualcuno vuole vigilare su di me</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Crandon a <br />Piazza di North Vegas)
+    id3(<b>Eloquenza 45</b>/<b>Baratto 35</b>: <br />dimostragli di <br />essere all'altezza)
+    id4(Occupati di Squatter Bill <br />e dei suoi amici)
+    id5(<b>Eloquenza 45</b>: <br />convincilo ad andarsene <br />e tornare a Westside)
+    id6(<b>Baratto 45</b>: <br />pagalo 50 tappi per <br />farlo andare via)
+    id7(Uccidilo) 
+    id8(Occupati di Greasy Johnny <br />e dei suoi amici)
+    id9(Infamia per l'RNC):::rewardfnv
+    id10(<b>Eloquenza 65</b>: <br />intimidiscilo affinché <br />se ne vada)
+    id11(<b>Baratto 50</b>: <br />corrompilo con <br />50 tappi)
+    id12(Pagalo 100 tappi)
+    id13(<b>Presenza terrificante</b>: <br />spaventalo) 
+    id14(Uccidilo)
+    id15(Occupati della Sig.ra <br />Hostetler e sua <br />figlia Alice)
+    id16(Interroga Jules a <br />proposito di Alice <br />e Andy Scabbs)
+    id17(Raggiungi la stanza di <br />Scabbs a The Gray <br />e ottieni il messaggio)
+    id18(Porta il messaggio <br />alla Sig.ra Hostetler)
+    id19(Parla con Alice)
+    id20(Uccidi Alice)
+    id21(<b>Eloquenza 70</b>/<br /><b>Intelligenza 7</b>: <br />convincila ad <br />uccidere la madre)
+    id22(Convincila a restare <br />o andarsene per sempre)
+    id23(<b>Eloquenza 75</b>: <br />dille che solo lei <br />conosce la risposta)
+    id24(Karma negativo):::rewardfnv
+    id25(Karma positivo):::rewardfnv
+    id26(Parla con la <br />Sig.ra Hostetler)
+    id27(150 PE, <br />1000 tappi):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5 & id6--->id8
+    id4-->id7-->id9-->id8
     
-    click id "../TODO"
+    id8-->id10 & id11 & id12 & id13 & id14-->id15-->id16-->id17-->id18-->id19-->id20 & id21 & id22 & id23
+
+    id20-->id24-->id26
+    id21--->id26
+    id22--->id26
+    id23-->id25-->id26
+
+    id26-->id27
+
+
+
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

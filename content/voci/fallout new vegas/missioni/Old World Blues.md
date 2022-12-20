@@ -33,23 +33,44 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Old World Blues</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con Dottor Klein)
+    id3(Entra nella Cupola della Zona <br />proibita e affronta il <br />roboscorpione gigante X-42)
+    id4(Uccidilo)
+    id5(<b>Scienza 100</b>: <br />disattivalo dal terminale<br /> nella stanza a sinistra)
+    id6(Usa l'olonastro <br />a sinistra <br />della piattaforma <br />dei protettori <br />per ottenere <br />la password <br />di disattivazione)
+    id7(Affronta il Dottor Mobius <br />e poi il tuo cervello) 
+    id8(Uccidi Mobius)
+    id9(1066 PE):::rewardfnv
+    id10(Risparmialo)
+    id11(Occupati del tuo cervello)
+    id12(Convincilo a <br />tornare con te)
+    id13("(Opzionale) <br /><b>Medicina 55</b>, <b>Eloquenza 75</b>, <br /><b>Uno scapolo incallito</b>/<br /><b>Chechez La Femme</b>/<br /><b>Donnaiolo</b>/<b>Vedova nera</b>: <br />per convincerlo più <br />facilmente a tornare <br />nel nostro corpo")
+    id14(Lascialo nella sua teca) 
+    id15(Affronta il Dottor Klein)
+    id16(Uccidilo assieme agli <br />altri scienziati)
+    id17(<b>Eloquenza 75</b>/<b>Medicina 85</b>/<br /><b>Scienza 100</b>: <br />risolvi in maniera pacifica)
+    id18(Sfrutta la fiducia <br />guadagnata dei dottori)
+    id19(In fondo è <br />solo un nome):::questfnv
+    id20(Sulla stessa <br />lunghezza d'onda):::questfnv
+    id21(Il miglior amico <br />di un cervello):::questfnv
+    id22(Fuori dal guscio):::questfnv
+    id23(Completamento Old World Blues, <br />Trasmettisportatore di Big Mountain!):::rewardfnv
+    id24("(Opzionale) <br /><b>Scasso 75</b>, <b>Riparazione 75</b>, <br /><b>Scienza 65</b>, <b>Furtivo 45</b>, <br /><b>Scienza 85</b>, <b>Medicina 85</b>: <br />per ottenere altre informazioni <br />dal Dottor Klein")
+    id25("(Opzionale) <br /><b>Riparazione 75</b>/<b>Scienza 50</b>/<br /><b>Eloquenza 65</b>/<b>Intelligenza 7</b>/<br /><b>Percezione 7</b>, <b>Medicina 65</b>, <br /><b>Armi 75</b>: <br />per ottenere altre informazioni <br />dal Dottor Mobius")
+
+
+    id1-->id2-->id24-->id3-->id4 & id5 & id6-->id7-->id25-->id8-->id9
+    id9-->id11
+    id25-->id10--->id11
+
+    id11-->id12-->id13-->id15
+    id11-->id14--->id15
+
+    id15-->id16 & id17 & id18-->id23
+
+    id19 & id20 & id21 & id22-->id18
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -75,12 +96,14 @@ graph TD;
 
 
 **Sfide abilità**:
+- **Scasso 75**/**Riparazione 75**/**Scienza 65**/**Furtivo 45**, **Scienza 85**, **Medicina 85**: per ottenere altre informazioni sulle tecnologie recuperate dal Dottor Klein
 - **Scienza 50**:  per attivare le torrette automatiche
-- **Scienza 100**: per disattivare permanentemente il roboscorpione gigante X-42 (la password è in un olonastro a sinistra della piattaforma dei protectron)
+- **Scienza 100**: per disattivare permanentemente il roboscorpione gigante X-42 (la password è in un olonastro a sinistra della piattaforma dei protettori)
 - **Esperto in robotica**: per disattivare temporaneamente il roboscorpione gigante X-42
-- **Riparazione 75**/**Scienza 50**/**Eloquenza 65**/**Intelligenza 7**/**Percezione 7**, **Medicina 65**, A**rmi 75**: per confrontarsi pacificamente con il Dottor Mobius e il proprio cervello
+- **Riparazione 75**/**Scienza 50**/**Eloquenza 65**/**Intelligenza 7**/**Percezione 7**, **Medicina 65**, **Armi 75**: per ottenere altre informazioni da Dottor Mobius
 - **Uno scapolo incallito**/**Cherchez La Femme**/**Donnaiolo**/**Vedova nera**: per sbloccare alcuni dialoghi unici con il cervello
-- **Eloquenza 75**: per convincere il cervello a tornare nel corpo del Corriere
+- **Medicina 55**/**Eloquenza 75**: per convincere più facilmente il cervello a tornare nel corpo del Corriere
+- **Armi 75**/**Armi a energia 75**/**Armi da mischia 75**/**Esplosivi 75**/**Disarmato 75**: per decidere la strategia da adottare contro il Serbatoio del pensiero parlando con il cervello
 - **Eloquenza 75**/**Medicina 85**/**Scienza 100**: per confrontarsi con il Serbatoio del pensiero
 
 

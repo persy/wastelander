@@ -120,7 +120,7 @@ graph TD;
     click id37 "../killer-dellarizona"
     click id38 "../veni-vidi-vici"
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

@@ -33,23 +33,43 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Ti ho stregato</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Parla con il <br />Colonnello James Hsu <br />a Camp McCarran)
+    id3(Parla con il <br />Capitano Ronald Curtis <br />e poi con il <br />Luogotenente Carrie Boyd)
+    id4(Il dito sospetto):::questfnv
+    id5(Intelligenza 8/<br />fama per la Legione:<br /> rivela al Capitano Curtis <br />di lavorare per la Legione) %%TODO%
+    id6(Non rivelare al Capitano Curtis <br />che stai investigando sulle <br />incursioni notturne)
+    id7(Rivela al Capitano Curtis che <br />stai investigando sulle <br />incursioni notturne) 
+    id8(Sopravvivi all'imboscata)
+    id9(Confrontarti con <br />Curtis e uccidilo)
+    id10(Prendi il codice di <br />attivazione dal cadavere <br />di Curtis)
+    id11("Visita la torre di <br />controllo fra la <br />mezzanotte e l'1:40")
+    id12(Entra e origlia <br />la discussione, <br />restando nascosto)
+    id13(Parla della bomba <br />al Colonnello Hsu) 
+    id14(Scienza 45/<br />Esplosivi 35: <br />disinnesca la bomba)
+    id15(La bomba è in uno degli <br />sfiatatoi nella carrozza <br />della monorotaia)
+    id16(Torna dal Colonnello Hsu)
+    id17(600 PE, <br />250 tappi, <br />fama per l'RNC):::rewardfnv
+    id18("Parla con Curtis e <br />seleziona l'opzione di dialogo <br />#quot;Hsu non ha abbastanza fiducia <br />in me per permettermi di <br />indagare#quot;")
+    id19(Prendi il materiale  <br />all'interno del cestino, <br />davanti alla biglietteria, <br />per far saltare la monorotaia)
+    id20(Parla col Colonnello Hsu <br />e digli che stai investigando <br />su una fuga di informazioni)
+    id21(Accedi alla monorotaia, <br />furtivamente o indossando <br />un'armatura dell'RNC)
+    id22(Entra nella monorotaia <br />e piazza la bomba, attivando <br />lo sfiatatoio sulla carrozza)
+    id23(Raggiungi il Viale di <br />Camp McCarran e trova <br />l'armadietto del Soldato <br />semplice Davey Crenshaw)
+    id24(Piazza del detergente Abraxo, <br />un conduttore, una batteria <br />a fissione, della colla prodigiosa <br />e i piani di sabotaggio <br />nell'armadietto)
+    id25(Esci dall'edificio e <br />uccidi il Soldato semplice <br />Davey Crenshaw)
+    id26("(Opzionale) Furtivo 40: <br />uccidilo furtivamente")
+    id27(Torna da Hsu e <br />accusa Crenshaw <br />del sabotaggio <br />della monorotaia)
+    id28(Parla con Curtis <br />e digli che può stare <br />tranquillo)
+    id29(540 PE, <br />150 tappi, <br />fama per la Legione):::rewardfnv
+
+    id1-->id2-->id3 & id4 & id5
     
-    click id "../TODO"
+    id3-->id6-->id11-->id12-->id13 & id14-->id15-->id16-->id17
+    id3-->id7-->id8-->id9-->id10-->id15
+    
+    id4 & id5-->id18-->id19-->id20-->id21-->id22-->id23-->id24-->id25-->id27-->id28-->id29
+    id25-->id26-->id27
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
@@ -91,6 +111,9 @@ graph TD;
 - Lavorando per Caesar per completare Date a Caesar quello che è di Caesar è possibile che l'RNC ci consideri terroristi e che quindi questa missioni sia impossibile da completare, anche perché Hsu, nonostante eventuali camuffamenti, sarà sempre ostile al Corriere 
 - Prendendo gli oggetti dal cestino per incolpare Crenshaw, il Corriere conferma di proseguire la missione per conto della Legione e non sarà più possibile utilizzare la monorotaia, anche se l'attentato fallisce 
 - Durante la missione *Il dito del sospetto* bisogna riferire a Martina che è stata la Legione a mandare il Corriere a proteggerla e riferire a Vulpes che lavora per Curtis, per ottenere questa missione 
+
+
+
 
 
 </div>

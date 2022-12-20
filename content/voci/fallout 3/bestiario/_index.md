@@ -13,7 +13,7 @@ type: book # Do not modify.
 commentable: true
 ---
 
-TODO
+
 <!--
 {{< cta cta_text="Seguaci" cta_link="#" cta_new_tab="false" >}} 
 {{< cta cta_text="Mercanti" cta_link="mercanti" cta_new_tab="false" >}} 

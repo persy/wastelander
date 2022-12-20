@@ -33,23 +33,27 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Uccidi la bestia</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Accedi all'armadietto dei <br />contatori del casinò <br />e ripristina la corrente <br />al resto del Sierra Madre)
+    id3(Ottieni il codice di <br />sicurezza casinò dal <br />bancone del bar)
+    id4(<b>Scienza 75</b>: <br />hackera il terminale <br />nell'ufficio del cassiere)
+    id5(Trova la chiave della porta <br />di emergenza per la cucina <br />della Cantina Madrid)
+    id6(Accedi alla cucina della <br />cantina Madrid attraverso <br />la porta di emergenza del casinò)
+    id7(Ripara le tre valvole <br />del gas rotte nella cucina, <br />senza che Dog/God ti veda) 
+    id8(Confrontati con God/Dog)
+    id9(<b>Eloquenza 50</b>: <br />convincilo a <br />togliersi il collare, <br />facendosi esplodere)
+    id10(Uccidi Dog/God)
+    id11(<b>Eloquenza 75</b>: <br />elimina la personalità <br />di Dog e fai <br />prevalere God)
+    id12(<b>Eloquenza 85</b>: <br />fondi le due <br />personalità)
+    id13(Vari PE, <br />karma negativo):::rewardfnv
+    id14(Vari PE, <br />karma positivo):::rewardfnv
+    id15(Prossima missione: <b>Chiamata alla ribalta al Tampico</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3 & id4-->id5-->id6-->id7-->id8-->id9 & id10 & id11 & id12
+
+    id10-->id13-->id15
+    id9 & id11 & id12-->id14-->id15
+    
+    click id15 "../chiamata-alla-ribalta-al-tampico"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

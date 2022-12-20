@@ -60,7 +60,7 @@ graph TD;
     id14-->id15 -->id18 
     id15-->id16-->id18
     id14-->id17
-    click id "../TODO"
+    
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```

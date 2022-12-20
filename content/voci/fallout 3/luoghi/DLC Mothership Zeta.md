@@ -21,7 +21,7 @@ tags: "Luoghi di Fallout 3"
 <div class="fo3">
 
 
-TODO
+
 
 - [Ricerca biologica](../ricerca-biologica)
 - [Ponte](../ponte-mothership-zeta)

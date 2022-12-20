@@ -17,8 +17,6 @@ private: true # Nascosto dalle ricerche
 <div class="fo3">
 
 
-TODO
-
 - [Zona contaminata della Capitale](zona-contaminata-della-capitale) 
     - [Insediamenti](insediamenti-della-zona-contaminata-della-capitale)
     - [Vault della Zona contaminata della Capitale](vault-della-zona-contaminata-della-capitale)
@@ -26,13 +24,11 @@ TODO
     - [Washington D.C.](washington) 
 
 - [DLC](dlc)
-    - [Operation: Anchorage](dlc-anchorage) TODO
-    - [Broken Steel](dlc-broken-steel) TODO
-    - [The Pitt](dlc-the-pitt) TODO
-    - [Point Lookout](dlc-point-lookout) TODO
-    - [Mothership Zeta](dlc-mothership-zeta) TODO
-
-TODO: Inserire mappa
+    - [Operation: Anchorage](dlc-anchorage) 
+    - [Broken Steel](dlc-broken-steel) 
+    - [The Pitt](dlc-the-pitt) 
+    - [Point Lookout](dlc-point-lookout) 
+    - [Mothership Zeta](dlc-mothership-zeta) 
 
 {{<figure src="fo3/fallout3worldmapfull.png">}}
 

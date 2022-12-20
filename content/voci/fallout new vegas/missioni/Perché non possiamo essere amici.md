@@ -33,23 +33,21 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Perché non possiamo essere amici?</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Raggiungi il Vault 19)
+    id3(Parla con Samuel Cooke)
+    id4(Parla con Philip Lem)
+    id5(Entra nelle grotte <br />sulfuree sotto il Vault)
+    id6(Se vuoi appoggiare Cooke, <br />uccidi i gechi)
+    id7(<b>Scienza 40</b>/<b>Esplosivi 60</b>: <br />se vuoi appoggiare Lem, <br />blocca l'entrata alle grotte) 
+    id8(Torna da Cooke o da Lem)
+    id9(<b>Eloquenza 40</b>: <br />che tu voglia appoggiare <br />Cooke o Lem, chiedi a <br />Papa Khan di accettare <br />i Powder Gangers fra <br />le file dei Great Khan)
+    id10(Se vuoi appoggiare Lem, <br />decidi che si arrendano <br />all'RNC)
+    id11(Ritorna da Cooke o da Lem)
+    id12(300 PE, <br />fama per i Powder Ganger):::rewardfnv
+
+    id1-->id2-->id3 & id4-->id5-->id6 & id7-->id8-->id9 & id10-->id11-->id12
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

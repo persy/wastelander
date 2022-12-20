@@ -75,4 +75,7 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Tumulo del caterpillar](../tumulo-del-caterpillar)
 - [Tunnel di Pine Creek](../tunnel-di-pine-creek)
 
+{{<figure src="fnv/Zion">}}
+
+
 </div>

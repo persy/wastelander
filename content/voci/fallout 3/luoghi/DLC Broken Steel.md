@@ -18,7 +18,7 @@ tags: "Luoghi di Fallout 3"
 
 {{< toc hide_on="xl" >}}
 
-TODO
+
 
 <div class="fo3">
 

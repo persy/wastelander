@@ -33,23 +33,16 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Attacco dell'infiltrato X-13</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Raggiungi la <br />Struttura di ricerca X-13)
+    id3(Recupera il <br />prototipo di stivali X-13, <br />il prototipo di guanti X-13 e <br />il prototipo di corazza superiore X-13)
+    id4(Attiva il test di infiltrazione <br />di base per avviare l'inizializzazione <br />della tuta mimetica)
+    id5(Acquisisci il documento X-13 <br />dalla cassaforte da muro dell'amministratore <br />per completare l'inizializzazione <br />della tuta mimetica)
+    id6(Varie riviste delle abilità<br /> e munizioni energetiche):::rewardfnv
+    id7(Prossima missione: <b>Progetto X-13</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7
+    
+    click id "../progetto-x-13"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

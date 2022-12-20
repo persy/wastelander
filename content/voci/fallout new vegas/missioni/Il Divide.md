@@ -33,23 +33,18 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Il Divide</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Attiva l'ascensore per silo <br />missilistico di Ashton e <br />dirigiti al Divide)
+    id3(Sopravvivi alla corsa <br />dell'ascensore per il silo <br />missilistico di Ashton)
+    id4(Viaggia fino al Tetto della <br />torre Sunstone)
+    id5(Raggiungi fino a Caverna <br />di Abaddon)
+    id6(Attraversa la caverna)
+    id7(Raggiungi il Tempio di Ulysses) 
+    id8(4400 PE):::rewardfnv
+    id9(Prossima missione: <b>Gli Scavatori</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9
+    
+    click id9 "../gli-scavatori"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

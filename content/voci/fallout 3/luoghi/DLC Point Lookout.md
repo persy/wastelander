@@ -22,7 +22,7 @@ tags: "Luoghi di Fallout 3"
 <div class="fo3">
 
 
-TODO
+
 
 - [Cattedrale Arca & Spirito santo](../cattedrale-arca-&-spirito-santo)
 - [Cimitero Arca & Spirito santo](../cimitero-arca-&-spirito-santo)

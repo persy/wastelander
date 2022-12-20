@@ -33,23 +33,34 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Valzer delle candele</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Guadagna la fiducia <br />di Arcade Gannon)
+    id3(Prosegui con la <br />trama principale)
+    id4(Distruggi la <br />Confraternita d'Acciaio <br />a Hidden Valley)
+    id5(Installa Yes Man <br />al posto del Sig. House <br />al Lucky 38)
+    id6(Uccidi il Sig. House)
+    id7(La Casa vince sempre, V):::questfnv 
+    id8(Jolly: cambiamento di gestione):::questfnv
+    id9("Per la Repubblica, 2ª parte"):::questfnv
+    id10(Contatta i Superstiti <br />dell'Enclave)
+    id11(Parla con <br />Judah Kreger <br />a Westside)
+    id12(Parla con <br />Orion Moreno alla <br />Fattoria dei mezzadri <br />dell'RNC)
+    id13(Parla con il <br />Dottor Henry <br />a Jacobstown)
+    id14(Parla con <br />Cannibale Johnson <br />nella sua caverna)
+    id15(Parla con <br />Daisy Whitman <br />a Novac)
+    id16(Convincili a riunirsi <br />al Bunker dei Superstiti)
+    id17(Usa la password ed entra <br />nel bunker dei Superstiti)
+    id18(Convincili a combattere <br />al tuo fianco durante la <br />battaglia finale a <br />Hoover Dam)
+    id19("(Opzionale) <b>Eloquenza 80</b>: <br />convinci Moreno a non <br />abbandonare gli altri nel <br />caso appoggiassi l'RNC")
+    id20(500 PE, <br />addestramento per l'armatura atomica, <br />Armatura Tesla dei Superstiti):::rewardfnv
+
+    id1-->id2-->id3-->id4 & id5 & id6
+    id4-->id7
+    id5-->id8
+    id6-->id9
+
+    id7 & id8 & id9-->id10-->id11 & id12 & id13 & id14 & id15-->id16-->id17-->id18-->id19-->id20
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

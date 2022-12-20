@@ -17,7 +17,7 @@ commentable: true
 
 Spin-off della serie principale, **Fallout: New Vegas** è ambientato in un ambiente open world post-apocalittico che comprende una regione composta da parti di Arizona, California e Nevada, denominata "Zona contaminata del Mojave. La storia principale di New Vegas si svolge nell'anno 2281, quattro anni dopo gli eventi di Fallout 3 e 204 anni dopo la caduta delle bombe. Non è un sequel diretto, ma presenta il ritorno di diversi elementi trovati in Fallout 2.
 
-</div>
+
 
 <!--
 {{< cta cta_text="Personaggio" cta_link="personaggio" cta_alt_text="S.P.E.C.I.A.L., tratti, abilità e abilità extra" cta_alt_link="personaggio"  cta_new_tab="false" >}}
@@ -27,6 +27,10 @@ Spin-off della serie principale, **Fallout: New Vegas** è ambientato in un ambi
 {{< cta cta_text="Oggetti" cta_link="oggetti" cta_alt_text="Armi, armature, droghe, libri..." cta_alt_link="oggetti"  cta_new_tab="false" >}}
 {{< cta cta_text="Bestiario" cta_link="bestiario" cta_alt_text="Creature, robot, seguaci e mercanti" cta_alt_link="bestiario"  cta_new_tab="false" >}}
 -->
+
+</div>
+
+
 
 <a href="personaggio" class="btn mojave">Personaggio</a>
 <a href="luoghi" class="btn mojave">Luoghi</a>

@@ -33,23 +33,23 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Spedizione della Happy Trails</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Trova Jed Masterson <br />con la trasmissione <br />radio della Happy Trails<br /> Caravan Company dal <br />tuo Pip-Boy)
+    id3(Fa' sapere a Jed <br />che sei pronto a partire <br />quando sarai da solo <br />e con non più di <br />75 libbre di carico)
+    id4("(Opzionale) <b>Medicina 45</b>: <br />convinci Ricky ad<br /> abbandonare la carovana <br />o a comprarti le droghe")
+    id5("(Opzionale) <br />Aggiungi altre 25 libbre")
+    id6(<b>Sopravvivenza 50</b>/<br /><b>Schiena resistente</b>/<br /><b>Ladruncolo</b>: <br />Convinci Jed ad aumentare <br />il carico massimo trasportabile)
+    id7(<b>Sopravvivenza 20</b>/<br /><b>Armi 45</b>/<br /><b>Scienza 45</b>: <br />convinci Ricky a portare <br />lui il peso in eccesso) 
+    id8(<b>Baratto 50</b>, <b>75</b>, <b>100</b>: <br />paga 100/75/50 tappi a <br />Ricky affinché porti il <br />peso in eccesso) %%TODO%%
+    id9(Parti per il Canyon di Zion)
+    id10(175 tappi):::rewardfnv
+    id11(Prossima missione: <b>Arrivo a Zion</b>):::questfnv
     
-    click id "../TODO"
+    id1-->id2-->id3-->id4--->id9
+    id3-->id9
+    id3-->id5-->id6 & id7 & id8-->id9
+    id9-->id10-->id11
+    
+    click id11 "../arrivo-a-zion"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

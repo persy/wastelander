@@ -33,23 +33,23 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Furto del secolo</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Crea la sequenza musicale <br />sul terminale della <br />reception <all'ingresso)
+    id3(Usa l'olonastro di <br />Vera per dire la password)
+    id4(Fai dire la password <br />a Christine, con la <br />sua nuova voce)
+    id5(Entra nel caveau e <br />accedi al computer centrale <br />nella camera)
+    id6(<b>Bassa reputazione con l'RNC</b>: <br />stringi un'alleanza <br />con Padre Elijah per <br />conquistare il Mojave)
+    id7(Finale del gioco):::questfnv
+    id8(<b>Baratto</b>, <br /><b>Esplosivi</b>, <br /><b>Scasso</b>, <br /><b>Riparazione</b>, <br /><b>Scienza</b>, <br /><b>Furtivo 75</b>: <br />confrontati con <br />Padre Elijah)
+    id9(Uccidi Padre Elijah)
+    id10(Fuggi dal caveau del <br />Sierra Madre prima che <br />il tuo collare esploda)
+    id11(Completamento di Dead Money):::questfnv
+    id12(Raggira furtivamente <br />Padre Elijah e <br />rinchiudilo nel caveau)
+
+    id1-->id2 & id3-->id4-->id5-->id6-->id7
+    id5-->id8-->id9-->id10-->id11
+    id5-->id12--->id10
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

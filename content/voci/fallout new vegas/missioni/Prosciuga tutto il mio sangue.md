@@ -33,23 +33,23 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Prosciuga tutto il mio sangue</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Vai al The Thorn e <br />parla con Red Lucy)
+    id3(Raccogli le uova di <br />mantide gigante al terzo <br />livello del Vault 22 <br />e portale a Lucy)
+    id4("200 tappi <br />(300 tappi con Baratto 50)"):::rewardfnv
+    id5(Raccogli le uova di <br />scorpione radioattivo nei <br />pressi del cimitero di Goodsprings <br />e portale a Lucy)
+    id6("300 tappi <br />(400 tappi con Baratto 60)"):::rewardfnv
+    id7(Raccogli le <br />uova di geco del fuoco <br />a est dell'Accampamento Viper <br />della Highway 95 <br />e portale a Lucy) 
+    id8("500 tappi <br />(700 tappi con Baratto 70)"):::rewardfnv
+    id9(Raccogli le uova di <br />nightstalker nella <br />Caverna Bloodborne<br />e portale a Lucy)
+    id10("700 tappi <br />(1000 tappi con Baratto 80)"):::rewardfnv
+    id11(Raccogli le uova di <br />cazador nei pressi della <br />Miniera argento Peak Mine <br />e portale a Lucy)
+    id12("1000 tappi <br />(1500 tappi con Baratto 90)"):::rewardfnv
+    id13(Raccogli le uova di <br />deathclaw a Quarry Junction <br />o nella Caverna del vento morto <br />e portale a Lucy) 
+    id14(2500 tappi, <br />Campanello della cena):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13-->id14
     
-    click id "../TODO"
+    
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```

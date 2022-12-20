@@ -33,23 +33,17 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Chiamata alla ribalta al Tampico</b>):::questfnv
-    id2(TODO)
-    id3(TODO)
-    id4(TODO)
-    id5(TODO)
-    id6(TODO)
-    id7(TODO) 
-    id8(TODO)
-    id9(TODO)
-    id10(TODO)
-    id11(TODO)
-    id12(TODO)
-    id13(TODO) 
-    id(TODO):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
-    id-->id-->id-->id-->id-->id-->id
+    id2(Entra al teatro Tampico)
+    id3(Raggiungi il palco, <br />evitando gli altoparlanti)
+    id4(Prendi lo <br />spartito dal leggio)
+    id5(Vai dietro le quinte <br />e confrontati <br />con Dean Domino)
+    id6(Uccidilo)
+    id7(<b>Eloquenza 75</b>: <br />convincilo a <br />cedere la chiave) 
+    id8(Prossima missione: <b>Ultimi lussi</b>):::rewardfnv
+
+    id1-->id2-->id3-->id4-->id5-->id6 & id7-->id8
     
-    click id "../TODO"
+    click id "../ultimi-lussi"
     classDef rewardfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
     classDef questfnv fill:#ffe245, stroke:#ffe245, color:#282a36;
 ```
