@@ -14,10 +14,9 @@ commentable: true
 hidden: true
 ---
 
-I mercanti sono personaggi in grado di scambiare armi, munizioni, modifiche, armature, vestiti, cibi, bevande o droghe tramite il baratto oppure utilizzando una moneta di fortuna, i tappi. Maggiore è il livello di Baratto del Corriere, minore sarà il prezzo d'acquisto delle merci da loro vendute e più costose saranno le merci del Corriere da loro acquistabili.
+<div class="fnv">
 
-
-
+I **mercanti** sono personaggi in grado di scambiare armi, munizioni, modifiche, armature, vestiti, cibi, bevande o droghe tramite il baratto oppure utilizzando una moneta di fortuna, i tappi. Maggiore è il livello di Baratto del Corriere, minore sarà il prezzo d'acquisto delle merci da loro vendute e più costose saranno le merci del Corriere da loro acquistabili.
 
 ## Mercanti generici
 
@@ -116,3 +115,6 @@ I mercanti sono personaggi in grado di scambiare armi, munizioni, modifiche, arm
 | Unità centrale del Pozzo |                     Il Pozzo                     |                            No                            |                                            No                                            |                                            No                                           |                                                    No                                                    |                                                                               No                                                                               |                         No                        |             No            |                                 No                                |                                                                                          No                                                                                         |                                                                                          No                                                                                          |                                                                                         No                                                                                        |                                                                      Sì                                                                      |
 
 </div>
+
+</div>
+

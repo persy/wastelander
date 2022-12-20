@@ -59,7 +59,7 @@ graph TD;
 
 
 **Sfide abilità**:
-- **Eloquenza ???**: per convincere Benny a darci le informazioni necessarie
+- **Eloquenza 60**: per convincere Benny a darci le informazioni necessarie
 
 
 

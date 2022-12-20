@@ -37,8 +37,8 @@ graph TD;
     id3(Fa' sapere a Jed <br />che sei pronto a partire <br />quando sarai da solo <br />e con non più di <br />75 libbre di carico)
     id4("(Opzionale) <b>Medicina 45</b>: <br />convinci Ricky ad<br /> abbandonare la carovana <br />o a comprarti le droghe")
     id5("(Opzionale) <br />Aggiungi altre 25 libbre")
-    id6(<b>Sopravvivenza 50</b>/<br /><b>Schiena resistente</b>/<br /><b>Ladruncolo</b>: <br />Convinci Jed ad aumentare <br />il carico massimo trasportabile)
-    id7(<b>Sopravvivenza 20</b>/<br /><b>Armi 45</b>/<br /><b>Scienza 45</b>: <br />convinci Ricky a portare <br />lui il peso in eccesso) 
+    id6(<b>Sopravvivenza 50</b>/<br /><b>Schiena resistente</b>/<br /><b>Ladruncolo</b>: <br />Cconvinci Jed ad aumentare <br />il carico massimo trasportabile)
+    id7(<b>Scienza 45</b>/<br /><b>Eloquenza 50</b>/<b>Sopravvivenza 20</b>/<br /><b>Armi 45</b>/ <b>Addestr. armatura atomica</b>: <br />convinci Ricky a portare <br />lui il peso in eccesso) 
     id8(<b>Baratto 50</b>, <b>75</b>, <b>100</b>: <br />paga 100/75/50 tappi a <br />Ricky affinché porti il <br />peso in eccesso) %%TODO%%
     id9(Parti per il Canyon di Zion)
     id10(175 tappi):::rewardfnv
@@ -69,7 +69,7 @@ graph TD;
 **Sfide abilità**:
 - **Sopravvivenza 50**/**Schiena resistente**/**Ladruncolo**: per aumentare il peso trasportabile massimo a 100 libbre
 - **Medicina 45**: per diagnosticare la dipendenza da droghe di Ricky
-- **Sopravvivenza ???**/**Armi ???**/**Scienza ???**: per sburgiardare Ricky
+- **Scienza 45**/**Eloquenza 50**/**Sopravvivenza 20**/**Armi 45**/**Addestramento armatura atomica**: per sbugiardare Ricky e costringerlo ad andarsene o a prendere parte del nostro peso
 
 
 

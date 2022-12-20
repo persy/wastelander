@@ -14,6 +14,8 @@ commentable: true
 hidden: true
 ---
 
+<div class="fo3">
+
 **S.P.E.C.I.A.L.** è un acronimo delle parole inglesi **Strength** (Forza), **Perception** (Percezione), **Endurance** (Stamina), **Charisma** (Carisma), **Intelligence** (Intelligenza), **Agility** (Agilità), **Luck** (Fortuna). Attraverso questi attributi, detti anche statistiche primarie, si definiscono i caratteri principali del personaggio, come la sua abilità con le armi, nel sopportare danni o nell'ottenere informazioni.
 
 Il personaggio di default ha 5 punti per ognuno dei sette attributi, più un bonus di 5 punti da distribuire secondo il personale gusto del giocatore, tramite il libro "Sei S.P.E.C.I.A.L.", durante la prima missione del gioco *Primi passi*. Tuttavia è meglio ricordare che tutte le statistiche possono essere diminuite e i punti da ridistribuire essere così aumentati. Tutti i punti degli attributi vanno assegnati e ogni attributo può avere da un minimo di un punto a un massimo di 10. Oltre questi livelli i bonus e le penalità, anche se temporanei, vengono ignorati.
@@ -53,7 +55,7 @@ Ci sono diversi modi per aumentare queste statistiche primarie:
 | Agilità        | Fanatico di pistole (4) <br />Ladro (4) <br />Cecchino (6) <br />Corsa silenziosa (6) <br />Uomo d'azione/Donna d'azione (6) <br />Nervi di Acciaio (7)                                                                  | Nettare di formica di fuoco (+4) <br />Costuma da AntAgonizer <br /> Vestito di pelle di bramino (+1) <br />Vestiti da colono della Zona contaminata (+1) <br />Vestito da vagabondo della Zona contaminata (+1) <br />Tuta schiavo in brandelli (The Pitt) (+1) <br />Vestiti dell'operaio (The Pitt) (+1) <br />Tuta schiavo usata (The Pitt) (+1) <br />Veste di Acero                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Fortuna        | Cercatore fortunato (5) <br /> Scroccone (5) <br />Misterioso estraneo (6) <br />Colpo letale migliore (6)                                                                                                     | Palla fortunata di Lucky (+1) <br />Tuta centrale modificata (+1) <br />Pigiama sexy (+1) <br />Armatura da battaglia da mercenario (+1) <br />Occhiali da sole fortunati (+1) <br />Bandana di Tre Cani (+1) <br />Armatura atomica tribale (The Pitt) (+1) <br />Armatura atomica di Ashur (The Pitt) (+1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-
+</div>
 
 
 

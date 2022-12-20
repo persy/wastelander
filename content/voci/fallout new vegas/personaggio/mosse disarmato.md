@@ -16,7 +16,7 @@ hidden: true
 
 <div class="fnv">
 
-Il giocatore ha a disposizione, senza doverle imparare da altri personaggi, tre attacchi speciali in S.P.A.V.: lo stomp (fin dal livello 1), il montante (Disarmato 50) e il cross (Disarmato 75). Il primo si esegue con l'avversario abbattuto a terra, il secondo infligge un danno maggiore del 15% e il terzo un danno maggiore del 10% ma il 250% di possibilità in più di menomare gli arti. Tutti e tre gli attacchi speciali richiedono 20 punti azione. In aggiunta, tutti gli attacchi da disarmato eseguiti in S.P.A.V. infliggono il doppio del danno.
+Il giocatore ha a disposizione, senza doverle imparare da altri personaggi, tre attacchi speciali in S.P.A.V.: lo **stomp** (fin dal livello 1), il **montante** (Disarmato 50) e il **cross** (Disarmato 75). Il primo si esegue con l'avversario abbattuto a terra, il secondo infligge un danno maggiore del 15% e il terzo un danno maggiore del 10% ma il 250% di possibilità in più di menomare gli arti. Tutti e tre gli attacchi speciali richiedono 20 punti azione. In aggiunta, tutti gli attacchi da disarmato eseguiti in S.P.A.V. infliggono il doppio del danno.
 
 Esistono inoltre ulteriori attacchi speciali in S.P.A.V., che si possono imparare da specifici personaggi nel gioco.
 

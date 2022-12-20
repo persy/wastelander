@@ -36,7 +36,7 @@ graph TD;
     id2(Parla con Boone a Novac <br />a proposito di sua moglie)
     id3("Ottieni il berretto <br />1° Ricognitori da Boone")
     id4(Indaga sulla moglie scomparsa)
-    id5(<b>Scasso ???</b>: <br />scassina la serratura <br />della cassaforte) %%TODO%%
+    id5(<b>Scasso 50</b>: <br />scassina la serratura <br />della cassaforte) %%TODO%%
     id6(Borseggia la chiave <br />della cassaforte da <br />Jeannie May Crawford)
     id7(Porta qualcuno di <br />fronte al Dino Dee-lite, <br />fra le 22 e le 9, <br />indossando il berretto) 
     id8(Apri la cassaforte <br />dietro al bancone <br />dell'accettazione del <br />Dino Dee-lite e prendi <br />la fattura di vendita)
@@ -70,6 +70,7 @@ graph TD;
 
 **Sfide abilità**:
 - **Eloquenza 55**: per persuadere Boone che il bersaglio, nonostante fosse sbagliato, era quello giusto
+- **Scasso 50**: per scassinare la serratura della cassaforte sul pavimento dell'accettazione, dietro al bancone
 
 
 

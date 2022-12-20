@@ -17,8 +17,7 @@ hidden: true
 <div class="fnv">
 
 
-
-La **Reputazione** è l'opinione che le persone e le varie fazioni hanno di te. In Fallout: New Vegas la reputazione si guadagna o si perde a seconda delle azioni che compiamo per ogni comunità, procurandoci fama e bonus commerciali o infamia e l'essere banditi e sparati a vista. Nelle meccaniche del gioco fama e infamia vengono conteggiate separatamente e il risultato della loro somma determina l'apprezzamento o meno di ogni singola fazione.
+La **reputazione** è l'opinione che le persone e le varie fazioni hanno di te. In Fallout: New Vegas la reputazione si guadagna o si perde a seconda delle azioni che compiamo per ogni comunità, procurandoci fama e bonus commerciali o infamia e l'essere banditi e sparati a vista. Nelle meccaniche del gioco fama e infamia vengono conteggiate separatamente e il risultato della loro somma determina l'apprezzamento o meno di ogni singola fazione.
 Vestendo i panni di una fazione (es. indossando armature o cappelli di quella fazione), la nostra reputazione verso quel gruppo di persone si azzera a "nessuna" e, se prima eravamo visti come minaccia, verremo semplicemente ignorati come non-ostili. Lo stesso effetto, ma capovolto, si ottiene se indossiamo vesti o armature della fazione sbagliato. Ecco un paio di esempi:
 - indossando un'armature della RNC ogni reputazione accumulata con la Legione di Caesar verrà mascherata ed entrambe le fazioni scompariranno dalla lista sul Pip-Boy, come se non le avessimo mai incontrate
 - tuttavia indossando la stessa armatura dell'RNC incontrassimo dei membri della Legione di Caesar, essi aprirebbero il fuoco contro di noi,

@@ -15,9 +15,9 @@ hidden: true
 ---
 
 
+<div class="fo3">
 
-
-In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre livelli come succede in Fallout e Fallout 2, o ogni due come in Fallout: New Vegas.
+In Fallout 3 si ottiene un'**abilità extra** ad ogni livello, anziché ogni tre livelli come succede in Fallout e Fallout 2, o ogni due come in Fallout: New Vegas.
 
 *N.B. i requisiti S.P.E.C.I.A.L. di un'abilità extra non possono essere soddisfatti equipaggiando oggetti o usando droghe (ad eccezione della Palla 8 fortunata).* 
 
@@ -123,3 +123,6 @@ In Fallout 3 si ottiene un'abilità extra ad ogni livello, anziché ogni tre liv
 <small>¹Non bisogna uccidere la regina delle formiche prima di completare la missione</small>
 
 <small>²Opzionale</small>
+
+</div>
+

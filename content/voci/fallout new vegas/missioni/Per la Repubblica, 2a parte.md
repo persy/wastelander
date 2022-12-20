@@ -65,7 +65,7 @@ graph TD;
     id31(Sigla un accordo <br />fra la Confraternita <br />e l'RNC)
     id32("(Fallimento) Date a Caesar <br />quel che è di Caesar"):::questfnv
     id33(Parla con McNamara)
-    id34(<b>Eloquenza ???</b>: <br />Convinci il Colonnello <br />Cassandra Moore che <br />gli Omerta attaccheranno <br />New Reno)
+    id34(<b>Eloquenza 70</b>: <br />Convinci il Colonnello <br />Cassandra Moore che <br />gli Omerta attaccheranno <br />New Reno)
     id35(Informa il Colonnello <br />Cassandra Moore)
     id36(475 PE):::rewardfnv
     id37(Prossima missione: <b>Eureka!</b>):::questfnv
@@ -139,6 +139,7 @@ graph TD;
 - **Baratto 55**: per ottenere la chiave della stanza di Cachino per soli 200 tappi
 - **Baratto 60**: per estorcere 200 tappi a Cachino
 - **Eloquenza 70**: per convincere Troike a piazzare personalmente la termite
+- **Eloquenza 70**: per convincere Moore, dopo aver appoggiato Big Sal e Nero, che gli Omerta attaccheranno New Reno e on Hoover Dam
 - **Eloquenza 75**: per rivelare davanti ai Khan le vere intenzioni di Karl
 - **Eloquenza 80**: per convincere Troike a sabotare gli Omerta (perdendo karma)
 - **Eloquenza 80**: per convincere Cachino a vedersela da solo con i boss

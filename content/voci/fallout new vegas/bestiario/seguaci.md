@@ -14,7 +14,9 @@ commentable: true
 hidden: true
 ---
 
-I Seguaci, o companion, sono dei personaggi del gioco che possono essere assoldati per accompagnare il Corriere nella sua avventura. In *Fallout: New Vegas* è possibile avere fino a due seguaci, uno di supporto, come ED-E e Rex, l'altro umanoide, come Boone, Lily o Arcade Gannon.
+<div class="fnv">
+
+I **Seguaci**, o companion, sono dei personaggi del gioco che possono essere assoldati per accompagnare il Corriere nella sua avventura. In *Fallout: New Vegas* è possibile avere fino a due seguaci, uno di supporto, come ED-E e Rex, l'altro umanoide, come Boone, Lily o Arcade Gannon.
 Caratteristiche
 
 ## Livello e Coraggio
@@ -104,3 +106,7 @@ Tutti i seguaci permanenti sono collegati a specifiche missioni, che portano a u
 - Tutte le armi predefinite di ogni seguace hanno munizioni e durata infinite
 - Tutti i seguaci, tranne Lily, ED-E e Rex possono indossare armature (anche quelle atomiche, senza addestramento), purchè non facciano parte di qualche fazione (es. RNC o la Legione di Caesar)
 - Boone può indossare armature dell'RNC, mentre Veronica quelle della Confraternita d'Acciaio
+
+
+</div>
+

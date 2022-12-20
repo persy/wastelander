@@ -14,7 +14,9 @@ commentable: true
 hidden: true
 ---
 
-Le abilità hanno una larghissima influenza sul gameplay, sia esse siano per il combattimento, sia esse siano destinate ad altre attività. Le "abilità offensive" sono abilità che influenzano l'efficacia delle armi, come per esempio Armi a energia, Esplosivi, Disarmato o Armi da mischia. Le "abilità non offensive" sono per esempio Baratto, Riparazione, Scienza o Eloquenza.
+<div class="fnv">
+
+Le **abilità** hanno una larghissima influenza sul gameplay, sia esse siano per il combattimento, sia esse siano destinate ad altre attività. Le "abilità offensive" sono abilità che influenzano l'efficacia delle armi, come per esempio Armi a energia, Esplosivi, Disarmato o Armi da mischia. Le "abilità non offensive" sono per esempio Baratto, Riparazione, Scienza o Eloquenza.
 
 
 ## Generale 

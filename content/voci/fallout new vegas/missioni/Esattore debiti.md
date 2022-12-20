@@ -77,7 +77,7 @@ graph TD;
 
 **Sfide abilità**:
 - **Eloquenza 40**, **60**: per estorcere i tappi a Grecks
-- **Eloquenza ???**: per estorcere i tappi a Santiago
+- **Eloquenza 50**: per estorcere i tappi a Santiago
 - **Eloquenza 40**/**Baratto 40**/**Vedova nera**/**Percezione 7**: per estorcere i tappi a Lady Jane
 - **Eloquenza 40**: per estorcere i tappi da Caleb
 

@@ -72,119 +72,119 @@ private: false # Nascosto dalle ricerche
 
 <div class="scrollwrapper">
 
-| Nome                                 | Peso | Valore |                                 Effetto                                |  Effetto in mod. Duro |
-|--------------------------------------|:----:|:------:|:----------------------------------------------------------------------:|:---------------------:|
-| Bacca di solanum bianco              | 0.02 |    2   |                  +1 TP (5s), -1 AGI (2m), -1 STA (2m)                  |         -5 CIB        |
-| Baccelli di portatori di spore       |   1  |    0   |                               +4 TP (6s)                               |    +25 Res. veleno    |
-| Baccello di borlotto                 | 0.05 |    0   |                               +1 TP (3s)                               |         -5 CIB        |
-| Baccello fresco di mesquite dolce    |  0.1 |    5   |                               +1 TP (4s)                               |    -10 CIB, -10 H2O   |
-| Bistecca di bighorner                |  0.8 |    5   |               +2 TP (10s), +2 d. radiazioni, +1 FRZ (2m)               |        -75 CIB        |
-| Bistecca di bramino                  |  0.8 |    5   |               +2 TP (15s), +2 d. radiazioni, +1 FRZ (2m)               |        -50 CIB        |
-| Bistecca di cane                     |   1  |    4   |                      +2 TP (10s), +3 d. radiazioni                     |        -35 CIB        |
-| Bistecca di coyote                   |   1  |    4   |                   +2 TP (12s), +1 d. radiazioni (3s)                   |        -35 CIB        |
-| Bistecca di geco                     |   1  |    5   |                      +2 TP (15s), +1 d. radiazioni                     |        -75 CIB        |
-| Bistecca prebellica                  |   1  |    5   |                           +1 TP (10s), STA -1                          |        -50 CIB        |
-| Blamco Mac and Cheese                |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -20 CIB        |
-| Bocconcini di iguana                 |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
-| Bombe di zucchero                    |   1  |    5   |                +1 TP (7s), +3 d. radiazioni, +5 PA (30s)               |        -30 CIB        |
-| Bramino Wellington                   |  0.8 |    5   |                               +5 TP (10s)                              |        -100 CIB       |
-| Broc Flower                          | 0.01 |    3   |                               +1 TP (4s)                               |         -5 CIB        |
-| Caramelle gommose                    |   1  |    2   |                         +1 TP, +1 d. radiazioni                        |        Nessuno        |
-| Carne conservata                     |   1  |    5   |                               +1 TP (15s)                              |        -50 CIB        |
-| Carne di bighorner                   |   1  |    5   |                      +1 TP (15s), +3 d. radiazioni                     |        -50 CIB        |
-| Carne di bramino                     |   1  |    5   |                     +1 TP (15s), + 3 d. radiazioni                     |  -50 CIB, -1 FRZ (2m) |
-| Carne di cane                        |   1  |    1   |                      +1 TP (8s), +3 d. radiazioni                      |  -35 CIB, -1 FRZ (2m) |
-| Carne di coyote                      |   1  |    4   |                    +1 TP (8s), +1 d. radiazioni (3s)                   |  -35 CIB, -2 FRZ (2m) |
-| Carne di formica                     |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |  -25 CIB, -1 FRZ (2m) |
-| Carne di formica del fuoco           |   1  |    6   |                      +1 TP (5s), +3 d. radiazioni                      |  -25 CIB, -1 FRZ (2m) |
-| Carne di geco                        |   1  |    4   |                +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)               |        -50 CIB        |
-| Carne di geco radioattiva            |   1  |    2   |               +1 TP (5s), +10 d. radiazioni, -1 FRZ (2m)               |        -50 CIB        |
-| Carne di Lakelurk                    |   1  |   12   |                      +2 TP (10s), +1 d. radiazioni                     |        -45 CIB        |
-| Carne di mosca mutante               |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |  -25 CIB, -1 FRZ (2m) |
-| Carne di ratto                       |   1  |    2   |                +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)               |        -25 CIB        |
-| Carne di ratto gigante               |   1  |    4   |                +1 TP (5s), +2 d. radiazioni, -1 FRZ (2m)               |        -35 CIB        |
-| Carne di ratto talpa                 |   1  |    4   |                +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)               |        -25 CIB        |
-| Carne di scarafaggio radioattivo     |   1  |    2   |               +1 TP (5s), +10 d. radiazioni, -1 FRZ (2m)               |        -25 CIB        |
-| Carne di Yao Guai                    |   1  |   30   |             +2 TP (5s), +10 d. radiazioni, +10% danni (2m)             |        -100 CIB       |
-| Carne prodigiosa di ratto talpa      |   1  |   20   |                      +2 TP (10s), +3 d. radiazioni                     |        -40 CIB        |
-| Carne strana                         |   1  |    2   |                +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)               |        -35 CIB        |
-| Carne umana                          |   1  |    0   |                      +1 TP (5s), +10 d. radiazioni                     |        -60 CIB        |
-| Carota fresca                        |   1  |    5   |                               +1 TP (7s)                               |    -15 CIB, -10 H2O   |
-| Cibo spazzatura                      |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |          ???          |
-| Coda di Nightstalker                 |   1  |   18   |                      +1 TP (5s), +3 d. radiazioni                      |        Nessuno        |
-| Cram                                 |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -50 CIB        |
-| Cram radioattivo                     |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -50 CIB        |
-| Croccanti bocconcini di scoiattolo   |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
+| Nome                                 | Peso | Valore |                                Effetto                                 | Effetto in mod. Duro  |
+| ------------------------------------ | :--: | :----: | :--------------------------------------------------------------------: | :-------------------: |
+| Bacca di solanum bianco              | 0.02 |   2    |                  +1 TP (5s), -1 AGI (2m), -1 STA (2m)                  |        -5 CIB         |
+| Baccelli di portatori di spore       |  1   |   0    |                               +4 TP (6s)                               |    +25 Res. veleno    |
+| Baccello di borlotto                 | 0.05 |   0    |                               +1 TP (3s)                               |        -5 CIB         |
+| Baccello fresco di mesquite dolce    | 0.1  |   5    |                               +1 TP (4s)                               |   -10 CIB, -10 H2O    |
+| Bistecca di bighorner                | 0.8  |   5    |               +2 TP (10s), +2 d. radiazioni, +1 FRZ (2m)               |        -75 CIB        |
+| Bistecca di bramino                  | 0.8  |   5    |               +2 TP (15s), +2 d. radiazioni, +1 FRZ (2m)               |        -50 CIB        |
+| Bistecca di cane                     |  1   |   4    |                     +2 TP (10s), +3 d. radiazioni                      |        -35 CIB        |
+| Bistecca di coyote                   |  1   |   4    |                   +2 TP (12s), +1 d. radiazioni (3s)                   |        -35 CIB        |
+| Bistecca di geco                     |  1   |   5    |                     +2 TP (15s), +1 d. radiazioni                      |        -75 CIB        |
+| Bistecca prebellica                  |  1   |   5    |                          +1 TP (10s), STA -1                           |        -50 CIB        |
+| Blamco Mac and Cheese                |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -20 CIB        |
+| Bocconcini di iguana                 |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
+| Bombe di zucchero                    |  1   |   5    |               +1 TP (7s), +3 d. radiazioni, +5 PA (30s)                |        -30 CIB        |
+| Bramino Wellington                   | 0.8  |   5    |                              +5 TP (10s)                               |       -100 CIB        |
+| Broc Flower                          | 0.01 |   3    |                               +1 TP (4s)                               |        -5 CIB         |
+| Caramelle gommose                    |  1   |   2    |                        +1 TP, +1 d. radiazioni                         |        Nessuno        |
+| Carne conservata                     |  1   |   5    |                              +1 TP (15s)                               |        -50 CIB        |
+| Carne di bighorner                   |  1   |   5    |                     +1 TP (15s), +3 d. radiazioni                      |        -50 CIB        |
+| Carne di bramino                     |  1   |   5    |                     +1 TP (15s), + 3 d. radiazioni                     | -50 CIB, -1 FRZ (2m)  |
+| Carne di cane                        |  1   |   1    |                      +1 TP (8s), +3 d. radiazioni                      | -35 CIB, -1 FRZ (2m)  |
+| Carne di coyote                      |  1   |   4    |                   +1 TP (8s), +1 d. radiazioni (3s)                    | -35 CIB, -2 FRZ (2m)  |
+| Carne di formica                     |  1   |   4    |                      +1 TP (5s), +3 d. radiazioni                      | -25 CIB, -1 FRZ (2m)  |
+| Carne di formica del fuoco           |  1   |   6    |                      +1 TP (5s), +3 d. radiazioni                      | -25 CIB, -1 FRZ (2m)  |
+| Carne di geco                        |  1   |   4    |               +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)                |        -50 CIB        |
+| Carne di geco radioattiva            |  1   |   2    |               +1 TP (5s), +10 d. radiazioni, -1 FRZ (2m)               |        -50 CIB        |
+| Carne di Lakelurk                    |  1   |   12   |                     +2 TP (10s), +1 d. radiazioni                      |        -45 CIB        |
+| Carne di mosca mutante               |  1   |   4    |                      +1 TP (5s), +3 d. radiazioni                      | -25 CIB, -1 FRZ (2m)  |
+| Carne di ratto                       |  1   |   2    |               +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)                |        -25 CIB        |
+| Carne di ratto gigante               |  1   |   4    |               +1 TP (5s), +2 d. radiazioni, -1 FRZ (2m)                |        -35 CIB        |
+| Carne di ratto talpa                 |  1   |   4    |               +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)                |        -25 CIB        |
+| Carne di scarafaggio radioattivo     |  1   |   2    |               +1 TP (5s), +10 d. radiazioni, -1 FRZ (2m)               |        -25 CIB        |
+| Carne di Yao Guai                    |  1   |   30   |             +2 TP (5s), +10 d. radiazioni, +10% danni (2m)             |       -100 CIB        |
+| Carne prodigiosa di ratto talpa      |  1   |   20   |                     +2 TP (10s), +3 d. radiazioni                      |        -40 CIB        |
+| Carne strana                         |  1   |   2    |               +1 TP (5s), +3 d. radiazioni, -1 FRZ (2m)                |        -35 CIB        |
+| Carne umana                          |  1   |   0    |                     +1 TP (5s), +10 d. radiazioni                      |        -60 CIB        |
+| Carota fresca                        |  1   |   5    |                               +1 TP (7s)                               |   -15 CIB, -10 H2O    |
+| Cibo spazzatura                      |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        Nessuno        |
+| Coda di Nightstalker                 |  1   |   18   |                      +1 TP (5s), +3 d. radiazioni                      |        Nessuno        |
+| Cram                                 |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -50 CIB        |
+| Cram radioattivo                     |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -50 CIB        |
+| Croccanti bocconcini di scoiattolo   |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
 | Daturana                             | 0.02 |   30   | +200 ripristina condizione arto, +1 d. balistico, +15 TP, -2 AGI (30s) |        -10 SON        |
-| Deliziose uova speziate              |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -10 CIB        |
-| Fricassea di formica di fuoco        |   1  |   30   |                               +1 TP (1m)                               |        -80 CIB        |
-| Frutto cactus barile radioattivo     |   1  |    2   |               +1 TP (5s), +10 d. radiazioni, -1 STA (2m)               |    -5 CIB, -15 H2O    |
-| Frutto dell'agave del Nevada         |  0.2 |    3   |                               +1 TP (8s)                               |    -15 CIB, -10 H2O   |
-| Frutto fresco di banana yucca        |  0.5 |    6   |                               +1 TP (7s)                               |    -10 CIB, -15 H2O   |
-| Frutto fresco di cactus barile       |  0.2 |    5   |                         +1 TP (5s), -1 STA (2m)                        |    -5 CIB, -15 H2O    |
-| Frutto fresco di cactus pera spinoso | 0.07 |    1   |                               +1 TP (10s)                              |    -10 CIB, -15 H2O   |
-| Frutto mutato                        |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |    -20 CIB, -10 H2O   |
-| Frutto mutato croccante              |   1  |    5   |                      +1 TP (5s), +2 d. radiazioni                      |        -25 CIB        |
-| Frutto mutato croccante radioattivo  |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -25 CIB        |
-| Frutto mutato radioattivo            |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |    -20 CIB, -10 H2O   |
-| Frutto yucca banana radioattivo      |   1  |    3   |                      +1 TP (7s), +10 d. radiazioni                     |    -10 CIB, -15 H2O   |
-| Fungo atomico                        |   1  |   50   |                        +3 TP (20s), +3 PA (20s)                        |        Nessuno        |
-| Fungo delle caverne                  |   1  |   50   |                      +1 TP (4s), -10 d. radiazioni                     |        -15 CIB        |
-| Fungo mutante                        |   1  |   50   |                      +2 TP (5s), +2 d. radiazioni                      |        -20 CIB        |
-| Gomma da masticare                   |   1  |    1   |                        +1 TP, + 1 d. radiazioni                        |        Nessuno        |
-| Hamburger                            |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Insalata del deserto                 |  0.2 |    5   |                               +7 TP (15s)                              |    -80 CIB, -40 H2O   |
-| Irr. Bombe di zucchero               |   1  |    2   |                  +1 TP (7s), +10 d. radiazioni, +5 PA                  |        -30 CIB        |
-| Irr. Deliziose uova speziate         |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -10 CIB        |
-| Irr. Fancy Lads                      |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -15 CIB        |
-| Irr. Hamburger                       |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -15 CIB        |
-| Irr. Mac & Cheese                    |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -20 CIB        |
-| Irr. Maiale e fagioli                |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |    -40 CIB, +20 H2O   |
-| Irr. Mele Dandy Boy                  |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -15 CIB        |
-| Irr. Patatine                        |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |    -10 CIB, +10 H2O   |
-| Kebab di geco                        | 0.25 |    4   |                      +1 TP (40s), +1 d. radiazioni                     |    -80 CIB, -50 H2O   |
-| Linfa Portatore spore                | 0.02 |    0   |                               +1 TP (4s)                               |         -5 CIB        |
-| Maiale e fagioli                     |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |    -40 CIB, +20 H2O   |
-| Mais fresco                          | 0.25 |    5   |                               +1 TP (9s)                               |    -40 CIB, -10 H2O   |
-| Mantide alla griglia                 |   1  |    8   |                      +1 TP (30s), +1 d. radiazioni                     |        -75 CIB        |
-| Mela fresca                          |   1  |    5   |                               +1 TP (7s)                               |    -15 CIB, -10 H2O   |
-| Mele Dandy Boy                       |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Omelette della Zona contaminata      |   1  |   100  |                               +4 TP (1m)                               |        -150 CIB       |
-| Pasta                                |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
-| Pasta semil. rossa                   |  0.1 |   125  |                   +2 TP (30s), +5 TP massimi (4 min)                   |        Nessuno        |
-| Pasta solida rossa                   |  0.6 |   250  |                   +4 TP (30s), +15 TP massimi (4 min)                  |        Nessuno        |
-| Patata fresca                        |   1  |    5   |                               +1 TP (7s)                               |    -15 CIB, -10 H2O   |
-| Patata radioattiva                   |   1  |    2   |                      +2 TP (5s), +10 d. radiazioni                     |    -15 CIB, -10 H2O   |
-| Patatine                             |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |    -10 CIB, +10 H2O   |
-| Peperoncino Jalapeño                 | 0.02 |    5   |                               +1 TP (5s)                               |    -10 CIB, +5 H2O    |
-| Pera fresca                          |   1  |    5   |                               +1 TP (7s)                               |    -15 CIB, -10 H2O   |
-| Pinoli                               | 0.03 |    5   |                               +1 TP (5s)                               |        -10 CIB        |
+| Deliziose uova speziate              |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -10 CIB        |
+| Fricassea di formica di fuoco        |  1   |   30   |                               +1 TP (1m)                               |        -80 CIB        |
+| Frutto cactus barile radioattivo     |  1   |   2    |               +1 TP (5s), +10 d. radiazioni, -1 STA (2m)               |    -5 CIB, -15 H2O    |
+| Frutto dell'agave del Nevada         | 0.2  |   3    |                               +1 TP (8s)                               |   -15 CIB, -10 H2O    |
+| Frutto fresco di banana yucca        | 0.5  |   6    |                               +1 TP (7s)                               |   -10 CIB, -15 H2O    |
+| Frutto fresco di cactus barile       | 0.2  |   5    |                        +1 TP (5s), -1 STA (2m)                         |    -5 CIB, -15 H2O    |
+| Frutto fresco di cactus pera spinoso | 0.07 |   1    |                              +1 TP (10s)                               |   -10 CIB, -15 H2O    |
+| Frutto mutato                        |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |   -20 CIB, -10 H2O    |
+| Frutto mutato croccante              |  1   |   5    |                      +1 TP (5s), +2 d. radiazioni                      |        -25 CIB        |
+| Frutto mutato croccante radioattivo  |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -25 CIB        |
+| Frutto mutato radioattivo            |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |   -20 CIB, -10 H2O    |
+| Frutto yucca banana radioattivo      |  1   |   3    |                     +1 TP (7s), +10 d. radiazioni                      |   -10 CIB, -15 H2O    |
+| Fungo atomico                        |  1   |   50   |                        +3 TP (20s), +3 PA (20s)                        |        Nessuno        |
+| Fungo delle caverne                  |  1   |   50   |                     +1 TP (4s), -10 d. radiazioni                      |        -15 CIB        |
+| Fungo mutante                        |  1   |   50   |                      +2 TP (5s), +2 d. radiazioni                      |        -20 CIB        |
+| Gomma da masticare                   |  1   |   1    |                        +1 TP, + 1 d. radiazioni                        |        Nessuno        |
+| Hamburger                            |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Insalata del deserto                 | 0.2  |   5    |                              +7 TP (15s)                               |   -80 CIB, -40 H2O    |
+| Irr. Bombe di zucchero               |  1   |   2    |                  +1 TP (7s), +10 d. radiazioni, +5 PA                  |        -30 CIB        |
+| Irr. Deliziose uova speziate         |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -10 CIB        |
+| Irr. Fancy Lads                      |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -15 CIB        |
+| Irr. Hamburger                       |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -15 CIB        |
+| Irr. Mac & Cheese                    |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -20 CIB        |
+| Irr. Maiale e fagioli                |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |   -40 CIB, +20 H2O    |
+| Irr. Mele Dandy Boy                  |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -15 CIB        |
+| Irr. Patatine                        |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |   -10 CIB, +10 H2O    |
+| Kebab di geco                        | 0.25 |   4    |                     +1 TP (40s), +1 d. radiazioni                      |   -80 CIB, -50 H2O    |
+| Linfa Portatore spore                | 0.02 |   0    |                               +1 TP (4s)                               |        -5 CIB         |
+| Maiale e fagioli                     |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |   -40 CIB, +20 H2O    |
+| Mais fresco                          | 0.25 |   5    |                               +1 TP (9s)                               |   -40 CIB, -10 H2O    |
+| Mantide alla griglia                 |  1   |   8    |                     +1 TP (30s), +1 d. radiazioni                      |        -75 CIB        |
+| Mela fresca                          |  1   |   5    |                               +1 TP (7s)                               |   -15 CIB, -10 H2O    |
+| Mele Dandy Boy                       |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Omelette della Zona contaminata      |  1   |  100   |                               +4 TP (1m)                               |       -150 CIB        |
+| Pasta                                |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
+| Pasta semil. rossa                   | 0.1  |  125   |                   +2 TP (30s), +5 TP massimi (4 min)                   |        Nessuno        |
+| Pasta solida rossa                   | 0.6  |  250   |                  +4 TP (30s), +15 TP massimi (4 min)                   |        Nessuno        |
+| Patata fresca                        |  1   |   5    |                               +1 TP (7s)                               |   -15 CIB, -10 H2O    |
+| Patata radioattiva                   |  1   |   2    |                     +2 TP (5s), +10 d. radiazioni                      |   -15 CIB, -10 H2O    |
+| Patatine                             |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |   -10 CIB, +10 H2O    |
+| Peperoncino Jalapeño                 | 0.02 |   5    |                               +1 TP (5s)                               |    -10 CIB, +5 H2O    |
+| Pera fresca                          |  1   |   5    |                               +1 TP (7s)                               |   -15 CIB, -10 H2O    |
+| Pinoli                               | 0.03 |   5    |                               +1 TP (5s)                               |        -10 CIB        |
 | Polpa verde                          | 0.25 |   50   |                               +2 TP (7s)                               |        -25 CIB        |
-| Pranzo Caravan                       |  2.5 |    5   |                               +3 TP (15s)                              |   -200 CIB, -15 H2O   |
-| Purè istantaneo                      |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
-| Purè istantaneo radioattivo          |   1  |    2   |                      +1 TP (5s), +10 d. radiazioni                     |        -25 CIB        |
+| Pranzo Caravan                       | 2.5  |   5    |                              +3 TP (15s)                               |   -200 CIB, -15 H2O   |
+| Purè istantaneo                      |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -25 CIB        |
+| Purè istantaneo radioattivo          |  1   |   2    |                     +1 TP (5s), +10 d. radiazioni                      |        -25 CIB        |
 | Radice Datura sacra                  | 0.02 |   10   |               Veleno di Datura sacra (30s), -2 PER (90s)               |        Nessuno        |
-| Razione                              |  0.2 |   50   |                               +2 TP (15s)                              | +1 TP (10s), -200 CIB |
-| Resti umani                          |   1  |    2   |                               +2 TP (5s)                               |        -45 CIB        |
-| Sanguinaccio                         | 0.25 |   175  |                    +5 TP (20s), +10 TP massimi (4m)                    |        Nessuno        |
-| Sanguinaccio nero                    |  0.5 |   350  |                    +10 TP (20s), +25 TP massimi (4m)                   |        Nessuno        |
-| Seme di cucurbitacea                 | 0.02 |    2   |                               +1 TP (2s)                               |        -10 CIB        |
-| Sformato piccante di Ruby            |   1  |    5   |                      +1 TP (30s), +3 d. radiazioni                     |        -100 CIB       |
-| Slider di mosca mutante              |  0.5 |    4   |                      +3 TP (15s), +1 d. radiazioni                     |    -75 CIB, -30 H2O   |
-| Spiedino di iguana                   |   1  |    5   |                      +1 TP (12s), +3 d. radiazioni                     |        -75 CIB        |
-| Spiedino di scoiattolo               |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -75 CIB        |
-| Spuntini Fancy Lads                  |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Strana torta di carne di imitazione  |   1  |    2   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Stufato Demone Cook-Cook             |   1  |   25   |                         +2 TP (1m), +1 FRZ (2m)                        |        -80 CIB        |
-| Stufato di ratto talpa               |   1  |   25   |                        +2 TP (30s), +1 FRZ (2m)                        |        -30 CIB        |
-| Stufato di scoiattolo                |   1  |    5   |                      +1 TP (5s), +3 d. radiazioni                      |        -50 CIB        |
-| Torta di carne strana                |   1  |    2   |                      +1 TP (5s), +3 d. radiazioni                      |        -35 CIB        |
-| Trail Mix                            |   3  |    5   |               +5 TP (15s), +3 d. radiazioni, +5 PA (30s)               |        -150 CIB       |
-| Uovo di Cazador                      |   1  |    4   |                      +1 TP (4s), +3 d. radiazioni                      |        -15 CIB        |
-| Uovo di formica                      |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Uovo di formica del fuoco            |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Uovo di Lakelurk                     |   1  |    4   |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
-| Xander root                          | 0.02 |    0   |                               +1 TP (4s)                               |         -5 CIB        |
+| Razione                              | 0.2  |   50   |                              +2 TP (15s)                               | +1 TP (10s), -200 CIB |
+| Resti umani                          |  1   |   2    |                               +2 TP (5s)                               |        -45 CIB        |
+| Sanguinaccio                         | 0.25 |  175   |                    +5 TP (20s), +10 TP massimi (4m)                    |        Nessuno        |
+| Sanguinaccio nero                    | 0.5  |  350   |                   +10 TP (20s), +25 TP massimi (4m)                    |        Nessuno        |
+| Seme di cucurbitacea                 | 0.02 |   2    |                               +1 TP (2s)                               |        -10 CIB        |
+| Sformato piccante di Ruby            |  1   |   5    |                     +1 TP (30s), +3 d. radiazioni                      |       -100 CIB        |
+| Slider di mosca mutante              | 0.5  |   4    |                     +3 TP (15s), +1 d. radiazioni                      |   -75 CIB, -30 H2O    |
+| Spiedino di iguana                   |  1   |   5    |                     +1 TP (12s), +3 d. radiazioni                      |        -75 CIB        |
+| Spiedino di scoiattolo               |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -75 CIB        |
+| Spuntini Fancy Lads                  |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Strana torta di carne di imitazione  |  1   |   2    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Stufato Demone Cook-Cook             |  1   |   25   |                        +2 TP (1m), +1 FRZ (2m)                         |        -80 CIB        |
+| Stufato di ratto talpa               |  1   |   25   |                        +2 TP (30s), +1 FRZ (2m)                        |        -30 CIB        |
+| Stufato di scoiattolo                |  1   |   5    |                      +1 TP (5s), +3 d. radiazioni                      |        -50 CIB        |
+| Torta di carne strana                |  1   |   2    |                      +1 TP (5s), +3 d. radiazioni                      |        -35 CIB        |
+| Trail Mix                            |  3   |   5    |               +5 TP (15s), +3 d. radiazioni, +5 PA (30s)               |       -150 CIB        |
+| Uovo di Cazador                      |  1   |   4    |                      +1 TP (4s), +3 d. radiazioni                      |        -15 CIB        |
+| Uovo di formica                      |  1   |   4    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Uovo di formica del fuoco            |  1   |   4    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Uovo di Lakelurk                     |  1   |   4    |                      +1 TP (5s), +3 d. radiazioni                      |        -15 CIB        |
+| Xander root                          | 0.02 |   0    |                               +1 TP (4s)                               |        -5 CIB         |
 
 </div>
 

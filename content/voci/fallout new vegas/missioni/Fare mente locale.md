@@ -33,15 +33,15 @@ private: false # Nascosto dalle ricerche
 graph TD;
     id1(<b>Fare mente locale</b>):::questfnv
     id2(Parla con il Dottor Klein)
-    id3(<b>Scienza ???</b>/<br /><b>Medicina ???</b>: <br />ottieni informazioni su <br />Ulysses e Padre Elijah) %%TODO%%
+    id3("(Opzionale) <b>Scienza 70</b>/<br /><b>Eloquenza 55</b>: convincilo <br />a condividere le conoscenze <br />del Serbatoio del pensiero") %%TODO%%
     id4(Parla con il Dottor O)
-    id5(<b>Eloquenza 65</b>/<br /><b>Intelligenza 7</b>/<br /><b>Ira matematica</b><br />: per scoprire il vero <br />nome del Dottor O)
-    id6(<b>Intelligenza 9</b>: <br />per fargli cambiare <br />nome in Dottor 0)
+    id5(<b>Eloquenza 65</b>/<br /><b>Intelligenza 7</b>/<br /><b>Ira matematica</b>:<br /> scopri il vero <br />nome del Dottor O)
+    id6(<b>Intelligenza 9</b>: <br />fargli cambiare <br />nome in Dottor 0)
     id7(Parla con la Dottoressa Dala) 
-    id8(<b>Medicina ???</b>/<br /><b>Carisma ???</b>/<br /><b>Cherchez La Femme</b>/<br /><b>Donnaiolo</b>: <br />per ottenere più informazioni <br />sul suo feticcio per gli orsacchiotti) %%TODO%%
+    id8(<b>Cherchez La Femme</b>/<br /><b>Donnaiolo</b>: ottieni più informazioni <br />sul suo feticcio per gli orsacchiotti) %%TODO%%
     id9(Parla con il Dottor Borous)
     id10(Parla con il Dottor 8)
-    id11(<b>Scienza 75</b>/</b><b>Percezione 7</b>: <br />per decifrare cosa dice)
+    id11(<b>Scienza 75</b>/</b><b>Percezione 7</b>: <br />decifra cosa dice)
     id12(Vari PE):::rewardfnv
     id13(Prossima missione: <br /><b>Quando attaccano <br />i visitatori!</b>):::questfnv
     id14(Prossima missione: <br /><b>Sulla stessa <br />lunghezza d'onda</b>):::questfnv
@@ -49,9 +49,12 @@ graph TD;
     id16(Prossima missione: <br /><b>Lui venne...<br />e andò via</b>):::questfnv
     id17(Prossima missione: <br /><b>In fondo è solo un nome</b>):::questfnv
     id18(Prossima missione: <br /><b>Fuori dal guscio</b>):::questfnv
+    id19("(Opzionale) <b>Scienza 25</b>/<br /><b>Medicina 50</b>: ottieni <br />più informazioni <br />sui roboscorpioni")
 
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8-->id9-->id10-->id11-->id12-->id13 & id14 & id15 & id16 & id17 & id18
     
+    id2-->id19-->id4
+
     click id13 "../quando-attaccano-i-visitatori"
     click id14 "../sulla-stessa-lunghezza-donda"
     click id15 "../il-miglior-amico-di-un-cervello"
@@ -76,10 +79,10 @@ graph TD;
 
 
 **Sfide abilità**:
-- **Scienza ???**/**Medicina ???**: per ottenere alcune informazioni su Ulysses e Padre Elijah dal Dottor Klein
+- **Scienza 30**/**Scienza 70**/**Medicina 75**: per ottenere alcune informazioni aggiuntiva dal Dottor Klein
 - **Eloquenza 65**/**Intelligenza 7**/**Ira matematica**: per scoprire il vero nome del Dottor O
 - **Intelligenza 9**: per aiutare a distinguere la O con lo 0 nel nome del Dottor O
-- **Medicina ???**/**Carisma ???**/**Cherchez La Femme**/**Donnaiolo**: per sbloccare alcuni dialoghi unici con la Dottoressa Dala
+- **Cherchez La Femme**/**Donnaiolo**: per sbloccare alcuni dialoghi unici con la Dottoressa Dala
 - **Percezione 7**/**Scienza 75**: per sbloccare alcuni dialoghi unici con il Dottor 8
 
 

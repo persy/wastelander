@@ -18,9 +18,9 @@ private: true # Nascosto dalle ricerche
 
 {{< toc hide_on="xl" >}}
 
-Questa pagina contiene l'elenco di tutte le missioni (principali, secondarie e nascoste) di Fallout: New Vegas, DLC compresi. Il titolo delle missioni nascoste, non avendo una traduzione italiana, sono riportate con il nome inglese. 
-
 <div class="fnv">
+
+Questa pagina contiene l'elenco di tutte le **missioni** (principali, secondarie e nascoste) di Fallout: New Vegas, DLC compresi. Il titolo delle missioni nascoste, non avendo una traduzione italiana, sono riportate con il nome inglese. 
 
 ## Missioni tutorial
 

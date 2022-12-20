@@ -14,11 +14,13 @@ commentable: true
 hidden: true
 ---
 
-In questa pagina vengono elencate tutte le specie animali e i robot che puoi incontrare nella Zona contaminata del Mojave.
-
 {{< toc hide_on="xl" >}}
 
-Legenda
+<div class="fnv">
+
+In questa pagina vengono elencate tutte le specie animali e i robot che puoi incontrare nella Zona contaminata del Mojave.
+
+## Legenda
 
 | Simbolo | Significato       | Simbolo | Significato      | Simbolo | Significato      |
 | :-------: | ----------------- | :-------: | ---------------- | :-------: | ---------------- |
@@ -1178,4 +1180,7 @@ Come per tutti i robot, risultano molto più efficaci le armi a energia, come la
 | Comune   |  6   | 10  |  5  | 125 | 15  | 0%  | :imp: :imp:  | :crossed_swords: (5)<br>Laser (38)<br>Mesmetron (1)<br>Res. radiazioni 100%<br>Res. veleno 100% | Celle di energia<br>Batteria a fissione |                                              |
 
 </div>
+
+</div>
+
 

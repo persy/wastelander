@@ -66,13 +66,8 @@ graph TD;
 
 
 
-**Sfide abilità**:
-- **Medicina ???**: TODO
-
-
-
 **Note**:
-- È possibile fallire istantaneamente questa missione se si ha già svolto *Mi sono dimenticato di ricordarmi di dimenticare* per Boone, poiché durante questa è probabile che Markland finisca ucciso 
+- È possibile fallire istantaneamente questa missione hai già svolto *Mi sono dimenticato di ricordarmi di dimenticare* per Boone, poiché durante questa è probabile che Markland finisca per venir ucciso 
 
 
 </div>

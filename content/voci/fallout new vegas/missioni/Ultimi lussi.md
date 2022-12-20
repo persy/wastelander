@@ -34,7 +34,7 @@ private: false # Nascosto dalle ricerche
 graph TD;
     id1(<b>Ultimi lussi</b>):::questfnv
     id2(Confrontati con Christine <br />nelle Suite di lusso)
-    id3(<b>Percezione</b>/<br /><b>Intelligenza ???</b>: <br />persuadila ad aiutarti) %%TODO%%
+    id3(<b>Percezione 7</b>: <br />persuadila ad aiutarti) %%TODO%%
     id4(Uccidila)
     id5(Prossima missione: <b>Furto del secolo</b>):::questfnv
     
@@ -58,12 +58,12 @@ graph TD;
 
 **Sfide abilità**:
 - **Riparazione 75**: per disattivare l'emettitore di ologrammi senza dovergli sparare
-- P**ercezione ???**/**Intelligenza ???**: per convincere Christine a collaborare
+- **Percezione 7**: per capire cosa nasconde Christine
 
 
 
 **Note**:
-- Se si decide in *Segnali misti* di rinchiudere Christine nella stazione di smistamento, quando il Corriere arriverà alle Suite di lusso per confrontarsi con lei, l'intera area sarà disseminata di trappole e mine ad inciampo
+- Se decidi in *Segnali misti* di rinchiudere Christine nella stazione di smistamento, quando  arriverai alle Suite di lusso per confrontarti con lei, l'intera area sarà disseminata di trappole e mine ad inciampo
 
 
 </div>

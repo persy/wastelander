@@ -44,7 +44,7 @@ graph TD;
     id10(Eloquenza 65: <br />perquisisci la terza persona <br />oppure provocala e uccidila)
     id11(Perquisisci la <br />quarta persona)
     id12(Occupati di Pacer)
-    id13(Eloquenza ???: <br />fallo passare) 
+    id13(Fallo passare) 
     id14(Provocalo e uccidilo)
     id15(Completamento <br />Mossa dei King):::questfnv
     id16(Fai la guardia <br />al Silver Rush)
@@ -86,7 +86,7 @@ graph TD;
 **Sfide abilità**:
 - **Eloquenza 65**: per perquisire la terza persona
 - **Eloquenza 75**: per ottenere 200 tappi dal legionario
-- **Eloquenza ???**: fai passare Pacer
+
 
 
 
