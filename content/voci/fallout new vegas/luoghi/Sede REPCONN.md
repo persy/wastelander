@@ -55,7 +55,7 @@ Altri oggetti:
 	- In alternativa, devi hackerare (**Scienza 50**) il sistema di riconoscimento accedendo a un terminale del primo piano o passare una sfida **Fortuna 7** o **Intelligenza inferiore a 2**
 - Uno dei paladini al secondo piano ha nell'inventario un olonastro necessario per l'avanzamento delle missioni _ED-E amore mio_ e _Ancora nel buio_
 - In questo edificio puoi raccogliere una grande quantità di materiali di recupero come **rottami**, **rottami elettronici** e **colle prodigiose**, necessari per costruire i kit di riparazione
-- Con **Percezione 8** puoi rilevare 12 porte nascoste dietro le quali sono nascosti altrettanti robot sentinelle. Con Riparazione 65 puoi bloccarle, evitando così che possano uscire 
+- Con **Percezione 8** puoi rilevare 12 porte nascoste dietro le quali sono nascosti altrettanti robot sentinelle. Con **Riparazione 65** puoi bloccarle, evitando così che possano uscire 
 
 </div>
 

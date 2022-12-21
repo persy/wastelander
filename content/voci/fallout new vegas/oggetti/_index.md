@@ -36,6 +36,8 @@ private: true # Nascosto dalle ricerche
 <a href="libri-abilita" class="btn mojave">Libri abilità</a>
 <a href="palle-di-neve" class="btn mojave">Palle di neve</a>
 <a href="riviste-abilita" class="btn mojave">Riviste abilità</a>
+<a href="note" class="btn mojave">Note</a>
+<a href="olonastri" class="btn mojave">Olonastri</a>
 
 
 

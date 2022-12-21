@@ -38,6 +38,8 @@ private: true # Nascosto dalle ricerche
 <a href="consumabili" class="btn capitol">Consumabili</a>
 <a href="creazione" class="btn capitol">Creazione</a>
 <a href="libri-abilita" class="btn capitol">Libri abilità</a>
+<a href="note" class="btn capitol">Note</a>
+<a href="olonastri" class="btn capitol">Olonastri</a>
 
 <!--
 <a href="#" class="btn capitol">Miscellanea (TODO)</a>
