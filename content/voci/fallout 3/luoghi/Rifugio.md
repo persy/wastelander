@@ -25,7 +25,7 @@ Il **rifugio** è una località non contrassegnata e si trova a sud dell'edifici
 | {{<figure src="fo3/Shelter_loc.webp">}} | {{<figure src="fo3/Shelter.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, nel piccolo accampamento ad est
 - 49 siringhe, nella sala principale
 

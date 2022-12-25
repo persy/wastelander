@@ -28,7 +28,7 @@ L'**impianto di Olney** è una vecchia centrale elettrica accessibile attraverso
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/Alien_Power_Cell_Location.webp">}} | 36 **energie aliene**, al piano inferiore nell'area appena prima della bobina di Tesla, divise in tre set: uno sul fornello, uno sul tavolo accanto alla stufa e uno sul tavolo con la sfera al plasma |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Bobina di Tesla**, all'interno del reattore centrale, necessaria per la missione *Ai generatori*
 - In numero variabile, altre energie aliene si possono trovare in due scatole di munizioni in una piccola stanza alla fine della sala server, nell'angolo sopra le due torrette
 

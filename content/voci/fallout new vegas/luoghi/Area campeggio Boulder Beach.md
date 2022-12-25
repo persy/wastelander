@@ -25,7 +25,7 @@ L'**area campeggio Boulder Beach** è una piccola area di campeggio a ridosso de
 | -------------------------------------- | ----------------------- |
 | {{<figure src="fnv/Boulder_Beach_Campground_loc.webp">}} | {{<figure src="fnv/Boulder-beach.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **2 tappi di bottiglia stella Sunset Sarsaparilla**, nel camion sott'acqua, in mezzo alla sabbia
 
 </div>

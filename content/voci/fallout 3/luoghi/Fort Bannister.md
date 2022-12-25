@@ -35,7 +35,7 @@ hidden: true
 | {{<figure src="fo3/Ground_zero_apc.webp">}}                       | 96 **energie aliene**, sotto il camion nel cratere a est del forte                                                                                                                           |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Alloggi dell'ufficiale comandante
 	- **Tu e Nikola Tesla**, in cima a una passerella nella sala di lancio dei missili, accanto a una radio e una scatola di munizioni
 	- **Rasoio di Occam** e l'**elmo da combattimento dell'Artiglio**, indossato dal comandante Jabsco, nella stanza più meridionale

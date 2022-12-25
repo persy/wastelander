@@ -28,7 +28,7 @@ Il **nido del cecchino** è una piccola baracca in lamiera, con un fuoco da acca
 | -------- | ------------------- |
 |  {{<figure src="fnv/SN_Gobi_Campaign_scout_rifle.webp">}}        |   **Fuc. scout Campagna Gobi**, in un armadietto chiuso (Scasso 100)                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su una panca nella baracca
 
 **Note**:

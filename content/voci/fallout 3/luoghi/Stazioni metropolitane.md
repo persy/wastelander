@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Stazioni metropolitane
-summary: 'TODO'
+summary: ''
 weight: 10
 icon: map-location-dot
 icon_pack: fas

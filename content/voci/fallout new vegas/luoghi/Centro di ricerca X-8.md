@@ -35,7 +35,7 @@ Il **centro di ricerca X-8** è un complesso di edifici, sede di importanti espe
 | {{<figure src="fnv/FNVOWB_Dog_and_robot_splicing_experiment_holotape.webp">}}         | **Olonastro dell'esperimento di ibridazione tra cane e robot**, su un tavolo al centro della stanza dopo la rampa a destra dell'entrata        |
 |  {{<figure src="fnv/FNVOWB_Robot_and_nightstalker_splicing_experiment_holotape.webp">}}        | **Olonastro dell'esperimento di ibridazione tra robot e Nightstalker**, in cima a una delle gabbie di nightstalker                                   |
 | {{<figure src="fnv/X_8_FIDO_upgrade_Schematic.webp">}}         | **Schemi - FIDO K9000**, nella recinzione vicino al terminale                                                                                        |
-|  TODO        | **Campione audio - Latrato di Gabriel**, in un punto di scavo alla fine della struttura residenziale (necessario per la missione _Ricerca sul campo_)                                                                                                                                                     |
+| -  <!--TODO-->        | **Campione audio - Latrato di Gabriel**, in un punto di scavo alla fine della struttura residenziale (necessario per la missione _Ricerca sul campo_)                                                                                                                                                     |
 
 **Note**:
 - Nella missione _Orrore da liceo X-8_ ottieni tutti e tre i registri degli studenti, attraverso il Test istituzionale di recupero dati. Fatto ciò dovrà uscire dalla struttura e avviare il Test di guardia Cybercani residenziali alla Struttura di test sui residenti

@@ -40,7 +40,7 @@ L'**Accademia Roosevelt** è una base dei supermutanti e si trova appena a sud d
 | {{<figure src="fo3/Tumblers_Today_Roosevelt_Academy.webp">}}   | **Lo scassinatore moderno**, centro Arti e Atletica, al secondo piano, in una stanza adiacente allo spogliatoio, su una scrivania con due scatole di munizioni e una radio amatoriale |
 | {{<figure src="fo3/FO3_PI_Roosevelt_Academy_Tunnel.webp">}}    | **Pugilato illustrato**, tunnel manutenzione ed evacuazione, nella sala generatori meridionale, su uno scaffale nell'angolo nord-ovest                                                |
 
-Altri oggetti:
+**Altri oggetti**:
 - Accademia
 	- **Libro prebellico**, sulla scrivania nell'ufficio del preside
 - Centro Arti e Atletica

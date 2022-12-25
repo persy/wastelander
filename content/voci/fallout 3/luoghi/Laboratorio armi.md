@@ -26,14 +26,14 @@ Il **laboratorio armi** è un luogo disponibile solo con il DLC *Mothership Zeta
 
 | Immagine                                | Oggetto e posizione                                      |
 | --------------------------------------- | -------------------------------------------------------- |
-| {{<figure src="fo3/Fo3MZ_Destabilizer.webp">}}           | **Destabilizzatore**, nella stanza con un pod drone TODO |
+| {{<figure src="fo3/Fo3MZ_Destabilizer.webp">}}           | **Destabilizzatore**, nella stanza con un pod drone |
 |{{<figure src="fo3/Fo3MZ_Atomic_Pulverizer_Buttercup_toy_and_power_cells.webp">}}	|**Polverizzatore atomico**, in una piccola stanza (Scienza 75), su un ripiano |
 | {{<figure src="fo3/Alien_power_cells_weapons_lab.webp">}}| 87 **energie aliene**, su un bancone                     |
-| {{<figure src="fo3/Alien_captive_recording_log_24_weapons_lab.webp">}}      |    **Registrazione prigioniero 24**, TODO           |
+| {{<figure src="fo3/Alien_captive_recording_log_24_weapons_lab.webp">}}      |    **Registrazione prigioniero 24**, vedi *La leggenda di Zeta*           |
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **Cannone robot Ex-B**, nell'inventario dei due robot armi sperimentali
 
 **Note**:

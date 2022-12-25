@@ -25,7 +25,7 @@ private: false
 | ----- | ---------- |
 | {{<figure src="fnv/Callville_Bay_loc.webp">}}      |   {{<figure src="fnv/Callville_Bay.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **2 tappi di bottiglia stella Sunset Sarsaparilla**: uno su uno degli scaffali con alcune bottiglie vuote, l'altro vicino al registratore di cassa
 
 **Note**:

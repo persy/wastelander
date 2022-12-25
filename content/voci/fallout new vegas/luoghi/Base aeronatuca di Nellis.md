@@ -33,7 +33,7 @@ La **Base aeronautica di Nellis** è un'ex base aeronautica militare, i cui hang
 |  {{<figure src="fnv/FNV_Thump-Thump.webp">}}        | **Lanciagranate Thumper**, edificio del generatore, piano interiore, vicino ad uno scheletro                                                                           |
 | {{<figure src="fnv/Nellis_array_mini_nuke.webp">}}         |**Munizioni nucleari**, impianto fotovoltaico, livello inferiore, su delle mensole                                                                            |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Meccanismo di sparo dell'obice**, officina, in uno degli armadietti
 
 **Note**:

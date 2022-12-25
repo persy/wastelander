@@ -33,7 +33,7 @@ L'**avamposto Rinnegati** è un piccolo complesso dei Rinnegati della Confratern
  
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Veste da scriba Rinnegato, indossata dallo specialista Olin
 
 

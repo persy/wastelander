@@ -32,7 +32,7 @@ L'**edificio della Clinica** si trova nel Distretto Medico e si snoda per tre pi
 | {{<figure src="fnv/Vending_machine_code_-_Mentats.webp">}}                                                    | **Codice distributore automatico - "Mentats"**, in fondo ad una libreria al primo piano     |
 |  {{<figure src="fnv/Vending_machine_code_-_Med-X.webp">}}                                                   |   **Codice distributore automatico - "Med-X"**, su un terminale del primo piano                                                                                          |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tuta da assassino**, su uno dei cadaveri decapitati al primo piano
 - **In nome della storia**, sul terminale vicino all'armatura
 

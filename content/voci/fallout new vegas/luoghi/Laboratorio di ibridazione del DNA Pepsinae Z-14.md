@@ -28,7 +28,7 @@ Il **laboratorio di ibridazione del DNA Pepsinae Z-14** è un edificio posto su 
 | -------- | ------------------- |
 |  {{<figure src="fnv/Z-14_Pepsinae_DNA_SL_interior.webp">}}        |   **Potenziamento Auto-Doc: Impianto M-5**, sul tavolo chirurgico nella stessa stanza in cui si trova il Campione 73 (necessario per la missione _Influenzare la gente_)                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Oscillatore triradiale a valenza atomica**, su cadavere del Campione 73
 
 </div>

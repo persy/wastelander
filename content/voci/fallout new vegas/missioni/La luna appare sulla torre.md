@@ -38,7 +38,7 @@ graph TD;
     id4(Torna da Emily Ortal)
     id5("(Opzionale) <b>Eloquenza 35</b>: <br />ottieni ulteriori <br />informazioni su Benny")
     id6("500 PE, <br />fama per i Seguaci dell'Apocalisse <br />(scorte di medicinali con <b>Baratto 40</b>)"):::rewardfnv
-    id(Prossima missione: <b>TODO</b>):::questfnv
+
     id1-->id2-->id3-->id4-->id5-->id6
     
     

@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-La **casa colonica di Ulysses** è una semplice baracca in lamiera con un piccolo orticello e una pompa dell'acqua. Si trova a TODO.
+La **casa colonica di Ulysses** è una semplice baracca in lamiera con un piccolo orticello e una pompa dell'acqua. Si trova a nord-est di Nipton e a nord-ovest della fattoria razziata.
 
 | Mappa | Mappa locale | Panoramica |
 | -----  | ---------- |
@@ -26,8 +26,7 @@ La **casa colonica di Ulysses** è una semplice baracca in lamiera con un piccol
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|   TODO      |   **Lo scassinatore moderno**, per terra, vicino al frigo                  |
-|   {{<figure src="fnv/Chopper_WR.webp">}}        |  **Biker**, all'interno, appoggiata a uno dei fornelli della cucina                   |
+|   {{<figure src="fnv/Chopper_WR.webp">}}        |  **Biker** e **Lo scassinatore moderno**, all'interno, su uno dei fornelli e per terra davanti al frigo           |
 
 </div>
 

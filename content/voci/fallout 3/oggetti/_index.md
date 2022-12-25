@@ -17,19 +17,7 @@ private: true # Nascosto dalle ricerche
 
 
 
-<!--
-{{< cta cta_text="Armi" cta_link="#" cta_alt_text="Armi, armi uniche e munizioni" cta_alt_link="#" cta_new_tab="false" >}}
 
-{{< cta cta_text="Consumabili" cta_link="TODO" cta_alt_text="Cibi, bevande e droghe" cta_alt_link="#" cta_new_tab="false" >}}
-
-{{< cta cta_text="Armature e vestiti" cta_link="" cta_alt_text="Armature, vestiti e copricapi" cta_alt_link="#" cta_new_tab="false" >}}
-
-{{< cta cta_text="Creazione" cta_link="creazione" cta_alt_text="Schemi e oggetti utili" cta_alt_link="#" cta_new_tab="false" >}}
-
-{{< cta cta_text="Bamboline" cta_link="bamboline"  cta_new_tab="false" >}}
-
-{{< cta cta_text="Libri delle abilità" cta_link="libri-delle-abilita"  cta_new_tab="false" >}}
--->
 
 <a href="armature e vestiti" class="btn capitol">Armature e vestiti</a>
 <a href="armi" class="btn capitol">Armi</a>
@@ -41,8 +29,5 @@ private: true # Nascosto dalle ricerche
 <a href="note" class="btn capitol">Note</a>
 <a href="olonastri" class="btn capitol">Olonastri</a>
 
-<!--
-<a href="#" class="btn capitol">Miscellanea (TODO)</a>
-<a href="#" class="btn capitol">Olonastri e note (TODO)</a>
--->
+
 

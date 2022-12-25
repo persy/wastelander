@@ -31,7 +31,7 @@ hidden: true
 | {{<figure src="fo3/Dean's_Electronics_truck_Andale_Nuka-Cola_plant.webp">}}     | **Elettronica di Dean**, a est, in un camion sulla strada. Il camion è anche facile da trovare andando a nord-ovest dallo stabilimento di Nuka-Cola, dritto in salita. (potrebbe non essere presente) |
 | {{<figure src="fo3/Our_Little_Secret.webp">}}                                   | **Grognak il barbaro**, nel seminterrato degli Smith, sul tavolo più vicino alla porta o sul pavimento (va rubato)                                                                                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in un camion ribaltato sotto l'autostrada a nord di Andale, verso le rovine di Fairfax
 - **Carne strana**, 80 in totale: 10 in ogni frigorifero (tre nel seminterrato della casa Smith, tre nella casetta da giardino, uno nella cucina della casa Smith e uno nella cucina della casa Wilson); può essere scambiata per un fungo delle caverne a Little Lamplight nella missione non contrassegnata *Fungus Deal*
 

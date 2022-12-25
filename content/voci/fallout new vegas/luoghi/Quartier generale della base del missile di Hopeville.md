@@ -31,7 +31,7 @@ Il **quartier generale della base del missile di Hopeville** è un edificio che 
 | {{<figure src="fnv/LR_Armory_access_codes.webp">}}                         | **Base di Hopeville - Codici di accesso dell'armeria**, in una cassaforte ("Difficile") all'interno di una stanza a sinistra del corridoio |
 | {{<figure src="fnv/Ralphie_poster_Headquarters.webp">}}                    | **Poster di RALPHIE**, all'esterno dell'edificio sul lato nord                                                                                |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Terminale dello spaccio**, nella stanza più a destra assieme ad un Auto-Doc
 
 </div>

@@ -28,7 +28,7 @@ hidden: true
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/LL_Great_Chamber_bottlecap_mine.webp">}} | **Mina da tappo**, nella sala principale, in una nicchia nel lato nord-ovest della grotta |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Schemi - Mina da tappo**, venduto da Knick Knack nel negozio di souvenir
 - **Fucive vaser**, posseduto da Biwwy
 - Cinque olonastri, due **Il mio diario, di Jason Grant** nel negozio di souvenir, **26 gennaio 2077 -- Little Lamplight!** sopra il tavolo da biliardo nella caverna principale e due **Diario di Carrie Delaney** nell'edificio degli uffici

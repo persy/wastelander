@@ -28,7 +28,7 @@ Il **Nido del cuculo** è una caverna circolare con al suo interno sono disponib
 | -------- | ------------------- |
 | {{<figure src="fnv/Sink_Project_Toaster_Cuckoo_Nest.webp">}}         | **Progetto del Pozzo: Tostapane**, a destra dell'entrata su uno scaffale (necessario per la missione _Tutti i miei amici hanno interruttori per spegnersi_)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Asse protonico inverso**, sul cadavere del Soggetto di ricerca 1
 
 **Note**:

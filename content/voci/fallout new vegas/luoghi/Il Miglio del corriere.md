@@ -31,7 +31,7 @@ Il **Miglio del corriere** è il "ground zero" di un'esplosione nucleare e vi si
 |  {{<figure src="fnv/GT_Gun_case_Courier's_Mile.webp">}}        | Modifiche per **Luce rossa** e per **mitragliatrice da spalla**, in alcune casse militari nella parte sudest                    |
 | {{<figure src="fnv/GT_Gun_cases_Courier's_Mile.webp">}}         |  **Armatura pesante casuale**, in una delle cassette metalliche all'interno di un edificio di due piani, nei pressi di una testata                   | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, su una scatola a destra dell'ingresso
 - **Nuka-Cola Quartz**, fra alcune macerie nella parte centrale-settentrionale
 

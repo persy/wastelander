@@ -36,7 +36,7 @@ La **fabbrica Red Racer** è una fabbrica di tricicli Red Racer prebellica alla 
 
 *Vedi [Negozio del predatore](../negozio-del-predatore)*
 
-Altri oggetti:
+**Altri oggetti**:
 - Esterno
 	- **Maschera da hockey di Ledoux**, indossata da Ledoux, ottenibile solo dopo aver preso la **Formula della Nuka-Cola Clear** dallo [stabilimento Nuka-Cola](../stabilimento-nuka-cola), in cambio di 250-400 tappi
 		- Non è possibile fare lo scambio se si ha già portato a termine la missione *La sfida di Nuka Cola* per Sierra Petrovita

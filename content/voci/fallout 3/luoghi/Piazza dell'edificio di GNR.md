@@ -29,7 +29,7 @@ La **piazza dell'edificio di GNR** ospita la sede dell'omonima trasmissione radi
 | {{<figure src="fo3/BB_of_Science_GNR_building_plaza.webp">}} | **Il grande libro della scienza**, vicino a una radio amatoriale |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Bandana di Tre Cani**, indossato da Tre Cani
 
 </div>

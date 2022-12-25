@@ -26,7 +26,7 @@ hidden: true
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 </div>

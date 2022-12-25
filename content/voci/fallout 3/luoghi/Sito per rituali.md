@@ -29,7 +29,7 @@ Il **sito per rituali** è un complesso sotterraneo utilizzato per la setta dei 
 |  {{<figure src="fo3/Fo3PL_ritual_knife.webp">}}       |  **Coltello rituale**, nella camera nord-ovest, infilzato in un cadavere                   | 
 | {{<figure src="fo3/The_Dark_Heart_of_Blackhall.webp">}}        |  **Krivbeknih**, in una fontana, vicino al coltello rituale                   | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, nella cassaforte aperta nella parte meridionale della sezione est
 - **Nuka-Cola Quantum**, in una bara aperta in un angolo della parte settentrionale della sezione est
 

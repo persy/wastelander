@@ -24,7 +24,7 @@ Il **Rifornimento elettrico di Hank** è un piccolo edificio disponibile solo co
 | ---------------------------- | --------------------------------- |
 | {{<figure src="fo3/Jury_Street_MS_loc.webp">}}| {{<figure src="fo3/Hanks_Electrical_Supply.webp">}}|
 
-Altri oggetti:
+**Altri oggetti**:
 - Spesso qui si possono trovare uno o due martelli da fabbro, un revolver .32 e/o una mazza da baseball in condizioni al 100%
 
 </div>

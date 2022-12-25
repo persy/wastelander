@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Broken Steel
-summary: 'TODO'
+summary: ''
 weight: 30
 
 

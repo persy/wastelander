@@ -32,7 +32,7 @@ Il **Piccolo Yangtze** è un ex campo d'internamento. Il perimetro esterno è qu
 | {{<figure src="fnv/Recipes_Survival_skill_book_holotape.webp">}}         |  **Ricette - Libro abilità Sopravvivenza**, sotto dei letti a castello a destra partendo dall'ingresso est                   | 
 | {{<figure src="fnv/Book_Chute_Mulching_tape.webp">}}         | **Potenziamento Iconoclasta: Pacciame**, all'interno della torre d'osservazione vicino ad una macchinetta per il caffè (necessario per la missione _Influenzare la gente_)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Asse protonico inverso**, sugli evasi Numero 27 e Numero 34
 
 </div>

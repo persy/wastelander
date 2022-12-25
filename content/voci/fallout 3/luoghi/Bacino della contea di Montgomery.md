@@ -25,7 +25,7 @@ Il **bacino della contea di Montgomery** è un impianto di trattamento delle acq
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Munizioni, al piano superiore del fienile e in un silo a nord-ovest
 
 

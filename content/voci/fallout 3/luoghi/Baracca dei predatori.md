@@ -28,7 +28,7 @@ La **baracca dei predatori** è una località non contrassegnata e si trova a es
 | {{<figure src="fo3/Raid_shack_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown** al piano superiore, sul comodino nella camera da letto principale a destra insieme ad alcuni spuntoni ferroviari |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Super pugnale**, nell'inventario di uno dei predatori
 
 

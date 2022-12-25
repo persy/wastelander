@@ -26,7 +26,7 @@ La **caverna ammuffita** è una località non contrassegnata, situata ad est del
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 </div>

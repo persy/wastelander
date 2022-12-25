@@ -19,7 +19,7 @@ private: false
 <div class="fnv">
 
 
-La **fattoria dei mezzadri dell'RNC** è una grande area semirecintata, con alcune baracche che fungono da dormitori, e le serre per la coltura. Si trova a TODO.
+La **fattoria dei mezzadri dell'RNC** è una grande area semirecintata, con alcune baracche che fungono da dormitori, e le serre per la coltura. Si trova a nord-est di Camp McCarran e a sud di Gun Runners.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |
@@ -29,7 +29,7 @@ La **fattoria dei mezzadri dell'RNC** è una grande area semirecintata, con alcu
 | -------- | ------------------- |
 |{{<figure src="fnv/CA_Special_Ops_Training_Manual_Sharecropper_barracks.webp">}} | **Esercito cinese: Corpi speciali. Manuale d'addestramento**, sul pavimento sul lato sud del dormitorio                       |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su un tavolo del dormitorio
 
 **Note**:

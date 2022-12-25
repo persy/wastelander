@@ -31,7 +31,7 @@ private: false
 |  {{<figure src="fnv/That_Gun.webp">}}        |  **Quella pistola**, Bazar Dino Bite, all'interno della stanza chiusa a chiave. Può essere rubata o comprata da Cliff Briscoe                   |
 |  {{<figure src="fnv/Novac_motel_lobby_Bill_of_sale.webp">}}        | **Fattura di vendita**, accettazione Dino Dee-lite, nella cassaforte (**Scasso 50**) sul pavimento dietro il bancone                    | 
 
-Altri oggetti:
+**Altri oggetti**:
 - Bazar Dino Bite:
 	- **Paciencia** e l'**Ipergeneratore MF Alpha**, venduta da Cliff Briscoe
 	- **Tappo di bottiglia stella Sunset Sarsaparilla**, in una delle cassette sul retro

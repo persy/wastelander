@@ -25,7 +25,7 @@ Il **Rockland Car Tunnel** è una sezione di un tunnel stradale crollato situato
 | {{<figure src="fo3/Rockland_Car_Tunnel_map.webp">}} | {{<figure src="fo3/Rockland_car_tunnel_local_map.webp">}} | {{<figure src="fo3/Rockland_Car_Tunnel.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 </div>

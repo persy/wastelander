@@ -24,7 +24,7 @@ Il **campo del prospettore del fabbro Mesa** è costituito da un bunker improvvi
 | -----  | ---------- |
 |   {{<figure src="fnv/Smith_Mesa_Prospector_Camp_loc.webp">}}                  | {{<figure src="fnv/SmithMesaProspectorCamp.webp">}}           | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla** da un blocco di cemento, dietro la radio
 
 </div>

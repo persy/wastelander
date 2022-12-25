@@ -31,7 +31,7 @@ private: false
 |          |                     | 
 |          |                     |
 
-Altri oggetti:
+**Altri oggetti**:
 - Il casinò di Vikki e Vance:  
 	- **Mitragliatrice 9 mm**, **tirapugni borchiato**, all'interno di una delle casseforti a muro aperte  
 	- 79 **tappi**, all'interno delle casseforti chiuse (Scasso 25, 75)  

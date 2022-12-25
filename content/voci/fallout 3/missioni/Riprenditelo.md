@@ -58,7 +58,7 @@ graph TD;
     id7-->id11-->id13
     id8-->id16-->id13
     id12-->id17-->id13
-    click id14 "../morte-dallalto" %%TODO%%
+    click id14 "../morte-dai-cieli" 
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
 ```

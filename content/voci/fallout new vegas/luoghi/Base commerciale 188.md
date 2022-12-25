@@ -18,13 +18,13 @@ private: false
 
 <div class="fnv">
 
-La **base commerciale 188** è un piccolo avamposto, sull'intersezione fra la Highway 95 e la Highway 93 (da qui il numero 188, ossia 95 + 93), usato come snodo per le carovane di commercianti nel Mojave.. Si trova a TODO.
+La **base commerciale 188** è un piccolo avamposto, sull'intersezione fra la Highway 95 e la Highway 93 (da qui il numero 188, ossia 95 + 93), usato come snodo per le carovane di commercianti nel Mojave. Si trova a nord-est del Vault 11 e a sud-est della sede REPCONN.
 
 | Mappa                          | Panoramica                 |
 | ------------------------------ | -------------------------- |
 | {{<figure src="fnv/188_Trading_Post_loc.webp">}} | {{<figure src="fnv/188_Trading_Post.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nella baracca del bar, al livello superiore
 
 **Note**:

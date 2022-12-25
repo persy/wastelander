@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-La **caverna Bloodborne** ha un'unica sezione ed è infestata da branchi di nightstalker è TODO. Si trova a nord-est del rifugio della Confraternita d'Acciaio e a nord-ovest di Bitter Springs.
+La **caverna Bloodborne** ha un'unica sezione ed è infestata da branchi di nightstalker. Si trova a nord-est del rifugio della Confraternita d'Acciaio e a nord-ovest di Bitter Springs.
 
 | Mappa                         | Mappa locale                        | Panoramica                         |
 | ----------------------------- | ----------------------------------- | ---------------------------------- |

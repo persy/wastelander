@@ -24,7 +24,7 @@ L'**avamposto soccorsi disastro** è un luogo disponibile solo con il DLC *Point
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Marcella's_last_words.webp">}}| **Le ultime parole di Marcella**,  nella tenda di Marcella durante la missione *Il cuore nero di Blackhall* |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, sulla scrivania della tenda dell'amministrazione.
 
 </div>

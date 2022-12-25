@@ -41,7 +41,7 @@ La **struttura di ricerca X-33** è un edificio che si sviluppa su più livelli 
 | {{<figure src="fnv/VR_simulation_room_axe.webp">}}                                         | **Asse protonico inverso**, in una zona bloccata (Scasso 100) dell'area test #2 (stanza simulazione VR)                                                                                                                                |
 | {{<figure src="fnv/X-8_Data_Retrieval_Test_K_9_key_found_at_X_13.webp">}}                  | **Chiave della recinzione X-8**, a destra dell'ingresso in un'area oltre un campo di forza                                                                                                                                             |
 
-Altri oggetti:
+**Altri oggetti**:
 - **2 Nuka Cola Victory**: al primo livello, prima del laboratorio test, assieme ad una **Nuka Cola Quartz**; vicino ad un piatto caldo nell'ufficio #2 dell'area osservazione
 - **3 Infusi da battaglia**, in uno strano barile nel seminterrato dei nightstalker
 - **5 rare crocchette per cani**, in una ciotola del seminterrato

@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-Gli **alloggi di vacanza Blue Paradise** sono costituiti da alcune baracche, semiallagate. l'area è infestata da lakelurk. Si trova a TODO.
+Gli **alloggi di vacanza Blue Paradise** sono costituiti da alcune baracche, semiallagate. l'area è infestata da lakelurk. Si trova a sud-est del campo del prospettore fabbro Mesa.
 
 | Mappa  | Panoramica |
 | -----  | ---------- |

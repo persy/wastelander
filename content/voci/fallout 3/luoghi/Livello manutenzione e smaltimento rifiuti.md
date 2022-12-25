@@ -28,7 +28,7 @@ Il **livello manutenzione e smaltimento rifiuti** è un luogo disponibile solo c
 | Immagine                                                | Oggetto e posizione                                                                               |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Samurai_sword_loc.webp">}}                            | **Spada del samurai**, nell'area a sud-ovest, su un ripiano fra alcuni kit di pronto soccorso     |
-| {{<figure src="fo3/Alien_captive_recording_log_19_waste_disposal.webp">}}| **Registrazione prigioniero 19**, TODO                                                            |
+| {{<figure src="fo3/Alien_captive_recording_log_19_waste_disposal.webp">}}| **Registrazione prigioniero 19**, vedi *La leggenda di Zeta*                                                            |
 | {{<figure src="fo3/Chase_overcoat_and_Anchorage_QM_shipment.webp">}}     | **Cappotto del Generale Chase** e olonastro **Quatermastro Anchorage**, in un armadietto militare | 
 
 

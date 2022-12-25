@@ -30,7 +30,7 @@ I **rottami del camion** sono un luogo disponibile solo con il DLC *Point Lookou
 | {{<figure src="fo3/Fo3PL_lighthouse_bulb_truck_wreckage.webp">}}| **Lampada del faro**, nel camion |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2-4 sacchi di lievito, nelle casse
 
 </div>

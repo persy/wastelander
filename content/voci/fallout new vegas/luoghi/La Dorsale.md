@@ -24,7 +24,7 @@ La **Dorsale** è un punto panoramico sul canyon, spesso infestato da Yao Guai o
 | ----- | ---------- |
 |  {{<figure src="fnv/The_Spine_loc.webp">}}     |   {{<figure src="fnv/The_Spine.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Vari oggetti**, in una roccia cava
 
 </div>

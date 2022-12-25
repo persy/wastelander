@@ -19,7 +19,7 @@ private: false
 <div class="fnv">
 
 
-La baracca Orgoglio del pescatore è una piccola baracca e all'interno è presente un'unica stanza. Si trova a TODO.
+La baracca **Orgoglio del pescatore** è una piccola baracca e all'interno è presente un'unica stanza. Si trova a sud-vest di Callville Bay e a est di Camp Golf.
 
 | Mappa | Panoramica |
 | ----- | ---------- |
@@ -29,7 +29,7 @@ La baracca Orgoglio del pescatore è una piccola baracca e all'interno è presen
 | -------- | ------------------- |
 |  {{<figure src="fnv/FPS_Pugilism_Illustrated.webp">}}        |  **Pugilato illustrato**, sul comodino                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su un tavolo
 
 </div>

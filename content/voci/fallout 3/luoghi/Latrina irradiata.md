@@ -25,7 +25,7 @@ La **latrina irradiata** è un luogo non contrassegnato e si trova a sud-ovest d
 | {{<figure src="fo3/CAD_Farm_loc.webp">}} | {{<figure src="fo3/Irradiated_outhouse.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in una vasca da bagno
 
 **Note**:

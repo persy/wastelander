@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Luoghi della Capitale
-summary: 'TODO'
+summary: ''
 weight: 20
 icon: map-location-dot
 icon_pack: fas
@@ -71,7 +71,7 @@ private: true # Nascosto dalle ricerche
 | Cinema all'aperto Moonbeam                   |     38     |
 | Covo di AntAgonizer                          |     28     |
 | Deposito di Meresti                          |     30     |
-| Deposito di Warrington TODO                  |     8D     |
+| Deposito di Warrington                       |     8D     |
 | Discarica di Greener Pastures                |     16     |
 | Discarica di Mason Dixon                     |     14     |
 | Drive-in Overlook                            |     9A     |

@@ -29,7 +29,7 @@ Il **giardino botanico X-22** è un edificio in rovina che si estende su diversi
 | -------- | ------------------- |
 |   {{<figure src="fnv/Sink_Project_BRS_holotape.webp">}}       |    **Progetto del Pozzo: Stazione di ricerca biologica**, nella parte superiore del giardino, vicino a un piatto caldo (necessario per la missione _Tutti i miei amici hanno interruttori per spegnersi_)                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Pacchetto di semi**, al secondo livello della zona sopraelevata
 
 **Note**:

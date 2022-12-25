@@ -28,7 +28,7 @@ hidden: true
 | {{<figure src="fo3/RR_Energy_Weapons_bobblehead.webp">}} | **Bambolina - Armi energia**, nel settore 2C nella stanza del colonnello Autumn. Il giocatore non deve entrare nella sala di controllo prima di recuperare la bambolina, poiché le porte si bloccheranno permanentemente |
 | {{<figure src="fo3/ZAX_destruct_sequence.webp">}}        | **Sequenza di distruzione ZAX**, in un armadietto nel settore 2C                                                                                                                                                         |
 
-Altri oggetti:
+**Altri oggetti**:
 - 117 forchette, al livello 3
 
 </div>

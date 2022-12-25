@@ -28,7 +28,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/JSD_SS_bottle_cap_and_locker_key.webp">}}        |  **Tappo di bottiglia stella Sunset Sarsaparilla**, sul tavolo                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Esplosivi**, in alcune casse nell'area attorno
 
 </div>

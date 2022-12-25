@@ -32,7 +32,7 @@ Il **campo dei predatori della metro allagata** è un accampamento di predoni no
 | {{<figure src="fo3/FO3_TT_Flooded_Metro_Raider_Camp.webp">}} | **Lo scassinatore moderno**, in cima alla fortificazione, vicino al materasso. |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in una cassa in cima allo scaffale, vicino ai due frigoriferi
 - **Leve freno motocicletta**, **serbatoi motocicletta**, **pistole a vernice** e altri materiali per il crafting
 

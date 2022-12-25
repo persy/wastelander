@@ -30,7 +30,7 @@ Le **fortificazioni di rottami dei predoni** è una località non contrassegnata
 | {{<figure src="fo3/Raider_wreckage_fortifications2.webp">}} | **Grognak il barbaro**, in una cassa sul lato sinistro |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, ?
 
 </div>

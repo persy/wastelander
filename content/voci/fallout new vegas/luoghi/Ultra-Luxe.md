@@ -25,7 +25,7 @@ L'**Ultra-Luxe** è uno dei casinò più grandi, con una fontana all'esterno e n
 |  {{<figure src="fnv/Ultra-Luxe_map.webp">}}      |  {{<figure src="fnv/Ultra_Luxe_casino_main_level_map.webp">}}           |  {{<figure src="fnv/FNV_UltraLuxe.webp">}}          |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Bramino Wellington**, su un bancone nella cucina di Philippe
 - **Pigiama sexy**, nel bagno dell'attico
 - **Cilindro**, indossato da Mortimer

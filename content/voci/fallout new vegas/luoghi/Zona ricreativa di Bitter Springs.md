@@ -28,7 +28,7 @@ La **zona ricreativa di Bitter Springs** è costituita da ono diverse roulotte e
 | -------- | ------------------- |
 |  {{<figure src="fnv/Tumblers_Today_Bitter_Springs_recreation_office.webp">}}        |  **Lo scassinatore moderno**, su un tavolino nella stanza a sinistra                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **2 tappi di bottiglia stella Sunset Sarsaparilla**, vicino alla radio
 
 </div>

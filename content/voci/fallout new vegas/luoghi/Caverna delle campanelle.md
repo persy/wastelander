@@ -28,7 +28,7 @@ La **caverna delle campanelle** è una caverna che presenta diverse trappole al 
 | -------- | ------------------- |
 | {{<figure src="fnv/Survivalist_hidden_cache_Morning_Glory_cave.webp">}}         |**Scorta di sopravvivenza**, in una stanza improvvisata dietro una porta chiusa a chiave                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Mappa topografica di Grand Staircase**, nella stessa stanza della scorta di sopravvivenza (necessaria per la missione _Grand Staircase_)
 - **Chiave della scorta, in una borsa da campeggio**, al centro della caverna
 

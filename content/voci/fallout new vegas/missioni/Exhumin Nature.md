@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Exhumin Nature* è una missione nascosta di Fallout: New Vegas. È data da TODO a TODO.
+*Exhumin Nature* è una missione nascosta di Fallout: New Vegas. 
 
 
 **Riassunto**:

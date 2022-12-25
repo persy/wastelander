@@ -29,7 +29,7 @@ L'**area di ristoro e rifornimento di Jocko** è una baracca isolata nella parte
 | {{<figure src="fo3/NT_and_You_BM_Schematics_Jockos_PGS.webp">}} | **Schemi - Mina da tappo**, **Tu e Nikola Tesla** e **mina da tappo**, sul banco di lavoro e il bancone vicino |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, sullo scaffale dietro il bancone
 
 

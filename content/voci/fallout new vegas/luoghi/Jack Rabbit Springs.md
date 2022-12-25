@@ -18,13 +18,13 @@ private: false
 
 <div class="fnv">
 
-**Jack Rabbit Springs** è un'area termale, altamente irradiata e infestata da supermutanti e centauri. Si trova a TODO.
+**Jack Rabbit Springs** è un'area termale, altamente irradiata e infestata da supermutanti e centauri. Si trova a nord-ovest della tana del Coyote e a est della stazione di serv. autostrad. Nevada.
 
 | Mappa | Panoramica |
 | -----  | ---------- |
 | {{<figure src="fnv/Jack_Rabbit_Springs_loc.webp">}}                    |   {{<figure src="fnv/Jack_Rabbit_Springs.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, **kit di riparazione**, sopra a una piccola collina, vicino a degli scheletri
 - **Mitragliatrice a canne rotanti** o **inceneritore grande**, nell'inventario di uno dei supermutanti
 

@@ -25,7 +25,7 @@ La **King's School of Impersonation** è un edificio di mattoni di quattro piani
 | {{<figure src="fnv/King's_School_of_Impersonation_map.webp">}}      |  {{<figure src="fnv/The_Kings.webp">}}          | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Viva Las Vegas**, indossato dal Re
 - **Figaro**, portato da Sergio
 

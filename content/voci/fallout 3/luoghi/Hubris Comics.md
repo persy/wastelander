@@ -35,7 +35,7 @@ hidden: true
 | {{<figure src="fo3/Grognak_the_Barbarian_Hubris_Comics.webp">}}   | **Grognak il barbaro** e una **Nuka-Cola Quantum**, tipografia, su una scrivania accanto a un terminale bloccato (Scienza 50)), nella stessa stanza con Mad Johnny Wes |
 | {{<figure src="fo3/Deans_Electronics_Hubris_Comics.webp">}}       | **Elettronica di Dean**, tunnel  di servizio, su una scrivania vicino alla parete orientale dell'ultima stanza                                                         |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**, casa editrice,ella prima sala entrando dal quartiere Mason, su una mensola
 - **Libro prebellico**, tipografia, su uno scaffale  vicino alla parete orientale di una stanza nell'angolo sud-est
 - **Stealth Boy**, tunnel di servizio, sul pavimento vicino della stanza più a nord

@@ -29,7 +29,7 @@ Il **caveau** è un'area piena di altoparlanti e ologrammi, a difesa della cassa
 |  {{<figure src="fnv/Gold_bars_vault.webp">}}        |  **37 lingotti d'oro**, dal valore di 390.239 tappi e dal peso complessivo di 1295 libbre (35 libbre ciascuno), nel caveau                   |
 |  {{<figure src="fnv/FrederickSinclairSkeleton.webp">}}        |   **Tu e Nikola Tesla**, vicino allo scheletro di Sinclair                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Vesti di Padre Elijah**, portati da Padre Elijah
 - **¡La Fantoma!**, in un cestino all'interno del caveau
 - **Armature del Sierra Madre** e **Armature del Sierra Madre rinforzate** e relativi **elmetti**, nella piccola armeria nel caveau

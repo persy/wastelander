@@ -33,7 +33,7 @@ Il **tunnel di Yao Guai** è una località a ovest dell'ossario e a nord-ovest d
 | {{<figure src="fo3/NCQ_Yao_Guai_Tunnels.jpg">}}                     | **Nuka-Cola Quantum** su un tavolo vicino a una radio                                                             |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico** sul tavolo da picnic vicino all'ingresso del tunnel
 
 </div>

@@ -18,7 +18,7 @@ hidden: true
 <div class="fo3">
 
 
-**Vernon Square** è una sezione di Washington, D.C., fra il Parco Takoma a est e la piazza dell'edificio GNR a ovest. Fra gli edifici principali ci sono il quartier generale Vault-Tec, a nord-est, lo Statesman Hotel e l'Ospedale Nostra Signora della Speranza, a sud.
+**Vernon Square** è una sezione di Washington, D.C., fra il Parco Takoma a est e la piazza dell'edificio GNR a ovest. Fra gli edifici principali ci sono il quartier generale Vault-Tec, a nord-est, lo Statesman Hotel e l'Ospedale Nostra Signora della Speranza, a sud. La fogna irradiata è accessibile attraverso una grata all'interno del cratere con  la testata nucleare inesplosa.
 
 
 
@@ -28,11 +28,9 @@ hidden: true
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="fo3/DC_Journal_of_IM_Vernon_Square_sewer.webp">}} | **Giornale di medicina interna del D.C.**, sugli scaffali della fogna irradiata  |
-| {{<figure src="fo3/Dean's_Electronics_Sewer_entrance.webp">}}  | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna  |
+|  {{<figure src="fo3/DC_Journal_of_IM_Vernon_Square_sewer.webp">}} | **Giornale di medicina interna del D.C.** e **Stealth Boy**, sugli scaffali della fogna irradiata  |
+| {{<figure src="fo3/Dean's_Electronics_Sewer_entrance.webp">}}  | **Elettronica di Dean**,  su un tavolo vicino all'ingresso della fogna irradiata  |
 
 
-Altri oggetti:
--  **Stealth Boy**, sugli scaffali, nelle fogne
 
 </div>

@@ -31,7 +31,7 @@ Il **ponte dello sciacallo** è una posizione non contrassegnata a nord della fa
 | {{<figure src="fo3/FO3_Skillbooks_Scavengers_bridge.webp">}} | **Grognak il barbaro**, su uno scaffale nel rifugio dello sciacallo                                    |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Cinque freni a mano per motociclette.
 
 </div>

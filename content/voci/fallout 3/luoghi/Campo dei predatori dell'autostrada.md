@@ -27,7 +27,7 @@ Il **campo dei predatori dell'autostrada** è una fortezza dei predoni in cima a
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fucile da cecchino e lanciafiamme, nell'inventario di alcuni predoni
 
 </div>

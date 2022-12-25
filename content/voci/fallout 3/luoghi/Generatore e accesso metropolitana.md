@@ -25,7 +25,7 @@ Il **generatore e accesso metropolitana** è un piccolo tunnel di accesso che co
 | {{<figure src="fo3/Warrington_Station_loc.webp">}}  | {{<figure src="fo3/Metro_Metro_Access_&_Generator.webp">}}  |  {{<figure src="fo3/Metro_access_and_generator.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Chiave della sala generatori di Tenpenny**, nell'inventario di Capo Gustavo, alla Torre Tenpenny. Va presa prima di completare la missione *Torre Tenpenny* in favore dei ghoul, altrimenti diventerà inottenibile
 
 </div>

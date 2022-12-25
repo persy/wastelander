@@ -29,7 +29,7 @@ La **stazione di Marigold** è una delle stazioni della metropolitana sulla Line
 | {{<figure src="fo3/Fire_Ant_booty.webp">}}  |  **Il grande libro della scienza** e una **Nuka Cola Quantum**, accanto al terminale di Lesko nel nido della formica regina |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Camice di Lesko**, dato dal dottor Lesko per aver completato **Mio Dio!**, senza uccidere la regina e superando sfida Eloquenza
 - **Pigiama sexy**, in una cassaforte, ricompensa per aver completato la missione nascosta *Pacco di Grady*
 - **Ultima registrazione di Grady**, sul suo cadavere situato nella biglietteria all'ingresso della stazione

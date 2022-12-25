@@ -26,7 +26,7 @@ Il **Tempio dell'Unione** è un luogo nella Zona contaminata della Capitale situ
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**, nella stanza di Caleb (va rubato)
 - **Racconti di un venditore di carne di Junktown**, **Grognak il barbaro**, **libro prebellico**, nel forte dei predoni sull'autostrada collassata a sud-ovest, dopo aver terminato le missioni *Le acque della vita* e  *Capo di stato* 
 

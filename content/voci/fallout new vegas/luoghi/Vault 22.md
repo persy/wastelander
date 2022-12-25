@@ -25,7 +25,7 @@ Il **Vault 22** è un Vault della Vault-Tec e la sua entrata è nascosta da una 
 | ----- | -------------------------------------- | ---------- |
 | {{<figure src="fnv/Vault_22_loc.webp">}}      | {{<figure src="fnv/Vault_22_entrance_hall_map-1.webp">}} |   {{<figure src="fnv/Vault_22.webp">}}         |
 
-| Mappa locale riciclaggio ossigeno                           | Mappa locale produzione cibo TODO                          | Mappa locale aree comuni                       | Mappa locale disinfestazione |
+| Mappa locale riciclaggio ossigeno                           | Mappa locale produzione cibo <!--TODO-->                          | Mappa locale aree comuni                       | Mappa locale disinfestazione |
 | --------------------------------------- | -------------------------------------- | ----------------------------------- | ------------ |
 | {{<figure src="fnv/Vault_22_oxygen_recycling_map.webp">}} | {{<figure src="fnv/Vault_22_food_production_map.webp">}} | {{<figure src="fnv/Vault_22_common_areas_map.webp">}} | {{<figure src="fnv/Vault_22_pest_control_map.webp">}}             |
 

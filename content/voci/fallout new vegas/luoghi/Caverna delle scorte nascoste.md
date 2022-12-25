@@ -28,7 +28,7 @@ La **caverna delle scorte nascoste** è una piccola grotta, la cui entrata è be
 | -------- | ------------------- |
 | {{<figure src="fnv/Grognak_Hidden_supply_cave.webp">}}         |    **Grognak il barbaro**, sopra la prima scatola metallica a destra, appena entrati                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tuta antiradiazioni**, sopra un baule (necessarie per la missione _Ruota della fortuna_)
 
 **Note**:

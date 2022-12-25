@@ -31,7 +31,7 @@ La **stazione metropolitana di Meresti** è una stazione ferroviaria sotterranea
 | {{<figure src="fo3/Vampire's_Edge.webp">}}                  | **Spada del vampiro**, nell'armadietto nella stanza di Vance (la chiave è nell'inventario di Vance) |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Mina da tappo**, su un banco da lavoro vicino a un terminale informativo al piano terra, a nord sulla mappa
 - **Cappotto di Vance**, indossato da Vance
 - **Schemi - Shishkebab**, nell'inventario di Vance; può essere ottenuto uccidendolo o terminando *Legami di sangue* in suo favore

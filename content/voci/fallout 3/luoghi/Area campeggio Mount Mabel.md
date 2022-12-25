@@ -23,7 +23,7 @@ L'**area campeggio Mount Mabel** si trova a sud-ovest della Cappella del taberna
 | --------------------------- | -------------------------------- |
 | {{<figure src="fo3/MM_campground_loc.webp">}} | {{<figure src="fo3/Mount_Mabel_Campground.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 </div>

@@ -30,9 +30,10 @@ La **Base aeronautica Adams** è un complesso pesantemente fortificato dell'Encl
 |  {{<figure src="fo3/Adams_AFB_mini_nuke_4.webp">}}       | **Munizione nucleare**, vicino le grandi casse nell'Hangar 2B                    | 
 |  {{<figure src="fo3/Adams_AFB_mini_nuke_2_and_3.webp">}}       | 2 **munizioni nucleari**, in un corridoio dell'hangar con all'interno tre aerei a reazione abbandonati: uno è nascosto sotto una scrivania nell'angolo sud-est; l'altro è nascosto dietro uno schedario                    | 
 |  {{<figure src="fo3/Fo3BS_AdamsStorageFacility_Treasure.webp">}}       | **Lanciafiamme rapido**, 2 **Munizioni nucleari** e una **Nuka-Cola Quantum**, al deposito Adams, dietro l'angolo sulla destra dall'ingresso, su un lungo tavolo                    | 
-|  TODO        |  **Nuka-Cola Quantum**, a destra appena entrati nella torre di controllo aereo, sotto una scrivania                   | 
 
-Altri oggetti:
+
+**Altri oggetti**:
+- **Nuka-Cola Quantum**, a destra appena entrati nella torre di controllo aereo, sotto una scrivania
 - 2 **cannoni Tesla**, sul retro di un camion di fronte ai cancelli dell'area inaccessibile (dopo aver completato *Chi osa vince*)
 - 2 **cannoni Tesla**, in una cassa di rifornimento di fronte alla fortificazione dall'hangar 4A (dopo aver completato *Chi osa vince*)
 - 2 **cannoni Tesla**, in una cassa di rifornimento sul lato ovest all'estremità sud dell'hangar 2B (dopo aver completato *Chi osa vince*)

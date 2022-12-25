@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-La **caverna di Charleston** ha l'entrata inerpicata fra le montagne a nord ovest di Jacobstown. È infestata dai nightstalker. Si trova a TODO.
+La **caverna di Charleston** ha l'entrata inerpicata fra le montagne a nord ovest di Jacobstown. È infestata dai nightstalker. 
 
 | Mappa                         | Mappa locale                      | Panoramica                |
 | ----------------------------- | --------------------------------- | ------------------------- |
@@ -28,7 +28,7 @@ La **caverna di Charleston** ha l'entrata inerpicata fra le montagne a nord oves
 | -------- | ------------------- |
 |  {{<figure src="fnv/Oh_baby_nightkin.webp">}}        | **Oh, baby!**: sul cadavere di un nightkin                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy masticato**, sul cadavere di un nightkin (necessario per la missione _Indovina chi ho visto oggi?_)
 
 </div>

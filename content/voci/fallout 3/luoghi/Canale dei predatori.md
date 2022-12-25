@@ -25,7 +25,7 @@ Il **canale dei predatori** è una località non contrassegnata e si trova a sud
 | {{<figure src="fo3/FW_Metro_Station_loc.webp">}} | {{<figure src="fo3/Raider_canal.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Lanciamissili o mitragliatrice a canne rotanti, su uno dei supermutanti
 
 </div>

@@ -40,7 +40,7 @@ La **Biblioteca di Arlington**, ufficialmente la Biblioteca del Congresso, è un
 | {{<figure src="fo3/FO3_GAB_Arlington_Lib.webp">}}                              | **Pistole e proiettili**, a nord dell'entrata alla biblioteca, in un rifugio di preservazione Pulowski                                                                                  |
 | {{<figure src="fo3/Nikola_Tesla_and_You_Arlington.jpg">}}                      | **Tu e Nikola Tesla** e uno **Stealth Boy**, nell'avamposto della Compagnia dell'Artiglio a sud-ovest, su tavolo                                                                        |
 
-Altri oggetti:
+**Altri oggetti**:
 - Ingresso
 	- **Olonastro catalogo schede**, dal terminale sul bancone al piano terra, necessario per la missione *Guida di sopravvivenza della zona contaminata*
 	- **Stealth Boy**, al piano superiore, su un bancone che si affaccia all'atrio

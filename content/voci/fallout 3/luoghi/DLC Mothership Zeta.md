@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Mothership Zeta
-summary: 'TODO'
+summary: ''
 weight: 70
 
 

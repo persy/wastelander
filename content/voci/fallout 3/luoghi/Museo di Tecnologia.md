@@ -36,7 +36,7 @@ Il **Museo di Tecnologia** è un edificio di Washington, DC, posto sul lato meri
 | {{<figure src="fo3/Gun_locker_key_Museum_of_Technology.jpg">}}        | **Chiavi dell'armadietto con le armi**, in una cassaforte nell'ufficio di sicurezza del museo; apre un armadietto per armi nell'ufficio del capo del planetario. Vedi la missione nascosta *Bottino di Jiggs* |
 | {{<figure src="fo3/NCQ_Museum_of_Technology.jpg">}}                   | **Nuka-Cola Quantum**, ala ovest, nell'ufficio del capo del planetario, sullo scaffale                                                                                                                        |
 
-Altri oggetti:
+**Altri oggetti**:
 - 3 **Stealth Boy**: uno nell'atrio, angolo sud-ovest; due nella sala d'ingresso che conduce alla mostra "Halls of Today"
 
 

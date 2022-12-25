@@ -28,7 +28,7 @@ Il **ripetitore KT8** è una ripetitore e si trova a nord-est del Vault 87 e a s
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/Fallout_3_Sierra_Romeo_Chinese_Troops.webp">}} | **Esercito cinese: Corpi speciali. Manuale addestrativo** e **munizione nucleare**, nella camera di drenaggio, assieme ai cadaveri di due spie cinesi, sopra e sotto il tavolo |
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **libri prebellici**, nella stanza con i terminali dei computer
 - **Cappello da commando cinese** e **tuta cinese**, sui cadaveri delle spie cinesi
 - **Chiave di crittografia**, su una scrivania nella camera di drenaggio, utile per accedere al terminale che apre il portello

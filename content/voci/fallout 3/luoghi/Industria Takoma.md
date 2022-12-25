@@ -26,11 +26,11 @@ hidden: true
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
 | {{<figure src="fo3/FO3_LCS_Takoma_Industrial.webp">}}  | **Stile da congresso, menzognero**, su una libreria nella parte orientale della fabbrica  |
-| TODO  | **Nuka-Cola Quantum**, in una cassa su una sporgenza? TODO  |
+| {{<figure src="fo3/NCQ_Industrial_Takoma.jpg">}}  | **Nuka-Cola Quantum**, vicino a un generatore, in  un'area sopraelevata raggiungibile attraverso delle scale di legno  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nota sull'artiglieria del Parco Takoma**, sul cadavere di un mercenario, in cima a un camion blu a ovest dell'entrata sud
-- 81 scatole di detergente Abraxo, 12 barattoli di trementica, 12 lattine, sparse nella fabbrica
+- 81 scatole di detergente Abraxo, 12 barattoli di trementina, 12 lattine, sparse nella fabbrica
 
 </div>

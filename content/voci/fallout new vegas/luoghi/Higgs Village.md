@@ -39,7 +39,7 @@ L'**Higgs Village** è il luogo in cui risiedevano gli scienziati del Serbatoio 
 | {{<figure src="fnv/Project_Jukebox_Higgs_V_108.webp">}}          | **Progetto del Pozzo: Jukebox**, casa #108, sopra alcune scartoffie al piano superiore (necessario per la missione _Tutti i miei amici hanno interruttori per spegnersi_) |
 | {{<figure src="fnv/FR_Opera_Singer.webp">}}                      | **Campione audio - Cantante d'opera**, casa #108, sul comodino della stanza da letto (necessario per la missione _Ricerca sul campo_)                                     |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka Cola Victory**, sotto un arbusto morto a sinistra della casa #101
 - **Nuka-Cola Quartz**, nel razzo vicino alla cuccia di Gabe
 - **Nuka Cola ghiacciata**, casa #102, in un secchio per terra nella cucina

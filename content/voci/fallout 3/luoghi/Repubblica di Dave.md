@@ -29,7 +29,7 @@ La **Repubblica di Dave** è un piccolo insediamento agricolo nell'estremo angol
 | {{<figure src="fo3/RoD_Perception_bobblehead.webp">}} | **Bambolina - Percezione** , su uno scaffale all'interno del museo          |
 | {{<figure src="fo3/DavesOffice_Safe.webp">}}          | **Nuka-Cola Quantum**, in cima a una cassaforte nel campidoglio (va rubato) |
 	
-Altri oggetti:
+**Altri oggetti**:
 - **L'indolore**, in una cassaforte nel campidoglio o nell'inventario di Dave
 - 2 **libri prebellici**, nel museo (vanno rubati)
 - Piatto caldo di grandi dimensioni, su uno degli scaffali del museo

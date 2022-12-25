@@ -26,7 +26,7 @@ La **caverna di Rock Creek** è composta da un grande tunnel metropolitano infes
 | {{<figure src="fo3/RC_Caverns_loc.webp">}} | {{<figure src="fo3/Rock_Creek_Caverns_map.webp">}} | {{<figure src="fo3/Rock_Creek_Caverns_ext.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in una cassa di legno (B) 
 
 

@@ -31,7 +31,7 @@ Il **molo dei predatori** è una località non contrassegnata vicino al gruppo s
 | **Munizione nucleare**, sugli scaffali a sinistra del molo                   | {{<figure src="fo3/Raider_wharf_mini_nuke.webp">}}            |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, nella barca sommersa
 
 </div>

@@ -31,7 +31,7 @@ La **casa di Arlington** è un edificio di medie dimensioni e si trova al centro
 | {{<figure src="fo3/Arlington_house_bottlecap_mine.webp">}} | **Mina da tappo**, seminterrato, su un banco da lavoro                       |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Punti validi di Plunkett** e **dito di Junders Plunkett**, nell'inventario di Junders Plunkett. È necessaria l'abilità extra Portatore di legge
 
 </div>

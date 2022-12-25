@@ -27,7 +27,7 @@ La **piazza di North Vegas** è un insieme di edifici diroccati, che ospitano un
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Schemi - .44 Magnum a caricamento manuale**, da Jules
 	- Per ottenere gli **Schemi - .44 Magnum a caricamento manuale**, parla con Jules passa una sfida **Armi 50** e **Sopravvivenza 60**
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su un tavolo al secondo piano del The Gray

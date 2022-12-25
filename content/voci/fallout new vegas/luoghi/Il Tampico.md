@@ -31,7 +31,7 @@ Il **Tampico** è una sezione del Casinò Sierra Madre e contiene il teatro in c
 |  {{<figure src="fnv/Vera_Keyes_partitures.webp">}}        |  **Spartiti di Vera**, sul leggio davanti al palco                   |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Prove del ricatto di Dean Domino**, nella cassaforte nel camerino di Dean
 
 </div>

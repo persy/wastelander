@@ -30,7 +30,7 @@ hidden: true
 | {{<figure src="fo3/Repair_bobblehead_Evan_King_res.webp">}} | **Bambolina - Ripara**, sul tavolo al piano di sotto, all'interno della casa di Evan King                                                                    |
 | {{<figure src="fo3/FO3_PI_Abandoned_Shack_Arefu.webp">}}    | **Pugilato illustrato**, su un tavolo nella residenza abbandonata, vicino al recinto dei bramini. È accessibile solo dopo aver completato la missione *Legami di sangue* e informato Vance dell'accordo con Arefu (deve essere rubato)  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in cima ad un palo del molo a sud-est di Arefu 
 
 </div>

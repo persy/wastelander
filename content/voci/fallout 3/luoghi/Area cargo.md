@@ -31,7 +31,7 @@ L'**area cargo** è un luogo disponibile solo con il DLC *Mothership Zeta* di Fa
 |  {{<figure src="fo3/Cargo_hold_mini_nuke.webp">}}        | **Munizione nucleare**, sul nastro trasportatore                    | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **mine da tappo**, su uno scaffale a destra dell'ingresso sud
 
 </div>

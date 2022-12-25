@@ -30,7 +30,7 @@ La **baracca di contraffazione tappi** è una piccola baracca abbandonata a rido
 |  {{<figure src="fnv/FNV_TOAJJV_Counterfeit.webp">}}        |   **Racconti di un venditore di carne di Junktown**, nella stanza separata del seminterrato, su una pila di valigie                  |
 | {{<figure src="fnv/CC_shack_basement.webp">}}         |    **3 tappi di bottiglia stella Sunset Sarsaparilla**, sui tavoli con le bottiglie di soda vuote                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia contraffatto**, nella stessa stanza degli altri tappi
 
 </div>

@@ -36,7 +36,7 @@ hidden: true
 | {{<figure src="fo3/DE_and_BB_of_Science_Rivet_City_bow.webp">}}   | **Elettronica di Dean** e **Il grande libro della scienza**, nel laboratorio di Pinkerton, su un tavolo e sullo scaffale vicino                                            |
 | {{<figure src="fo3/Seagraves'_incriminating_letter.webp">}}       | **Lettera incriminante di Seagrave**, negli alloggi di Seagrave Holmes sul ponte centrale della nave, dietro l'armadietto ai piedi della sua branda                        |
 | {{<figure src="fo3/PP_personal_journals_X123_Better_Days.webp">}} | **Diario Progetto purezza** (**voci 1**, **3** e **5**), su un tavolo negli alloggi personali della Dottoressa  Li, sul ponte superiore, vicino al laboratorio scientifico |
-Altri oggetti:
+**Altri oggetti**:
 
 - **Schemi - Lanciatutto**, nell'armeria (Scasso 100)
 - **Mina da tappo**, su un banco da lavoro a destra del Potomac Attire

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Lonesome Road
-summary: 'TODO'
+summary: ''
 weight: 60
 
 
@@ -32,11 +32,11 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Bunker del silo missilistico di Hopeville](../bunker-del-silo-missilistico-di-hopeville)
 - [Strada per Miglio del corriere](../strada-per-miglio-del-corriere)
 - [Il Miglio del corriere](../il-miglio-del-corriere)
-- [Base del missile di Hopeville - Stazione di carico](../base-del-missile-di-hopeville-stazione-di-carico) TODO
+- [Base del missile di Hopeville - Stazione di carico](../base-del-missile-di-hopeville-stazione-di-carico) <!--TODO-->
 - [Quartier generale della base del missile di Hopeville](../quartier-generale-della-base-del-missile-di-hopeville)
 - [Armeria di Hopeville](../armeria-di-hopeville)
-- [Caserma di Hopeville - Divisione Uomini](../caserma-di-hopeville-divisione-uomini) TODO
-- [Caserma di Hopeville - Divisione Donne](../caserma-di-hopeville-divisione-donne) TODO
+- [Caserma di Hopeville - Divisione Uomini](../caserma-di-hopeville-divisione-uomini) <!--TODO-->
+- [Caserma di Hopeville - Divisione Donne](../caserma-di-hopeville-divisione-donne) <!--TODO-->
 - [Accampamento degli sfregiati](../accampamento-degli-sfregiati)
 - [Base degli sfregiati](../base-degli-sfregiati)
 - [Avamposto di guardia degli sfregiati](../avamposto-di-guardia-degli-sfregiati)
@@ -53,7 +53,7 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Caverna di Abaddon](../caverna-di-abaddon)
 - [Tetto della torre Sunstone](../tetto-della-torre-sunstone)
 - [Edificio comunale della terza strada](../edificio-comunale-della-terza-strada)
-- [Tetto dell'Hotel Boxwood](../tetto-dellhotel-boxwood) TODO
+- [Tetto dell'Hotel Boxwood](../tetto-dellhotel-boxwood) <!--TODO-->
 - [Impianto di trattamento effluenti](../impianto-di-trattamento-effluenti)
 - [Smaltimento rifiuti](../smaltimento-rifiuti)
 - [Tempio di Ulysses](../tempio-di-ulysses)

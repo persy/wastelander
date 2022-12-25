@@ -36,7 +36,7 @@ Il **Vault 108** è un Vault della Vault-Tec situato a sud di Canterbury Commons
 | {{<figure src="fo3/FO3_LCS_Vault_108.webp">}}        | **Stile da congresso, menzognero**, laboratorio clonazione, su un tavolo nella stessa stanza della  **Bambolina - Carisma**                                            |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, atrio, tra due terminali nell'angolo nord-ovest della stanza con l'ingresso per i quartieri abitati
 - Laboratorio clonazione
 - **Registro clonazione**, laboratorio clonazione, nella stanza con una cassaforte chiusa a chiave, vicino a uno scheletro

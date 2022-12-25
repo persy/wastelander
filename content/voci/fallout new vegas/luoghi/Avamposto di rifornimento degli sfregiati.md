@@ -31,7 +31,7 @@ L'**avamposto di rifornimento degli sfregiati** è un'area infestata dagli sfreg
 | {{<figure src="fnv/FNVLR_Ulysses_log_Y-17_21.webp">}}         | **Diario di Ulysses: Y-17,21**, su una scatola di metallo a sinistra dell'area dietro un cancello chiuso                    |
 |  {{<figure src="fnv/Ralphie_poster_warehouse.webp">}}        | **Poster di RALPHIE**, in un vicolo dietro a un cancello                    | 
 
-Altri oggetti:
+**Altri oggetti**:
 - Una volta fatta saltare la testata, sarà possibile accedere ad uno dei camion, con molte scorte militari al suo interno
 
 </div>

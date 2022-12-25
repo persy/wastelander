@@ -30,7 +30,7 @@ Il **Vault 34** è un Vault della Vault-Tec. L'entrata si trova dietro un camion
 | {{<figure src="fnv/Allamericanlocation.webp">}}         |   **All-American**, nell'armeria, per terra                  |
 | {{<figure src="fnv/FNV_pulse_gun.webp">}}         |  **Pistola a impulsi**, nella stanza chiusa (**Scasso 75**) vicino l'armeria, in un armadietto                   | 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fucili, lanciagranate, mitragliatrici a canne rotanti, fucili da cecchino, lanciamissili, carabine d'assalto, fucile antisommossa, esplosivi, nell'armeria, sui vari ripiani
 
 **Note**:

@@ -18,13 +18,13 @@ private: false
 
 <div class="fnv">
 
-L'**area campeggio Mountain Shadows** è un piccolo campeggio, con un fuoco d'accampamento e alcune roulotte. Si trova a TODO.
+L'**area campeggio Mountain Shadows** è un piccolo campeggio, con un fuoco d'accampamento e alcune roulotte. Si trova a sud-est del Lago Las Vegas e a nord-ovest della Stazione Mercenari Alpha.
 
 | Mappa                                     | Panoramica                            |
 | ----------------------------------------- | ------------------------------------- |
 | {{<figure src="fnv/Mountain_Shadows_Campground_loc.webp">}} | {{<figure src="fnv/Mountain_Shadows_Campground.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Medico oggi**, su uno dei tavoli nell'accampamento di sopra
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, lato sud vicino al fuoco su un tavolo
 

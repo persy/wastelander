@@ -30,7 +30,7 @@ Il **Serbatoio del pensiero** è un'enorme cupola, visibile anche a grande dista
 |  {{<figure src="fnv/Dr._Klein's_glasses.webp">}}        | **Occhiali del Dr. Klein**, vicino a un set di chimica Deluxe a sinistra                    |
 |  {{<figure src="fnv/Dr._Mobius'_glasses.webp">}}        | **Occhiali del Dr. Mobius**, al secondo livello nella stanza più a est, dietro una porta chiusa ("Media"), vicino alcuni fogli su un tavolo                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Arma Cybercane K9000**, data dal Serbatoio del pensiero dopo una sfida **Armi 50**
 
 **Note**:

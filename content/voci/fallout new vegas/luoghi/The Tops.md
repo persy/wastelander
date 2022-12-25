@@ -33,7 +33,7 @@ Il **The Tops** è uno degli edifici più appariscenti nella Strip, subito a des
 | -------- | ------------------- |
 |     {{<figure src="fnv/Tops_PS_Pugilism_Illustrated.webp">}}     |  **Pugilato illustrato**, suite presidenziale, su un tavolo                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quartz**, ristorante, date dal barista
 - **Lanciagranate**, **pugno potenziato**, suite presidenziale, in una cassaforte a muro
 - **Maria**, **tuta di Benny**, suite presidenziale, portati da Benny

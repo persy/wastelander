@@ -25,7 +25,7 @@ Il **campo da baseball Fordham Flash** è un campo da baseball e si trova a est 
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, sul lato sinistro del molo, in cima a un palo
 
 </div>

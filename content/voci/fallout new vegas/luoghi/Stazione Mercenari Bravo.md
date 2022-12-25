@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-La **Stazione Mercenari Bravo** è una delle stazioni costruite dall'RNC per monitorare le azioni della Legione di Caesar. Ci sono alcuni container e camion, utilizzati come stanze. Si trova a TODO.
+La **Stazione Mercenari Bravo** è una delle stazioni costruite dall'RNC per monitorare le azioni della Legione di Caesar. Ci sono alcuni container e camion, utilizzati come stanze. Si trova a nord-est di Bitter Springs.
 
 | Mappa | Panoramica |
 | ----- | ---------- |

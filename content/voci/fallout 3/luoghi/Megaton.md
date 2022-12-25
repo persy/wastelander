@@ -31,7 +31,7 @@ hidden: true
 | {{<figure src="fo3/Nikola_Tesla_and_You_Megaton.png">}}   | **Tu e Nikola Tesla**, nella propria casa dopo aver acquistato il tema "Scienza" da Moira Brown. È nella libreria accanto alle scale |
 | {{<figure src="fo3/FO3_LCS_Megaton_Love_Machine.webp">}}  | **Stile da congresso, menzognero**, nella propria casa dopo aver acquistato il tema "Love Machine" da Moira Brown                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - 4 **libri prebellici**, nella casa di Billy Creel (vanno rubati)
 - **Stealth Boy**, **fucile da cecchino** e la nota **Come richiesto**, nella roccia cava situata fuori Megaton lungo la sua parete meridionale. È vicino a una roccia con tre piccoli alberi in uno schema triangolare intorno ad esso
 - 300-700 tappi di bottiglia in The Brass Lantern. Un terminale bloccato (Scienza 25) sblocca una cassaforte a pavimento (Scasso 100)

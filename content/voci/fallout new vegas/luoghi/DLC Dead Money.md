@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Dead Money
-summary: 'TODO'
+summary: ''
 weight: 30
 
 

@@ -31,7 +31,7 @@ La **centrale elettrica MDPL** si trova a sud dell'Accademia Roosevelt e ad est 
 | {{<figure src="fo3/MDPL_relay_Safe_and_terminal.webp">}}     | **Nuka-Cola Quantum**, in cassaforte (Scasso 100), può essere sbloccato da un terminale vicino (Scienza 100) |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Maschera del saldatore**, indossata dal predone Saldatore all'interno della stazione
 
 

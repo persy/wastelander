@@ -28,7 +28,7 @@ L'**ingresso della Strada principale** è composta quasi totalmente da un'autost
 | -------- | ------------------- |
 |   {{<figure src="fnv/Beast.webp">}}       |  **Elmo del muso della bestia sfregiata**, indossato da Bestia                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Terminale dello spaccio**, sul retro di un camion
 
 **Note**:

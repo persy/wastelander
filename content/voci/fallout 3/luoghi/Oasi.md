@@ -34,7 +34,7 @@ hidden: true
 | {{<figure src="fo3/DC_Journal_of_IM_Oasis_sunken_chambers.webp">}} | **Giornale di medicina interna del D.C.**, due **Stealth Boy**, **libro prebellico**, in una nicchia, vicino a uno scheletro seduto a un tavolo. Il libro è in una scatola di legno, sotto un guantone da baseball |
 | {{<figure src="fo3/Sunken_chambers_mini_nuke.webp">}}              | **Munizione nucleare**, sul fondo dello stagno settentrionale, in fondo alla pozza d'acqua                                                                                                                         |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Veste di Acero**, come ricompensa per aver completato la missione Oasis in favore di Birch
 - **Cappuccio di Betulla** e **armatura atomica dei Rinnegati di Linden**, come ricompense per aver completato la missione *Oasi* in favore di Madre foglia Edera
 - **Nuka-Cola Quantum**, grotta umida, sul lato destro

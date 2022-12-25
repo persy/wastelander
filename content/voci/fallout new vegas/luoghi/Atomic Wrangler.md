@@ -24,7 +24,7 @@ L'**Atomic Wrangler** è un casinò costituito da un edificio di tre piani, colo
 | ----- | ---------- |
 |  {{<figure src="fnv/Atomic_Wrangler_Casino_map.webp">}}     |  {{<figure src="fnv/Atomic_Wrangler_Casino.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka Cola Victory**, al terzo piano nella stanza dei Garret
 
 **Note**:

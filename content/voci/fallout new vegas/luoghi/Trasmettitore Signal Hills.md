@@ -31,7 +31,7 @@ Il **trasmettitore Signal Hills** è un piccolo edificio di una sola camera. Sul
 | {{<figure src="fnv/Recipes_Barter_skill_book_holotape.webp">}}          | **Ricette - Libro abilità Baratto**, su un ripiano vicino all'entrata                                                                               |
 | {{<figure src="fnv/Dionaea_Muscipula_valence_radii_accentuator.webp">}} | **Accentuatore radiale di valenza**, su uno scheletro nei pressi della fontana                                                                                                                                                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **LAER avanzato di Elijah, Mod LAER - Lenti prismatiche**, **pagina di diario strappata**, sul tetto dell'edificio
 - **Pacchetto di semi**, vicino la fontana a nordest; un altro lo trovia nord della fontana stessa, in una piccola radura oltre il tubo gigante; il terzo è vicino a una pianta di spore (necessari per la missione _Ricerca sul campo_)
 - **Guanto corrosivo**, sul corpo della Dionaea Muscipula

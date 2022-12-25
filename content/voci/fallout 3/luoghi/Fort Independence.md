@@ -37,7 +37,7 @@ hidden: true
 | {{<figure src="fo3/Fort_Independence_bottlecap_mine.webp">}} | **Mina da tappo**, sul banco di lavoro nella stanza con i set di chimica e i tavoli operatori |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum** e uno **Stealth Boy**, nella stanza centrale al piano principale, accanto ad alcuni letti a castello
 - **Energie aliene**, nel magazzino chiuso a chiave, accanto alla stanza con i terminali di ricerca
 - **Note di ricerca**, scaricate da sei terminali nel livello inferiore

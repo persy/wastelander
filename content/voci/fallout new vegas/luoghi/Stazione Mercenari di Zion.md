@@ -24,7 +24,7 @@ La **Stazione Mercenari di Zion** è un semplice edificio in legno. L'interno è
 | ----- | ---------- |
 |  {{<figure src="fnv/Zion_Ranger_Station_loc.webp">}}     |   {{<figure src="fnv/ZionRangerStation.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Militare moderno**, a sinistra dell'entrata
 - **Kit di scorte mediche**, su un tavolo, necessari per la missione Trappola per turisti
 	- Puoi riparare il kit medico con una sfida di **Medicina 30**, con della trementina e del nastro adesivo o con dello scotch, della vodka o del whiskey è possibile sterilizzarlo

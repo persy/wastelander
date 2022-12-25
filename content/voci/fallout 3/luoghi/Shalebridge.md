@@ -29,7 +29,7 @@ hidden: true
 | {{<figure src="fo3/Ant_researcher.webp">}} | **Il grande libro della scienza**, sul cadavere di un entomologo in una pozza d'acqua vicino alle pile di rifiuti di formica. Si rigenera ogni tre giorni di gioco. |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, sul cadavere di un pradatore vicino al relitto del treno a circa metà strada tra il forte abbandonato e Shalebridge
 - Feromoni della regina delle formiche, sul cadavere della regine delle formiche
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Vault
-summary: 'TODO'
+summary: ''
 weight: 10
 
 # Page metadata.

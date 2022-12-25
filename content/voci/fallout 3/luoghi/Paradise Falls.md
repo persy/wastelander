@@ -33,7 +33,7 @@ hidden: true
 | {{<figure src="fo3/Eulogy_Jones_hat_PF.webp">}} | **Cappello di Eulogy Jones**, sul tavolo col proiettore all'interno dalla casa di Eulogy                   |
 | {{<figure src="fo3/NCQ_Paradise_Falls.jpg">}}   | 5 **Nuka-Cola Quantum**, nella casa di Eulogy, in una cassa sotto le scale (vanno rubate)                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**, su un tavolo nella casa degli schiavi
 - **Mesmetron**, consegnato da Grouse
 - **Abito di Eulogy Jones**, indossato da Eulogy Jones

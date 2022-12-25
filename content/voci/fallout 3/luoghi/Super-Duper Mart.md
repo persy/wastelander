@@ -35,7 +35,7 @@ Il **Super-Duper Mart** è un negozio di alimentari situato vicino al fiume Poto
 
 *Vedi [Campo abbandonato](../campo-abbandonato)*
 
-Altri oggetti:
+**Altri oggetti**:
 - 10 bottiglie di Nuka-Cola sul pavimento e in scatole nel magazzino col protettore
 
 </div>

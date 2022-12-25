@@ -32,7 +32,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/DC_Journal_Internal_Medicine_Helios_One.webp">}}        | **Giornale di medicina interna del D.C.**, piano superiore dell'edificio principale, sul letto della stessa stanza con la Password terminale di controllo riflettore orientale                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Il grande libro della scienza**, **3 stimpak** e **2 borse mediche**, donati da Ignacio Rivas come ricompensa nella missione _Quel vecchio Sole fortunato_
 - **Tessera identificativa dipendente della Poseidon Energy**, al piano terra, vicino ad uno scheletro
 

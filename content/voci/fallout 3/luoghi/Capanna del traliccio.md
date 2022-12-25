@@ -30,7 +30,7 @@ La **capanna del traliccio** è una località non contrassegnata, situata a nord
 | {{<figure src="fo3/1st_Keller_family_transcript_bottom_shelf.webp">}} | **Trascrizione famiglia Keller 1 di 5**, su uno scaffale |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**, sul pilone nord-orientale
 
 </div>

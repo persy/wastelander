@@ -28,7 +28,7 @@ Il **centro riparazione robot** è un edificio a sud-sud-ovest di Canterbury Com
 | {{<figure src="fo3/Robot_Repair_Center_Nikola_Tesla_and_You.webp">}} | **Tu e Nikola Tesla**, nella stanza ovest, su un bancone accanto a una cassetta degli attrezzi e un protettore             |
 | {{<figure src="fo3/FO3_LCS_Robot_Repair_Center.webp">}}              | **Stile da congresso, menzognero** in una stanza della forgia del Meccanicista, sezione A, secondo piano, su una scrivania |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Chiave di crittografia settore A**, in una cassaforte vicino a un terminale
 - 20 rottami di ferro, possono essere trovati un po' ovunque, compresi  nei robot e nei contenitori
 - **Granata Nuka**, sul banco di lavoro dove è possibile trovare il Meccanicista

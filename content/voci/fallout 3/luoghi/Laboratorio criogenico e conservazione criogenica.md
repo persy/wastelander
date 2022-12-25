@@ -27,12 +27,12 @@ Il **laboratorio criogenico** è un luogo disponibile solo con il DLC *Mothershi
 
 | Immagine                                                 | Oggetto e posizione                    |
 | -------------------------------------------------------- | -------------------------------------- |
-| {{<figure src="fo3/Alien_captive_recording_log_2_cryo_lab.webp">}}        | Registrazione prigioniero 2, TODO      |
-| {{<figure src="fo3/Alien_captive_recording_log_4_cryo_lab.webp">}}        | Registrazione prigioniero 4, TODO      |
-| {{<figure src="fo3/Alien_captive_recording_log_11_and_17_cryo_lab.webp">}}| Registrazione prigioniero 11, 17, TODO |
+| {{<figure src="fo3/Alien_captive_recording_log_2_cryo_lab.webp">}}        | Registrazione prigioniero 2, vedi *La leggenda di Zeta*      |
+| {{<figure src="fo3/Alien_captive_recording_log_4_cryo_lab.webp">}}        | Registrazione prigioniero 4, vedi *La leggenda di Zeta*      |
+| {{<figure src="fo3/Alien_captive_recording_log_11_and_17_cryo_lab.webp">}}| Registrazione prigioniero 11, 17, vedi *La leggenda di Zeta* |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **armature** ed **elmi medici invernali**, sui cadaveri di Daniels e Beckett 
 
 </div>

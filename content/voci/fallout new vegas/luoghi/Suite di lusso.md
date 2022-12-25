@@ -30,7 +30,7 @@ Le **Suite di lusso** sono sezione del Casinò Sierra Madre, accessibile attrave
 | {{<figure src="fnv/Recipe_SuperHeatedKnife_holodisk.webp">}}  | **Ricette - Coltello super riscaldato!**, vicino a un terminale                                                                    |
 | {{<figure src="fnv/DM_Executive_suites_security_pass.webp">}} | **Pass sicurezza delle suite**, su uno scheletro davanti a un distributore automatico, nei pressi della porta per la suite di Vera |
 
-Altri oggetti:
+**Altri oggetti**:
 - **2 Vestiti di Vera**, nella cassaforte della suite di Vera e sul suo cadavere
 
 **Note**:

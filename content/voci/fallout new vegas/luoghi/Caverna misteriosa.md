@@ -24,7 +24,7 @@ La **caverna misteriosa** è una caverna relativamente piccola, infestata dalle 
 | ----- | ---------- |
 |  {{<figure src="fnv/Mysterious_cave_loc.webp">}}     | {{<figure src="fnv/Mysterious_cave.webp">}}           | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **50 Carne di mosca mutante**, **20 Psycho** e **20 Buffout**, sul cadavere della mosca mutante leggendaria
 
 **Note**:

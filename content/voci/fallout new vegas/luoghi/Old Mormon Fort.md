@@ -29,7 +29,7 @@ L'**Old Mormon Fort** è il più vecchio edificio dell'intero Mojave, costruito 
 | -------- | ------------------- |
 | {{<figure src="fnv/Mormon_snowglobe.webp">}}         |  **Palla di neve**, nella torre di guardia a ovest, su una libreria                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Camice da laboratorio dei Seguaci**, regalato da Julie Farkas quando diventi idolatrato dai Seguaci dell'Apocalisse
 - **Cartella medica di Pacer**, in un armadietto della stanza medica, utile per l missione _Mossa dei King_
 

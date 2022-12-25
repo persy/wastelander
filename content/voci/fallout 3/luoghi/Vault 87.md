@@ -36,7 +36,7 @@ Il **Vault 87** è un Vault della Vault-tec e si trova a nord-ovest di Little La
 | {{<figure src="fo3/FO3_Vault_87_Quantum.webp">}}          | **Nuka-Cola Quantum**, nella stessa stanza del **Pugilato illustrato**, su un altro scaffale                                                                                |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Super martello di Fawkes**,  nell'inventario di Fawkes
 
 </div>

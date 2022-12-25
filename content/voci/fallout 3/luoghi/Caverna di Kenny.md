@@ -26,8 +26,8 @@ La **caverna di Kelly** è una località disponibile solo con il DLC *Point Look
 
 | Immagine                                             | Oggetto e posizione                       |
 | ---------------------------------------------------- | ----------------------------------------- |
-| {{<figure src="fo3/Kenny's_Bear.webp">}}                              | **Orsetto Kenny**, TODO                   |
-| {{<figure src="fo3/Fo3PL_Pint-Sized_slasher_mask_Miner's_Rest.webp">}}| **Maschera della squartatore nano**, TODO |
+| {{<figure src="fo3/Kenny's_Bear.webp">}}                              | **Orsetto Kenny**, nella parte inferiore, fra dei mattoni di cemento                   |
+| {{<figure src="fo3/Fo3PL_Pint-Sized_slasher_mask_Miner's_Rest.webp">}}| **Maschera della squartatore nano**, nella parte superiore, su un tavolo |
 
 </div>
 

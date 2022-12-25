@@ -51,7 +51,7 @@ specifica. Il bonus dura 60 secondi (180 secondi con Mantenimento).
 | Luogo                                              | Descrizione                                                                                                                                       |
 |:-------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Zona ricreativa di Bitter Springs                  | Uff. ricreativo, dentro una scrivania nell'angolo a nordest.                                                                                      |
-| Boulder City                                       | Due: uno in fondo del nasctro trasportatore, nei pressi della stazione ferroviaria, l'altro nel penultimo edificio a sud, in fondo a delle scale. |
+| Boulder City                                       | Due: uno in fondo del nastro trasportatore, nei pressi della stazione ferroviaria, l'altro nel penultimo edificio a sud, in fondo a delle scale. |
 | Camp McCarran                                      | In una delle tende, sotto un letto a castello, insieme ad altre riviste.                                                                          |
 | Camp McCarran                                      | Dato dal Luogotenente Carrie Boyd dopo aver completato Dissimulazione.                                                                            |
 | Crimson Caravan Company                            | Nelle baracche, su un tavolo.                                                                                                                     |

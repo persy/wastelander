@@ -32,7 +32,7 @@ La **stazione smistamento Puesta del Sol** è un edificio con molte stanze al su
 | {{<figure src="fnv/PdS_SS_lovers_mark_stash.webp">}}                             | **Riserva degli innamorati**, in una stanza con quadro elettrico                                                                                      |
 | {{<figure src="fnv/VMC_-_Hologram_rifle_-_reinforced_components.webp">}}         | **Codice distributore automatico - "Olofucile - Componenti rinforzati"**, nella stanza con l'ascensore                                                |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Fucile automatico**, in un armadietto a sinistra di quello di Ennis
 - **Campioni tossici**, in un armadietto a destra di quello di Ennis
 - **Ci si vede all'inferno bastardo**, sul cadavere con indosso la Tuta di Dead Money

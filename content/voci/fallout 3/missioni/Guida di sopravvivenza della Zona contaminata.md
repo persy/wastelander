@@ -117,7 +117,7 @@ graph TD;
 ### Opzioni di dialogo uniche (Capitolo I)
 Una volta completati gli obiettivi della missione, selezionando una maggioranza di risposte della rispettiva tipologia (standard, sarcastico, intelligente, duro o scaltro) è possibile ottenere un differente bonus dall'abilità extra Esperto di sopravvivenza (e le sue varianti Superstite principiante e Guru di sopravvivenza). 
 
-*Vedi le note in basso e la voce riguardante l'abilità extra Esperto di sopravvivenza (TODO) per maggiori dettagli*
+*Vedi le note in basso e la voce riguardante l'abilità extra Esperto di sopravvivenza per maggiori dettagli*
 
 #### Super-Duper Mart
 
@@ -153,7 +153,7 @@ Una volta completati gli obiettivi della missione, selezionando una maggioranza 
 | ------------ | ------------------------------------------------------------------------- | ----------- | ----- |
 | Standard     | Fai il tuo esame e rimettimi in sesto, per favore.                        | No          | Sì    |
 | Sarcastico   | Mi sento per come ti vedo.                                                | Moira ghoul | Sì    |
-| Sarcastico   | TODO Troppa... stanchezza... per agire... furtivamente.                   | No          | Sì    |
+| Sarcastico   | <!--TODO--> Troppa... stanchezza... per agire... furtivamente.                   | No          | Sì    |
 | Intelligente | Se ascolto attentamente, riesco a sentire i miei geni che piangono.       | PER 7       | Sì    |
 | Duro         | Prude un po', ma ci posso passare sopra.                                  | STA 7       | Sì    |
 | Scaltro      | Oh, sto bene! <tosse> Mai stato meglio! <tosse> Nessun problema! <ansima> | CAR 7       | Sì    |
@@ -165,7 +165,7 @@ Una volta completati gli obiettivi della missione, selezionando una maggioranza 
 | Standard     | No, ma ci è mancato poco. Muoversi lentamente ed evitare il fango è stato utile. | No        | No    |
 | Sarcastico   | Sì, mi ha ucciso un'esplosione. Ora ti perseguito per quel libro idiota. Buu.    | No        | No    |
 | Intelligente | Tecnicamente sono le mine che esplodono, non io. E comunque no.                  | INT 7     | No    |
-| Duro         | TODO  Non ne potevo più. Mi sento meglio. Devi essere forte.                     | STA 7     | No    |
+| Duro         | <!--TODO-->  Non ne potevo più. Mi sento meglio. Devi essere forte.                     | STA 7     | No    |
 | Scaltro      | Ho la grazia di un gatto. Nessuna mina potrà fermarmi.                           | AGI 7     | No    |
 
 | Tipo         | Risposta (con obiettivo facoltativo)                                            | Requisito | Bonus |

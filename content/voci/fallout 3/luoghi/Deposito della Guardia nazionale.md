@@ -33,7 +33,7 @@ Il **deposito della Guardia nazionale** è un'installazione militare che si trov
 | {{<figure src="fo3/Duck_and_Cover!_NGD.jpg">}}        | **Al riparo!**, uffici, su un lungo bancone in una sezione irradiata                                                                                     |
 |                                                   |                                                                                                                                                          |
 
-Altri oggetti:
+**Altri oggetti**:
 - Deposito
 	- 2 **libri prebellici**, al secondo piano, sul ripiano superiore degli scaffali contro la parete orientale
 	- **Mina da tappo**, seminterrato su un banco da lavoro sul lato est

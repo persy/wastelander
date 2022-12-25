@@ -82,7 +82,7 @@ graph TD;
 **Note**:
 - Con *Broken Steel* installato è possibile che un supermutante overlord compaia proprio fuori dall'uscita
 - Non è possibile completare questa missione se Red è già stato schiavizzato per la missione *Solo affari*. È necessario rimuovere il collare o ucciderlo
-- Avere Fawkes come Seguace consente al giocatore di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi TODO
+- Avere Fawkes come Seguace consente al giocatore di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi
 
 
 </div>

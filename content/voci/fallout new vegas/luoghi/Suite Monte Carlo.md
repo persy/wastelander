@@ -24,7 +24,7 @@ private: false
 | ----- | ---------- |
 | {{<figure src="fnv/Monte_Carlo_Suites_loc.webp">}}      |    {{<figure src="fnv/Monte_Carlo_suites.webp">}}        | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Revolver magnum .44**, posseduto da Yvette. È in perfetto stato e può essere venduto per circa 2.300 tappi
 
 </div>

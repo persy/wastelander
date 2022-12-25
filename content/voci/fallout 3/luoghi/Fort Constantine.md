@@ -41,7 +41,7 @@ L'area è sorvegliata da un'ampia varietà di robot.
 | {{<figure src="fo3/TarasCorpse.webp">}}                                           | **Chiave del magazzino testate**, magazzino bombe, sul cadavere di Tara                                                                                                                                                                                                            |
 | {{<figure src="fo3/Bomb_Storage_Most_notable_loot.webp">}}                        | **Giornale di medicina interna del D.C.**, **Fat Man**, due **Munizioni nucleari**, magazzino bombe, su un tavolo proprio accanto al campo di stasi dell'armatura atomica T-51b                                                                                                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - Quartieri CO
 	- 2 **libri prebellici**, uno su una mensola vicino all'ingresso e uno sul tavolo accanto al letto matrimoniale
 - Bunker di controllo lanci

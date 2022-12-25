@@ -29,7 +29,10 @@ Il **Sentiero della Morte** è una località non contrassegnata all'interno di L
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Tales_of_a_JJV_Murder_Pass.webp">}}                    | **Racconti di un venditore di carne di Junktown**, nell'angolo sud-est, sul gabinetto                                                                    |
 | {{<figure src="fo3/Murder_Pass_US_Army_Handy_Flamethrower_Recipes.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nell'angolo sud-ovest, su un tavolino vicino a due kit di prontosoccorso e due scatole di munizioni |
-| TODO                                                     | Nuka-Cola Quantum e uno **Stealth Boy**, nel ripostiglio prima di entrare nel Vault                                                                      |
+
+
+**Altri oggetti**:
+- **Nuka-Cola Quantum** e uno **Stealth Boy**, nel ripostiglio prima di entrare nel Vault                                                                      
 
 
 **Note**:

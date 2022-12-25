@@ -29,7 +29,7 @@ La **stazione meteorologica X-17** è un edificio costituito da un piccolo uffic
 | -------- | ------------------- |
 | {{<figure src="fnv/Snow_globe_-_Big_MT.webp">}}         |  **Palla di neve** e **camice scienziato pazzo**, nel laboratorio vicino al modellino                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - Diverse **asce da lancio protoniche**, sul rottame di Pancia di ferro
 
 **Note**:

@@ -40,7 +40,7 @@ L'**edificio Chryslus** è un edificio per uffici in rovina situato alla perifer
 | {{<figure src="fo3/Chryslus_Building_Big_Book_of_Science.webp">}} | **Il grande libro della scienza**, nella stanza a nord, su uno scaffale di metallo                                                                                |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Area reception
 	- **Nuka-Cola Quantum**, in una cassa sotto una scrivania in una piccola stanza a sud-ovest dell'ingresso, accessibile attraverso una breccia nella parete sinistra
 - Uffici inferiori

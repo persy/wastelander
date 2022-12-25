@@ -31,7 +31,7 @@ hidden: true
 | {{<figure src="fo3/FO3_DCJOIM_Minefield.webp">}}                | **Giornale di medicina interna del D.C.**, casa Benson, nella camera da letto principale al piano superiore |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 67 mine, sparse per la città
 - 10 soffiatori di foglie, 12 lame per tosaerba, 9 pentole a pressione e 5 aspirapolvere, dentro e intorno a Minefield
 - 3 bottiglie di Nuka-Cola, nell'edificio in cui è rintanato Arkansas, accanto al materasso

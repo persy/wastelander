@@ -24,7 +24,7 @@ Gli **inferi** sono un insediamento di ghoul all'interno del Museo di Storia di 
 | --------------------------------------------- | -------------------------------------- | ----------------------------------------------- |
 | {{<figure src="fo3/Museum_of_History_loc.webp">}} | {{<figure src="fo3/Underworld_loc.webp">}} | {{<figure src="fo3/FO3_121021_Locations_17.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Olonastro** per la missione *L'uomo duplicato*, sulla scrivania nella stanza di manutenzione di Winthrop
 - **Schemi - Sparachiodi**, venduto da Tulip alla Moda degli Inferi
 - 5 **bombe di zucchero**, tre sono nel negozio di Tulip, a destra del letto su uno scaffale; due in cima allo scaffale dietro l'elmetto da combattimento; gli altri due sono nella Casa di Carol, su una scrivania dietro il bancone principale e su un tavolo nella zona notte

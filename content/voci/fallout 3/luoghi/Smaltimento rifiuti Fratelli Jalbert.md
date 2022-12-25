@@ -30,7 +30,7 @@ Lo **smaltimento rifiuti Fratelli Jalbert** è una discarica di rifiuti radioatt
 | {{<figure src="fo3/JB_Waste_Disposal_office1.webp">}}                         | 2 **Nuka-Cola Quantum**, una è negli uffici, una su una scrivania nella stanza nord; l'altra si trova a nord-ovest degli uffici dall'altra parte di una formazione rocciosa, al di fuori dello smaltimento dei rifiuti, vicino alla parte posteriore di un camion rovesciato |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Mina da tappo**, negli uffici, sotto il banco di lavoro
 
 </div>

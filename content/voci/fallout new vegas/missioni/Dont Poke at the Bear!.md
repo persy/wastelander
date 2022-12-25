@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Dont Poke at the Bear!* è una missione nascosta di Fallout: New Vegas. È data da TODO a TODO.
+*Dont Poke at the Bear!* è una missione nascosta di Fallout: New Vegas. È data dal Pip-Boy.
 
 
 **Riassunto**:

@@ -35,7 +35,7 @@ La **Villa** era una piccola città privata, un'area pedonale riservata per gli 
 | {{<figure src="fnv/Villa_Lover's_Mark_Stash_East2.webp">}}      | **Riserva degli innamorati**, a est della Stazione di Polizia                                                                                 |
 | {{<figure src="fnv/Acoustic_guitar_DM.webp">}}                  | **Chitarra acustica**, al secondo piano di un edificio contaminato dalla Nube, di fronte alla Stazione di polizia                             |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Codice distributore automatico - "Restituisci capo d'abbigliamento"**, in un registratore di cassa all'interno di un frigo rotto; il venditore ologramma si trova a nord dell'ingresso per il Distretto Residenziale
 
 </div>

@@ -26,7 +26,7 @@ Il **laboratorio di ricerca biologica** è un luogo disponibile solo con il DLC 
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="fo3/Alien_captive_recording_log_18_bio_research.webp">}}        |  **Registrazione prigioniero 18**, TODO                   | 
+|  {{<figure src="fo3/Alien_captive_recording_log_18_bio_research.webp">}}        |  **Registrazione prigioniero 18**, vedi *La leggenda di Zeta*                   | 
 |  {{<figure src="fo3/Alien_power_cells_biological_research.webp">}}       |  109 energie aliene, su uno scaffale nella sezione inferiore                    | 
 
 </div>

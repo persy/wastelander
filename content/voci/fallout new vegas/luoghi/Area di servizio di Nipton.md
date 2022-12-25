@@ -25,7 +25,7 @@ L'**area di servizio di Nipton** è costituita da un paio di edifici distrutti e
 | ----- |  ---------- |
 |  {{<figure src="fnv/Nipton_Road_Pit_Stop_loc.webp">}}                   |   {{<figure src="fnv/Nipton_Road_Pit_Stop.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - 9 **tappi di bottiglia stella Sunset Sarsaparilla**, dai cadaveri di Tomas e Jacklyn, coinvolti in uno scontro a fuoco un po' più a est, verso Nipton
 
 </div>

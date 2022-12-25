@@ -30,7 +30,7 @@ Il villaggio in rovina è un luogo non contrassegnato, situato a nord dello smal
 | {{<figure src="fo3/Wasteland_gypsy_village_Duck_and_Cover!.webp">}}                  | **Al riparo!** e una **munizione nucleare**, baracca sud-est, si trova sul pavimento                           |
 | {{<figure src="fo3/Wasteland_gypsy_village_Tumblers_Today.webp">}}                   | **Lo scassinatore moderno**, baracca sud-ovest, all'interno di un frigorifero senza porta                      |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in un camion ribaltato a sud
 
 **Note**:

@@ -25,7 +25,7 @@ Il **drive-in Overlook** si trova ad est della caverna sulla rupe.
 | {{<figure src="fo3/Overlook_DI_loc.webp">}} | {{<figure src="fo3/The_Overlook_Drive-In.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 7 mine a frammentazione, lungo la strada che porta al drive-In
 
 </div>

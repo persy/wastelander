@@ -24,7 +24,7 @@ Il **tumulo del caterpillar** è un'isoletta a sud dell'accampamento dei Torment
 | ----- | ---------- |
 | {{<figure src="fnv/Caterpillars_Mound_loc.webp">}}      |  {{<figure src="fnv/Caterpillars_Mound.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Xander root**, sparsi nell'area attorno
 
 </div>

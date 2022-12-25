@@ -31,7 +31,7 @@ L'**Attracco del pellegrino** è il luogo di attracco della Duchess Gambitt, dis
 | {{<figure src="fo3/Box_1207_-_spy_audio_password.webp">}}| **Cassetta 1207 - Password audio della spia**, situato in un armadietto sul lungomare, durante la missione *La tenda di velluto* |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tenuta di Tobar**, indossato da Tobar
 
 </div>

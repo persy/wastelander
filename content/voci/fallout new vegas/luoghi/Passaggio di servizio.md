@@ -30,7 +30,7 @@ Il **passaggio di servizio** è un insieme di passaggi, accessibili dopo aver ot
 |   {{<figure src="fnv/VMC_-_Demolition_charge_and_Weapon_repair_kit.webp">}}       |  **Codice distributore automatico - "Carica di demolizione"** e **Codice distributore automatico - "Kit di riparazione"**, ottenibili da un terminale                   |
 |   {{<figure src="fnv/See_in_in_hell_asshole.webp">}}        |    **Tuta di Dead Money**, sul pavimento                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Martello da fabbro**, su una pila di macerie
 
 **Note**:

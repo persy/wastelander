@@ -26,10 +26,10 @@ Il **capanno di pesca di Zion** è un edificio a forma di "L", una tempo punto d
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|    TODO      | **Libro di cucina del patriota**, su un tavolino                    |
+|    - <!--TODO-->      | **Libro di cucina del patriota**, su un tavolino                    |
 |  {{<figure src="fnv/HH_ZFL_walkie_talkies.webp">}}        | **Walkie-Talkie**, in un armadietto (**Scasso 50**, necessario per la missione _Andato a pesca_)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Vita da uomini**, dietro il divano
 
 **Note**:

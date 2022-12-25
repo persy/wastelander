@@ -29,7 +29,7 @@ L'**armeria di Hopeville** è un edificio situato vicino al quartier generale de
 | {{<figure src="fnv/Guns_and_Bullets_Hopeville_armory.webp">}}         | **Pistole e proiettili**, sotto la scrivania all'angolo a nordest                    |
 | {{<figure src="fnv/FNVLR_rocket_Hopeville_armory_table.webp">}}         |  **Razzo ad alta esplosività**, su un tavolo a sinistra                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Chiave del cancello di servizio della base**, all'esterno in una scatola metallica; apre la Caserma di Hopeville - Divisione Uomini
 - **2 set di attrezzature antisommossa**, in un armadietto aperto e in uno chiuso (Scasso 100)
 - **Razzi incendiari**, sugli scaffali del muro a est

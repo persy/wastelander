@@ -35,7 +35,7 @@ L'**ospedale Nostra Signora della Speranza** si trova vicino alla stazione di Ve
 | {{<figure src="fo3/DC_Journal_of_IM_OL_of_Hope_2nd_floor.webp">}}  | **Giornale di medicina interna del D.C.**, primo piano, nella caffetteria, su un tavolo circolare  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**, piano terra, sul bancone nella sala d'attesa al primo piano nell'angolo nord-ovest della mappa
 
 </div>

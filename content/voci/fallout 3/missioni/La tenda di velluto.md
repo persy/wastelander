@@ -51,7 +51,7 @@ graph TD;
     id17(Entra nel bunker e affronta il protettore)
     id18(Ignoralo)
     id19(Uccidilo)
-    id20("Usa la parola <br />d'ordine <br />#quot;Saraphim Descending#quot;<br /> TODO")
+    id20("Usa la parola <br />d'ordine <br />#quot;Saraphim Descending#quot;<br />")
     id21(Entra nella camera blindata <br />e accedi al terminale)
     id22("Raggira i controlli <br />della porta con (Scienza 71)")
     id23("Disattiva il radiatore <br />sul pavimento (Ripara 30)")

@@ -28,7 +28,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/Survivalist_hidden_cache_Cueva_Guarache.webp">}}        | **Scorta di sopravvivenza**, dopo un cancello, superato uno stretto passaggio                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Cassa del banco da lavoro**, nella camera di Randall
 
 **Note**:

@@ -25,7 +25,7 @@ private: false
 |  {{<figure src="fnv/Miguels_Pawn_Shop_loc.webp">}}     | {{<figure src="fnv/Westside_map.webp">}}    | {{<figure src="fnv/Westside.webp">}}           |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro maestro di Dermot**, appartamenti Casa Madrid, nella stanza di Dermot
 - **Orsacchiotto**, appartamenti Casa Madrid, nella stanza di Saint James
 - **Nuka-Cola Victory**, neg. dei liquori di Bob a Klamath, su un frigorifero

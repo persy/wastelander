@@ -24,7 +24,7 @@ hidden: true
 | --------------------------------------- | -------------------------------------------------- |
 | {{<figure src="fo3/Girdershade_loc.webp">}} | {{<figure src="fo3/Girdershade's_general_view.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Lo spaccaginocchia**, posseduto da Ronald
 
 

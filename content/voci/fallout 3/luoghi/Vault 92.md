@@ -38,7 +38,7 @@ Il **Vault 92** è un Vault della Vault-Tec e si trova a nord-ovest del Vecchio 
 | {{<figure src="fo3/Fo3_Vault_92_sheet_music_book.webp">}} | **Libro di musica**, quartieri abitati, dormitori maschili, dietro un gabinetto                                                                                                                                                                    |
 | {{<figure src="fo3/Vault92_Nuka_Cola.jpg">}}              | **Nuka-Cola Quantum**, quartieri abitati, piano inferiore, nella prima stanza a destra su una scrivania accanto a un compute                                                                                                                       |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Circuiti di feedback**, zona atrio, sul pavimento accanto a uno scheletro
 - **Stealth Boy**, ufficio Soprintendente, sulla scrivania del Soprintendente
 - Test acustico

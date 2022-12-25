@@ -24,7 +24,7 @@ Il **burrone con scorpioni** è una profonda depressione, infestata da numerosi 
 | ---------------------------- | ------------------------ |
 | {{<figure src="fnv/Scorpion_Gulch_loc.webp">}} | {{<figure src="fnv/Scorpion_Gulch.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, sul corpo di un vagabondo
 - **Pistola laser mancante**, su un masso sul fondo del burrone. È disponibile solo dopo aver parlato con l'Iniziato Stanton, durante la missione nascosta _Pistol Packing_
 

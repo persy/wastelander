@@ -26,7 +26,7 @@ La **Crimson Caravan Company** è un ramo della Crimson Caravan che opera nel Mo
 | {{<figure src="fnv/Crimson_Caravan_Company_loc.webp">}} | {{<figure src="fnv/Crimson_Caravan_Camp.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nell'ufficio principale, vicino la radio
 
 **Note**:

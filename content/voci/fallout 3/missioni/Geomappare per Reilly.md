@@ -33,12 +33,12 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Geomappare per Reilly</b>):::questfo3
-    id2(Parla Reilly all'area dei mercenari di Reilly)
+    id2(Parla Reilly all'area <br />dei mercenari di Reilly)
     id3(Scopri un nuovo luogo sulla mappa)
     id4(Torna da Reilly)
     id5(30 tappi per luogo scoperto):::rewardfo3
-    id(Prossima missione: <b>TODO</b>):::questfo3
-    id-->id-->id-->id-->id-->id-->id
+
+    id1-->id2-->id3-->id4-->id5
     
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;

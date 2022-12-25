@@ -30,7 +30,7 @@ L'**Enfant Plaza** e L'**Enfant South** fanno parte di Washington, D.C. e posson
 | {{<figure src="fo3/Big_Book_of_Science_LEnfant.webp">}}  | **Il grande libro della scienza**, in un rifugio di preservazione Pulowski, dietro un edificio a sud della piazza (B)  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 </div>

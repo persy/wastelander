@@ -24,7 +24,7 @@ La **caverna dei due cieli** è posizionata direttamente a ovest del Ponte di Ol
 | ---------------------------- | ---------------------------------- | ------------------------ |
 | {{<figure src="fnv/Two_Skies_Cave_loc.webp">}} | {{<figure src="fnv/Two_Skies_cave_local_map.webp">}} | {{<figure src="fnv/Two_Skies_Cave.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Scorta di sopravvivenza**, in un area al di sopra del livello dell'acqua, nella camera sommersa, dietro a un cancello elettrificato (Riparazione 50)
 
 </div>

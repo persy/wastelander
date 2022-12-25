@@ -25,7 +25,7 @@ Il **bunker dei Superstiti** è un piccolo avamposto dell'Enclave, un tempo staz
 | {{<figure src="fnv/Remnants_Bunker_loc.webp">}} | {{<figure src="fnv/Remnants_bunker_local_map.webp">}} | {{<figure src="fnv/Remnants_Bunker.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Armatura atomica dell'Enclave**, data da Daisy nella missione _Valzer delle candele_
 	- Completando la missione è possibile ottenere l'addestramento per indossare le armature atomiche 
 

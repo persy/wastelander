@@ -33,7 +33,7 @@ Il **Vecchio Olney** è una città abbandonata infestata dai deathclaw.
 | {{<figure src="fo3/Old_Olney_-_Power_Armor_Location.webp">}} | **Armatura atomica medica prototipo**, fogne, sul cadavere del membro della Confraternita                                          |
 | {{<figure src="fo3/Old_Olney_NukaCola_truck.webp">}}         | **Nuka-Cola Quantum**, nord-est dell'autobus bruciato, presso la latrina irradiata e il caseificio Chaste Acres                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - Esterno
 	- **Rapporto incidenti Nuka Cola**, a terra accanto a uno scheletro, direttamente di fronte alla porta d'ingresso della caserma dei pompieri, nella parte meridionale della città. Il camion Nuka-Cola si trova a sud-est, vicino a una stazione di rifornimento Red Rocket, e contiene 5 bottiglie di **Nuka-Cola Quantum**
 - Fogne

@@ -29,7 +29,7 @@ Il **Tumbleweed Ranch dei Brooks** è un insieme di baracche in lamiera, di cui 
 | -------- | ------------------- |
 |  {{<figure src="fnv/Lying_Congressional_Style_Brooks_Tumbleweed_ranch.webp">}}        |  **Stile da congresso, menzognero**, al piano superiore su un ripiano vicino a un armadio. Va rubato                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, sul pavimento al piano terra, vicino a una bombola del gas
 
 </div>

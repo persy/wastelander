@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-Il **campo dei Patriarchi** è costituito da tre camper e una macchina carbonizzata, disposti a cerchio. È spesso sorvegliato dagli Zampabianca e infestato da gechi verdi e cazador. A nord, sul ciglio di un burrone, è possibile osservare la carcassa di un aereo schiantato, non raggiungibile dal giocatore.. Si trova a TODO.
+Il **campo dei Patriarchi** è costituito da tre camper e una macchina carbonizzata, disposti a cerchio. È spesso sorvegliato dagli Zampabianca e infestato da gechi verdi e cazador. A nord, sul ciglio di un burrone, è possibile osservare la carcassa di un aereo schiantato, non raggiungibile dal giocatore. Si trova a sud della Caverna delle campanelle.
 
 | Mappa | Panoramica |
 | ----- | ---------- |

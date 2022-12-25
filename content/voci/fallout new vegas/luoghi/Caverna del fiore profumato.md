@@ -26,7 +26,7 @@ Si trova a sud dell'accampamento dei Tormenti.
 | {{<figure src="fnv/Sweet_Flower_Cave_loc.webp">}} |   {{<figure src="fnv/Sweet_Flower_cave_local_map.webp">}}           |  {{<figure src="fnv/Sweet_Flower_Cave.webp">}}          |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Funghi delle caverne**, sparsi all'interno della caverna
 
 </div>

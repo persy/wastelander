@@ -29,7 +29,7 @@ L'**Haven** era uno dei tanti grattacieli nel centro di Pittsburgh e ora quartie
 | {{<figure src="fo3/Ashur_in_his_office.webp">}}| **Armatura atomica di Ashur**, indossata da Ashur |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Diario di Ashur**, nella cassaforte di Ashur al piano superiore 
 
 </div>

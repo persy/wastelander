@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Luoghi del Mojave
-summary: 'TODO'
+summary: ''
 weight: 20
 icon: map-location-dot
 icon_pack: fas

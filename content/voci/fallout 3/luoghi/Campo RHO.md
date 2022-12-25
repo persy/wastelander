@@ -25,7 +25,7 @@ Il **Campo RHO** è un piccolo campo dell'Enclave situato nella parte orientale 
 | {{<figure src="fo3/Camp_Rho_loc.webp">}} | {{<figure src="fo3/Enclave-RRCenter-SW.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **ID Rho sperimentale**, nell'inventario dell'ufficiale dell'Enclave
 
 </div>

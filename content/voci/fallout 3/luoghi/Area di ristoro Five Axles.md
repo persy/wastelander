@@ -29,7 +29,7 @@ L'**area di ristoro Five Axles** si trova direttamente a nord della stazione di 
 | {{<figure src="fo3/Five_Axles_Rest_Stop_U.S._Army_30_Handy_Flamethrower_Recipes.webp">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**, nel camion dove dormono i predoni |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, nello stesso camion
 - **Registrazione parziale di CB Radio**, in un camion pieno di pneumatici
 

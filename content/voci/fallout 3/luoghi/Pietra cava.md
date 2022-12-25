@@ -26,7 +26,7 @@ La **pietra cava** è una sporgenza rocciosa e si trova vicino a Megan, fra tre 
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fucile da cecchino,  **Stealth Boy**, nota "Come richiesto", all'interno della pietra cava
 
 **Note**:

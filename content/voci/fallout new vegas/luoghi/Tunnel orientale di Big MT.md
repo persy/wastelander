@@ -25,7 +25,7 @@ Il **tunnel orientale** di Big MT consiste in un tunnel bloccato da alcuni vagon
 | ----- | ---------- |
 | {{<figure src="fnv/Big_MT_east_tunnel_loc.webp">}}      |  {{<figure src="fnv/Big_MT_east_tunnel.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - Alcune droghe, nella scatola degli attrezzi sulla sommità
 
 </div>

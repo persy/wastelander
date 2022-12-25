@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 
 <div class="fo3">
 
-*Protezione della via dell'acqua* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data da TODO a TODO.
+*Protezione della via dell'acqua* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bisgley al Jefferson Memorial.
 
 
 <section class="chart-collapse">
@@ -42,7 +42,7 @@ graph TD;
     id8(Unisci alla gang <br />di Split Jack)
     id9(Sfida Jack a un <br />combattimento <br />all'ultimo sangue)
     id10(Uccidi tutti)
-    id11(Armatura ed elmo di di metallo):::rewardfo3
+
     id12(Torna dall'Ufficiale Lepelletier)
     id13(100 PE, Armatura atomica <br />ed elmo dell'Enclave, <br />Laser Gatling, Pistola al plasma, <br />munizioni):::rewardfo3
     id1-->id2-->id3-->id4-->id5-->id6-->id7 & id8 & id9 & id10-->id12-->id13

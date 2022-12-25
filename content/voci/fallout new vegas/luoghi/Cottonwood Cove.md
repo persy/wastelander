@@ -29,7 +29,7 @@ private: false
 |  {{<figure src="fnv/Grognak_Cottonwood_Cove_HQ.webp">}}        | **Grognak il barbaro**, su un comodino, (va rubato)                    |
 |   {{<figure src="fnv/Aurelius_HQ_interior.webp">}}       |  **Ricompensa dei caduti** e **Piani d'attacco della Legione**, sulla scrivania di Aurelius of Phoenix                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su una mensola del bagno delle donne
 
 **Note**:

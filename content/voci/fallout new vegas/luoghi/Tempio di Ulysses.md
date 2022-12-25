@@ -30,7 +30,7 @@ Il **Tempio di Ulysses** è la dimora di Ulysses, una sorta di santuario per il 
 | {{<figure src="fnv/Ulysses_profile.webp">}}               | **Spolverino del corriere**, **Spolverino di Ulysses**, **Maschera di Ulysses**, **Antica gloria**, **Messaggio finale di Ulysses**,portati da Ulysses e disponibili nell'armadietto al Sentiero per i Rottami di ferro dopo aver concluso il DLC |
 | {{<figure src="fnv/Ralphie_poster_Ulysses_Temple.webp">}} | **Poster di RALPHIE**, in un  edificio nei pressi dell'entrata per il Tempio di Ulysses                                                                                                                                                           |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Saldatori ad arco**, **cariche satchel**, sparsi all'interno dell'edificio
 
 **Note**:

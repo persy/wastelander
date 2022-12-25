@@ -46,7 +46,7 @@ hidden: true
 | {{<figure src="fo3/EM_bazaar_bottlecap_mine.webp">}}                 | **Mina da tappo**, bazaar, sul banco da lavoro vicino alla **Bambolina - Baratto**                                                                                            |
 | {{<figure src="fo3/EM_northern_shack_bottlecap_mine.webp">}}         | **Mina da tappo** , baracca settentrionale, sul banco da lavoro nella stanza sul retro al piano terra                                                                         |
 
-Altri oggetti:
+**Altri oggetti**:
 - Fonderia
 	- **Granata Nuka**, in cima al banco da lavoro, nella stessa stanza della chiave e della radio
 - Bazaar

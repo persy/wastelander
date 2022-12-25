@@ -29,7 +29,7 @@ La **miniera rubini Hill Mine** è quello che resta di una vecchia miniera. È s
 | -------- | ------------------- |
 | {{<figure src="fnv/Ruby_Hill_Mine_corpse-1.webp">}}         | **Invadente**, sul cadavere di uno Sciacallo                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Fucile multiplas**, sul cadavere di un supermutante
 
 </div>

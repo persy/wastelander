@@ -24,7 +24,7 @@ Il **mucchio di rottami di Gibson** è costituita da una discarica di materiali 
 | -----  | ---------- |
 | {{<figure src="fnv/Gibson_Scrap_Yard_loc.webp">}}                    | {{<figure src="fnv/Gibsons_Scrap_Yard.webp">}}           | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Grande Boomer**, in possesso dell'Anziana signora Gibson
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nel garage, su un ripiano
 - **Bottiglie di soda vuote**, in una scatola vicino all'entrata

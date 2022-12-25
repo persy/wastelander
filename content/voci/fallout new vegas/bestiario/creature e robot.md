@@ -137,7 +137,7 @@ per ucciderla, anche se sono alquanto sfuggenti senza l'uso dello S.P.A.V..
 
 | Comune | Leggendaria    |
 | -------------------- | --- |
-| {{<figure src="fo3/Bloatfly.webp" width="250px">}}   |  (TODO)   | 
+| {{<figure src="fo3/Bloatfly.webp" width="250px">}}   |  {{<figure src="fnv/Legendary_bloatfly.webp" width="250px">}}   | 
 
 
 <div class="scrollwrapper">

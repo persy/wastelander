@@ -33,7 +33,7 @@ L'**impianto RobCo** è una fabbrica ndi robot e si trova leggermente a nord-est
 | {{<figure src="fo3/DC_Journal_of_IM_RobCo_facility_redone.jpg">}} | **Giornale di medicina interna del D.C.**, uffici e caffetteria, sala ufficio computer, appena a sud-est delle scale |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fabbrica
 	- 2 **libri prebellici**: uno sullo scaffale dietro il banco della reception; uno accanto al **Il grande libro della scienza** nella sala controlli
 	-  **Mina da tappo**, su un banco da lavoro in una piccola stanza ad est

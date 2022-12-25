@@ -34,7 +34,7 @@ L'edificio medico Y-17 è una struttura che consiste in due stanze, su due livel
 | {{<figure src="fnv/Y-17_MF_sterilizer_glove.webp">}}     | **Guanto sterilizzante**, sul bancone di una grande console elettronica, appena oltre il campo di forza                                                                                 |
 | {{<figure src="fnv/Y-17_med_center_cells.webp">}}        | **Cartella del paziente: Y-17.0**, in una delle celle di contenimento vicino a quella senza porta                                                                                       |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Accentuatore radiale di valenza**, sul rottame del Dottor Orderly MD PHD DDS
 - **Stealth Boy**, nei pressi dell'armatura COS Christine
 

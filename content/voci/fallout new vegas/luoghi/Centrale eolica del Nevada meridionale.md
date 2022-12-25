@@ -28,7 +28,7 @@ La **centrale eolica del Nevada meridionale** è un piccolo altopiano, con alcun
 | -------- | ------------------- |
 | {{<figure src="fnv/Southern_Nevada_Wind_Farm_Deans.webp">}}         |   **Elettronica di Dean**, sull'altro tavolo nella baracca                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su uno dei tavoli nella baracca
 - **Kit di riparazione**, su una mensola nella baracca
 

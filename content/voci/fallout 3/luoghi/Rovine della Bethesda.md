@@ -35,7 +35,7 @@ Le **rovine di Bethesda** si trovano a nord-ovest di Washington, D.C. Sono abita
 | {{<figure src="fo3/Bethesda_offices_west_mini_nuke.webp">}}                                   | **Munizione nucleare**, uffici Bethesda ovest,nella stessa stanza all'ultimo piano, sotto alcune casse accanto a un congelatore aperto                                                                                      |
 | {{<figure src="fo3/Bethesda_ruins_West_office_Stealth_Boy.webp">}}                            | 2 **Stealth Boy**, uffici Bethesda ovest, uno al piano terra a est, in una cassa vicino alla fontana; l'altro all'ultimo piano su uno scaffale vicino al frigorifero                                                        |
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **libri prebellici**, , uffici Bethesda ovest, in cima ad uno schedario al primo piano
 - **U.S. Army: 30 pratiche ricette per lanciafiamme** e **chiavi della cassaforte**, uffici Bethesda est, nell'inventario dal leader dei predoni
 

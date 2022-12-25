@@ -29,7 +29,7 @@ Il **Campo di detenzione Tortora** è una struttura carceraria, disponibile solo
 |  {{<figure src="fo3/Toy_knife_and_mask.webp">}}       |  **Coltello giocattolo**, a sud del campo, accanto a una maschera da hockey su una cassa                   | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, su uno scaffale dell'amministrazione dell'armeria
 - **Stealth Boy**, nell'armadietto del dormitorio A
 - **Codici di auto-distruzione**, nella cella refrigerante con il cadavere di Wan Yang, nell'obitorio

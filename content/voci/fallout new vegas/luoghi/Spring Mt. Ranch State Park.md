@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-**Spring Mt. Ranch State Park** è un'area con un parcheggio e delle recinzioni con alcuni bighorner. Spesso viene infestata da sciami di mantidi giganti e cazador. All'interno della casa diroccata, nel seminterrato, è presente l'armeria dei Great Khan. Si trova a TODO.
+**Spring Mt. Ranch State Park** è un'area con un parcheggio e delle recinzioni con alcuni bighorner. Spesso viene infestata da sciami di mantidi giganti e cazador. All'interno della casa diroccata, nel seminterrato, è presente l'armeria dei Great Khan. Si trova a a nord-ovest di Bonnie Springs e a sud del Red Rock Canyon.
 
 | Mappa                                    | Panoramica                        |
 | ---------------------------------------- | --------------------------------- |

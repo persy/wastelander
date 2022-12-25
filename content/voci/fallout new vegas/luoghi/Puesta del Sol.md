@@ -44,7 +44,7 @@ private: false
 |  {{<figure src="fnv/Vending_machine_code_-_Demolition_charge.webp">}}        | **Codice distributore automatico - "Carica di demolizione"**, a sudovest dell'area, vicino a un tavolo da biliardo al terzo piano di un edificio |
 | {{<figure src="fnv/PdS_South_Lover's_Mark_Stash.webp">}}         |  **Riserva degli innamorati**, subito a destra dall'ingresso da Puesta del Sol nord                                                                                                                                                |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nota macchiata**, Puesta del Sol nord, nell'angolo nordest della mappa
 - **Diario**, Puesta del Sol sud, nell'Edificio rovinato, vicino ad un letto a doppia piazza
 

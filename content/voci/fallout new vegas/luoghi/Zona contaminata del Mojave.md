@@ -166,7 +166,7 @@ private: true
 
 ## R                                         
 - [Radio Lupo Solitario](../radio-lupo-solitario)
-- [Ranch Ratto Talpa](../ranch-ratto-talpa) TODO
+- [Ranch Ratto Talpa](../ranch-ratto-talpa) <!--TODO-->
 - [Red Rock Canyon](../red-rock-canyon)
 - [Rifugio dei Mercenari dell'RNC](../rifugio-dei-mercenari-dellrnc)
 - [Rifugio dei Seguaci](../rifugio-dei-seguaci)

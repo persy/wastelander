@@ -24,7 +24,7 @@ private: false
 | ----- | ---------- |
 |  {{<figure src="fnv/El_Rey_Motel_loc.webp">}}     |   {{<figure src="fnv/FNV_Location_11021_4.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, piano superiore, prima stanza da sinistra, su una libreria
 - **Nuka Cola Victory**, piano superiore, terza stanza da sinistra
 

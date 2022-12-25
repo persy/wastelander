@@ -28,7 +28,7 @@ L'**avamposto ghoul** è un piccolo accampamento all'interno di un edificio situ
 | {{<figure src="fo3/Ghoul_outpost_mini_nuke.webp">}} | **Munizione nucleare**, su uno scaffale nel retrobottega, proprio sopra il secchio |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, nella stanza sul retro
 
 

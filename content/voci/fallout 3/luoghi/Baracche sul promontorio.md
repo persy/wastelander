@@ -30,7 +30,7 @@ Le **baracche sul promontorio** fanno parte di un accampamento di medie dimensio
 | {{<figure src="fo3/FO3_PI_Clifftop_Shacks.webp">}}  | **Pugilato illustrato**, baracca sud, su uno degli scaffali a sinistra dell'ingresso |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro prebellico**,  baracca nord, sul comodino
 
 </div>

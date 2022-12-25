@@ -29,7 +29,7 @@ hidden: true
 | {{<figure src="fo3/Lucky_shades.webp">}}             | **Occhiali da sole fortunati**, sul manichino |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, su uno scaffale posteriore, vicino a due Nuka-Cola (va rubato)
 - Gnomo da giardino insolitamente piccolo, sullo scaffale sopra la radio
 

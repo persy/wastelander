@@ -28,7 +28,7 @@ Il **villaggio tribale** è costituito da una serie di tende e un fuoco da accam
 | -------- | ------------------- |
 |  {{<figure src="fnv/CloseupChance.webp">}}        |  **Coltello di Chance**, in una tomba, su una collina a nordest                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Ascia di fuoco**, sul cadavere di un Demone
 
 **Note**:

@@ -29,7 +29,7 @@ La **gola del diavolo** è un avvallamento nel terreno, con un camion ribaltato 
 | -------- | ------------------- |
 |  **CZ57 Avenger**, nel camion        |   {{<figure src="fnv/CZ57_Avenger_Devils_Throat.webp">}}                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Armatura da combattimento rinforzata** e **Cappello da festa unico**, nel camion
 
 </div>

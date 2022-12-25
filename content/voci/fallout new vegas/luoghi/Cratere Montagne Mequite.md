@@ -29,7 +29,7 @@ Il **cratere Montagne Mequite** è una zona irradiata e infestata da ghoul feral
 | {{<figure src="fnv/HellsmotelDCjournalofinternalmedicine.webp">}} | **Giornale di medicina interna del D.C.**, Hotel di Hell, sul tavolino con la radio       |
 | {{<figure src="fnv/FNV_Hells_Motel_2.webp">}}                     | **Tappo di bottiglia stella Sunset Sarsaparilla**, Hotel di Hell, nella zona della cucina |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, in una piccola baracca di fortuna, a ridosso di una cresta, sotto un'antenna con alcune lamiere  
 - **Bollettino programmatore**, nella stessa baracca di fortuna  
 - **Maschera da hockey**, nella stessa baracca di fortuna

@@ -29,7 +29,7 @@ L'**impianto a tossine innovative Z-43** è una struttura altamente radioattiva 
 | {{<figure src="fnv/ITP_corrosive_glove.webp">}}         |  **Guanto corrosivo**, a destra dell'entrata fra due scrivanie                   |
 | {{<figure src="fnv/Hazmat_pod_security_code.webp">}}         |  **Codice di sicurezza del pod di Hazmat**, nelle piccola stanza sul retro accanto ad alcuni armadietti                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - Una consistente quantità di **munizioni a energia** esaurite
 
 **Note**:

@@ -28,8 +28,8 @@ Il **Red Rock Canyon** è un canyon che si snoda su vari livelli e diramazioni e
 | -------- | ------------------- |
 |  {{<figure src="fnv/RRC_skill_magazines.webp">}}        |  **Riviste dell'abilità**, in una delle tende                   |
 
-Altri oggetti:
-- **Diario di Karl** (TODO), casa lunga, nell'armadietto della stanza di Karl
+**Altri oggetti**:
+- **Diario di Karl** <!--TODO-->, casa lunga, nell'armadietto della stanza di Karl
 
 </div>
 

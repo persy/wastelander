@@ -41,7 +41,7 @@ graph TD;
     id7(Persuadi <br />Amata) 
     id8(Uccidi il <br />Soprintendente)
     id9(Persuadi il <br />Soprintendente)
-    id10(Distruggi <br />il chip TODO)
+    id10(Distruggi <br />il chip)
     id11(Karma <br />negativo):::rewardfo3
     id12(Karma <br />positivo):::rewardfo3
     id13(Tuta centrale modificata):::rewardfo3

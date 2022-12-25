@@ -34,7 +34,7 @@ La **stazione metropolitana di Jury Street** è una località della Zona contami
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fucile d'assalto Xuanlong, sul cadavere di Prime all'interno della tavola calda dopo aver risolto la missione nascosta al Museo della Tecnologia.
 
 

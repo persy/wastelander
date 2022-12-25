@@ -30,7 +30,7 @@ Quest'area funge da hub tra numerose altre parti della nave e si connette al pon
 | {{<figure src="fo3/Alien_captive_recording_log_5-8_engineering_core.webp">}}| **Registrazioni prigionieri 5**, **6**, **7**, **8**, accanto a ogni prigioniero congelato |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Qunatum** e 26 energie aliene, in una scatola
 - **Munizione nucleare**, sulla sedia accanto al banco da lavoro nella stanza che conduce alla camera di decompressione, dopo aver distrutto i due generatori                    
 - Granata Nuka, nella stanza che conduce verso la camera di decompressione

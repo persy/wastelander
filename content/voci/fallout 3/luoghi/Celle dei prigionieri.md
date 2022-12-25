@@ -26,8 +26,8 @@ Le **celle dei prigionieri** sono un luogo disponibile solo con il DLC *Mothersh
 
 | Immagine                                               | Oggetto e posizione                        |
 | ------------------------------------------------------ | ------------------------------------------ |
-| {{<figure src="fo3/Alien_captive_recording_logs_holding_cells_2.webp">}}| **Registrazioni prigionieri 14**, **15**, **22**, TODO |
-| {{<figure src="fo3/Alien_captive_recording_logs_holding_cells_1.webp">}}| **Registrazioni prigionieri 3**, **1**, **12**, TODO   |
+| {{<figure src="fo3/Alien_captive_recording_logs_holding_cells_2.webp">}}| **Registrazioni prigionieri 14**, **15**, **22**, vedi *La leggenda di Zeta* |
+| {{<figure src="fo3/Alien_captive_recording_logs_holding_cells_1.webp">}}| **Registrazioni prigionieri 3**, **1**, **12**, vedi *La leggenda di Zeta*   |
 
 **Note**:
 - Dopo la missione *Questa galassia mi sta stretta* quest'area non sarà più accessibile

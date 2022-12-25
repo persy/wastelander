@@ -31,7 +31,7 @@ Non va confusa con la *Grotta marina (Imbarcazione naufragata)*
 | {{<figure src="fo3/Plik's_journal_and_mini_nuke.webp">}}| **Diario di Plik** e una **munizione nucleare**, nella stanza di Plik, su un tavolo |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **L'accetta**, data da Plik come ricompensa per aver completato *Safari di Plik*.
 
 </div>

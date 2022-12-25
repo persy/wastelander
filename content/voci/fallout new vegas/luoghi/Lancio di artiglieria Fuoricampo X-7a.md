@@ -28,7 +28,7 @@ Il **lancio di artiglieria "Fuoricampo" X-7a** è un'area sorvegliata da restrit
 | -------- | ------------------- |
 |  {{<figure src="fnv/OWB_Explosives_skill_book_holodisk.webp">}}        |  **Ricette - Libro abilità Esplosivi**, all'interno del centro di comando, vicino il grande macchinario sopra tre scatole di munizioni                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **LAER**, sulla carcassa di RY-589 Ultimo Bot
 - **Lanciarazzi**, sul camion all'esterno
 

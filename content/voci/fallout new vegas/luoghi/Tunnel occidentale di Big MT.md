@@ -30,7 +30,7 @@ Il **tunnel occidentale** porta ad una rete di cunicoli in cui è possibile trov
 | {{<figure src="fnv/OWB_LAER_mod_Big_MT_wt.webp">}}         | **Potenziamento del Computer principale: Mod LAER "Chip di ricarica ausiliario"**, dall'entrata verso destra, al primo livello; è su un ripiano in una stanza (necessario per la missione _Influenzare la gente_)                    |
 | {{<figure src="fnv/Saturnite_fist_Big_MT_west_tunnel.webp">}}         |   **Pugno di saturnite**, vicino a uno scheletro                  | 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fra i protettori c'è la variante unica Il Custode
 
 </div>

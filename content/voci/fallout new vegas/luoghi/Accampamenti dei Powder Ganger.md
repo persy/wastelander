@@ -24,7 +24,7 @@ Gli **accampamenti dei Powder Ganger** sono piccoli accampamenti di fortuna, pat
 | -----  | ---------- |
 |   {{<figure src="fnv/Powder_Ganger_Camp_North_loc.webp">}}                  | {{<figure src="fnv/PG_camp_north.webp">}}           | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Dinamite**, all'interno delle casse
 - **Cartocci**, disseminati nelle aree attorno
 

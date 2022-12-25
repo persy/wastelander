@@ -30,7 +30,7 @@ La **Metro Falls Church**/**Mason Dst**, chiamata anche stazione Franklin, è un
 | {{<figure src="fo3/DuckAndCover_FCMasonDM.webp">}}  | **Al riparo!**, in una biglietteria nascosta dietro una barricata, a destra del chiosco illuminato in cima alla scalinata nord  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, all'interno della tavola calda, in cima alla stufa nel campo dei predatori
 - **Libro prebellico**, all'interno della tavola calda sul tavolo in alto a destra
 

@@ -19,7 +19,7 @@ private: false
 <div class="fnv">
 
 
-L'**accampamento dei Cavalli Morti** è la base improvvisata dei Cavalli Morti sul ramo orientale del Virgin. L'unico modo per raggiungere l'accampamento è attraverso un canyon, disseminato di trappole per orsi. Nei pressi è possibile accedere alla caverna dell'angelo. Si trova a TODO.
+L'**accampamento dei Cavalli Morti** è la base improvvisata dei Cavalli Morti sul ramo orientale del Virgin. L'unico modo per raggiungere l'accampamento è attraverso un canyon, disseminato di trappole per orsi. Nei pressi è possibile accedere alla caverna dell'angelo.
 
 | Mappa | Panoramica |
 | ----- | ---------- |

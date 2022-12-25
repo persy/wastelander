@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: The Pitt
-summary: 'TODO'
+summary: ''
 weight: 30
 
 

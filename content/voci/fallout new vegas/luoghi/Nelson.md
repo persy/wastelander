@@ -18,14 +18,14 @@ private: false
 
 <div class="fnv">
 
-**Nelson** è un semplice villaggio, presieduto da un piccolo gruppo di legionari, composto da due edifici più grandi, le caserme, e altri più piccoli, attorno ad un fuoco d'accampamento.. Si trova a TODO.
+**Nelson** è un semplice villaggio, presieduto da un piccolo gruppo di legionari, composto da due edifici più grandi, le caserme, e altri più piccoli, attorno ad un fuoco d'accampamento. Si trova a est di Novac e a nord-ovest della miniera Techatticup.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 |   {{<figure src="fnv/Nelson_loc.webp">}}    |  {{<figure src="fnv/Nelson_map.webp">}}            |   {{<figure src="fnv/NelsonFNV.webp">}}         | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Area occupata dai legionari:
 	- **Liberatore**, sul corpo di Dead Sea
 	- **Nuka Cola Victory**, nella casa a ovest della caserma, dietro ad un frigo

@@ -28,7 +28,7 @@ private: false
 | -------- | ------------------- |
 | {{<figure src="fnv/WSGLoneWolfRadio.webp">}}         |    **Guida soprav. Zona contaminata**, vicino a una scatola di metallo, per terra                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, per terra vicino ad alcune bottiglie vuote
 
 **Note**:

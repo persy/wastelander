@@ -24,7 +24,7 @@ Il **promontorio di Court Fork** è un buon punto di osservazione. Da qui è pos
 | ----- | ---------- |
 | {{<figure src="fnv/Court_Fork_Overlook_loc.webp">}}      |  {{<figure src="fnv/Court_Fork_Overlook.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Vari oggetti**, in una pietra cava dietro al cartello
 
 </div>

@@ -29,7 +29,7 @@ Il **garage di Smith Casey** è un garage abbandonato al cui interno possibile a
 | {{<figure src="fo3/Tumblers_Today_Smith_Caseys_Garage.webp">}} | **Lo scassinatore moderno**, dentro lla cassaforte aperta, dietro il bancone |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, dietro un bidone contenente molte lattine piegate e bottiglie di soda vuote
 
 </div>

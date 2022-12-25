@@ -28,7 +28,7 @@ La **zona bersaglio "Boom Town" X-7b** è costituito da un finto insediamento co
 | -------- | ------------------- |
 |  {{<figure src="fnv/OWB_Guns_skill_book_holodisk.webp">}}        |  **Oscillatore triradiale a valenza atomica** e **Ricette - Libro abilità Armi da fuoco**, in una cassa all'interno di un cratere a nord della casa più a ovest; disponibile dopo aver attivato l'artiglieria al Lancio di artiglieria "Fuoricampo" X-7a                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quartz**, **Nuka Cola Victory**, nella casa a nord dell'area
 
 </div>

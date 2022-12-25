@@ -25,7 +25,7 @@ L'**inghiottitoio allagato** è un laghetto che separa la baracca del cacciatore
 | {{<figure src="fo3/Flooded_Sinkhole_loc.webp">}}| {{<figure src="fo3/Flooded_Sinkhole.webp">}}|
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 **Nuka-Cola Quantum**, galleggianti sulla superficie dopo essere scesi sul fondo
 
 </div>

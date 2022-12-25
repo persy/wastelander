@@ -20,7 +20,7 @@ commentable: true
 {{< cta cta_text="Creature e robot" cta_link="creature-e-robot" cta_new_tab="false" >}}
 -->
 
-<a href="seguaci" class="btn capitol">Seguaci (TODO)</a>
+<a href="seguaci" class="btn capitol">Seguaci</a>
 <a href="mercanti" class="btn capitol">Mercanti</a>
 <a href="creature-e-robot" class="btn capitol">Creature e robot</a>
  

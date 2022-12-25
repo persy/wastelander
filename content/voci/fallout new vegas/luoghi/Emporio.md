@@ -29,7 +29,7 @@ L'**emporio** è un piccolo edificio, infestato da alcune creature di basso live
 | -------- | ------------------- |
 |  {{<figure src="fnv/FNVHH_Snow_globe.webp">}}        |   **Palla di neve**, dietro il bancone, sullo scaffale in basso                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **5 cestini da pranzo Piccoli Scout**, necessari per la missione _Trappola per turisti_
 	- due sono sul bancone
 	- uno è in una scatola di cartone sul lato sinistro dell'edificio

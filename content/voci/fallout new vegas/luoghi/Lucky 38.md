@@ -31,7 +31,7 @@ La torre del **Lucky 38**, visibile anche da notevole distanza è il simbolo ste
 |          |                    | 
 |          |                     |
 
-Altri oggetti:
+**Altri oggetti**:
 - **¡La Fantoma!**, cocktail lounge, in una valigetta (Scasso 75)
 - **Jake Juice**, suite presidenziale, su un tavolo
 

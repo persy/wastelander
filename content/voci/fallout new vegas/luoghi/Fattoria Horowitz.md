@@ -24,7 +24,7 @@ La **fattoria Horowitz** è una piccola tenuta con una casa in lamiera, un fieni
 | ----- | ---------- |
 |  {{<figure src="fnv/Horowitz_Farmstead_loc.webp">}}     |   {{<figure src="fnv/Horowitz_farmstead.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su una cassa nel fienile
 - **Blaster alieno**, nell'inventario del capitano alieno, vicino all'astronave schiantata. E' necessario avere il tratto Zona contaminata selvaggia
 

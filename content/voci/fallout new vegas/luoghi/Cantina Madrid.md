@@ -25,7 +25,7 @@ La **Cantina Madrid** è una sezione del Casinò Sierra Madre che serve sia da c
 | ----- | ---------- |
 | {{<figure src="fnv/SMC_CM_loc.webp">}}      |   {{<figure src="fnv/Sierra_Madre_cantina.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Chiave manutenzione Sierra Madre**, nel bagno
 
 </div>

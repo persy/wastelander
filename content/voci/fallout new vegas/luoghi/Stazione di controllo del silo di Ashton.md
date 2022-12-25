@@ -30,7 +30,7 @@ La **stazione di controllo del silo di Ashton** è un piccolo edificio rovinato 
 | {{<figure src="fnv/Bonesaw.webp">}} | **Elmo tribale della bestia sfregiata**, indossato da Segaossi |
 |  {{<figure src="fnv/Ralphie_poster_Bonesaw.webp">}}                 | **Poster di RALPHIE**, al secondo piano dell'edificio vicino all'accampamento degli sfregiati                                                               |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Sacco a pelo Arrangiati!**, nell'accampamento degli sfregiati, oltre la strada
 
 **Note**:

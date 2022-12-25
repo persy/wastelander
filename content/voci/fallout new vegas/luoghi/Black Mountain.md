@@ -30,7 +30,7 @@ private: false
 | {{<figure src="fnv/Cuddles'_toy_car.webp">}}         |  **Macchinina unica** (Cuddles' toy car), nella prigione su un tavolo                   |
 |      {{<figure src="fnv/Storage_building_int1.webp">}}    |    **Nuka Cola Victory**, **tappo di bottiglia stella Sunset Sarsaparilla**, nell'edificio di immagazzinamento                 | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Libro di musica**, nell'edificio delle trasmissioni
 
 **Note**:

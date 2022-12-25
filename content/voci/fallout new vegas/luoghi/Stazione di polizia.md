@@ -34,7 +34,7 @@ La **stazione di polizia** era, prima della Grande Guerra, il quartier generale 
 | {{<figure src="fnv/Vending_machine_code_-_.308_rifle_rounds.webp">}}  | **Codice distributore automatico - "Munizioni da Fucile .308"**, nel bagno degli uomini                                                                                          |
 | {{<figure src="fnv/Vending_machine_code_-_.357_Magnum_rounds.webp">}} | **Codice distributore automatico - "Munizioni da .357 Magnum"**, nella stanza del contrabbando, accessibile dopo aver sbloccato il terminale del Capo della Polizia (Scienza 75) |
 
-Altri oggetti:
+**Altri oggetti**:
 - **In nome della storia**, in un terminale del Capo della Polizia ("Molto difficile")
 - **Nastro comandi Dog**, nel seminterrato
 

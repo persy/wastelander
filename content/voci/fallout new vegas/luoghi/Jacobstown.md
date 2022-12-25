@@ -32,7 +32,7 @@ private: false
 |   {{<figure src="fnv/FNV_star_cap_Jacobstown.webp">}}       | **Tappo di bottiglia stella Sunset Sarsaparilla**, nel bungalow dietro la prima fila di bungalow, a nordest, su un tavolo                    | 
 |  {{<figure src="fnv/Jacobstown_skill_magazines.webp">}}        |  **Riviste abilità**, abitazione di Jacobtown, nelle stanze al livello superiore                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka Cola Victory**: in un frigo senza porta, nel bungalow più a sud
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nel bungalow dietro la prima fila di bungalow, a nordest, su un tavolo
 

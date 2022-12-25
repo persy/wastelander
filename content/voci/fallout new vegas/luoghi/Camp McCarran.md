@@ -18,13 +18,13 @@ private: false
 
 <div class="fnv">
 
-**Camp McCarran** è un ex aeroporto internazionale, convertito in base militare. È altamente sorvegliata e rappresenta uno degli avamposti più importanti dell'RNC nel Mojave. L'area subito dopo l'entrata è occupata da una serie di tende e da un campo d'addestramento mentre l'edificio del terminal, che ospita gli uffici di comando e la prigione, è collegato alla Strip di New Vegas attraverso una monorotaia. Il viale, che funge da caserma, collega il terminal alla baracca delle scorte.. Si trova a TODO.
+**Camp McCarran** è un ex aeroporto internazionale, convertito in base militare. È altamente sorvegliata e rappresenta uno degli avamposti più importanti dell'RNC nel Mojave. L'area subito dopo l'entrata è occupata da una serie di tende e da un campo d'addestramento mentre l'edificio del terminal, che ospita gli uffici di comando e la prigione, è collegato alla Strip di New Vegas attraverso una monorotaia. Il viale, che funge da caserma, collega il terminal alla baracca delle scorte. Si trova al centro della mappa, a sud di New Vegas.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
 |  {{<figure src="fnv/Camp_McCarran_loc.webp">}}     |    {{<figure src="fnv/Camp_McCarran_loc_map.webp">}}          |   {{<figure src="fnv/Camp_McCarran.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Carabina La Longue**, portata dal Caporale Sterling
 	- Per prendere la Carabina La Longue dal Caporale Sterling, senza doverlo uccidere. rimuovi dal suo inventario qualsiasi munizione, attendi 24 ore e rubaglielo
 - **Guanto con lame unico**, portato da Little Buster

@@ -31,7 +31,7 @@ L'**Avamposto del Mojave** è un'area militarizzata e presidiata da soldati dell
 |          |                     | 
 |          |                     |
 
-Altri oggetti:
+**Altri oggetti**:
 - 3 **Nuka-Cola Quartz**, 3 **Nuka cola ghiacciate**, caserma, sulle mensole dietro Lacey
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, caserma, sul bancone del bar
 - **603 tappi**, quartier generale, nell'inventario del Maggiore Knight

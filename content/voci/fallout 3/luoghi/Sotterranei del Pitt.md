@@ -29,7 +29,7 @@ I **sotterranei del Pitt** racchiudono la centrale elettrica e collegano la stad
 | {{<figure src="fo3/The_Pitt_Underground_Factory_worker_ID.webp">}}        | **ID dipendenti fabbrica**, per terra, nell'area con i due protettori gialli della fabbrica                    | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Vicino all'uscita per il centro del Pitt è presente un banco da lavoro, l'unico dell'intero DLC
 
 </div>

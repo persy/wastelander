@@ -29,7 +29,7 @@ La **metropolitana centrale** fa parte del sistema metropolitano sotterraneo del
 | {{<figure src="fo3/FO3_DE_Metro_Central.webp">}}  | **Elettronica di Dean**,  in una piccola area recintata (Scasso 25) con un generatore, su un tavolo vicino all'uscita della stazione di Foggy Bottom  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Mappa schiavi**, sul cadavere di uno schiavo, sui binari vicino all'uscita per Dupont Circle
 
 </div>

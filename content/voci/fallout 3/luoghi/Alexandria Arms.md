@@ -30,7 +30,7 @@ hidden: true
 | {{<figure src="fo3/Guns_and_Bullets_Alexandria_Arms.webp">}} | **Pistole e proiettili** e un **libro prebellico*, nella grande sala al piano superiore, su un bancone a forma di L |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, dietro una porta chiusa (Scasso/Scienza 50), dietro al bancone a forma di L, in una cassa di legno su degli scaffali
 
 </div>

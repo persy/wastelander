@@ -24,7 +24,7 @@ La **fabbrica Strumenti H&H** è un edificio di due piani, disseminato di trappo
 | ------------------------------- | ------------------------------- | --------------------------- |
 | {{<figure src="fnv/H&H_Tools_Factory_loc.webp">}} | {{<figure src="fnv/H&H_Tools_Factory_map.webp">}} | {{<figure src="fnv/H&H_Tools_Factory.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **House VIP Key Card**, secondo piano, sulla scrivania di Anthony House
 
 </div>

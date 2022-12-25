@@ -24,7 +24,7 @@ La **miniera d'oro settentrionale di Searchlight** è una miniera di modeste dim
 | ----------------------------------------- | ----------------------------------------------- | ------------------------------------- |
 | {{<figure src="fnv/Searchlight_North_Gold_Mine_loc.webp">}} | {{<figure src="fnv/Searchlight_North_gold_mine_local_map.webp">}} | {{<figure src="fnv/Searchlight_North_Gold_Mine.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su alcune casse
 - 12 candelotti di **dinamite**, sparsi nella miniera
 

@@ -29,7 +29,7 @@ Il **laboratorio di preservazione del DNA Crotalus Z-9** è un edificio semidist
 | -------- | ------------------- |
 |  {{<figure src="fnv/Auto-Doc_upgrade_Implant_Y3.webp">}}        | **Potenziamento Auto-Doc: Impianto Y-3**, su uno dei tavoli operatori nella stanza principale (necessario per la missione _Influenzare la gente_)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Vita da uomini**, nel cestino bianco di uno dei laboratori 
 - **Set di chimica Deluxe**, nella prima stanza a destra dell'entrata
 - **Scatola di primo soccorso**, sul tetto dell'edificio

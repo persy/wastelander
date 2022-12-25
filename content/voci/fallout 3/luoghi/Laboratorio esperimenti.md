@@ -27,9 +27,9 @@ Il **laboratorio esperimenti** è un luogo disponibile solo con il DLC *Mothersh
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="fo3/Alien_captive_recording_log_20_exp_lab.webp">}}          |      **Registro prigioniero 20**, TODO   |
-| {{<figure src="fo3/Alien_captive_recording_log_9_exp_lab.webp">}}           |       **Registro prigioniero 9**, TODO   |
-| {{<figure src="fo3/Alien_captive_recording_log_10_exp_lab.webp">}}          |      **Registro prigioniero 10**, TODO     |
+| {{<figure src="fo3/Alien_captive_recording_log_20_exp_lab.webp">}}          |      **Registro prigioniero 20**, vedi *La leggenda di Zeta*   |
+| {{<figure src="fo3/Alien_captive_recording_log_9_exp_lab.webp">}}           |       **Registro prigioniero 9**, vedi *La leggenda di Zeta*   |
+| {{<figure src="fo3/Alien_captive_recording_log_10_exp_lab.webp">}}          |      **Registro prigioniero 10**, vedi *La leggenda di Zeta*     |
 
 
 **Note**:

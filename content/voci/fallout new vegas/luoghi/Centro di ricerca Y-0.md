@@ -29,7 +29,7 @@ Il **centro di ricerca Y-0** è un piccolo edificio a ridosso di una parete rocc
 | {{<figure src="fnv/Big_Book_of_Science_Y-0_research_center.webp">}}         |  **Il grande libro della scienza**, vicino uno scheletro e un borsone da campeggio a sud dei due camion                   |
 |   {{<figure src="fnv/OWB_Melee_Weapons_skills_book_holotape.webp">}}       | **Ricette - Libro abilità Armi da mischia**, sul tetto dell'edificio                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Xander root**, sul sentiero a ovest del tetto su cui si trova l'olonastro **Ricette - Libro abilità Armi da mischia**
 
 </div>

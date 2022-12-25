@@ -47,7 +47,7 @@ graph TD;
     id13(Vai nelle camere virulente <br />dell'Edificio Dunwich)
     id14(Sconfiggi Jaime e <br />porta il Krivbeknih all'obelisco) 
     id15(100 PE, karma positivo):::rewardfo3
-    id(Prossima missione: <b>TODO</b>):::questfo3
+
     id1-->id2-->id3-->id4-->id5-->id6-->id7-->id8 & id9
     id8-->id10
     id5-->id11-->id12-->id13-->id14-->id15

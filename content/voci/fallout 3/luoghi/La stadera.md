@@ -29,8 +29,11 @@ La **stadera** è un'enorme fonderia disponibile solo con il DLC *The Pitt* di F
 | {{<figure src="fo3/Pitt_steelyard_steel_ingots.webp">}} | 100 **barre d'acciaio**, sparsi per tutto il cantiere, utili per le missioni *Condizioni di lavoro pericolose* e *Operaio del laminatoio* |
 | {{<figure src="fo3/Fo3TP_auto_axe_steelyard.webp">}}    | **Ascia automatica**, vicino al corpo di uno schiavo, alla base del silo a sud                                                            |
 | {{<figure src="fo3/Wild_Bill.webp">}}                   | **Arma da fianco di Wild Bill**, sul cadavere di Wild Bill, sulle scale che portano alla fornace                                          |
-| TODO                                  | **Armatura protettiva Gamma**, in un fossato circondato da barili radioattivi a sud-ovest                                                 | 
 
+
+
+**Altri oggetti**:
+- **Armatura protettiva Gamma**, in un fossato circondato da barili radioattivi a sud-ovest
 
 **Note**:
 - Il cadavere dello schiavo vicino all'entrata è permanente, quindi può essere usato per depositare gli oggetti in sicurezza

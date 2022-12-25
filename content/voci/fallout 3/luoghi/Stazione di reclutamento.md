@@ -25,7 +25,7 @@ La **stazione di reclutamento** è un piccolo edificio, disponibile solo con il 
 |  {{<figure src="fo3/NRC_loc.webp">}}    | {{<figure src="fo3/Recruitment_station_loc.webp">}}            | {{<figure src="fo3/Naval_Recruiting_Center.webp">}}          | 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, sul tavolo accanto al terminal nella seconda sala.
 
 </div>

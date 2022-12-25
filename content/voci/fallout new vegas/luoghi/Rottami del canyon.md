@@ -24,7 +24,7 @@ I **rottami del canyon** sono un mucchio di rottami, a ridosso delle montagne e 
 | ----- | ------------ | ---------- |
 |   {{<figure src="fnv/Canyon_Wreckage_loc.webp">}}    |              |   {{<figure src="fnv/FNVLR_Canyon_wreckage.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Granate a frammentazione**, in un camion ribaltato a sudest
 
 **Note**:

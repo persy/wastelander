@@ -28,7 +28,7 @@ L'**impianto Lightwave Dynamics Z-38** è unico edificio in cemento e mattoni, s
 | -------- | ------------------- |
 |  {{<figure src="fnv/OWB_Energy_Weapons_skill_book.webp">}}        |  **Ricette - Libro abilità Armi a energia**, nell'angolo a nordovest, sotto un monitor in cima alla prima rampa di scale a destra                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Accentuatore radiale di valenza**, in una colonna di luce al centro della primo livello; può essere difficile da notare
 - **5 Asce da lancio protoniche**, nell'angolo a sudovest della piattaforma sopra le scale e nel cassonetto dietro l'edificio
 - **5 Granate al plasma**, nel cassonetto dietro l'edificio

@@ -33,7 +33,7 @@ La **centrale metropolitana Franklin** è un tunnel di utilità e fa parte della
 | {{<figure src="fo3/FMU_Burnmaster.webp">}}                          | **Super lanciafiamme** e una **Nuka-Cola Quantum**, in un'estremità del tunnel fortemente irradiata, all'interno di un rimorchio (C)                                                                                      |
 | {{<figure src="fo3/Franklin_Metro_utility_mini_nuke.webp">}}        | **Munizione nucleare**, sott'acqua, in cima ad una cassa con una tuta antiradiazioni avanzata (B)                                                                                                                                                                                                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - 5 **Stealth Boy**:
 	- 2 sono direttamente a sinistra quando si entra per la prima volta nell'area, negli armadi metallici senza porte
 	- uno è al punto A della mappa locale

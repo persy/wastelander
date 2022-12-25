@@ -30,7 +30,7 @@ hidden: true
 | {{<figure src="fo3/Reds_light_reading.webp">}}       | **Giornale di medicina interna del D.C.**: nella clinica di Red, sul tavolo da cucina             |
 | {{<figure src="fo3/Reds_replicated_man_tape.webp">}} | **Olonastro** utile per la missione *L'uomo replicato*, in una stanza vicino alla porta sul retro | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Palla 8 fortunata**, ottenuto da Bomba a orologeria, dopo aver respinto l'attacco dei supermutanti
 
 </div>

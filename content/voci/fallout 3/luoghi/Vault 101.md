@@ -28,7 +28,7 @@ Il **Vault 101** è un Vault della Vault-Tec situato nella zona nord-ovest di Wa
 | ---------------------------------------------------- | -------------------------------------------------------------- |
 | {{<figure src="fo3/Vault101_Medicine_bobblehead.webp">}} | **Bambolina - Medicina**, nell'ufficio di James, nella clinica |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Schemi - Lanciatutto** e **300 tappi**,  nell'ufficio di James, dietro una cassaforte chiusa a chiave dietro il quadro con la citazione biblica
 - **Grognak il barbaro**, ricevuto da Amata. Se non viene subito utilizzato durante la festa, sarà disponibile nel comò della propria stanza
 - **Stealth Boy**, al ritorno nel Vault 101, sul cadavere di Steve Armstrong nella camera di decontaminazione

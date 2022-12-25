@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-Il **Drive-in del Mojave** è un semplice spiazzo, con uno schermo, dove un tempo le macchine si fermavano per il drive-in. Spesso viene pattugliata da bande di Sciacalli. Si trova a TODO.
+Il **Drive-in del Mojave** è un semplice spiazzo, con uno schermo, dove un tempo le macchine si fermavano per il drive-in. Spesso viene pattugliata da bande di Sciacalli. Si trova a sud di Nipton.
 
 | Mappa                         | Panoramica                |
 | ----------------------------- | ------------------------- |

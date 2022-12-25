@@ -27,6 +27,6 @@ La **Metro Arlington**/**Falls Church** è una stazione della linea bianca metro
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  TODO | **U.S. Army: 30 pratiche ricette per lanciafiamme**,  in un cassonetto vicino alla parete nord  |
+|  {{<figure src="fo3/USArmy_Arlington_Falls.jpg">}} | **U.S. Army: 30 pratiche ricette per lanciafiamme**,  in un cassonetto vicino alla parete nord, su una sedia  |
 
 </div>

@@ -30,7 +30,7 @@ La **Long 15** è una parte dell'Interstatale 15 trasformata in una landa altame
 |  {{<figure src="fnv/Great_Bear_grenade_rifle.webp">}}        |  **Lanciagranate del Grande Orso**, in una cassa vicino al Colonnello                   |
 | {{<figure src="fnv/Long_15_HT_gun_cases.webp">}}         |  **Alcune armi a energia**, in una custodia fucile high-tech, vicino a un pilone dell'autostrada                   | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **3 Armature da combattimento mercenario RNC**, sui cadaveri delle truppe RNC: davanti a un camion distrutto, davanti l'entrata, sotto un cavalcavia crollato e di fronte al secondo camion sulla strada
 - **7 Armature atomiche recuperate RNC**, tre indossati da truppe pesanti RNC, 4 su altrettanti cadaveri
 

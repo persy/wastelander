@@ -27,7 +27,7 @@ L'**area campeggio nazionale Everglow** si trova a nord-est di Little Lamplight 
 | {{<figure src="fo3/Everglow_National_Campground_Guns_and_Bullets.webp">}} | **Pistole e proiettili**, in un camion a ovest |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 11 **bombe di zucchero**, nello stesso camion
 - **Nuka-Cola Quantum**, a est dell'area di campeggio e a nord-ovest dello smaltimento rifiuti Fratelli Jalbert, vicino a un cartellone pubblicitario da bowling
 

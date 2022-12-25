@@ -34,7 +34,7 @@ Il **Vault 11** è un Vault della Vault-Tec e la sua entrata è nascosta in mezz
 | {{<figure src="fnv/Unarmed_Book_Vault_11.webp">}} | **Pugilato illustrato**, quartieri abitati, nel dormitorio delle donne, sul lato meridionale della mappa |
 | {{<figure src="fnv/Vault_11_mini_nuke.webp">}}    | **Munizione nucleare**, quartieri abitati, in una stanza chiusa (**Scasso 75**)                          |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Regolatore di pressione differenziale**, al livello inferiore (necessario per la missione _Ancora nel buio_)
 
 **Note**:

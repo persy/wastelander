@@ -25,7 +25,7 @@ Il **silo missilistico di Hopeville** è la prima area all'aperto del Divide, fo
 | {{<figure src="fnv/HMB_loc.webp">}} | {{<figure src="fnv/Hopeville_Missile_Base.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka Cola Quantum**, in una scatola all'interno della Stazione di rifornimento (10% di possibilità)
 
 **Note**:

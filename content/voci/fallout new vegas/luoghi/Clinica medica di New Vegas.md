@@ -24,7 +24,7 @@ La **clinica medica di New Vegas** è un piccolo edificio, con una sala d'aspett
 | ----- | ---------- |
 |  {{<figure src="fnv/New_Vegas_Medical_Clinic_loc.webp">}}     |  {{<figure src="fnv/NV_Medical_Clinic.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Med-X**, nella sala chirurgica, nel carrellino 
 
 **Note**:

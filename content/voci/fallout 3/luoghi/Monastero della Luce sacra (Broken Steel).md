@@ -24,7 +24,7 @@ Il **monastero della Luce sacra** è un piccolo insediamento disponibile solo co
 | ---------------------------------- | ------------------------------ |
 | {{<figure src="fo3/Holy_Light_Monastery_loc.webp">}}| {{<figure src="fo3/Holy_Light_Monastery.webp">}}| 
 
-Altri oggetti:
+**Altri oggetti**:
 - 2 casse di acqua santa, nel monastero
 
 </div>

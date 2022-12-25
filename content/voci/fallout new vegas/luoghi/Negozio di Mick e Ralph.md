@@ -28,7 +28,7 @@ Il **negozio di Mick e Ralph** è un edificio di due piani, in parte in mattoni 
 | -------- | ------------------- |
 |  {{<figure src="fnv/Mick's_special_store.webp">}}        |      **Pigiama sexy**, venduto da Mick, dopo aver sbloccato l'area segreta               |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Abbraccio del Re Mantide!**, **Spacca-Nuka**, **Li'l Devil**, venduti da Mick
 - **Pimp-Boy 3 miliardi**, venduto da Mick
 

@@ -29,7 +29,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/Big_Book_of_Science_CFH_command_center.webp">}}        | **Il grande libro della scienza**, all'angolo sudest della tenda di comando, su una scrivania (va rubato)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - Tappo di bottiglia stella Sunset Sarsaparilla, mensa militare, sul tavolo di fronte, appena entrati
 
 **Note**:

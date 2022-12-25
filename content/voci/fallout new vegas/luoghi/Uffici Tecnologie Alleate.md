@@ -28,7 +28,7 @@ Gli **Uffici Tecnologie Alleate** si trovano in un piccolo edificio, infestato d
 | -------- | ------------------- |
 |  {{<figure src="fnv/FNV_TOAJJV_Allied_Technology.webp">}}        |   **Racconti di un venditore di carne di Junktown**, sul pavimento della stanza a ovest, davanti a una macchinetta della Nuka Cola                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Due tappi di bottiglia stella Sunset Sarsaparilla**, su un tavolo a destra
 
 </div>

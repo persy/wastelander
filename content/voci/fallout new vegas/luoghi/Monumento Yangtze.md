@@ -25,7 +25,7 @@ Il **Monumento Yangtze** consiste in una croce sopra una collina, visibile anche
 | ----- | ------------ | ---------- |
 | {{<figure src="fnv/Yangtze_Memorial_loc.webp">}}      |              |  {{<figure src="fnv/FNV_YangtzeMemorial.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Droghe** e vari oggetti, in un borsone da campeggio
 - **Vita da uomini**, per terra, nella baracca a nordovest
 

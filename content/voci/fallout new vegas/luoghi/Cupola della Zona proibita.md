@@ -34,7 +34,7 @@ La **Cupola della Zona proibita** è un edificio simile strutturalmente al Serba
 | {{<figure src="fnv/LAER_X42_robo-warfare_facility.webp">}} | **LAER**, nell'officina su un tavolo                                                                                                                             |
 | {{<figure src="fnv/LAER_X42_dome.webp">}}                  | **LAER**, nella cupola, in una stanza sinistra                                                                                                                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **44 Mentats**, nella cupola, in una stanza a destra
 
 **Note**:

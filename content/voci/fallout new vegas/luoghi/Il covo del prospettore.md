@@ -29,7 +29,7 @@ Il **covo del prospettore** è una piccola caverna abitata dagli Sciacalli. Si t
 | -------- | ------------------- |
 | {{<figure src="fnv/Tumblers_prospectors_den.webp">}}         |  **Scassinatore moderno**, nella seconda stanza dell'edificio interno                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, su una scacchiera nella prima stanza
 
 </div>

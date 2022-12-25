@@ -25,7 +25,7 @@ L'**area picnic patriottica** è una località non contrassegnata situata a nord
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - ?
 
 

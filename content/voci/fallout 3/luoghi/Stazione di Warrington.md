@@ -30,7 +30,7 @@ La **stazione di Warrington** è una stazione della metropolitana della Zona con
 | {{<figure src="fo3/FO3_PI_Warrington.webp">}}                      | **Pugilato illustrato**, nel dormitorio, sullo scaffale all'interno di una cassa (va rubato)                                      |
 | {{<figure src="fo3/Dean's_Electronics_Warringon_Station.webp">}}   | **Elettronica di Dean**, nella stanza appena oltre il dormitorio. Il libro è su uno scaffale vicino a una scala a pioli           |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, nascosta tra alcune scatole di metallo intorno al centro del dormitorio
 
 </div>

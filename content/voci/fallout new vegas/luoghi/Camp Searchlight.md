@@ -30,7 +30,7 @@ private: false
 |  {{<figure src="fnv/FNV_CASOTM_Camp_Searchlight.webp">}}        |   **Esercito cinese: Corpi speciali. Manuale d'addestramento**, nello scantinato della chiesa a est                  |
 |   {{<figure src="fnv/FNV_Knock_Knock.webp">}}       |  **Toc Toc**, stazione pompieri, piano superiore, nei bagni vicino uno scheletro                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, stazione dei pompieri, al piano superiore, nella cucina
 - 2 **munizioni nucleari**, nello scantinato della chiesa
 - 3 **granate a frammentazione sacra**, nello scantinato della chiesa. E' necessario il tratto Zona contaminata selvaggia

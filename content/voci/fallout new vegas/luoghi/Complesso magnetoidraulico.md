@@ -28,7 +28,7 @@ Il **complesso magnetoidraulico** è un vecchio edificio abbandonato e allagato.
 | -------- | ------------------- |
 | {{<figure src="fnv/Sink_Project_module_mag_complex.webp">}}         | **Progetto del Pozzo: Lavello**, sulla scrivania all'angolo a sinistra dell'entrata (necessario per la missione _Tutti i miei amici hanno interruttori per spegnersi_)                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - Molte **munizioni per armi a energia** (200 celle di energia, 260 celle a microfusione), galleggianti sull'acqua o su fondo della zona allagata
 - **4 Asce da lancio protoniche**, all'angolo più a destra, dietro un generatore
 

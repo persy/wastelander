@@ -36,7 +36,7 @@ La **sede REPCONN** era la sede della REPCONN Aerospace, una compagnia prebellic
 | {{<figure src="fnv/Nikola_Tesla_and_You_REPCONN_HQ_2nd_floor.webp">}}   | **Tu e Nikola Tesla**, primo piano, su una scrivania vicino a un terminale                                                                                         |
 | {{<figure src="fnv/Piers_Isley.webp">}}                                                      |                                                                                                                                                                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **5 tappi di bottiglia stella Sunset Sarsaparilla**: 
 	- piano terra, su una scrivania fra due bottiglie, dietro al terminale di sicurezza
 	- piano terra, nel negozio dei souvenir

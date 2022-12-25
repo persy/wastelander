@@ -42,7 +42,7 @@ private: false
 | {{<figure src="fnv/SdS_south_Dean's_Secret_Stash_south.webp">}}              | **Riserva segreta di Dean**, a Salida del Sol sud, verso sud                                                                                                                                     |
 | {{<figure src="fnv/SdS_south_Dean's_Secret_Stash_east.webp">}}               | **Riserva segreta di Dean**, a Salida del Sol sud, a est nella Nube                                                                                                                                                                                      |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Pagina di diario**, a Salida del Sol sud, al secondo piano di un edificio a sud del cortile
 - **Pagina macchiata**, nell'edificio con le scale appena entrati a Salida del Sol sud
 - **Pagina di diario strappata**, in un edificio appena entrati a Salida del Sol nord

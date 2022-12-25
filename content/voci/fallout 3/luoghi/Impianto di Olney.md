@@ -24,7 +24,7 @@ private: false
 | ------------------------ | ---------------------------------- | --------------------------- |
 | {{<figure src="fo3/OldOlney_loc.webp">}}| {{<figure src="fo3/Olney_Powerworks_loc_map.webp">}}| {{<figure src="fo3/Olney_Powerworks1.webp">}}|
 
-Altri oggetti:
+**Altri oggetti**:
 - **Bobina di Tesla**, all'interno del reattore centrale
 - **Energie aliene**, al piano inferiore nell'area appena prima della bobina di Tesla
 

@@ -28,7 +28,7 @@ La **stazione di rifornimento Poseidon** è na semplice stazione di rifornimento
 | -------- | ------------------- |
 |   {{<figure src="fnv/FNV_Poseidon_police.webp">}}       |   **Vere storie della polizia**, **kit di riparazione**, nel rottame di una volante della pulizia                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quartz**, in cima alle roulotte, appena a sud della stazione
 
 </div>

@@ -29,7 +29,7 @@ La **caverna del vento morto** è una caverna posta in cima a un ripido sentiero
 |   {{<figure src="fnv/Dead_Wind_Cavern_interior.webp">}}       |   **Pietà**, nella stanza con il deathclaw leggendario                  |
 |  {{<figure src="fnv/Pile_of_deathclaw_eggs_DWC_Bleed_Me_Dry.webp">}}        |     **Cumulo di uova di deathclaw**, nella stanza centrale (necessario per la missione _Prosciuga tutto il mio sangue_)                |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Armatura atomica T-51b Confraternita**, sul cadavere di un paladino, nella stessa stanza
 
 </div>

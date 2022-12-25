@@ -26,7 +26,7 @@ Il distretto di **Chevy Chase** è situato nella parte nord di Washington, D.C. 
 | {{<figure src="fo3/Chevy_Chase_North_loc.webp">}} | {{<figure src="fo3/Chevy_Chase_map.webp">}} | {{<figure src="fo3/Chevy_Chase.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 3 **acqua purificata**, nel rifugio di preservazione Pulowski a nord dell'ingresso della metro Tenleytown/Friendship
 
 </div>

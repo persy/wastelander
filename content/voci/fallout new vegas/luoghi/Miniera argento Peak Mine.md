@@ -28,7 +28,7 @@ La **miniera argento Peak Mine** è una piccola miniera, il cui accesso è nasco
 | -------- | ------------------- |
 | {{<figure src="fnv/Tumblers_silver_peak_mine.webp">}}         |   **Lo scassinatore moderno**, baracca dei minatori, vicino a uno degli armadietti all'ingresso                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, baracca dei minatori, su un tavolo all'ingresso
 - **Elmo atomico dei Superstiti**, livello superiore della caverna, dietro uan cancellata
 - **Esplosivi**, in diverse casse sparse nella caverna

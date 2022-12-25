@@ -454,7 +454,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 
 ### Protettore
 
-| Comune                                           | Sicurezza Nuka-Cola                                   | Pitt TODO                                        | Rinnegato                                                |
+| Comune                                           | Sicurezza Nuka-Cola                                   | Pitt                                        | Rinnegato                                                |
 | ------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
 | {{<figure src="fo3/Protectron.webp" width="250px">}} | {{<figure src="fo3/Nuka_protectron.webp" width="250px">}} | {{<figure src="fo3/FO3TP_Factory_Protectron.webp">}} | {{<figure src="fo3/Outcast_protectron.webp" width="250px">}} |
 
@@ -466,7 +466,7 @@ Vengono omessi i valori della RD (resistenza danni) e la SD (soglia danni) se eq
 | della metro         |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore |                                      |
 | sicurezza Nuka-Cola |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore | Nello stabilimento Nuka-Cola         |
 | della fabbrica      |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore | Nello stabilimento Nuka-Cola         |
-| del Pitt TODO       |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore | Nella stadera del Pitt               |
+| del Pitt       |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore | Nella stadera del Pitt               |
 | di manutenzione     |  3   |  ?  |  4  |  0  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Batteria a fissione<br>Rottami di ferro<br>Modulo sensore                     | Allo Statesman Hotel                 |
 | unità di backup     |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Batteria a fissione<br>Rottami di ferro<br>Modulo sensore                     | Agli Archivi nazionali               |
 | rinnegato           |  3   |  ?  |  4  | 75  |    :imp:     | :crossed_swords: (2)<br>Laser - mano (30)<br>Laser - testa (30)<br>Res. radiazioni 100%<br>Res. veleno 100% | Cella di energia<br>Batteria a fissione<br>Rottami di ferro<br>Modulo sensore | Assieme alle pattuglie dei Rinnegati |

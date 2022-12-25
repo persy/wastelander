@@ -33,9 +33,9 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#4eff01', 'primaryTextColor': '#fff', 'lineColor': '#4eff01', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Le armi di Anchorage</b>):::questfo3
-    id2(Fatti strada fino all'avamposto TODO)
+    id2(Fatti strada fino all'avamposto)
     id3(Incontrati con il Sergente Montgomery)
-    id4(Raggiungi l'area dell'artiglieria TODO)
+    id4(Raggiungi l'area dell'artiglieria)
     id5(Piazza gli esplosivi sui tre obici)
     id6(Parla con Montgomery)
     id7(100 PE):::rewardfo3

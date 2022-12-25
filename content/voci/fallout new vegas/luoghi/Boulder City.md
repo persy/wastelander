@@ -24,7 +24,7 @@ private: false
 | -------------------------- | ---------------------- |
 | {{<figure src="fnv/Boulder_City_loc.webp">}} | {{<figure src="fnv/Boulder_City.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - Big Horn Saloon:
 	- **Tappo di bottiglia stella Sunset Sarsaparilla**, secondo tavolo a sinistra appena entrati
 	- **3 bottiglie di Nuka-Cola Quartz**, nella mensola centrale

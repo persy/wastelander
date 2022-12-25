@@ -32,7 +32,7 @@ Il nido ratto talpa è il nome erroneamente attribuito nella versione italiana a
 | -------------------------- | ---------------------- |
 | {{<figure src="fnv/Cazador_Nest_loc.webp">}} | {{<figure src="fnv/Cazador_nest.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Esplosivi**, in delle casse e in un borsone, vicino a uno scheletro
 
 </div>

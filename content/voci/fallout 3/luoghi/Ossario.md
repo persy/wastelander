@@ -28,7 +28,7 @@ L'**ossario** è un edificio in rovina e si trova a sud-ovest di Fort Bannister,
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | {{<figure src="fo3/Charnel_House_Duck_and_Cover.webp">}} | **Al riparo!**, al piano superiore, sul pavimento vicino al camino e alla fessura nel muro |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Pugilato illustrato**, nella camera di drenaggio a ovest, seguendo il [Segnale Papa November (PN)](../camere-di-drenaggio)
 - **Nuka-Cola Quantum** e due **libri prebellici**, nella casa dello sciacallo
 

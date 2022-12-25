@@ -31,7 +31,7 @@ A nord-est è presente il cimitero, infestato dalle mosche mutate e alcuni scorp
 | {{<figure src="fnv/CA_Special_Ops_Training_Manual_Goodsprings_home01.webp">}} | **Esercito cinese: Corpi speciali. Manuale d'addestramento**, casa di Trudy, su una piccola libreria |
 | {{<figure src="fnv/Snow_globe_-_Goodsprings.webp">}}                          | **Palla di neve**, vicino alla torre dell'acqua nel cimitero                                         |
 __
-Altri oggetti:
+**Altri oggetti**:
 - Prospector Saloon:  
   - **Ripara facile**, sul bancone a sinistra dell'entrata  
   - **Il periodico del fabbro**, dato da Sunny Smiles se le chiedi se c'è qualche lavoro da fare  

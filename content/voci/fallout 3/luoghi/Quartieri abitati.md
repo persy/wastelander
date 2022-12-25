@@ -29,7 +29,7 @@ Gli alloggi sono composti da tre stanze principali collegate da corridoi.
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-| {{<figure src="fo3/Alien_captive_recording_log_18_living_quarters.webp">}}  |      **Registrazione prigioniero 23**, TODO         |
+| {{<figure src="fo3/Alien_captive_recording_log_18_living_quarters.webp">}}  |      **Registrazione prigioniero 23**, vedi *La leggenda di Zeta*         |
 
 
 **Note**:

@@ -24,7 +24,7 @@ private: false
 | ------------------------- | --------------------- |
 | {{<figure src="fnv/Gun_Runners_loc.webp">}} | {{<figure src="fnv/Gun_Runners.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nella piccola cassetta accanto al tavolo di metallo nella hall
 - **Addio in due tempi**, **Gehenna**, **Bozar**, **Bastone medicinale**, **Ninna nanna**, **Esther**, venduti dal Vendotron
 

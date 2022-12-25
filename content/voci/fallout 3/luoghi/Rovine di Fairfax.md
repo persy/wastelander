@@ -31,7 +31,7 @@ Le **rovine di Fairfax** sono costituite da negozi e abitazioni diroccate. Si tr
 | {{<figure src="fo3/Concrete_treehouse_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown**, nella casa sull'albero di cemento a sud delle rovine                                                                       |
 | {{<figure src="fo3/FO3_CA_SOTM_Fairfax_metro.webp">}}                           | **Esercito cinese: Corpi speciali. Manuale addestrativo**, nella stazione di Fairfax, sulle delle macerie accanto alla scala mobile est                                         |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, in un camion ribaltato sotto l'autostrada a sud delle rovine (verso Andale)
 
 *Vedi [Stazione della metro di Fairfax](../capitale#stazione-della-metro-di-fairfax)*

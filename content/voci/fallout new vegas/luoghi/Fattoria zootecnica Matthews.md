@@ -28,7 +28,7 @@ La **fattoria zootecnica Matthews** è costituita da due capanni in rovina, una 
 | -------------------------------------------------- | ------------------------------------------------------------------------- |
 | {{<figure src="fnv/Wasteland_Matthews_Animal_Husbandry_Farm.webp">}} | **Guida soprav. Zona contaminata**, al piano superiore del capanno a nord |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, al piano superiore del capanno a nord
 
 </div>

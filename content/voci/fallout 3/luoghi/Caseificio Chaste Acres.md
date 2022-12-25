@@ -31,7 +31,7 @@ Il **caseificio Chaste Acres** è quel che resta di una piccola fattoria e si tr
 | {{<figure src="fo3/FO3_GTB_Chaste_Acres.webp">}}         | **Grognak il barbaro** ,al secondo piano del fienile, accanto ad un letto                                                         |
 | {{<figure src="fo3/Guns_and_Bullets_Chaste_Acres.jpg">}} | **Pistole e proiettili** e 5 **Nuka-Cola Quantum**, in una cassetta postale e in un camion della Nuka-Cola a ovest della fattoria |
 
-Altri oggetti:
+**Altri oggetti**:
 - 5 **Nuka-Cola Quantum**, in un camion della Nuka-Cola a ovest della fattoria
 
 </div>

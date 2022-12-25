@@ -24,7 +24,7 @@ L'**Edificio Basincreek** è un piccolo edificio, infestato dalle formiche gigan
 | ----- | ---------- |
 |  {{<figure src="fnv/Basincreek_Building_loc.webp">}}     |   {{<figure src="fnv/Basincreek_Building.webp">}}         | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Aiutami!**, per terra, sul retro dell'edificio
 
 </div>

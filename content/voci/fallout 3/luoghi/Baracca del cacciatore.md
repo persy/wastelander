@@ -26,10 +26,10 @@ La **baracca del cacciatore** è un luogo disponibile solo con il DLC *Point Loo
 
 | Immagine                       | Oggetto e posizione                                                 |
 | ------------------------------ | ------------------------------------------------------------------- |
-| {{<figure src="fo3/TS_miniature_quantum.webp">}}| **Nuka-Cola Quantum**, in cantina, in cima alle due casseforti TODO |
+| {{<figure src="fo3/TS_miniature_quantum.webp">}}| **Nuka-Cola Quantum**, in cantina, in cima alle due casseforti  |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Mina da tappo**, sul banco di lavoro in cantina.
 - **Stealth Boy**, su un tavolo in camera da letto
 

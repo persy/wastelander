@@ -41,7 +41,7 @@ Lo **stabilimento Nuka-Cola** è un grande edificio industriale a tre piani situ
 | {{<figure src="fo3/FO3_Nuka_Cola_Plant_Quantum_truck.webp">}}  | **Nuka-Cola Quantum**, sul lato sud dello stabilimento, all'interno del rimorchio di un camion, insieme a dieci bottiglie di Nuka-Cola |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Fabbrica
 	- **Formula della Nuka-Cola Clear**, in una cassaforte a muro. La chiave può essere ottenuta da Milo, il  Mister Handy che si trova al livello più basso della fabbrica
 - Vasche di stoccaggio e miscelazione

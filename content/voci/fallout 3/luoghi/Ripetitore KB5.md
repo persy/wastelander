@@ -31,7 +31,7 @@ Il **ripetitore KB5** si trova ad ovest del santuario Deathclaw.
 |{{<figure src="fo3/Broadcast_KB8_Raiders_Tumblers_Today.jpg">}}|**Lo scassinatore moderno**, in una casa in rovina a nord-ovest, in uno scaffale nell'angolo della casa di fronte alla vasca da bagno|
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, in una casa in rovina a nord-ovest, nella vasca da bagno
 - **Quasi a casa...**, a nord-est della casa in rovina, vicino a un cadavere di un colono
 - **Munizione nucleare**, oltre la collina a nord-est del cadavere del colono, tra le gambe di uno scheletro

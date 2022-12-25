@@ -29,7 +29,7 @@ Il **centro di ricerca X-12** è un piccolo edificio che nasconde una serie di l
 | -------- | ------------------- |
 | {{<figure src="fnv/Light_Switch_1_Smart_Lights_upgrade.webp">}}         |  **Potenziamento dell'Interruttore della luce 01: "Luci intelligenti"**, vicino a d un proiettore al piano più in basso (necessario per la missione _Influenzare la gente_)                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Arma Cybercane K9000**, in possesso al Restrittore di Trauma principale Y-17
 - **8 Asce da lancio protoniche**, all'interno del podio nella parte sud del livello più basso
 - **2 Set di chimica Deluxe**, nel piano più basso; con Scienza 25 è possibile creare cinque stimpak o 5 droghe a scelta

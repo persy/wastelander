@@ -34,7 +34,7 @@ hidden: true
 | {{<figure src="fo3/Mama_Dolce's_Tales_of_a_Junktown_Jerky_Vendor.webp">}} | **Racconti di un venditore di carne di Junktown**, a nord dell'ingresso di distribuzione alimenti,  dietro alcuni barili, accanto al cadavere di un colono |
 | {{<figure src="fo3/Mama_Dolce's_Nuka-Cola_Quantum_and_more.webp">}}       | **Nuka-Cola Quantum**, area di distribuzione alimenti, su una scrivania in un ufficio al piano superiore                                                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Chiave di crittografia di Mama Dolce**, distribuzione alimenti, nell'inventario del capitano dei reduci cinesi; sblocca il terminale sulla scrivania
 - 4 **Stealth Boy**: 
 	- area distribuzione alimenti,  sotto la scrivania col computer del capitano dei reduci cinesi

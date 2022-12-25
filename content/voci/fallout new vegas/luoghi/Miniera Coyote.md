@@ -24,7 +24,7 @@ La **miniera Coyote** è una miniera che si snoda in due camere principali ed è
 | ----- | ------------ | ---------- |
 |  {{<figure src="fnv/Coyote_Mines_loc.webp">}}     |  {{<figure src="fnv/Coyote_Mines_local_map.webp">}}            |  {{<figure src="fnv/CoyoteMines.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nella casa puoi recuperare su di un tavolo
 - 15 candelotti di **dinamite**, nella miniera, dietro a un cancello chiuso
 

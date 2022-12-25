@@ -28,7 +28,7 @@ La **caverna delle ossa di pietra** fa a parte delle Gole, nella parte nord-est 
 | -------- | ------------------- |
 |  {{<figure src="fnv/Survivalist_hidden_cache_Stone_Bones_cave.webp">}}        | **Scorta di sopravvivenza**, in un'area sopraelevata                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Armatura da combattimento da mercenario del deserto**, nel retro della caverna, vicino alla scorta di sopravvivenza
 
 </div>

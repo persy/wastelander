@@ -28,7 +28,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/House_Resort_magazines.webp">}}        |  **3 tappi di bottiglia stella Sunset Sarsaparilla** e molte **riviste dell'abilità** (**Ripara facile**, **Bollettino programmatore**, **Vita da uomini**, **Racconti di cavalleria**, **Il corriere delle armi future**, **La gazzetta del pugile**, **Gente da conoscere**), abitazione di House, nelle stanze al piano superiore                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **5 Nuka-Cola Quartz** e **22 acque purificate**, abitazione di House, nella cucina
 - **House VIP Key Card**, nell'ufficio del Capo Hanlon. La chiave serve per accedere all'attico del Lucky 38
 - **Sequoia dei mercenari**, nell'inventario del Capo Hanlon

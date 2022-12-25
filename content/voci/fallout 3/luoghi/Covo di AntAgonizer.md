@@ -27,7 +27,7 @@ Il **covo di AntAgonizer** è il nascondiglio dell'AntAgonizer e si trova a nord
 | ------------------------------- | ------------------------------------------------------ |
 | {{<figure src="fo3/AntAgonizer_on_throne.webp">}} | **Nuka-Cola Quantum**, accanto al trono di AntAgonizer |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Stealth Boy**, su uno scaffale con delle scatole di metallo
 - **Costume** ed **elmo di AntAgonizer**, indossato dall'AntAgonizer
 - **Morso di formica**, ricompensa dell'AntAgonizer per aver sconfitto il Meccanicista in *Il gambetto superumano*; può essere ottenuto tramite reverse pickpocketing

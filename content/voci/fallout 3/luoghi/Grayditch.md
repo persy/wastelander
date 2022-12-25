@@ -27,7 +27,7 @@ hidden: true
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | {{<figure src="fo3/Guns_and_Bullets_Grayditch.png">}} | **Pistole e proiettili**, nella casa abbandonata a sud-est, in una cassa di legno sulla libreria a destra dell'entrata |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Registrazione password del Dott. Lesko**, nella baracca del Dott. Lesko
 
 </div>

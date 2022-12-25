@@ -29,7 +29,7 @@ Il **rifugio dei Seguaci** è un piccolo edificio senza finestre e con una sola 
 | -------- | ------------------- |
 |   {{<figure src="fnv/DC_Journal_Internal_Medicine_Followers_safehouse.webp">}}       |     **Giornale di medicina interna del D.C.**, vicino a un comodino                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Riviste dell'abilità**, su un letto
 - **Tuta antiradiazioni avanzata** e un **fucile laser a triplo raggio**, sul letto a sinistra  
 - **Tuta multiuso** e un **fucile Multiplas**, sul letto al centro

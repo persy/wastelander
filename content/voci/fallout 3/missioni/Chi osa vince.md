@@ -18,7 +18,7 @@ private: false # Nascosto dalle ricerche
 
 <div class="fo3">
 
-*Chi osa vince* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla piazza della Casa Bianca (TODO).
+*Chi osa vince* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla piazza della Casa Bianca <!--TODO-->.
 
 
 <section class="chart-collapse">

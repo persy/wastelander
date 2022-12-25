@@ -24,7 +24,7 @@ Lo **stabilimento macinazione rocce Samson** consiste in una serie di rampe che 
 | ---------------------------------------- | ------------------------------------ |
 | {{<figure src="fnv/Samson_Rock_Crushing_Plant_loc.webp">}} | {{<figure src="fnv/Samson_Rock_Crushing_Plant.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - Ferro 9, portato da Driver Nephi
 
 **Note**:

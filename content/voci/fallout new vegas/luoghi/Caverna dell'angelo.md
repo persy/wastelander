@@ -28,7 +28,7 @@ La **caverna dell'angelo** è la dimora di Joshua Graham. Composta da due camere
 | -------- | ------------------- |
 |  {{<figure src="fnv/Survivalist_hidden_cache_Angel_cave.webp">}}        |  **Scorta di sopravvivenza**, in un angolo a sinistra di un dirupo                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Cassa del banco da lavoro**, con due libri delle abilità casuali (vengono generati una volta entrati nella caverna)
 - **Pistola automatica .45**, sul tavolo al centro
 

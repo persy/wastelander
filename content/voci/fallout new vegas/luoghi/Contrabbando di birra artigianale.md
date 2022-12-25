@@ -28,7 +28,7 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/Brewer's_beer_bootlegging_Big_Book_of_Science.webp">}}        |   **Il grande libro della scienza**, nel sotterraneo, vicino a un set da chimico                  |
 
-Altri oggetti:
+**Altri oggetti**:
 -  **Tappo di bottiglia stella Sunset Sarsaparilla**, su una piccola libreria
 -   **Fucile da cecchino**, in un armadietto nel sotterraneo
 

@@ -29,7 +29,7 @@ La **casa di Dukov** è un hotel prebellico situato vicino all'Anchorage Memoria
 | {{<figure src="fo3/Duck_and_Cover!_festive_raider_camp.webp">}} | **Al riparo!**, nell'accampamento dei predoni a sud dell'edificio, su un tavolino                                                |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, vicino al **Pugilato illustrato**
 - **Chiave speciale di Dukov**, sul cadavere di Dukov o convincendo Cherry o Fantasia a recuperarla
 

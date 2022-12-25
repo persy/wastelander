@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-Il **sito test REPCONN** è quello che resta dell'impianto REPCONN per i test missilistici. La parte centrale è occupata da ghoul ferali, mentre i piani superiori, raggiungibili tramite alcune passerelle sul lato nord, è occupata dalla Confraternita di Bright. Nello scantinato si è insediato un gruppo di nightkin ostili, comandati da Davison.. Si trova a TODO.
+Il **sito test REPCONN** è quello che resta dell'impianto REPCONN per i test missilistici. La parte centrale è occupata da ghoul ferali, mentre i piani superiori, raggiungibili tramite alcune passerelle sul lato nord, è occupata dalla Confraternita di Bright. Nello scantinato si è insediato un gruppo di nightkin ostili, comandati da Davison. Si trova a nord-ovest della base commerciale 188.
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
@@ -28,7 +28,7 @@ Il **sito test REPCONN** è quello che resta dell'impianto REPCONN per i test mi
 | -------- | ------------------- |
 |   {{<figure src="fnv/FNV_space_suit.webp">}}       | **Tuta spaziale e casco tuta spaziale**, nella stanza del seminterrato dove è possibile vedere i missili di Bright                    |
 
-Altri oggetti:
+**Altri oggetti**:
 - Area esterna:
 	- **Droghe**, **rottami di ferro**, **rottami elettronici**, arrivando da Novac, in un piccolo accampamento di fortuna, arrivando da Novac
 	- **Droghe**, **stimpak**, **bottiglie vuote di soda**, nella zona sopraelevata del cavalcavia

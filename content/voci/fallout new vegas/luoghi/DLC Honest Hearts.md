@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Honest Hearts
-summary: 'TODO'
+summary: ''
 weight: 40
 
 

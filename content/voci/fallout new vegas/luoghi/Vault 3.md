@@ -32,7 +32,7 @@ Il **Vault 3** è un Vault della Vault-Tec e uno dei pochi ad essere ancora abit
 | -------- | ------------------- |
 | {{<figure src="fnv/Chinese_Army_Special_Ops_Training_Manual.webp">}}         |   **Esercito cinese: Corpi speciali. Manuale d'addestramento**, quartieri abitati, nella stanza da letto chiusa (Scasso 50), su un ripiano                  |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, quartieri abitati, nella stanza a sud su un tavolo
 - **Nuka-Cola Quartz**, **Nuka Cola Victory**, area ricreativa, dietro una porta chiusa (Scasso 15)
 - **Sega elettrica**, ala manutenzione, in mano a Motor-Runner

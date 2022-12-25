@@ -29,7 +29,7 @@ Il **laboratorio sotterraneo** è una località nascosta, sotto il faro di Point
 | {{<figure src="fo3/Fo3PL_Lighthouse_weapon_stash.webp">}}| **Emettitore di microonde**, in una stanza alla fine della missione *Un incontro tra menti* |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - 3 **libri prebellici** nell'ufficio del Dottor Stewart
 - 2 laser Gatling, nove fucili laser AER9, 14 pistole laser AEP7, 71 celle di energia per il Mesmetron, in diverse stanze 
 

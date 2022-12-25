@@ -29,7 +29,7 @@ Il **quartier generale dei Giustizieri** è ospitato all'interno di una fattoria
 | {{<figure src="fo3/Guns_and_Bullets_Regulator_HQ.webp">}} | **Pistole e proiettili** sotto il letto, accanto a Sonora Cruz |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Nuka-Cola Quantum**, nella stanza con la vasca, in uno degli scomparti aperti dell'armadietto
 
 </div>

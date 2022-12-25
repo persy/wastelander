@@ -25,7 +25,7 @@ Il **bandito a pezzi** è costituito da un camion insabbiato in una specie di ac
 | -------------------------------- | ---------------------------- |
 | {{<figure src="fnv/Wrecked_Highwayman_loc.webp">}} | {{<figure src="fnv/Wrecked_Highwayman.webp">}} |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, nel camion
 
 </div>

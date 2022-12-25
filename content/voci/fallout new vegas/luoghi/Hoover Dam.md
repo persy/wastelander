@@ -28,8 +28,8 @@ private: false
 | -------- | ------------------- |
 |  {{<figure src="fnv/Hoover_Dam_snowglobe.webp">}}        | **Palla di neve**, sul tavolo della reception                    |
 
-Altri oggetti:
-- **2 armature ed elmi furtivi cinesi**, uffici, TODO
+**Altri oggetti**:
+- **2 armature ed elmi furtivi cinesi**, negli uffici
 - **Berretto del Generale Oliver** e **Uniforme del Generale Oliver**, indossati dal Generale Oliver durante la battaglia finale
 - **Vestito del Presidente Kimball**, indossato dal Presidente Kimball durante il suo discorso alla nazione (_Killer dell'Arizona_)
 - Il Quartiermaestro Bardon è disponibile a barattare la propria merce solo dopo una sfida Eloquenza 50 o se hai una buona reputazione con l'RNC

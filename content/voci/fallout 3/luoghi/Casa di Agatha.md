@@ -25,7 +25,7 @@ La **casa di Agatha** è una piccola casa con una sola stanza e si trova a ovest
 | {{<figure src="fo3/Agathas_House_loc.webp">}} | {{<figure src="fo3/Agatha's_house.webp">}} |
 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Munizione nucleare**, in una scatola di munizioni sul tavolo a sinistra dell'ingresso (va rubata)
 - **Blackhawk**, dato da Agatha per aver completato *Canzone di Agatha* 
 

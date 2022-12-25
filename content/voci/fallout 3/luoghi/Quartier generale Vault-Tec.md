@@ -30,7 +30,7 @@ Il **quartier generale Vault-Tec** si trova a Vernon Square nelle rovine di Wash
 |  {{<figure src="fo3/Grognak_the_Barbarian_Vault-Tec_HQ.webp">}} |  **Grognak il barbaro**, amministrazione, su un bancone curvo nella stanza a nord |
 |   |   |
 
-Altri oggetti:
+**Altri oggetti**:
 -  2 scatole di **bombe di zucchero**, relazioni con gli ospiti, vicino al tavolo con il libro **Racconti di un venditore di carne di Junktown**
 -  **Libro prebellico**, uffici aziendali,  al primo piano, sopra un bidone della spazzatura nella stessa stanza della cassaforte
 -  **Nuka-Cola Quantum**, uffici aziendali, nella stanza a nord al secondo piano, sul ripiano inferiore di una libreria

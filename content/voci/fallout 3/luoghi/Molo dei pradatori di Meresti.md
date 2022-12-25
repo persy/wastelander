@@ -26,7 +26,7 @@ Il **molo dei predatori di Meresti** è una località non contrassegnata e si tr
 
 
 
-Altri oggetti:
+**Altri oggetti**:
 - Sigarette, munizioni e droghe, sugli scaffali
 
 </div>

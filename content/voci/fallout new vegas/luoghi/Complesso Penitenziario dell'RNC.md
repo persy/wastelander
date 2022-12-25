@@ -28,7 +28,7 @@ Il **Complesso Penitenziario dell'RNC** è il quartier generale dei Powder Gange
 | -------- | ------------------- |
 |   {{<figure src="fnv/Lying_Congressional_Style_NCR_Correctional_Facility.webp">}}       |    Stile da congresso, menzognero, su una scrivania al secondo piano (va rubato)                 |
 
-Altri oggetti:
+**Altri oggetti**:
 - Ufficio Turistico:  
 	- **Tappo di bottiglia stella Sunset Sarsaparilla**, sul tavolo della reception. Va rubato  
 - Cella Blocco B:  

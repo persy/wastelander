@@ -35,7 +35,7 @@ Il **bunker del silo missilistico di Hopeville** è un'enorme struttura che si e
 | {{<figure src="fnv/Ralphie_poster_EDE.webp">}}                          | **Poster di RALPHIE**, vicino alla camera di stasi di ED-E                                                                                                                                            |
 | {{<figure src="fnv/Ralphie_poster_Solitare-1.webp">}}                   | **Poster di RALPHIE**, all'interno della stazione di servizio, vicino ad un banco da lavoro                                                                                                           |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Sparachiodi H&H Tools**, in una scatola degli arnesi sullo scaffale inferiore all'interno della stanza di stoccaggio, al terzo livello
 - **2 Nuka-Cola Quartz**: una nel ripostiglio sulla piattaforma rialzata; l'altra nella stanza del reattore al secondo livello, sotto una scrivania
 - **Bollettino programmatore**, in cima al controllo per la porta tagliafuoco

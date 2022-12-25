@@ -25,7 +25,7 @@ L'**accampamento Viper della Highway 95** è un insieme di baracche in lamiera, 
 | -----  | ---------- |
 |  {{<figure src="fnv/Highway_95_Vipers_Encampment_loc.webp">}}                   |  {{<figure src="fnv/ViperCamp.webp">}}          | 
 
-Altri oggetti:
+**Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, in uno dei capanni al centro
 
 </div>

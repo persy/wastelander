@@ -29,7 +29,7 @@ L'**impianto di decostruzione Securitron** è una struttura in cemento, circonda
 | -------- | ------------------- |
 | {{<figure src="fnv/Sink_Project_Muggy_deconstruction_plant.webp">}}         |  **Progetto del Pozzo: Muggy**, nel retro del camion a sud dell'edificio                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **Potenziamento "Muggy": Produzione parti**, sul corpo di 010011110110111001100101
 - **Tiratore scelto carabina**, sopra i tubi a est dell'edificio  
 - **Oggetti vari**, per creare i kit di riparazione

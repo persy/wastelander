@@ -28,7 +28,7 @@ La **piattaforma dello sciacallo** è costituita da un'insieme di baracche galeg
 | -------- | ------------------- |
 |  {{<figure src="fnv/WSGscavenger.webp">}}        |  **Guida soprav. Zona contaminata**, su una mensola ribaltata, nella baracca a nord                   |
 
-Altri oggetti:
+**Altri oggetti**:
 - **4 tappi di bottiglia stella Sunset Sarsaparilla**: uno su un ripiano nella baracca a nordest, tre nel camion sommerso, sotto la piattaforma
 
 </div>

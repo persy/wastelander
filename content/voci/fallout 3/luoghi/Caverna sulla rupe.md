@@ -33,7 +33,7 @@ La **caverna sulla rupe**, conosciuta anche come caverna degli Yao Guai, è una 
 | {{<figure src="fo3/Cliffside_Cavern_mini_nuke.webp">}}             | **Munizione nucleare**, nella tenda nella caverna nord-est, in cima a una delle casseforti                                                    |
 | !{{<figure src="fo3/NCQ_Cliffside_Cavern.jpg">}}                    | **Nuka-Cola Quantum**, vicino all'uscita sud, sopra un tavolo su una piattaforma con due generatori                                           |
 
-Altri oggetti:
+**Altri oggetti**:
 - Avamposto dei predoni
 	- **Libro prebellico**, sul tavolo accanto al letto nella tenda
 

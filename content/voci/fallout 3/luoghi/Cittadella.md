@@ -32,7 +32,7 @@ La Cittadella è il quartier generale della Confraternita d'Acciaio nella Zona c
 
 <!--TODO: aggiorna immagini -->
 
-Altri oggetti:
+**Altri oggetti**:
 - 3 **registri personali dell'Anziano Lyons**, uno nel laboratorio, due nella sua stanza personale
 - **Fine del contrabbandiere**, nella cassaforte di Lyons, nell'anello B della "The Solar" area (Scasso 100)
 - 2 cannoni Tesla, nel laboratorio e nell'armeria (Broken Steel)
