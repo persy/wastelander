@@ -1,18 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Vagabondo solitario
+linktitle: Il Vagabondo solitario
 summary: ''
 weight: 10
-icon: user
-icon_pack: fas
 
 # Page metadata.
-title: Vagabondo solitario
+title: ''
 date: 2022-11-15
 type: book # Do not modify.
-commentable: true
-hidden: false # Visibile nella sidebar
+hidden: true # Visibile nella sidebar
 private: true # Nascosto dalle ricerche
+commentable: true
 ---
 
 

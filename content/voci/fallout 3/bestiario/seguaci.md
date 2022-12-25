@@ -11,6 +11,7 @@ title: Seguaci
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
+hidden: true
 ---
 
 <div class="fo3">

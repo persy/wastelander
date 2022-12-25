@@ -1,21 +1,20 @@
-
 ---
 widget: featurette
 headless: true
 weight: 20
-title: Cosa puoi trovare
-subtitle: L'essenziale e qualcosa di più
+title: "Cosa puoi trovare in questo sito?"
+subtitle: "Una wiki essenziale e completa in italiano di Fallout 3 e Fallout: New Vegas"
 feature:
-  - icon: file-pdf
-    icon_pack: fas
-    name: Guide
-    description: Da scaricare e consultare offline
   - icon: globe
     icon_pack: fas
-    name: Voci online
-    description: Per un consulto rapido
+    name: "+1000 voci"
+    description: Con schemi,
   - icon: map
     icon_pack: fas
-    name: Contenuti extra
-    description: Mappe, tips e curiosità
+    name: "+50 contenuti extra"
+    description: Mappe, tips e tabelle
+  - icon: image
+    icon_pack: fas
+    name: "+3000 immagini"
+    description: Zoomabili e scaricabili in HD
 ---

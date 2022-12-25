@@ -1,13 +1,11 @@
 ---
 # Title, summary, and page position.
-linktitle: Luoghi della Capitale
+linktitle: La Capitale
 summary: ''
 weight: 20
-icon: map-location-dot
-icon_pack: fas
 
 # Page metadata.
-title: Luoghi della Capitale
+title: La Capitale
 date: 2022-11-15
 type: book # Do not modify.
 hidden: false # Visibile nella sidebar

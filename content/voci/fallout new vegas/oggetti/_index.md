@@ -3,8 +3,6 @@
 linktitle: Oggetti
 summary: ''
 weight: 40
-icon: prescription-bottle
-icon_pack: fas
 
 # Page metadata.
 title: Oggetti

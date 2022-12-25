@@ -12,11 +12,15 @@ date: 2022-11-17
 type: book # Non modificare
 commentable: true
 tags: "Luoghi di Fallout: New Vegas"
-hidden: false
-private: true
+hidden: true
+private: false
 ---
 
+{{< toc hide_on="xl" >}}
+
 <div class="fnv">
+
+Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare. Per le località di New Vegas vai [qui](../new-vegas).
 
 
 ## A 

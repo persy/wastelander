@@ -3,8 +3,6 @@
 linktitle: Missioni
 summary: ''
 weight: 30
-icon: diagram-project
-icon_pack: fas
 
 # Page metadata.
 title: Missioni

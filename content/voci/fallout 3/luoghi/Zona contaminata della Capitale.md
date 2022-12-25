@@ -11,15 +11,15 @@ show_date: false
 type: book # Do not modify.
 commentable: true
 tags: "Luoghi di Fallout 3"
-hidden: false
-private: true
+hidden: true
+private: false
 ---
 
 {{< toc hide_on="xl" >}}
 
 <div class="fo3">
 
-Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare. Per i distretti e gli edifici della Capitale vai [qui](../washington)
+Seleziona una località per scoprire la posizione sulla mappa e gli oggetti utili che ci puoi trovare. Per i distretti e gli edifici della Capitale vai [qui](../washington).
 
 
 ## A

@@ -12,8 +12,8 @@ date: 2022-11-17
 type: book # Non modificare
 commentable: true
 tags: "Luoghi di Fallout: New Vegas"
-hidden: false
-private: true
+hidden: true
+private: false
 ---
 
 <div class="fnv">

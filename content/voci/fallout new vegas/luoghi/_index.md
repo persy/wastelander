@@ -1,13 +1,11 @@
 ---
 # Title, summary, and page position.
-linktitle: Luoghi del Mojave
+linktitle: Il Mojave
 summary: ''
 weight: 20
-icon: map-location-dot
-icon_pack: fas
 
 # Page metadata.
-title: Luoghi del Mojave
+title: Il Mojave
 date: 2022-11-15
 type: book # Do not modify.
 hidden: false # Visibile nella sidebar

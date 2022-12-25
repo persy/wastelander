@@ -3,8 +3,6 @@
 linktitle: Bestiario
 summary: ''
 weight: 50
-icon: dog
-icon_pack: fas
 
 # Page metadata.
 title: Bestiario
