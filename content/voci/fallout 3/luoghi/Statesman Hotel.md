@@ -30,14 +30,15 @@ Lo **Statesman Hotel** è un edificio di dodici piani situato a Vernon Square ne
 |  {{<figure src="fo3/MoonbeamNoteShot.webp">}} | **Una nota dal padre di Little Moonbeam**, al terzo piano del livello intermedio, sotto uno scheletro sdraiato su un letto singolo, vicino al centro della mappa  |
 | {{<figure src="fo3/FO3_CA_SOTM_Statesman.webp">}}  | **Esercito cinese: Corpi speciali. Manuale addestrativo**, all'ultimo piano del livello intermedio, in una libreria di una piccola stanza fuori dal corridoio che conduce alle scale  |
 | {{<figure src="fo3/Grognak_the_Barbarian_Statesman_Hotel.webp">}}  | **Grognak il barbaro**, ristorante, su uno scaffale della sala principale  |
+| {{<figure src="fo3/NCQ_Statesman_Hotel.jpg">}}  | **Nuka-Cola Quantum**, ristorante, su uno scaffale nella zona bar   |
 
 **Altri oggetti**:
--  **Nuka-Cola Quantum**, ristorante, su uno scaffale nella zona bar dietro il bancone
 - **Elmo da battaglia da mercenario**, indossato da Donovan
 - **Eugene**, nell'inventario di Brick
 - **Libro di musica**, tetto,  vicino ai leggii e alle sedie
 
 **Note**:
 - **Una nota dal padre di Little Moonbeam** è utile per ottenere la **"Super" mitragliatrice da 10mm di Sydney** da Sydney dopo aver completato *Furto della dichiarazione d'indipendenza*
+  - Puoi trovarla agli Archivi nazionali, se la missione non è ancora partita mentre invece la puoi trovare al Nono Cerchio, nel Museo di Storia, una volta completata la missione 
 
 </div>

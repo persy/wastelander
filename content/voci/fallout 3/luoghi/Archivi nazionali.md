@@ -37,8 +37,8 @@ Gli **Archivi nazionali** si trovano nella parte nord-est del Mall, a est del Mu
 | <!--TODO-->     -                                                 | **Libro di musica**, scantinato, vicino alla parete ovest della prima stanza, su un ripiano                                                                                           |
 | {{<figure src="fo3/FO3_LCS_National_Archives.webp">}}                      | **Stile da congresso, menzognero**, ala protetta est, vicino a una cassaforte di sicurezza nella stanza a nord, la stessa che contiene la **Carta dei Diritti**                       |
 | {{<figure src="fo3/Capitol_Preservation_Society_document_list.webp">}}     | **Magna Carta**, ala protetta est, in una cassaforte nella stanza a nord-est, dietro due porte chiuse (Scasso 50)                                                                     |
-| <!--TODO--> -                                                     | **Racconti di un venditore di carne di Junktown**, nella stessa stanza della **Dichiarazione d'indipendenza**                                                                         |
-| {{<figure src="fo3/Declaration_of_Independence_NA.webp">}}                 | **Dichiarazione di Indipendenza**, camera blindata, in una cassaforte che può essere sbloccata accedendo al terminale di sicurezza della cassaforte.                                  |
+| {{<figure src="fo3/Junktown_National_Archives.jpg">}}                                                   | **Racconti di un venditore di carne di Junktown**, nella stessa stanza della **Dichiarazione d'indipendenza**                                                                         |
+| {{<figure src="fo3/Declaration_of_Independence_NA.webp">}}                 | **Dichiarazione di Indipendenza**, camera blindata, in una cassaforte che può essere sbloccata accedendo al terminale di sicurezza della cassaforte                                  |
 
 **Altri oggetti**:
 - **6 buoni per premio Archivi**, archivi, in una cassaforte al piano superiore, sbloccabile dal terminale dell'amministratore di Berkeley

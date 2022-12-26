@@ -35,14 +35,14 @@ hidden: true
 | Durga                            | Cittadella                        | Armeria della Cittadella |    24 ore    |     ❌     |  ❌   | Ripara fino 50%  |    ❌    |    ✔️     |   ✔️    |     ❌      |  ✔️  |
 | Eclair                           | Little Lamplight                  | Spelunkers               | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Flak                             | Rivet City                        | Flak 'N Shrapnel's       | 8:00 - 20:00 |     ❌     |  ❌   | Ripara fino 49%  |    ❌    |    ✔️     |   ✔️    |     ❌      |  ✔️  |
-| Friday The Pitt (add-on)         | The Pitt                          | Centro del Pitt          |    24 ore    |     ❌     |  ❌   | Ripara fino 47%  |    ❌    |    ✔️     |   ✔️    |     ❌      |  ✔️  |
+| Friday (The Pitt)         | The Pitt                          | Centro del Pitt          |    24 ore    |     ❌     |  ❌   | Ripara fino 47%  |    ❌    |    ✔️     |   ✔️    |     ❌      |  ✔️  |
 | Gary Staley                      | Rivet City                        | Galera di Gary           | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Gob                              | Megaton                           | Saloon di Moriarty       | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Greta                            | Inferi                            | Casa di Carol            | 8:00 - 20:00 |     ❌     |  ✔️   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Grouse                           | Paradise Falls                    |                          | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ❌    |    ✔️     |   ❌    |     ❌      |  ❌  |
 | Gustavo                          | Torre Tenpenny                    | Torre Tenpenny           |    24 ore    |     ❌     |  ❌   |        ❌        |    ❌    |    ✔️     |   ❌    |     ❌      |  ✔️  |
-| Haley Point Lookout (add-on)     | Point Lookout                     | Ferramenta di Haley      |    24 ore    |     ❌     |  ❌   | Ripara fino 100% |    ✔️    |    ✔️     |   ❌    |     ✔️      |  ✔️  |
-| Harris The Pitt (add-on)         | The Pitt                          | Centro del Pitt          |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
+| Haley (Point Lookout)     | Point Lookout                     | Ferramenta di Haley      |    24 ore    |     ❌     |  ❌   | Ripara fino 100% |    ✔️    |    ✔️     |   ❌    |     ✔️      |  ✔️  |
+| Harris (The Pitt)         | The Pitt                          | Centro del Pitt          |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Jenny Stahl                      | Megaton                           | La Lanterna d'ottone     | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Joe Porter                       | Canterbury Commons                | Ristorante Porter        |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Julius Banfield                  | Torre Tenpenny                    |                          |    24 ore    |     ✔️     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
@@ -54,7 +54,7 @@ hidden: true
 | Margaret Primrose                | Torre Tenpenny                    | Café Beau Monde          | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Michael Masters                  | Torre Tenpenny                    | Boutique Le Chic         | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ✔️     |   ✔️    |     ✔️      |  ✔️  |
 | Moira Brown                      | Megaton                           | Craterside Supply        | 8:00 - 20:00 |     ❌     |  ❌   | Ripara fino 72%  |    ✔️    |    ✔️     |   ✔️    |     ✔️      |  ✔️  |
-| Panada Point Lookout (add-on)    | Attracco pellegrino               | Emporio                  |    24 ore    |     ❌     |  ❌   | Ripara fino 41%  |    ✔️    |    ✔️     |   ✔️    |     ✔️      |  ✔️  |
+| Panada (Point Lookout)    | Attracco pellegrino               | Emporio                  |    24 ore    |     ❌     |  ❌   | Ripara fino 41%  |    ✔️    |    ✔️     |   ✔️    |     ✔️      |  ✔️  |
 | Preston                          | Rivet City                        | Clinica di Rivet City    | 8:00 - 20:00 |     ✔️     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Pronto                           | Paradise Falls                    | Colpo in canna           |    24 ore    |     ❌     |  ❌   | Ripara fino 51%  |    ❌    |    ✔️     |   ❌    |     ❌      |  ✔️  |
 | Red                              | Big Town                          | Clinica di Red           |    24 ore    |     ✔️     |  ❌   |        ❌        |    ❌    |    ❌     |   ❌    |     ✔️      |  ❌  |
@@ -65,7 +65,7 @@ hidden: true
 | Smiling Jack                     | Evergreen Mills                   | Evergreen Mills          |    24 ore    |     ❌     |  ❌   | Ripara fino 49%  |    ❌    |    ✔️     |   ❌    |     ❌      |  ✔️  |
 | Grandma Sparkle                  | Molo di Wilhelm                   |                          | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ✔️      |  ✔️  |
 | Sydney                           | Inferi                            | Il Nono cerchio          |    24 ore    |     ❌     |  ❌   |        ❌        |    ❌    |    ✔️     |   ❌    |     ❌      |  ✔️  |
-| Tobar Point Lookout (add-on)     | Attracco pellegrino               |                          |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
+| Tobar (Point Lookout)     | Attracco pellegrino               |                          |    24 ore    |     ❌     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Tulip                            | Inferi                            | Moda degli Inferi        | 8:00 - 20:00 |     ❌     |  ❌   |        ❌        |    ✔️    |    ✔️     |   ✔️    |     ❌      |  ✔️  |
 | Vera Weatherly                   | Hotel Weatherly                   |                          | 8:00 - 20:00 |     ❌     |  ✔️   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
 | Dottore della Zona contaminata   | incontro casuale                  |                          |    24 ore    |     ✔️     |  ❌   |        ❌        |    ✔️    |    ❌     |   ❌    |     ❌      |  ❌  |
@@ -84,7 +84,7 @@ Wolfgang il pazzo, Crow, Doc Hoff e Lucky Harith possono essere incontrati sulle
 
 Vedi anche la missione nascosta *Impero mercantile*.
 
-A Canterbury Commons, lo zio Roe offre al giocatore una mappa che mostra i percorsi dei mercanti e le loro varie fermate commerciali. Dà anche la possibilità di investire in una qualsiasi delle carovane. Il giocatore può scegliere fare fino a due investimenti per ogni mercante, con 200 e poi 500 caps (o 100 e poi 250 con la perk Abile commerciante).
+A Canterbury Commons, lo zio Roe offre al giocatore una mappa che mostra i percorsi dei mercanti e le loro varie fermate commerciali. Dà anche la possibilità di investire in una qualsiasi delle carovane. Il giocatore può scegliere fare fino a due investimenti per ogni mercante, con 200 e poi 500 caps (o 100 e poi 250 con la perk **Abile commerciante**).
 
 Investire in una carovana consente a quel commerciante di vendere una varietà più ampia e una qualità superiore di articoli, aumenta il numero di tappi disponibili durante gli scambi e la loro abilità di riparazione, consentendo di ripristinare l'equipaggiamento del personaggio in condizioni quasi perfette. 
 

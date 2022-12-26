@@ -36,13 +36,13 @@ graph TD;
     id29(Parla con Abraham <br />Washington a Rivet City)
     id2(Trova gli Archivi nazionali)
     id3(Difendi la rotonda)
-    id4(Ignora la rotonda)
+    id4(Ignora la rotonda <br />e attraversa i <br />locali infestati <br />dai supermutanti)
     id5(Unisciti a Sydney)
     id6(Ignora Sydney)
     id7(Uccidi Sydney) 
-    id8("#quot;Super#quot; mitragliatrice <br />da 10mm di Sydney"):::rewardfo3
+    id8("#quot;Super#quot; <br />mitragliatrice <br />da 10mm di Sydney"):::rewardfo3
     id9(Usa l'ascensore <br />della rotonda per <br />raggiungere lo <br />scantinato)
-    id10(Fatti strada <br />attraverso gli Archivi <br />nazionali e raggiungi <br />lo scantinato)
+    id10(Raggiungi lo <br />scantinato)
     id11(Scegli un percorso <br />attraverso i corridoi <br />degli archivi)
     id12("(Opzionale) Cerca <br />nella camere <br />laterali")
     id13("Disattiva le <br />torrette con <br />Ripara") 
@@ -52,33 +52,40 @@ graph TD;
     id17(Combatti i <br />robot)
     id18(Raggiungi Button <br />Gwinnett)
     id19(Usa l'Eloquenza <br />per convincerlo <br />di essere <br />Thomas Jefferson)
-    id20(Uccidilo)
+    
     id21(Accetta d'aiutarlo)
     id22(Karma negativo):::rewardfo3
     id23(Karma positivo):::rewardfo3
     id24(Trova il contenitore per l'inchiostro alla Biblioteca di Arlington)
-    id24(Convinci Gwinnett <br />a continuare <br />la lotta)
-    id25(Ordina a Gwinnett <br />di autodistruggersi)
-    id30(Karma <br />positivo):::rewardfo3
-    id31(Karma <br />negativo):::rewardfo3
+    id24(Di' a Gwinnett <br />di tenersi la <br />Dichiarazione)
+    id25(Ordina a Gwinnett <br />di autodistruggersi <br />o uccidilo)
+    
+    
     id26(Dichiarazione d'Indipendenza <br />e parrucca di Button):::rewardfo3
     id27(Torna da Abraham <br />Washington a Rivet City)
     id28(400 PE, Schemi - Sparachiodi):::rewardfo3
+    id32(Vai alla Biblioteca <br />di Arlington e <br />procurati l'inchiostro <br />ferrogallico )
+    id33(Torna da Button  <br />per preparare una <br />finta Dichiarazione)
+    
+
     id1-->id29-->id2-->id3-->id5
-    id2-->id4-->id6 & id7
-    id7-->id8
-    id4 & id8-->id10
-    id5-->id9
+    id2-->id4-->id6
+    id6--->id10
+    id3-->id7-->id8
+    id8-->id9
+    id5--->id9
     id9 & id10-->id11-->id12
     id12-->id14
-    id11-->id13 & id15 & id16 & id17-->id18-->id19 & id20 & id21
-    id20-->id22
-    id21-->id23-->id24 & id25
-    id24-->id30
-    id25-->id31
-    id19 & id30 & id31-->id26-->id27-->id28
-    id22-->id26
+    id11-->id13 & id15 & id16 & id17-->id18-->id19 & id21 & id25
     
+    %%id21-->id23-->id24 & id25%%
+    %%id24-->id30%%
+    id25-->id22
+    id26-->id27-->id28
+    id19------->id26
+    id22--->id26
+    id21-->id32-->id33-->id24-->id23---->id27
+    id33-->id25
     
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
@@ -96,11 +103,13 @@ graph TD;
 
 
 **Note**:
-- Per disattivare le torrette è necessario Ripara 60, ma per poter accedere al generatore è necessario riparare la porta con Scienza 67
+- Per disattivare le torrette è necessario **Ripara 60**, ma per poter accedere al generatore è necessario riparare la porta con **Scienza 67**
 - Sydney non si comporta come un normale companion e la sua salute non si ripristinerà finita la battaglia ma bisognerà fornirle costantemente stimpak
-    - Con il reverse pickpocketing è possibile darle un'armatura più resistente
+    - Con il reverse pick-pocketing è possibile darle un'armatura più resistente
 - È possibile ottenere la "Super" mitragliatrice da 10mm di Sydney dandole a fine missione la nota "Una nota dal padre di Little Moonbeam"
   - La nota si trova al piano intermedio dello Statesman Hotel
+- E' possibile recuperare la vera Dichiarazione dopo aver consegnato la falsa a Washington. Tuttavia non sarà possibile toglierla dall'inventario poiché è considerata 'oggetto missione'
+- Se hai già recuperato l'inchiostro e consegni l'autentica Dichiarazione ad Abraham Washington, non sarà possibile rimuoverlo dal tuo inventario poiché è considerato 'oggetto missione'
 
 
 </div>

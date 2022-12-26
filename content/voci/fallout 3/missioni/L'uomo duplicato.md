@@ -44,15 +44,18 @@ graph TD;
     id10(Dimostra ad Harkness <br />che è un androide)
     id11(Informa Zimmer <br />della scoperta)
     id12(Fucile al plasma A3-21, <br />karma positivo):::rewardfo3
-    id13(Abilità extra: <br />Riflessi automatici):::rewardfo3 
+    id13(Abilità extra: <br />Riflessi automatici):::rewardfo3
+    id14("Chiedi ad Harkness <br />il permesso di <br />uccidere Zimmer")
+    
     id1-->id2 & id3
     id3-->id2
     id2 & id3-->id4-->id5 & id6
     id5-->id7-->id9-->id10 & id11
     id6-->id8
     id10-->id11
-    id10-->id12
+    id10-->id14-->id12
     id11-->id13
+    id12-->id11
     
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
