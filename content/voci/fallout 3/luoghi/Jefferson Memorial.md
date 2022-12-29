@@ -31,6 +31,6 @@ Il **Jefferson Memorial** è un monumento situato a ovest di Rivet City e affacc
 | {{<figure src="fo3/PP_personal_journals_5,_8_and_10.webp">}}      | **Diario personale Progetto purezza 5**, **8** e **10**, rotonda, sopra una macchina per la filtrazione ausiliaria                                 |
 
 **Note**:
-- Le altre voci del **Diario Progetto purezza** (1, 3, 5) si possono trovare a [[#Rivet City, nella stanza della Dottoressa Li
+- Le altre voci del **Diario Progetto purezza** (1, 3, 5) si possono trovare a Rivet City, nella stanza della Dottoressa Li
 
 </div>

@@ -17,7 +17,7 @@ hidden: true
 
 <div class="fo3">
 
-La **baracca abbandonata**, conosciuta anche come baracca del cecchino, è un edificio posto su una rupe a ovest della stazione di servizio Rockbreaker.
+La **baracca abbandonata**, conosciuta anche come **baracca del cecchino**, è un edificio posto su una rupe a ovest della stazione di servizio Rockbreaker.
 
 | Mappa                      | Panoramica             |
 | -------------------------- | ---------------------- |

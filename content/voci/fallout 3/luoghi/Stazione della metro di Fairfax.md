@@ -20,7 +20,7 @@ hidden: true
 
 La **stazione della metro di Fairfax** è una stazione metropolitana della Zona contaminata della Capitale e si trova presso le rovine omonime.
 
-*Vedi  [[#Rovine di Fairfax*
+*Vedi  [Rovine di Fairfax](../rovine-di-fairfax)*
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |

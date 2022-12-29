@@ -69,5 +69,6 @@ graph TD;
 - È possibile vendere il Soil Stradivari ad Ahrukhal, agli Inferi, o ad Abraham Washington, a Rivet City
 - Dopo averlo venduto anche se si ricompra il Soil Stradivari la missione non permetterà di consegnarlo ad Agatha
 - Vendere il violino, anche se non si ha mai interagito con Agatha, la renderà furiosa e la missione non sarà più ottenibile
+- Terminata la missione, consegnando un libro di musica ad Agatha è possibile ottenere in cambio la pistola unica **Blackhawk**
 
 </div>

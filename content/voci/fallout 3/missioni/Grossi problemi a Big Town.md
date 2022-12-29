@@ -45,11 +45,13 @@ graph TD;
     id11(Parla con Papi)
     id12(300 PE, 300-500 tappi, <br />karma positivo):::rewardfo3
     id13(200 tappi):::rewardfo3
-    id14(Attacco dei supermutanti)
+    id14(Preparati per l'attacco <br />dei supermutanti)
     id15(Respingi l'attacco)
     id16("(Opzionale) Use le tue abilità <br />Esplosivi, Scienza, Furtivo <br />e/o Armi leggere per preparare <br />la città all'attacco")
     id17(Ignora l'attacco)
     id18("Cure da Red, <br />riparazioni da Pappy <br />e scorte medicinali"):::rewardfo3
+    id19(Nessuna ricompensa):::rewardfo3
+    
     id1-->id2 & id3 & id4
     id2 & id3-->id5
     id4 & id5-->id6
@@ -59,7 +61,7 @@ graph TD;
     id12 & id13-->id14 
     id14-->id15 -->id18 
     id15-->id16-->id18
-    id14-->id17
+    id14-->id17-->id19
     
     classDef rewardfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
     classDef questfo3 fill:#4eff01, stroke:#4eff01, color:#282a36;
@@ -80,9 +82,9 @@ graph TD;
 |  50   | :white_check_mark: | Parla con Red della tua ricompensa.                                    |
 
 **Note**:
-- Con *Broken Steel* installato è possibile che un supermutante overlord compaia proprio fuori dall'uscita
+- Con *Broken Steel* installato è possibile che un supermutante supremo compaia proprio fuori dall'uscita della stazione di polizia
 - Non è possibile completare questa missione se Red è già stato schiavizzato per la missione *Solo affari*. È necessario rimuovere il collare o ucciderlo
-- Avere Fawkes come Seguace consente al giocatore di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi
+- Avere Fawkes come Seguace ti consente di suggerire di usare dell'esplosivo per difendere la città. Ciò comporterà la comparsa di alcune mine a frammentazione intorno a Fawkes ogni 5-10 secondi
 
 
 </div>

@@ -16,7 +16,7 @@ hidden: true
 
 <div class="fnv">
 
-I **mercanti** sono personaggi in grado di scambiare armi, munizioni, modifiche, armature, vestiti, cibi, bevande o droghe tramite il baratto oppure utilizzando una moneta di fortuna, i tappi. Maggiore è il livello di Baratto del Corriere, minore sarà il prezzo d'acquisto delle merci da loro vendute e più costose saranno le merci del Corriere da loro acquistabili.
+I **mercanti** sono personaggi in grado di scambiare armi, munizioni, modifiche, armature, vestiti, cibi, bevande o droghe tramite il baratto oppure utilizzando una moneta di fortuna, i tappi. Maggiore è il tuo livello di Baratto, minore sarà il prezzo d'acquisto delle merci da loro vendute e più costose saranno le merci da loro acquistabili.
 
 ## Mercanti generici
 

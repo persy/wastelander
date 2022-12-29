@@ -41,7 +41,7 @@ graph TD;
     id8(Entra nel Vault 87)
     id9(800 PE):::rewardfo3
     id10(Prossima missione: <b>Ricerca Giardino dell'Eden</b>):::questfo3
-    id1-->id2-->id3-->id4-->id5-->id6-->id8--->id9-->id10
+    id1-->id2-->id3-->id4-->id5-->id6-->id8-->id9-->id10
     id5-->id7-->id8
     
     

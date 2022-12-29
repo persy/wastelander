@@ -22,7 +22,7 @@ hidden: true
 
 
 
-*Vedi [[#Metro Arlington/Falls Church*
+*Vedi [Metro Arlington/Falls Church](../metro-arlington-falls-church)*
 
 
 | Mappa | Mappa locale | Panoramica |

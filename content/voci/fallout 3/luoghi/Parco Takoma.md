@@ -24,6 +24,6 @@ Il **Parco Takoma** è un piccolo centro commerciale, adiacente alla metro, a un
 | ----- | ------------ | ---------- |
 | {{<figure src="fo3/Takoma_Park_loc.webp">}}  | {{<figure src="fo3/Takoma_Park_map.webp">}}  | {{<figure src="fo3/Takoma_Park.webp">}}  |
 
-*Vedi [[#Industria Takoma, [[#Rivendita d'auto Takoma e [[#Chiclandia*
+*Vedi [Industria Takoma](../industria-takoma), [Rivendita d'auto Takoma](../rivendita-dauto-takoma) e [Chiclandia](../chiclandia)*
 
 </div>

@@ -19,7 +19,7 @@ hidden: true
 
 L'**albergo** è un edificio di Washington, D.C. utilizzato dalla Confraternita d'Acciaio come avamposto. Si trova a Pennsylvania Avenue, vicino alla metropolitana di Penn Ave/Georgetown e alla Casa Bianca.
 
-*Vedi [[#Distretto di Pennsylvania Avenue]]*
+*Vedi [Distretto di Pennsylvania Avenue](../pennsylvania-avenue)*
 
 
 </div>

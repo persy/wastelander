@@ -19,7 +19,7 @@ hidden: true
 
 La **metropolitana allagata** è una stazione metropolitana della linea blu della Zona contaminata della Capitale. L'ingresso alla stazione è vicino al confine meridionale della mappa, a ovest della Biblioteca di Arlington mentre l'uscita è al distretto Mason sud.
 
-*Vedi [[#Campo dei predatori della metro allagata*
+*Vedi [Campo dei predatori della metro allagata](../campo-dei-predatori-della-metro-allagata)*
 
 | Mappa | Mappa locale | Panoramica |
 | ----- | ------------ | ---------- |
