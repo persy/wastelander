@@ -46,6 +46,7 @@ graph TD;
 
 </div>
 </section>
+
 | Oggetto                                      | Hannibal Hamlin            | Leroy Walker    | Abraham Washington |
 | -------------------------------------------- | -------------------------- | --------------- | ------------------ |
 | Cappello di Lincoln                          | 25 o 50 tappi (ripetibile) | 25 o 50 tappi   | 70 o 140 tappi     |
