@@ -45,6 +45,6 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Suite di lusso](../suite-di-lusso)
 - [Villa](../villa)
 
-{{<figure src="fnv/FNV_Sierra_Madre">}}
+{{<figure src="fnv/FNV_Sierra_Madre.jpg">}}
 
 </div>

@@ -94,9 +94,9 @@ graph TD;
 
 **Note**:
 - Per poter iniziare la missione bisogna aver compiuto una delle seguenti azioni, nella trama principale del gioco:
-  - distrutto la Confraternita d'Acciaio nella missione La Casa vince sempre, V
-  - installato Yes Man nel computer centrale del Lucky 38, in Jolly: Cambiamento di gestione
-  - riportare la morte del Sig. House al Colonnello Cassandra Moore, durante Per la Repubblica, 2ª parte 
+  - distrutto la Confraternita d'Acciaio nella missione *La Casa vince sempre, V*
+  - installato Yes Man nel computer centrale del Lucky 38, in *Jolly: Cambiamento di gestione*
+  - riportare la morte del Sig. House al Colonnello Cassandra Moore, durante *Per la Repubblica, 2ª parte* 
 - Successivamente, bisogna guadagnare la "fiducia" di Arcade Gannon. Nel gioco essa viene espressa in forma numerica e un numero definito di eventi ed azioni farà guadagnare 1 o 2 punti "fiducia". Il valore minimo di fiducia da raggiungere è 5 ed è possibile guadagnarla con le seguenti azioni:
   - andando al Vertibird schiantato, alla Sede REPCONN o al Forte (1); al Forte, parlando con Arcade, scegliendo:
     - "Limitiamoci ad ascoltarlo, capire cosa sta architettando e andarcene di qui." (2)
@@ -105,9 +105,9 @@ graph TD;
   - parlando con il Dott. Thomas Hildern, a Camp McCarran; Arcade chiederà al Corriere la sua opinione su Hildern, selezionando:
     - "Meno male che ci sono ancora persone come te." (2)
     - "Sono certo che lo dica in senso positivo." (2) 
-  - durante la missione Quel vecchio Sole fortunato, quando Arcade suggerisce di erogare l'energia a Freeside e Westside:
+  - durante la missione *Quel vecchio Sole fortunato*, quando Arcade suggerisce di erogare l'energia a Freeside e Westside:
     - appoggiando la sua scelta (1)
-    - convincendolo con una sfida Intelligenza 7 a distribuire l'energia a tutta la regione (1) 
+    - convincendolo con una sfida **Intelligenza 7** a distribuire l'energia a tutta la regione (1) 
   - durante la missione Dissimulazione:
     - dicendo "Se lo dici tu, non discuto.", quando menziona Anderson (1)
     - completandola e dando la colpa agli Scorpioni e lasciando andare Tom (2)

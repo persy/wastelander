@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 
 <div class="fo3">
 
-*Protezione della via dell'acqua* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bisgley al Jefferson Memorial.
+*Protezione della via dell'acqua* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bisgley al Jefferson Memorial.
 
 
 <section class="chart-collapse">

@@ -29,7 +29,7 @@ private: false # Nascosto dalle ricerche
 
 
 **Ricompense**:
-- Fama o infamia per l'RNC or infamy
+- Fama o infamia per l'RNC
 
 
 </div>

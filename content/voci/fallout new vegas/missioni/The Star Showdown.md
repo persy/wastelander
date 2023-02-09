@@ -23,7 +23,7 @@ private: false # Nascosto dalle ricerche
 
 
 **Riassunto**:
-- 
+- Prendi la collana di tappi
 
 
 **Sfide abilità**:

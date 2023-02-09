@@ -18,7 +18,7 @@ private: false
 
 <div class="fnv">
 
-L'**accampamento attacco Legione** è composto da due tende rosse e una grigia, più ampia e un fuoco d'accampamento al centro. Si trova a ovest della caverna bloc flower e a nord-est della casa colonica di Ulysses.
+L'**accampamento attacco Legione** è composto da due tende rosse e una grigia, più ampia e un fuoco d'accampamento al centro. Si trova a ovest della caverna broc flower e a nord-est della casa colonica di Ulysses.
 
 | Mappa  | Panoramica |
 | ----- | ---------- |

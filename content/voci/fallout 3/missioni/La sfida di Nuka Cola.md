@@ -45,7 +45,7 @@ graph TD;
     id9(Vendi le Nuka-Cola Quantum <br />a Ronald)
     id10(40 tappi per bottiglia, <br />Schemi - Granata Nuka):::rewardfo3
     id11(40-80 tappi <br />per bottiglia):::rewardfo3
-    id12(Continua la ricerca <br />delle Nuka-Cola Qunatum)
+    id12(Continua la ricerca <br />delle Nuka-Cola Quantum)
     id13(Porta a Sierra <br />una Nuka-Cola Quantum, <br />della farina e <br />della vodka)
     id14(Porta a Sierra altre <br />Nuka-Cola Quantum)
     id15(Porta a Ronald altre <br />Nuka-Cola Quantum)

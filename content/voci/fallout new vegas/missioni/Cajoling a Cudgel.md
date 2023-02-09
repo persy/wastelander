@@ -26,12 +26,9 @@ private: false # Nascosto dalle ricerche
 - Devi recuperare la chiave (''Scoperta di Luke'') per le Fogne sigillate: una parte si trova sul cadavere di Jill "La dolce", nelle Fogne centro-orientali, e l'altra su quello di Luke "Il cieco", nelle Fogne centrali. Così facendo puoi ottenere L'umile randello dal cadavere di un prospettore, sempre nelle fogne
 
 
-**Sfide abilità**:
-- L'umile randello
-
 
 **Ricompense**:
-- 
+- L'umile randello
 
 
 </div>

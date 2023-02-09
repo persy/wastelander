@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fo3">
 
 
-*Acqua santa* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bigsley al Jefferson Memorial.
+*Acqua santa* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bigsley al Jefferson Memorial.
 
 
 <section class="chart-collapse">

@@ -118,7 +118,7 @@ graph TD;
   - in vendita da Cliff Briscoe a Novac
   - nel Negozio di Mick e Ralph a Freeside
 - Guadagni solo 200 PE se aiuti in maniera pacifica Davison e Harland, mentre guadagni 300 PE uccidendo quest'ultimo
-- Completando questa missione e *Uno per la mia piccola* di Boone avrai raggiunto abbastanza fama per Novac per ottenere una stanza gratuitamente al Dino-Dee Lite TODO
+- Completando questa missione e *Uno per la mia piccola* di Boone avrai raggiunto abbastanza fama per Novac per ottenere una stanza gratuitamente al Dino-Dee Lite <!--TODO-->
 
 
 </div>

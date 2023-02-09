@@ -62,7 +62,7 @@ graph TD;
 
 
 **Sfide abilità**:
-- A**mico degli animali**: per rendere amichevoli i bighorner
+- **Amico degli animali**: per rendere amichevoli i bighorner
 
 
 

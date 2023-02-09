@@ -64,7 +64,7 @@ tags: "Luoghi di Fallout: New Vegas"
 - [Long 15](../long-15)
 
 
-{{<figure src="fnv/FNV_Divide">}}
+{{<figure src="fnv/FNV_Divide.jpg">}}
 
 
 </div>

@@ -18,13 +18,11 @@ hidden: true
 
 I **Seguaci**, o companion, sono dei personaggi del gioco che possono essere assoldati per accompagnare il Vagabondo solitario nella sua avventura. In *Fallout 3* è possibile avere fino a due seguaci, uno di supporto (Rex), l'altro umanoide, come Caronte, Jericho o Fawkes.
 
-## Livello e Coraggio
+## Livello
 
 A differenza degli altri personaggi nel gioco, i seguaci seguono una crescita a se stante, seguendo il livello del giocatore.
 
 ## Seguaci permanenti
-
-Umanoidi:
 
 **Paladino Stella Cross**: membro della Confraternita d'Acciaio, si trova alla Cittadella
 **Butch**: leader dei Serpenti del Tunnel, reclutabile al Muddy Rudder di Rivet City
@@ -49,6 +47,7 @@ Umanoidi:
 | Caronte               | Nessuno         | Completa *Aiuto mercenario* o 2000 tappi (1000 con Baratto 50) |
 
 ### Seguaci temporanei
+
 Questi seguaci seguiranno il Vagabondo solitario solo durante specifiche missioni o circostanze:
 - Iniziato Pek, durante *L'iniziato perduto*
 - Ape, durante *Il rapitore di bambini*
@@ -62,9 +61,8 @@ Questi seguaci seguiranno il Vagabondo solitario solo durante specifiche mission
 - Sydney, durante *Furto della Dichiarazione d'indipendenza*
 - Paladino Hoss, durante *L'iniziato perduto*
 
-## Note
+Note:
 - Tutte le armi predefinite di ogni seguace hanno munizioni e durata infinite
-- Tutti i seguaci, tranne Lily, ED-E e Rex possono indossare armature (anche quelle atomiche, senza addestramento), purchè non facciano parte di qualche fazione (es. RNC o la Legione di Caesar)
-
+- Tutti i seguaci, tranne Fawkes, Dogmeat e il Sergente RL-3  possono indossare armature (anche quelle atomiche, senza addestramento)
 
 </div>

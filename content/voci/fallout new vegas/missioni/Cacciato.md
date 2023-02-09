@@ -34,7 +34,7 @@ private: false # Nascosto dalle ricerche
 graph TD;
     id1(<b>Cacciato</b>):::questfnv
     id2(Parla con Boxcars a Nipton)
-    id3(Vai all'accampamento <br />attacco Legione e libera <br />*i* due schiavi)
+    id3(Vai all'accampamento <br />attacco Legione e libera <br />i due schiavi)
     id4(100 PE, fama per i Powder Ganger):::rewardfnv
     id1-->id2-->id3-->id4
     

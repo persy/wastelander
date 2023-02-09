@@ -20,6 +20,16 @@ private: false # Nascosto dalle ricerche
 
 *Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. È data da non appena si prende uno dei 5 olonastri della famiglia Keller, sparsi nella Zona Contaminata.
 
+Riassunto:
+1. Trova tutte le trascrizioni della famiglia Keller
+   - 1 di 5, capanna del traliccio, su uno scaffale
+   - 2 di 5, cimitero di Hallowed Moors, sul leggio della chiesa
+   - 3 di 5, Grisly diner, sul tavolo nel retro
+   - 4 di 5, baracca del cecchino, sul banco da lavoro
+   - 5 di 5, Anchorage Memorial, nel campo dei supermutanti a nord, su un tavolo vicino a una radio
+2. Vai al Deposito della Guardia Nazionale
+3. Accedi al terminale al livello inferiore per aprire la porta del bunker dell'armeria
+4. Ricompensa: **MIRV sperimentale**, **5 Munizioni nucleari**, **U.S. Army: 30 pratiche ricette per lanciafiamme** e **Nuka-Cola Quantum**
 
 
 <section class="chart-collapse">

@@ -26,7 +26,7 @@ La **stazione di servizio autostradale Nevada** è un edificio a ridosso dell'au
 
 | Immagine | Oggetto e posizione |
 | -------- | ------------------- |
-|  {{<figure src="fnv/Guns_and_Bullets_NHP_station.webp">}}        | Pistole e proiettili, su un tavolo  della stanza degli uffici                   |
+|  {{<figure src="fnv/Guns_and_Bullets_NHP_station.webp">}}        | **Pistole e proiettili**, su un tavolo  della stanza degli uffici                   |
 
 **Altri oggetti**:
 - **Tappo di bottiglia stella Sunset Sarsaparilla**, vicino al cadavere di uno sciacallo

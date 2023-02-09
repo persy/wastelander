@@ -19,7 +19,7 @@ hidden: true
 <div class="fnv">
 
 
-Nel corso del gioco è possibile imbattersi in **sfide**: queste sono eventi, talvolta ripetibili, che portano ad un guadagno addizionale di punti esperienza e, in taluni casi, nello sblocco di abilità extra specifiche (es. Lord Morte). L'elenco delle sfide è .. consultando il Pip-Boy alla voce Info > Varie > Sfide.
+Nel corso del gioco è possibile imbattersi in **sfide**: queste sono eventi, talvolta ripetibili, che portano ad un guadagno addizionale di punti esperienza e, in taluni casi, nello sblocco di abilità extra specifiche (es. Lord Morte). L'elenco delle sfide è disponibile consultando il Pip-Boy alla voce Info > Varie > Sfide.
 Tutte le sfide disponibili in Fallout: New Vegas sono elencate di seguito, con le descrizioni che compaiono nel gioco. Va notato che alcune sfide non compariranno sul Pip-Boy se non quando vengono fatti dei progressi (es. Un po' critica compare solo dopo aver fatto un colpo letale con un'arma ad una mano), alcune non potranno essere iniziate se prima non se fanno altre (es. Energetico sblocca Più energetico e Imposta i laser per divertimento).
 Infine, le sfide possono essere completate una volta, tre volte per incrementare il livello delle abilità bonus acquisite o ripetute per un numero illimitato di volte.
 

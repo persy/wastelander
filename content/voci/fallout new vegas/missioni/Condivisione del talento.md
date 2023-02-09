@@ -44,7 +44,7 @@ graph TD;
     id10(Recluta Billy Knight <br />fuori dal The Tops)
     id11(Vai al Dino Dee-lite Motel <br />a Novac e recluta <br />Bruce Isaac)
     id12("(Opzionale) <b>Baratto 50</b>: <br />convincilo a pagare <br />una tassa aggiuntiva")
-    id13(<b>Baratto 50</b>/<b>Eloquenza 50</b>: <br />libera Hadrian dal suo <br />contratto con James Garret) 
+    id13("<b>Baratto 50</b>/<b>Eloquenza 50</b>: <br />libera Hadrian dal suo <br />contratto con James Garret") 
     id14("Paga il contratto di Hadrian, <br />versando 150 tappi James Garrett <br />(100 tappi con <b>Baratto 50</b>)")
     id15("(Opzionale) <b>Baratto 25</b>: <br />digli che merita di più"):::rewardfnv
     id16("(Opzionale) <b>Baratto 25</b>: <br />ottieni altri tappi da Tommy"):::rewardfnv
@@ -54,6 +54,7 @@ graph TD;
     id20("45/75 tappi o <br />90/150 tappi (con <b>Baratto 25</b>), <br />fama per la Strip"):::rewardfnv
     id22(150/250 tappi, <br />fama per la Strip):::rewardfnv
     id21(550 PE):::rewardfnv
+    
     id1-->id2-->id3 & id4-->id5-->id8 & id9 & id10 & id11
     id5-->id6----->id7
     id8-->id12-->id17-->id18-->id21

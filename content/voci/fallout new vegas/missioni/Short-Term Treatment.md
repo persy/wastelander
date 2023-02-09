@@ -31,7 +31,7 @@ private: false # Nascosto dalle ricerche
 
 
 **Ricompense**:
-- Fame per i Seguaci o Freeside
+- Fama per i Seguaci o Freeside
 
 
 </div>

@@ -23,7 +23,7 @@ private: false # Nascosto dalle ricerche
 
 
 **Riassunto**:
-- Completata Formiche indisciplinate, dovrai portare dei missili Raquel
+- Completata Formiche indisciplinate, dovrai portare dei missili a Raquel
 
 
 **Ricompense**:

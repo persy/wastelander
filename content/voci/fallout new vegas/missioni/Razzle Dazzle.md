@@ -26,8 +26,6 @@ private: false # Nascosto dalle ricerche
 - Pagandola 100 tappi o dandole alcune droghe è possibile avere un rapporto con Dazzle
 
 
-**Sfide abilità**:
-- 
 
 
 **Ricompense**:

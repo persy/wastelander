@@ -101,7 +101,7 @@ graph TD;
 - Non è possibile completare questa missione senza superare almeno una sfida **Eloquenza**/**Medicina 50**
 - Carlitos e Joana devono sopravvivere entrambi per completare la missione
 - Completando *Che poco ne sappiamo* farà fallire istantaneamente questa missione
-- Uccidere un qualsiasi membro degli Omerta potrebbe non rendere completabile la missione, poiché Joanna potrebbe diventare ostile 
+- Uccidere un qualsiasi membro degli Omerta potrebbe rendere impossibile completare la missione, poiché Joanna potrebbe diventare ostile 
 
 
 </div>

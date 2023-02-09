@@ -36,7 +36,7 @@ graph TD;
     id2(Fatti strada fino al <br />tunnel di Tunnel di Pine Creek)
     id3(Prigionieri di guerra)
     id4(Riconquista il ponte)
-    id5(Santità dei morti)
+    id5(Santità dei morti):::questfnv
     id6(Occupati di Sale sulle Ferite)
     id7(Uccidilo) 
     id8(<b>Eloquenza 75</b>: <br />convincilo ad andarsene)

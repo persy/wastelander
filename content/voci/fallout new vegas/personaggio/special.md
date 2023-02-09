@@ -26,14 +26,14 @@ A differenza di Fallout e Fallout 2, il gioco tiene traccia dei valori di ogni a
 
 Ci sono diversi modi per aumentare queste statistiche primarie:
 - farsi installare un'impianto dal Dottor Usanagi, alla Clinica Medica New Vegas
-- usare l'abilità extra Addestramento intensivo
+- usare l'abilità extra **Addestramento intensivo**
 - completare il DLC Lonesome Road
 Oltre a questi metodi, validi per qualsiasi attributo, ce ne sono un paio specifici validi solo per alcuni S.P.E.C.I.A.L.:
-- selezionare il tratto Quattro occhi, che diminuisce permanentemente di 1 punto la Percezione, ma ne aumenta il valore di 2 quando indossi degli
+- selezionare il tratto **Quattro occhi**, che diminuisce permanentemente di 1 punto la Percezione, ma ne aumenta il valore di 2 quando indossi degli
 occhiali
-- selezionare il tratto Telaio piccolo, che aumenta l'Agilità di un punto, ma rende gli arti più fragili, aumentando il danno subito del 25%
-- Iniziare il DLC Old World Blues , che acquisendo l'abilità extra Invertebrato aumenta di un punto la Forza
-- portando a termine il DLC, il bonus finale sarà +2 alla Forza, tuttavia questo aumento non conta per sbloccare le varie abilità extra che richiedono
+- selezionare il tratto **Telaio piccolo**, che aumenta l'Agilità di un punto, ma rende gli arti più fragili, aumentando il danno subito del 25%
+- Iniziare il DLC Old World Blues , che acquisendo l'abilità extra **Invertebrato** aumenta di un punto la Forza
+- portando a termine il DLC, il bonus finale sarà +2 alla Forza; tuttavia questo aumento non conta per sbloccare le varie abilità extra che richiedono
 Considerando tutte le procedure sopra, si potranno guadagnare in totale un massimo di 23 punti per gli attributi aggiuntivi.
 
 ## Generale

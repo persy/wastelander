@@ -42,7 +42,7 @@ graph TD;
     id8(Aiuta Roy e gli <br />altri ghoul ad entrare <br />nella Torre Tenpenny)
     id17(Torna da <br />Gustavo)
     id9(Uccidi tutti gli <br />abitanti della Torre <br />Tenpenny)
-    id10(Trova la chiave della sala generatori)
+    id10(Trova la chiave <br />della sala generatori)
     id11(Parla con Allistair <br />Tenpenny sulla <br />possibilità di far entrare <br />i ghoul pacificamente <br />nella torre)
     id12(300 PE, 500-700 tappi, <br />mina da tappo):::rewardfo3
     id13(Torna da Roy) 

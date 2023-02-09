@@ -38,7 +38,7 @@ graph TD;
     id4(Uccidi le guardie aliene)
     id5(Incontra Sally)
     id6(Sovraccarica il modulo d'alimentazione)
-    id7(Attenti che Sally apra la porta) 
+    id7(Attendi che Sally apra la porta) 
     id8(Recupera il tuo equipaggiamento)
     id9(Raggiungi la sala di progettazione)
     id10(300 PE):::rewardfo3

@@ -26,8 +26,6 @@ L'**accampamento dei Tormenti** è parte delle Gole, nella parte nord-est di Zio
 
 **Note**:
 - Sono presenti un fuoco d'accampamento e alcuni letti
-
-**Note**:
 - Con una sfida **Baratto 50** puoi convincere Daniel a fornirti alcune scorte di medicinali
 - Graham è in grado di riportare un'arma o un indossabile a condizioni perfette
 

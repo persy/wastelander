@@ -146,7 +146,7 @@ private: true # Nascosto dalle ricerche
 | Archivi nazionali                      |     78     |
 | Area dei Mercenari di Reilly           |     7E     |
 | Biblioteca di Arlington                |     9D     |
-| Casa Bianca                            |     68     |                                                                                                                              
+| Casa Bianca                            |     68     |
 | Casa di Dukov                          |     61     |
 | Chevy Chase Est                        |     4F     |
 | Chevy Chase Ovest                      |     4D     |

@@ -17,8 +17,6 @@ private: true # Nascosto dalle ricerche
 
 
 - [Zona contaminata del Mojave](zona-contaminata-del-mojave) 
-    - [Insediamenti](insediamenti-della-zona-contaminata-della-capitale)
-    - [Vault della Zona contaminata della Capitale](vault-della-zona-contaminata-della-capitale)
     - [New Vegas](new-vegas)
       - [Freeside](freeside)
       - [La Strip](la-strip) 
@@ -30,6 +28,6 @@ private: true # Nascosto dalle ricerche
     - [Lonesome Road](dlc-lonesome-road) 
 
 
-{{<figure src="fnv/FNV_Mojave">}}
+{{<figure src="fnv/FNV_Mojave.jpg">}}
 
 </div>

@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Formiche disciplinate"
+linktitle: "Formiche indisciplinate"
 summary: ""
 weight: 10
 icon: message-question
 icon_pack: fas
 
 # Page metadata.
-title: "Formiche disciplinate"
+title: "Formiche indisciplinate"
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Formiche disciplinate* è una missione secondaria di Fallout: New Vegas. È data da Raquel all'impianto della base aeronautica di Nellis.
+*Formiche indisciplinate* è una missione secondaria di Fallout: New Vegas. È data da Raquel all'impianto della base aeronautica di Nellis.
 
 
 <section class="chart-collapse">
@@ -32,7 +32,7 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1(<b>Formiche disciplinate</b>):::questfnv
+    id1(<b>Formiche indisciplinate</b>):::questfnv
     id2(Parla con Raquel e <br />poi raggiungi l'impianto di Nellis)
     id3("<b>Scienza</b>/<b>Eloquenza 50</b>: <br />ottieni l'emettitore sonoro <br />da Loyal e posizionalo")
     id4(<b>Eloquenza 55</b>: <br />convinci Raquel che l'edificio <br />è stato ripulito)

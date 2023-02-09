@@ -33,7 +33,7 @@ private: false # Nascosto dalle ricerche
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
     id1(<b>Tutti i miei amici hanno interruttori per spegnersi</b>):::questfnv
-    id2(Vai al Pozzo e installa il modulo della personalità dell'Unità centrale del Pozzo)
+    id2(Vai al Pozzo e installa <br />il modulo della personalità <br />dell'Unità centrale del Pozzo)
     id3(Trova i moduli mancanti a Big MT)
     id4(Torna al Pozzo e installa tutti i moduli)
     id5(Vari servizi del Pozzo):::rewardfnv

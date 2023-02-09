@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 
 <div class="fo3">
 
-*L'incredibile Acqua Cura!* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data da Griffon al Museo di Storia, dallo Scriba Bigsley o trovando un olonastro all'Edificio autorità del museo.
+*L'incredibile Acqua Cura!* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data da Griffon al Museo di Storia, dallo Scriba Bigsley o trovando un olonastro all'Edificio autorità del museo.
 
 
 <section class="chart-collapse">

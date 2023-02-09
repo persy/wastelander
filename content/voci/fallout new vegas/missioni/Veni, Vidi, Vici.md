@@ -42,7 +42,7 @@ graph TD;
     id7(<b>Eloquenza 100</b>: convinci il <br />Generale Oliver e i <br />soldati della sua scorta a <br />lasciare il campo di battaglia) 
     id8(Torna dal Legato Lanius <br />e riferiscigli che il Generale <br />Oliver è stato ucciso <br />o allontanato)
     id9(Completamento del gioco):::questfnv
-    id(Finale di gioco):::questfnv
+ 
     id1-->id10-->id2-->id3 & id4-->id5-->id6 & id7-->id8-->id9
     
     

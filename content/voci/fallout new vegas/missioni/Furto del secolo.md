@@ -37,9 +37,9 @@ graph TD;
     id3(Usa l'olonastro di <br />Vera per dire la password)
     id4(Fai dire la password <br />a Christine, con la <br />sua nuova voce)
     id5(Entra nel caveau e <br />accedi al computer centrale <br />nella camera)
-    id6(<b>Bassa reputazione con l'RNC</b>: <br />stringi un'alleanza <br />con Padre Elijah per <br />conquistare il Mojave)
+    id6("<b>Bassa reputazione con l'RNC</b>: <br />stringi un'alleanza <br />con Padre Elijah per <br />conquistare il Mojave")
     id7(Finale del gioco):::questfnv
-    id8(<b>Baratto</b>, <br /><b>Esplosivi</b>, <br /><b>Scasso</b>, <br /><b>Riparazione</b>, <br /><b>Scienza</b>, <br /><b>Furtivo 75</b>: <br />confrontati con <br />Padre Elijah)
+    id8("<b>Baratto</b>, <br /><b>Esplosivi</b>, <br /><b>Scasso</b>, <br /><b>Riparazione</b>, <br /><b>Scienza</b>, <br /><b>Furtivo 75</b>: <br />confrontati con <br />Padre Elijah")
     id9(Uccidi Padre Elijah)
     id10(Fuggi dal caveau del <br />Sierra Madre prima che <br />il tuo collare esploda)
     id11(Completamento di Dead Money):::questfnv

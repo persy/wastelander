@@ -27,7 +27,7 @@ Il **Forte** è il quartier generale della Legione di Caesar, accessibile solo t
 |  {{<figure src="fnv/The_Fort_loc.webp">}}     |  {{<figure src="fnv/The_Fort_map.webp">}}            |   {{<figure src="fnv/Fortification_Hill.webp">}}         | 
 
 **Altri oggetti**:
-- **500 munizioni 5.556mm surplus**, alla fine della trincea a nordest
+- **500 munizioni 5.56mm surplus**, alla fine della trincea a nordest
 - **Maria**, **Tuta di Benny**, dal cadavere di Benny (nel caso non fosse stato ucciso al The Tops)
 - **Cervello di Lupa**, nell'inventario di uno dei bastardi della legione addestrati
 - **Armatura di Caesar**, indossata da Caesar

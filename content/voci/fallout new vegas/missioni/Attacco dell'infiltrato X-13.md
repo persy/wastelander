@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Attacco dell'infiltrato X-13" 
+linktitle: "Attacco dell'infiltrato X-13!" 
 summary: ""
 weight: 10
 icon: message-question
 icon_pack: fas
 
 # Page metadata.
-title: "Attacco dell'infiltrato X-13"
+title: "Attacco dell'infiltrato X-13!"
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Attacco dell'infiltrato X-13* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
+*Attacco dell'infiltrato X-13!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
 
 <section class="chart-collapse">
@@ -32,7 +32,7 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1(<b>Attacco dell'infiltrato X-13</b>):::questfnv
+    id1("<b>Attacco dell'infiltrato X-13!</b>"):::questfnv
     id2(Raggiungi la <br />Struttura di ricerca X-13)
     id3(Recupera il <br />prototipo di stivali X-13, <br />il prototipo di guanti X-13 e <br />il prototipo di corazza superiore X-13)
     id4(Attiva il test di infiltrazione <br />di base per avviare l'inizializzazione <br />della tuta mimetica)

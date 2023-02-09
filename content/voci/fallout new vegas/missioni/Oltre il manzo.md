@@ -51,7 +51,7 @@ graph TD;
     id17(500 tappi, <br />fama per la White <br />Glove Society):::questfnv
     id18("(Opzionale) Rivela a Ted <br />le vere intenzioni <br />di Mortimer")
     id19(Infamia per la <br />White Glove Society):::questfnv
-    id20(Prosegui le indagini)
+   
     id21(Parla a Marjorie <br />dell'investigatore scomparso<br /> e mentile per ottenere <br />degli indizi)
     id22(Vai nella stanza <br />dell'investigatore e <br />raccogli la bustina di <br />fiammiferi dal suo corpo)
     id23(Incontra Chauchey nel bagno <br />turco alle 16 e neutralizza <br />il sicario)
@@ -98,7 +98,7 @@ graph TD;
     
     id7-->id9 & id10-->id11-->id12 & id13 & id14-->id15-->id16-->id17-->id18----->id19
     
-    id8-->id21-->id22-->id23-->id24-->id25----------->id26
+    id8-->id22-->id23-->id24-->id25----------->id26
 
     id23-->id27-->id28-->id11
 
@@ -172,7 +172,7 @@ graph TD;
 **Note**:
 - Raggiunto il seminterrato, il Corriere deve vestirsi da membro della White Glove Society o essere fuori dalla vista del cameriere, altrimenti diventerà ostile.
 - È possibile completare questa missione furtivamente: dopo aver parlato con Heck, il Corriere dovrà prendere la porta dietro al bar, raggiungere il Gourmand e poi la cucina, hackerare il terminale per aprire la cella frigorifera, accompagnare Ted evitando Philippe e ritornare nella hall. 
-- Stranamente, aiutare la White Glove Society a tornare al cannibalismo o smascherare Mortimer, non influenzano il successo di Date a Caesar quello che è di Caesar, tranne che per una differenza di guadagno di fama per la Legione di Caesar; è una delle pochissime missioni nel gioco che non porta ripercussioni per altre fazioni o personaggi
+- Stranamente, aiutare la White Glove Society a tornare al cannibalismo o smascherare Mortimer, non influenzano il successo di *Date a Caesar quello che è di Caesar*, tranne che per una differenza di guadagno di fama per la Legione di Caesar; è una delle pochissime missioni nel gioco che non porta ripercussioni per altre fazioni o personaggi
 - L'unico modo per guadagnare fama per la Strip è riportare Ted da Heck; aiutando Mortimer si guadagnerà fama per la White Glove Society, ma non per la Strip
 - Dalla versione 1.4 del gioco, questa missione è disponibile solo parlando con Heck Anderson e non saranno disponibili le opzioni di dialogo riguardo il cannibalismo (parlando con Marjorie o Mortimer) finché non si parla con Heck
 - Questa missione è, assieme a *Aba Daba Honeymoon*, una delle più buggate nel gioco

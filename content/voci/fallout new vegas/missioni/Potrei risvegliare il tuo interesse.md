@@ -37,14 +37,14 @@ graph TD;
     id3(Porta Veronica dall'Anziano <br />McNamara a Hidden Valley)
     id4(Consulta il terminale di <br />Elijah nella baracca di Gibson)
     id5(Ottieni almeno una delle <br />tre tecnologie indicate)
-    id6(Mirino di Euclid e Archimedes I)
+    id6(Mirino di Euclid <br />e Archimedes II)
     id7(Quel vecchio Sole fortunato):::questfnv 
     id8(Alimenta <br />Archimides II)
     id9(Recupera il Mirino <br />di Euclid da <br />Max a Freeside)
     id10(Rubaglielo)
     id11(Baratto 45: <br />compraglielo per 20 <br />tappi, invece di 1000)
     id12(Consegna la tecnologia <br />all'Anziano McNamara)
-    id13(Nuova tecnologia di coltivazione)
+    id13(Nuova tecnologia <br />di coltivazione)
     id14(Guarda tra l'erba):::questfnv
     id15(Non permettere a <br />Keely di cancellare i <br />dati e assicurati di <br />averli copiati nel <br />Pip-Boy)
     id16(Pistola a impulsi)
@@ -65,8 +65,8 @@ graph TD;
     id5-->id6-->id7-->id8-->id12
     id6-->id9-->id10 & id11-->id12
 
-    id6-->id13-->id14-->id15-->id12
-    id6-->id16-->id17-->id18-->id12
+    id5-->id13-->id14-->id15-->id12
+    id5-->id16-->id17-->id18-->id12
 
     id12-->id19-->id20---->id21
     id19-->id22-->id23-->id24-->id25

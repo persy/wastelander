@@ -32,7 +32,7 @@ private: false # Nascosto dalle ricerche
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#282a36', 'primaryBorderColor': '#ffe245', 'primaryTextColor': '#fff', 'lineColor': '#ffe245', 'fontFamily': 'Jura'}}}%%
 graph TD;
-    id1(<b>La strada perigliosa</b>):::questfnv
+    id1(<b>Mostri del fiume</b>):::questfnv
     id2(Occupati degli Yao Guai <br />al Tunnel di Pine Creek)
     id3(Uccidi gli Yao Guai <br />che bloccano la strada)
     id4(Distruggi la Caverna <br />degli Yao Guai con gli esplosivi)
