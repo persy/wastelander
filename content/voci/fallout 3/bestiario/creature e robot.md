@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Creature e robot
-summary: ''
+summary: 'Robot e abomini di Fallout 3'
 weight: 30
 icon: paw-claws
 icon_pack: fas

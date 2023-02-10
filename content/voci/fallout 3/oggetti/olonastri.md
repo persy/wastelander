@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Olonastri
-summary: ''
+summary: 'Olonastri di Fallout 3'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas # Page metadata.

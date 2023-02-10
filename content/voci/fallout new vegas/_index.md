@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: "Fallout: New Vegas"
-summary: ''
+summary: 'Fallout: New Vegas'
 weight: 10
 icon: radiation
 icon_pack: fas

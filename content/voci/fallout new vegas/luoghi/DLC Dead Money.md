@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Dead Money
-summary: ''
+summary: 'Le località principali del DLC Dead Money'
 weight: 30
 
 
@@ -15,7 +15,6 @@ hidden: true
 private: false
 tags: "Luoghi di Fallout: New Vegas"
 ---
-
 
 
 {{< toc hide_on="xl" >}}

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Il Mojave
-summary: ''
+summary: 'Le località principali della Zona contaminata del Mojave'
 weight: 20
 
 # Page metadata.

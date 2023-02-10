@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Miscellanea
-summary: ''
+summary: 'Oggetti vari di Fallout: New Vegas'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas

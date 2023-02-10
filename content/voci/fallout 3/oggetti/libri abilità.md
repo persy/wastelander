@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Libri delle abilità
-summary: 
+summary: 'Libri delle abilità di Fallout 3'
 weight: 10
 icon: brain
 icon_pack: fas

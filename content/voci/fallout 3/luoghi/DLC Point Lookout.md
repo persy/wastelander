@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Point Lookout
-summary: ''
+summary: 'Le località principali del DLC Point Lookout'
 weight: 60
 
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Note
-summary: ''
+summary: 'Note di Fallout 3'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas

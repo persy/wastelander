@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Seguaci
-summary: ''
+summary: 'Seguaci di Fallout 3'
 weight: 50
 icon: dog
 icon_pack: fas

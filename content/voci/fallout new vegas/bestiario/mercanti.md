@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Mercanti
-summary: ''
+summary: 'Mercanti di Fallout: New Vegas'
 weight: 30
 icon: paw-claws
 icon_pack: fas

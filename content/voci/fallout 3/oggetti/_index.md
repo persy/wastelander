@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Oggetti
-summary: ''
+summary: 'Oggetti di Fallout 3'
 weight: 40
 
 # Page metadata.

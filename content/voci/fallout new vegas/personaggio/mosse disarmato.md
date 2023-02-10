@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Mosse disarmato
-summary: 
+summary: 'Mosse disarmato di Fallout: New Vegas'
 weight: 10
 icon: brain
 icon_pack: fas

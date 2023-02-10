@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Consumabili
-summary: ''
+summary: 'Consumabili di Fallout 3'
 Peso: 40
 icon: prescription-bottle
 icon_pack: fas

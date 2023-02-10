@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Abilità extra
-summary: 
+summary: 'Abilità extra di Fallout 3'
 weight: 10
 icon: brain
 icon_pack: fas

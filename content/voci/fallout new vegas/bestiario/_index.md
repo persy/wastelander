@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Bestiario
-summary: ''
+summary: 'Creature e personaggi di Fallout: New Vegas'
 weight: 50
 
 # Page metadata.

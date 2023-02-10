@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Fallout 3
-summary: ''
+summary: 'Fallout 3'
 weight: 10
 icon: radiation
 icon_pack: fas

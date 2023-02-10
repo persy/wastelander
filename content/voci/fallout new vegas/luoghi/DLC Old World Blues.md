@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Old World Blues
-summary: ''
+summary: 'Le località principali del DLC Old World Blues'
 weight: 50
 
 

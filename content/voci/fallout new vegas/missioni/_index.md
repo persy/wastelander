@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Missioni
-summary: ''
+summary: 'Missioni di Fallout: New Vegas'
 weight: 30
 
 # Page metadata.
@@ -18,7 +18,7 @@ private: true # Nascosto dalle ricerche
 
 <div class="fnv">
 
-Questa pagina contiene l'elenco di tutte le **missioni** (principali, secondarie e nascoste) di Fallout: New Vegas, DLC compresi. Il titolo delle missioni nascoste, non avendo una traduzione italiana, sono riportate con il nome inglese. 
+Questa pagina contiene l'elenco di tutte le missioni (principali, secondarie e nascoste) di Fallout: New Vegas, DLC compresi. Il titolo delle missioni nascoste, non avendo una traduzione italiana, sono riportate con il nome inglese. 
 
 ## Missioni tutorial
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Il Vagabondo solitario
-summary: ''
+summary: 'Il Vagabondo solitario, il protagonista di Fallout 3'
 weight: 10
 
 # Page metadata.

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: La Capitale
-summary: ''
+summary: 'Le località principali della Zona contaminata della Capitale'
 weight: 20
 
 # Page metadata.

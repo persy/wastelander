@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: "Il Corriere"
-summary: ''
+summary: 'Il Corriere, il protagonista di Fallout: New Vegas'
 weight: 10
 
 # Page metadata.

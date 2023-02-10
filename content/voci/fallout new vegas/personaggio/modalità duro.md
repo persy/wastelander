@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Modalità duro
-summary: ''
+summary: 'Modalità Duro di Fallout: New Vegas'
 weight: 30
 icon: paw-claws
 icon_pack: fas

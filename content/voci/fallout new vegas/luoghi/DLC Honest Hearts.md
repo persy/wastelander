@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Honest Hearts
-summary: ''
+summary: 'Le località principali del DLC Honest Hearts'
 weight: 40
 
 

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Munizioni
-summary: ''
+summary: 'Munizioni di Fallout: New Vegas'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas

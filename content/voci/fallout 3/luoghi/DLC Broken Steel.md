@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Broken Steel
-summary: ''
+summary: 'Le località principali del DLC Broken Steel'
 weight: 30
 
 

@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: Zona contaminata del Mojave
-summary: ''
+summary: 'Gli insediamenti principali della Zona contaminata del Mojave'
 weight: 10
 icon: location-dot # in alternativa location-question
 icon_pack: fas

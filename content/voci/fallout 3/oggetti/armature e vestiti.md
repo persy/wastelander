@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Armi
-summary: ''
+linktitle: Armature e vestiti
+summary: 'Armature e vestiti di Fallout 3'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas

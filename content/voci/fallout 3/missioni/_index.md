@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Missioni
-summary: ''
+summary: 'Missioni di Fallout 3'
 weight: 30
 
 # Page metadata.

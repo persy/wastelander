@@ -1,6 +1,6 @@
 ---
 title: ''
-summary: ''
+summary: 'Voci di Fallout 3 e di Fallout: New Vegas'
 type: book # Do not modify.
 toc: false
 hidden: true

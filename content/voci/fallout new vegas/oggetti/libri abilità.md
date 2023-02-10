@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Libri delle abilità
-summary: ''
+summary: 'Libri delle abilità di Fallout: New Vegas'
 weight: 40
 icon: prescription-bottle
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Lonesome Road
-summary: ''
+summary: 'Le località principali del DLC Lonesome Road'
 weight: 60
 
 

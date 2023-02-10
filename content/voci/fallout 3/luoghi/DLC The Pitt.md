@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: The Pitt
-summary: ''
+summary: 'Le località principali del DLC The Pitt'
 weight: 30
 
 

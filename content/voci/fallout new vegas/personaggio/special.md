@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: S.P.E.C.I.A.L.
-summary: 
+summary: 'S.P.E.C.I.A.L. di Fallout: New Vegas'
 weight: 10
 icon: brain
 icon_pack: fas

@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Karma
-summary: ''
+summary: 'Karma di Fallout: New Vegas'
 weight: 30
 icon: paw-claws
 icon_pack: fas
