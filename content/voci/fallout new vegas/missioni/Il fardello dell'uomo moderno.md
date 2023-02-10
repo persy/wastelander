@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Il fardello dell'uomo moderno* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Fiutagesso all'accampamento dei Cavalli Morti.
 
+**Riassunto**:
+1. Parla con Fiutagesso a proposito del suo desiderio di vedere la civiltà
+   - Convinci Fiutagesso ad esplorare la civiltà
+   - Convinci Fiutagesso a restare con la sua tribù
+2. Ricompensa: **vari PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

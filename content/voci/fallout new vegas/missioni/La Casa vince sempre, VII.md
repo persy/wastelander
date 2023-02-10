@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, VII* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Vai alla sottostazione di El Dorado 
+   - Uccidi le guardie RNC
+   - Camuffati da soldato RNC
+2. Installa il modulo per i comandi manuali
+3. Torna dal Sig. House
+4. Ricompensa: **infamia per l'RNC**
+5. Prossima missione: *La Casa vince sempre, VIII*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

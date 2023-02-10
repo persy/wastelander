@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *Un servitore maltrattato* è una missione nascosta di Fallout 3. È data da interagendo con il cadavere di Argyle a Rockopolis.
 
+**Riassunto**:
+1. Parla con Herbert Dashwood alla Torre Tenpenny
+2. Viaggia fino a Rockopolis
+3. Trova il cadavere di Argyle
+4. Porta la notizia della morte di Argyle a Dashwood
+5. Ricompensa: **Schemi - Mina da tappo**, **munizione nucleare**, **Stealth Boy**
 
 
 <section class="chart-collapse">

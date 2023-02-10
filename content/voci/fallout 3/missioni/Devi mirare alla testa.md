@@ -20,6 +20,21 @@ private: false # Nascosto dalle ricerche
 
 *Devi mirare alla testa* è una missione secondaria di Fallout 3. È data dal Sig. Crowley agli Inferi.
 
+**Riassunto**:
+1. Parla con il Sig. Crowley agli Inferi e accetta la sua offerta: Fucile da cecchino, munizioni
+   - Concordati nel ricevere 100 tappi uccisione con colpo alla testa
+   - Scopri che il vero motivo della missione è trovare le chiavi: **100 tappi**
+2. Uccidi gli obiettivi con un colpo o prendi pacificamente le loro chiavi
+   - Trova Ted Strayer a Rivet City e uccidilo con un colpo alla testa
+   - Trova Dukov alla casa di Dukov e uccidilo con un colpo alla testa
+   - Trova Dave alla Repubblica di Dave e uccidilo con un colpo alla testa
+   - Trova Allistair Tenpenny alla Torre Tenpenny
+      - Uccidi Tenpenny con un colpo alla testa
+      - Accetta la sua controfferta e uccidi Crowley: **300 tappi**
+3. Informa Crowley della morte degli obiettivi
+4. Informa Crowley della morte di Tenpenny
+   - Dai le chiavi a Crawley: **300 PE**, **100-400 tappi**
+   - Tieniti le chiavi e vai a Fort Constantine: **300 PE**, **armatura atomica T-51b**
 
 
 <section class="chart-collapse">

@@ -20,6 +20,42 @@ private: false # Nascosto dalle ricerche
 
 *Guida di sopravvivenza della Zona contaminata* è una missione secondaria di Fallout 3. È data da Moira Brown a Megaton.
 
+**Riassunto**:
+1. Parla con Moira Brown a Megaton sulla scrittura del suo libro
+2. (Opzionale) Convincila a lasciar perdere, terminando la missione: **PE**, **sconto allo Spaccio di Craterside**, **Abilità extra: Infrangisogni**
+3. Completa tutte e tre le parti del primo capitolo
+   - Prendi il cibo al Super-Duper Mart
+      - (Opzionale) Prendi anche le medicine: **Sterilizzante per alimenti**
+      - Ricompensa: **Bocconcini di iguana**
+   - Contrai almeno 200 RAD
+      - (Opzionale) Contrai almeno 600 RAD: **Abilità extra: Rigenerazione da radiazioni** 
+      - Ricompensa: **RadAway** e **Rad-X**
+   - Viaggia fino al campo di giochi di Minefield
+      - (Opzionale) Prendi una mina a frammentazione: **Schemi - Mina da tappo** 
+      - Ricompensa: **Mine a frammentazione**
+   - Ricompensa: **100 PE**, **stimpak**
+4. Completa tutte e tre le parti del secondo capitolo
+   - Usa il bastone repellente su almeno tre rattitalpa
+      - (Opzionale) Usalo su altri sette rattitalpa: **Bastone repellente**
+      - Ricompensa: **Jet** e **Psycho**
+   - Colloca l'osservatore in un baccello di riproduzione nell'Anchorage Memorial
+      - (Opzionale) Non uccidere alcun mirelurk: **Cappello sospetto**
+      - Ricompensa: **Stealth Boy**
+   - Porta la tua salute a meno del 50%
+      - (Opzionale) Procurati una menomazione: **Tuta protettiva**
+      - Ricompensa: **Med-X**
+   - Ricompensa: **100 PE**, **munizioni**
+5. Completa tutte e tre le parti del terzo capitolo
+   - Apprendi la storia di Rivet City da Bannon
+      - (Opzionale) Apprendi la vera storia da Pinkerton: **Sconto a Rivet City**
+      - Ricompensa: **Mentats**
+   - Installa il processore nel computer centrale dell'impianto RobCo
+      - (Opzionale) Riprogramma il computer centrale: **Il grande libro della scienza**
+      - Ricompensa: **Granate a impulsi**
+   - Accedi al catalogo schede nella Biblioteca di Arlington
+      - (Opzionale) Recupera gli archivi completi: **Stile da congresso, menzognero**
+      - Ricompensa: **Tappi**
+6. Ricompensa: **100 PE**, **munizione nucleare**, copia della **Guida di sopravvivenza della Zona contaminata**, **Abilità extra: Superstite principiante**/**Esperto in sopravvivenza**/**Guru di sopravvivenza**
 
 
 <section class="chart-collapse">

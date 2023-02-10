@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Ti sento bussare* è una missione secondaria di Fallout: New Vegas. È data da Lucius al Forte.
 
+**Riassunto**:
+1. Parla con Lucius nella tenda di Caesar al Forte
+2. Vai all'officina della Base aeronautica di Nellis
+3. Recupera il meccanismo di sparo dell'obice dall'armadietto
+   - Rubalo
+   - Ottienilo facendoti idolatrare dai Boomer: *Volare!*
+4. Installa il meccanismo sull'obice al Forte
+5. Torna da Lucius
+6. Ricompensa: **100 PE**, **fama per la Legione di Caesar**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

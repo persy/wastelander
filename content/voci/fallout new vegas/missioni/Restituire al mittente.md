@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Restituire al mittente* è una missione secondaria di Fallout: New Vegas. È data dal Sergente Reyes a Camp Forlorn Hope.
 
+**Riassunto**:
+1. Parla con il Sergente Reyes a Camp Forlorn Hope
+2. Consegna i nuovi codici di sicurezza alle Stazioni Mercenari 
+3. Ritorna da Reyes
+4.  Indaga sui rapporti falsificati
+   -  Interroga il Mercenario Lineholm alla Stazione Mercenari Alpha
+   -  Interroga il Mercenario Pason alla Stazione Mercenari Delta
+   -  Interroga il Mercenario Kudlow alla Stazione Mercenari Foxtrot
+5.  Ritorna da Reyes
+6.  Confrontati con Capo Hanlon a Camp Golf
+   -  Hanlon si uccide: **Sequoia dei mercenari**
+   -  Mantieni segrete le falsificazioni
+   -  Se hai già ucciso Caesar in **Date a Caesar quel che è di Caesar**, digli che Caesar è morto
+7.  Ricompensa: **500-800 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

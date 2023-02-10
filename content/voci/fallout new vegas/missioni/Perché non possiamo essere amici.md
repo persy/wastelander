@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Perché non possiamo essere amici?* è una missione secondaria di Fallout: New Vegas. È data da Philip Lem o Samuel Cooke al Vault 19.
 
+**Riassunto**:
+1. Raggiungi il Vault 19
+   - Parla con Samuel Cooke
+   - Parla con Philip Lem
+2. Entra nelle grotte sulfuree sotto il Vault
+   - Se vuoi appoggiare Cooke, uccidi i gechi
+   - **Scienza 40**/**Esplosivi 60**: se vuoi appoggiare Lem, blocca l'entrata alle grotte
+3. Torna da Cooke o da Lem
+   - **Eloquenza 40**: che tu voglia appoggiare Cooke o Lem, chiedi a Papa Khan di accettare i Powder Gangers fra le file dei Great Khan
+   - Se vuoi appoggiare Lem, decidi che si arrendano all'RNC
+4.  Ritorna da Cooke o da Lem
+5.  Ricompensa: **300 PE**, **fama per i Powder Ganger**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

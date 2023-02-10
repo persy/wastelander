@@ -21,6 +21,22 @@ private: false # Nascosto dalle ricerche
 
 *Solo un cane da caccia* è una missione secondaria di Fallout: New Vegas. È data dal Re alla King's School of Impersonation.
 
+**Riassunto**:
+1. Parla con il Re a Freeside alla King's School of Impersonation
+2. Parla con Julie Farkas all'Old Mormon Fort
+3. Torna dal Re e digli che Rex può essere curato
+4. Porta Rex dal Dottor Henry a Jacobstown per capire come può essere curato
+   - Ottieni il cervello di Rey al Mucchio di rottami di Gibson
+      - **Baratto 70**: ottieni il cervello gratis
+      - Paga l'Anziana signora Gibson 700 tappi
+      - Ricompensa: Rex ottiene **Protettore fedele** (+25 danni inflitti)
+   - Ottieni il cervello di Violetta alle Rovine di South Vegas
+      - Ricompensa: Rex ottiene **Segugio ostinato** (+50% di velocità di movimento)
+   - Ottieni il cervello di Lupa al Forte
+      -  Uccidila
+      -  Abbattila con un machete nell'arena
+      - Ricompensa: Rex ottiene **Sangue della Legione** (+10 Soglia danni)
+5. Ricompensa: **500 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

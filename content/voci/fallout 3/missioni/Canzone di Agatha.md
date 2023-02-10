@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Canzone di Agatha* è una missione secondaria di Fallout 3. È data da Agatha alla casa di Agatha.
 
+**Riassunto**:
+1. Incontra Agatha nella sua casa
+2. (Opzionale) Trova il quartier generale della Vault-Tec
+3. Scopri la posizione del Vault 92
+4. Recupera il Soil Stradivari
+   - Dai il violino ad Agatha: **karma positivo**, **nuova frequenza radio**
+   - Vendi il violino a qualcun altro: **200 tappi** (300 con Eloquenza)
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

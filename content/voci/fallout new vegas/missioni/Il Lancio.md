@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Il Lancio* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Attraversa la Strada principale
+2. Raggiungi la Stazione di controllo del silo di Ashton
+3. Attiva la console e lancia il missile
+4. Ricompensa: **4400 PE**
+5. Prossima missione: *Il Divide*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

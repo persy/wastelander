@@ -20,6 +20,17 @@ private: false # Nascosto dalle ricerche
 
 **L'uomo duplicato** è una missione secondaria di Fallout 3. È data dal Dottor Zimmer a Rivet City.
 
+**Riassunto**:
+1. Parla con Zimmer a Rivet City o trova uno degli olonastri dell'uomo duplicato  (*vedi* Note)
+2. Imbattiti in Victoria Watts dei Railroad
+3. Cerca almeno tre indizi (*vedi* Note)
+4. (Opzionale) Menti a Zimmer, dicendo che l'androide è morto: **300 PE**, **50 tappi**, **karma positivo**
+5. Trova Pinkerton nella prua della nave
+6. Parla con Pinkerton e scopri che Harkness è l'androide
+7. (Opzionale) Dimostra ad Harkness che è un androide: **Fucile al plasma A3-21**, **karma positivo**
+8. (Opzionale) Chiedi ad Harkness il permesso di uccidere Zimmer
+9. Informa Zimmer della scoperta
+10. Ricompensa: **Abilità extra: Riflessi automatici**
 
 
 <section class="chart-collapse">

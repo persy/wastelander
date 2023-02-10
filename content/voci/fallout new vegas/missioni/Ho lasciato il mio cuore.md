@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Ho lasciato il mio cuore* è una missione secondaria di Fallout: New Vegas. È data da Frank Weathers o dalla Sig.ra Weathers a Cottonwood Cove.
 
+**Riassunto**:
+1. Parla con Frank Weathers all'Aerotech Office Park
+2. Raggiungi Cottonwood Cove
+3. Libera i Weathers
+   - Compra l'atto di proprietà da Canyon Runner
+   - Ruba la chiave della cella da Canyon Runner
+   - Uccidi la famiglia
+   - **Esplosivi 35**: manometti i collari e uccidi la famiglia
+   - **Esplosivi 50**: disattiva i collari esplosivi
+4. Torna da Frank Weathers e digli dov'è la sua famiglia
+   -  **Eloquenza 35**: convincilo a riunirsi con la famiglia: **karma positivo**
+   -  **Eloquenza 35**: convincilo a suicidarsi: **karma negativo**
+5. Ricompensa: **1000 PE**, **50 tappi** (se hai attivato la missione parlando prima Frank), **300 PE**, **50 tappi** (se hai scoperto la sua famiglia prima di parlargli)
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

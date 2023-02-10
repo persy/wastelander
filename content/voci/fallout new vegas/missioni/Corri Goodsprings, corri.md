@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Corri Goodsprings, corri* è una missione secondaria di Fallout: New Vegas. È data da Joe Cobb a Goodsprings.
 
+**Riassunto**:
+1. Parla con Joe Cobb a Goodsprings
+2. Uccidi Ringo
+   - (Opzionale) **Eloquenza 25**/**Baratto 25**: convinci Chet a darti delle scorte"
+   - (Opzionale) **Medicina 25**: convinci Dott. Mitchell a darti delle scorte medicinali"
+3. Ritorna da Joe Cobb con le scorte
+4. Decidi di attaccare Goodsprings
+5. Parla con Joe Cobb dopo lo scontro a fuoco
+6. Ricompensa: **infamia per Goodsprings**, **fama per i Powder Ganger**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">
@@ -71,7 +80,7 @@ graph TD;
 
 **Note**:
 - La ricompensa verrà data anche se Cobb muore, ma non verrà fornito alcun bonus alla reputazione per i Powder Ganger
-
+- Non è possibile iniziare questa missione se hai già iniziato o completato *Scontro a fuoco a Ghost Town*
 
 </div>
 

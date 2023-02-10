@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Quando attaccano i visitatori!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dai dottori al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con il Dottor Klein a proposito dei precedenti visitatori di Big MT
+2. Parla con il Dottor O dell'attacco
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Lui venne...e andò via*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

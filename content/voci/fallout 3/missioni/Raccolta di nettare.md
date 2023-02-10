@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Raccolta di nettare* è una missione nascosta e ripetibile di Fallout 3. È data dal Dottor Lesko a Grayditch.
 
+**Riassunto**:
+1. Parla con il Dottor Lesko a Grayditch
+2. Trova il nettare di formica di fuoco
+3. Porta il nettare al Dottor Lesko
+4. Ricompensa: **40 tappi** ogni campione di nettare di formica di fuoco
 
 
 <section class="chart-collapse">

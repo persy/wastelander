@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Il Corriere* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Entra nel Tempio
+2. (Opzionale) Salva ED-E
+3. Confrontati con Ulysses
+   - Eloquenza 90/alta reputazione per la Legione/l'RNC/la Strip/Eloquenza 100: convincilo a ritirarsi
+   - Completa *Solidari-E-tà*
+   - Completa *Odissea di Ulysses*
+   - Uccidilo
+4. Difenditi dall'assalto degli sfregiati
+5. Decidi cosa fare delle testate
+   -  Lancia le testate: *L'Apocalisse*
+   -  Non lanciare le testate: *La Fine*
+6. Ricompensa: **2200 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

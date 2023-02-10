@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *Tossicodipendenza di Leo* è una missione nascosta di Fallout 3. È data dal Dott. Church a Megaton.
 
+**Riassunto**:
+1. Parla con il Dott. Church, Lucas Simms o il Sig. Burke a proposito della dipendenza dalle droghe di Leo Stahl a Megaton
+2. Parla con Leo sulla sua dipendenza
+   - Convincilo a smettersi di drogarsi e a ripulire il suo nascondiglio: **100 PE**, **karma positivo**, **chiave per il nascondiglio** di Leo
+   - Unisciti a lui: **chiave per il nascondiglio di Leo**
+   - Ricattarlo per tenere segreta la sua dipendenza: **karma negativo**
 
 
 <section class="chart-collapse">

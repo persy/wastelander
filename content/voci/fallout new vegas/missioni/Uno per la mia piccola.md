@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Uno per la mia piccola* è una missione secondaria di Fallout: New Vegas. È data da Boone a Novac.
 
+**Riassunto**:
+1. Parla con Boone a Novac a proposito di sua moglie
+2. Ottieni il berretto 1° Ricognitori da Boone"
+3. Indaga sulla moglie scomparsa
+   - **Scasso 50**: scassina la serratura della cassaforte
+   - Borseggia la chiave della cassaforte da Jeannie May Crawford
+4. Apri la cassaforte dietro al bancone dell'accettazione del Dino Dee-lite e prendi la fattura di vendita
+5. Porta Jeannie May Crawford davanti al Dino Dee-lite, fra le 22 e le 9, indossando il berretto
+6.  Prendi la fattura di vendita dal cadavere di Jeannie
+7.  Ricompensa: **150 PE**, **100 tappi**, **berretto 1° Ricognitori**
+8.  *Mi sono dimenticato di ricordarmi di dimenticare*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,22 @@ private: false # Nascosto dalle ricerche
 
 *Acqua santa* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bigsley al Jefferson Memorial.
 
+**Riassunto**:
+1. Parla con lo Scriba Bigsley al Jefferson Memorial
+2. Investiga nei dintorni di Megaton
+3. Guarda Micky morire dopo che Rosa gli ha dato una bottiglia di acqua
+4. Parla con Fratello Gerard al Monastero della Luce sacra
+5. Ottieni l'accesso al monastero
+   - Indossa la maschera ghoul
+   - Supera una sfida Eloquenza 
+   - Usa Scasso sulla porta d'entrata
+   - Borseggia la chiave da Gerard
+   - Uccidi Gerard e prendi la chiave dal suo cadavere
+6. Ferma gli Apostoli della Luce Sacra
+   - Vinci una sfida Eloquenza o Carisma
+   - Uccidili tutti
+   - Guadagna almeno 800 RAD
+7. Ricompensa: **100 PE**, **300 tappi**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

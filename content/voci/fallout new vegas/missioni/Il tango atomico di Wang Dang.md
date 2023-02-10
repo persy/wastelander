@@ -21,6 +21,23 @@ private: false # Nascosto dalle ricerche
 
 *Il tango atomico di Wang Dang* è una missione secondaria di Fallout: New Vegas. È data da James Garret all'Atomic Wrangler di Freeside.
 
+**Riassunto**:
+1. Parla con James Garret all'Atomic Wrangler
+2. Trova un "cowboy ghoul": Beatrix Russell all'Old Mormon Fort"
+   - **Eloquenza 35**/**Baratto 35**: convincila a lavorare per James Garret
+   - Corrompila con dell'assenzio
+3. Trova un "oratore diplomatico": Santiago o il Vecchio Ben"
+   - Recluta Santiago
+   - **Eloquenza 50**/**Uno scapolo incallito**/**Vedova nera**: recluta il Vecchio Ben
+4. Trova un "sex bot": Fisto, al Cerulean Robotics"
+5. Usa la tessera d'accesso al terminale per attivarlo
+   -  **Scienza 60**: riprogrammalo
+   -  Ottieni l'olonastro da Ralph e attendi 24 ore
+       -  **Eloquenza 50**: ottieni gratis l'olonastro
+       -  Pagalo 150 tappi
+       -  **Baratto 50**: ottienilo per 100 tappi
+6.  Torna da James
+7.  Ricompensa: **450 PE**, **400 tappi**, **fama per Freeside**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

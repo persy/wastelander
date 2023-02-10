@@ -21,6 +21,69 @@ private: false # Nascosto dalle ricerche
 
 *Oltre il manzo* è una missione secondaria di Fallout: New Vegas. È data dal Mortimer o da Heck Gunderson all'Ultra-Luxe.
 
+**Riassunto**:
+1. Vai all'Ultra-Luxe e parla con Heck Gunderson a proposito di suo figlio scomparso, Ted
+2. Parla prima con Marjorie e poi con Mortimer
+   - **Eloquenza 62**/**Cannibale**: mentigli per ottenere informazioni su Ted
+   - **karma negativo**/**fama per la Strip bassa**: chiedigli le sue intenzioni
+   - Segui il consiglio di Marjorie e domandagli del detective scomparso
+3. Intrufolati nella stanza dell'investigatore
+   - **Eloquenza 55**/**Riparazione 55**: convinci la guardia a lasciarti passare
+   - Travestiti da membro della White Glove Society o procedi furtivamente
+5.  Raccogli la bustina di fiammiferi dal corpo dell'investigatore
+6.  Incontra Chauchey nel bagno turco alle 16
+7.  Neutralizza il sicario
+8. Occupati della White Glove Society
+
+A questo punto puoi decidere di eliminare la White Glove Society, riportarla al cannibalismo, salvare Ted o incolpare il padre della sua morte.
+
+Se decidi di eliminare la White Glove Society...
+ 1.  Parla con Heck e rivelagli che la White Glove Society vuole tornare al cannibalismo: **Fucile a canne mozze**
+ 2.  Uccidi tutti i membri della White Glove Society, eccetto Mortimer e Marjorie
+ 3.  Trova Ted nella cella frigorifera
+ 4.  Riportalo da Heck
+ 5.  Ricompensa: **500 PE**, **500 tappi**
+
+Se vuoi riportare Ted dal padre e curare il cannibalismo della White Glove Society...
+1.  Raggiungi la cucina e la cella frigorifera nella quale è rinchiuso Ted
+2.  Parla con Ted attraverso la porta della cella 
+3.  **Medicina 25**: droga il vino con il Med-X
+4.  Sgattaiola furtivamente e riporta Ted al padre
+5.  Ricompensa: **500 tappi**, **fama per la White Glove Society**
+
+Se vuoi riporare Ted dal padre e aiutare Mortimer a far tornare la White Glove Society al cannibalismo...
+1.  Trova un sostituto per Ted
+   -  Offri uno dei tuoi companion
+   -  Trova Carlyle St. Clair III, nella sua baracca vicino alla Crimson Caravan
+       -  **Vedova nera**/**Scapolo incallito**: convincilo dopo aver avuto un rapporto
+       -  **Forza 7**/**Medicina 45**/**Armi 45**/**Disarmato 45**: tramortiscilo
+       -  Stordiscilo con un pungolo per bestiame
+2.  Porta il corpo nel cassonetto e torna da Mortimer
+3.  Ricompensa: **500 PE**, **fama per la White Glove Society**, **fama per la Strip**
+
+Se vuoi riportare vivo Ted dal padre e ingannare Mortimer facendogli servire finta carne umana al banchetto...
+1.  Trova il cuoco Philippe e ottieni la ricetta per la torta di carne strana e la chiave della cella
+   - **Baratto 55**/**Eloquenza 55**: ottieni la ricetta direttamente dal cuoco
+   - **Medicina 55**: ottieni la ricetta e la chiave della cella di Ted
+   - **Scienza 50**: hackera il terminale della cella
+   - **Intelligenza 6**/**Sopravv. 75**: cucina la torta di carne strana senza ricetta
+   - Borseggia il cuoco Philippe e  ruba la ricetta e chiave della cella
+   - Uccidi il cuoco e saccheggia la ricetta e chiave dal suo cadavere
+2.  Cucina la torta di carne strana e aspetta che il cameriera la prenda alle 19
+3.  Aspetta che la portata venga servita e che il cameriere abbia lasciato la zona
+4.  Aspetta che Mortimer finisca il discorso senza farti notare
+5.  Smaschera Mortimer confessando di aver scambiato la carne
+6.  Riporta Ted a Heck e parla con Marjorie
+7.  Ricompensa: **fama per la White Glove Society**
+
+Se vuoi uccidere Ted e dare la colpa dell'omicidio al padre, aiutando la White Glove Society a tornare al cannibalismo...
+1. Parla con Mortimer e offrigli aiuto
+2. Ottieni la chiave della cucina
+3. Uccidi Ted e preleva alcuni campioni di sangue dal suo cadavere
+4. Vai alla penthouse e spargi i campioni di sangue nella stanza di Heck
+5. Chiama un Securitron dalla Strip e denuncia l'omicidio
+6. Ricompensa: **500 PE**, **fama per la White Glove Society**, **fama per la Strip**
+7. (Opzionale) Se hai già iniziato *Pheebe Will*, torna da Walter: **200 PE**, **1500 tappi** 
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

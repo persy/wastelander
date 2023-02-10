@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Fai suonare la banda* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah a Puesta del Sol.
 
+**Riassunto**:
+1. Porta Dean Domino sul tetto di Puesta del Sol sud
+2. Trova un modo per farlo restare connettere i cavi
+3. Prossima missione: *Dai inizio all'evento di gala*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

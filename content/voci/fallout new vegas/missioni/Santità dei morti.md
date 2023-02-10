@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Santità dei morti* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Viaggia fino ai Tumuli e parla con Nuvola Nascente
+2. Parla con i Tormenti
+   - Ottieni supporto dai Tormenti
+   - **Eloquenza 75**: di' loro che non hanno una possibilità contro gli Zampabianca
+3. Attacca gli Zampabianca
+4. Ricompensa: **vari PE**
+5. Prossima missione: *Fuga dal paradiso*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

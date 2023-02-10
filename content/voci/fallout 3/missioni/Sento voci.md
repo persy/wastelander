@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Sento voci* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+**Riassunto**:
+1. Parla con Desmond alla Villa di Calvert
+2. Parla con Nadine alla Cattedrale Arca & Spirito santo
+3. Ottieni la chiave per raggiungere i sacri luoghi di preghiera di Jackson
+4. Viaggia fino alla grotta marina
+5. Fatti strada fino alla caverna finale
+6. Parla con la Mente
+7. Torna da Desmond con le informazioni ottenute
+8. Ricompensa: **300 PE**
+9. Prossima missione: *Controllo del pensiero*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

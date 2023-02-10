@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Eureka!* è una missione principale di Fallout: New Vegas. È data dal Generale Lee Oliver a Hoover Dam.
 
+**Riassunto**:
+1. Parla con il Generale Lee Oliver a Hoover Dam
+2. (Opzionale) **Scienza 65**: raggiungi la centrale elettrica 04 e affoga i Legionari inondando le turbine
+3. Fatti strada attraverso l'impianto
+4. (Opzionale) **Scasso 75**, **Scienza 100**: accedi a un'entrata nascosta nel lato centrale della diga, attiva il terminale e con detonatore attiva le cariche"
+5. Fatti strada sulla diga
+6. (Opzionale) **Eloquenza 85**: ottieni il supporto dei mercenari veterani
+7. Entra nell'accampamento del Legato
+8. Confrontati con il Legato Lanius
+   - **Eloquenza 55**, **65**, **75**, **85**, **100**: persuadi Lanius a lasciare il campo di battaglia
+   -  **Eloquenza 60**, **75**, **90**, **90**: bluffa e con una bugia persuadi Lanius a lasciare il campo di battaglia
+   -  Uccidi Lanius
+9.  Parla con il Generale Lee Oliver
+10. Ricompensa: *Finale di gioco*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

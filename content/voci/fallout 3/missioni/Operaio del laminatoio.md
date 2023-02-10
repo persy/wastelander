@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Operaio del laminatoio* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Everett alla Stadera.
 
+**Riassunto**:
+1. Parla con Everett alla Stadera
+2. Recupera 100 barre d'acciaio (*Vedi* Note)
+3. Porta le barre d'acciaio ad Everett
+4. Ricompensa: **Vestiti dell'operaio**, **Elmo della filtrazione**, **Tirapugni di acciaio**, **Armatura in metallo del maestro**, **Armatura in metallo del maestro**, **Blaster in metallo**, **Armatura ordigno**, **Ribelle di cuoio**, **Il battitore**, **Perforatrice**, **Armatura atomica tribale di Ashur**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

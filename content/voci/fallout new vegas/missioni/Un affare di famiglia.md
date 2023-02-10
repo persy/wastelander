@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Un affare di famiglia* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Nuvola Crescente all'accampamento dei Tormenti.
 
+**Riassunto**:
+1. Parla con Nuvola Nascente a proposito di suo marito
+2. Parla con Daniel a proposito del marito di Nuvola Nascente e scopri che fine abbia fatto
+   - Dai la brutta notizia a Nuvola Nascente, facendola arrabbiare
+   - Menti a Nuvola Nascente: **karma negativo**
+   - Prometti a Daniel di non dirle la verità: *impossibile completare la missione*
+3. Ricompensa: **vari PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Caccia di schiavi* è una missione nascosta di Fallout 3. È data da Mei Wong a Rivet City.
 
+**Riassunto**:
+1. Parla con Mei Wong a Rivet City
+   - Schiavizzala di nuovo con il Mesmetron: **karma negativo**
+   - Rivela a Sorella che Mei è una ex-schiava: **karma negativo**
+   - Dalle 25 tappi così può comprarsi una pistola e difendersi: **karma positivo** e coordinate del Tempio dell'Unione
+   - Uccidi Sorella: **nessuna ricompensa**
 
 
 <section class="chart-collapse">

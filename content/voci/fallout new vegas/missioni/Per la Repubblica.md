@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Per la Repubblica* è una missione secondaria di Fallout: New Vegas. È data da guadagnando fama con l'RNC.
 
+**Riassunto**:
+1. Guadagna l'infamia dell'RNC o completa qualsiasi missione per la Legione di Caesar, il Sig. House o Yes Man
+2. Continua a guadagnare infamia per l'RNC o fai altre missioni per le altre fazioni: *La Casa vince sempre, V*, *Jolly: Gli ultimi ritocchi*, *Killer dell'Arizona*
+3. Ricompensa: **infamia dell'RNC**, *fallimento di tutte le altre missioni per l'RNC*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

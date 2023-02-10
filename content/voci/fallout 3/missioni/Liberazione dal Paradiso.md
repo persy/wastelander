@@ -20,6 +20,18 @@ private: false # Nascosto dalle ricerche
 
 *Liberazione dal Paradiso* è una missione secondaria data dal Sindaco MacCready a Little Lamplight o da Sammy a Paradise Falls. A seconda delle scelte nelle altre missioni correlate diventa essenziale superarla per progredire nella trama principale.
 
+**Riassunto**:
+1. (Opzionale) Parla con il Sindaco MacCready
+2. Ottieni l'accesso a Paradise Falls
+   - Parla con Scoiattolo
+      1. Riconnetti il terminale di Scoiattolo alla rete  
+      2. Distrai o uccidi Quaranta
+      3. Aiuta Rory e Penny; se abbandoni Rory: **karma negativo**
+   - Parla con Eulogy e compra i bambini
+   - Uccidi gli schiavisti e libera i bambini dalle gabbie
+3. Incontra i bambini fuori da Paradise Fall e accompagnali a Little Lamplight
+4. Ricompensa: **900 PE**, accesso a Little Lamplight
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

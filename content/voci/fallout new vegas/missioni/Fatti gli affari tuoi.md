@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Fatti gli affari tuoi* è una missione secondaria di Fallout: New Vegas. È data dall'Anziano Hardin nel bunker di Hidden Valley.
 
+**Riassunto**:
+1. Vai al Silver Rush a Freeside
+2. Elimina tutti Van Graff: *impossibile completare Heartache by the Number in maniera pacifica*
+3. Parla con l'Anziano Hardin
+4. Ricompensa: **addestramento per l'armatura atomica**, **armatura atomica T-45d**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

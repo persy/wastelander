@@ -20,6 +20,10 @@ private: false # Nascosto dalle ricerche
 
 *La meravigliosa carne di Ryan Brigg* è una missione nascosta e ripetibile di Fallout 3. È data da Ryan Brigg nei Tunnel di Jury St.
 
+**Riassunto**:
+1. Trova della carne di ratto talpa e della colla prodigiosa
+2. Usa il produttore di carne prodigiosa
+3. Ricompensa: **Carne prodigiosa di ratto talpa**
 
 
 <section class="chart-collapse">

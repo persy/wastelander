@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Jolly: Puntate supplementari* è una missione principale di Fallout: New Vegas. È data da Yes Man alla Strip.
 
+**Riassunto**:
+1. Determina il destino delle varie fazioni
+   - I Boomer della Base aeronautica di Nellis: *Volare!*
+   - La Confraternita d'Acciaio a Hidden Valley: *Ancora al buio*
+   - I Great Khan a Red Rock Canyon: *Oh, papa*
+   - Gli Omerta al Gomorrah: *Che poco ne sappiamo*
+   - La White Glove Society all'Ultra-Luxe: *Oltre il manzo*
+2. Ricompensa: **infamia della Legione**
+3. Prossima missione: *Jolly: Gli ultimi ritocchi*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

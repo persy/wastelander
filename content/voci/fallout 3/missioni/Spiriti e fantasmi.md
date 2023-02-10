@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Spiriti e fantasmi* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+**Riassunto**:
+1. Parla con Desmond alla Villa di Calvert
+2. Infiltrati alla Cattedrale Arca & Spirito santo
+3. Parla con i tribali
+4. Viaggia fino alla Palude sacra
+5. Fatti strada fino a raggiungere la Madre Punga
+6. Esci dalla plaude
+7. Torna alla Cattedrale Arca & Spirito santo
+8. Ricompensa: **300 PE**, **Potere di Punga!**
+9. Prossima missione: *Sento voci*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

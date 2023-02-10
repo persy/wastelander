@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *La Riunione* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Viaggia fino ai Rottami del canyon vicino Primm e entra nel Divide
+2. Ricompensa: **10 PE**
+3. Prossima missione: *Il Silo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

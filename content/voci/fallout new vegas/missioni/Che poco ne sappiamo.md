@@ -21,6 +21,70 @@ private: false # Nascosto dalle ricerche
 
 *Che poco ne sappiamo* è una missione secondaria di Fallout: New Vegas. È data da Cachino o da Joana al Gomorrah sulla Strip.
 
+**Riassunto**:
+1. E' possibile ottenere questa missione in modi diversi:
+   - Inizia *Per la Repubblica, 2ª parte* e parla con Liza O'Malley all'Ambasciata dell'RNC sulla Strip
+   - Inizia *Ciao ciao amore* e ricevi una soffiata da Joana a proposito di Cachino
+2. Trova le prova dei traffici illeciti di Cachino
+3. Parla con Cachino al Gommorah
+4. Ottieni il diario di Cachino
+   - Vai dalla receptionist del Gomorrah
+      1. Estoricile le informazioni
+         - Ottieni la chiave della stanza di Cachino dalla receptionist, pagandola 300 tappi
+         -  **Baratto 55**: estorci la chiave della stanza di Cachino dalla receptionist, pagandola 200 tappi
+         -  **Forza 8**: intimidisci la receptionist affinché ti dia la chiave della stanza di Cachino
+      2. Vai nella stanza di Cachino, al piano delle suite, e ruba il diario all'interno della scrivania
+   - Vai allo stripbar del Brimstone, all'interno del Gomorrah, e parla con Cachino
+      -  Mostra il diario a Cachino e ricattalo: **100 tappi** (+200 tappi con **Baratto 60**)
+      -  Mostra il diario Cachino, ma non darglielo; mostralo invece alla guardia e poi a Big Sal: **100 tappi**, (+20 tappi con **Baratto 55**), *(fallimento) Ciao ciao amore*
+
+Se hai ricattato e ridato il diario a Cachino...
+1. Occupati di Clanden e Troike
+   -  Parla con Troike, al piano inferiore del Brimstone
+       1.  (Opzionale) **Medicina 30**: Digli che la storia della prostituta non quadra
+       2.  Liberalo dal contratto con Big Sal o ricattalo
+           -  **Eloquenza 53**/**Baratto 45**: convinci Big Sal che Troike è un problema
+           -  **Scasso 75**/**Scienza 50**: apri la cassaforte nell'ufficio di Big Sal e prendi la nota di ricatto
+               -  Mostra la nota di ricatto a Troike: *impossibile ottenere il Pimp-Boy 3 miliardi*
+               -  Consegna la nota al Capitan Marie Pappas all'Ambasciata dell'RNC: *impossibile ottenere il Pimp-Boy 3 miliardi*
+           -  **Eloquenza 80**: menti, minacciando di svelare i suoi traffici all'RNC
+       3.  (Opzionale) Contatta Mick al Negozio di Mick e Ralph e parlagli del traffico d'armi
+       4.  Parla con Cachino
+       5.  Decidi di distruggere le armi nel magazzino con la termite
+           -  **Eloquenza 70**: convinci Troike a mettere la termite
+               1.  Attendi qualche ora fuori dal Gomorrah
+               2.  Troike prima di farsi beccare, farà il tuo nome
+           -  Prendi la termite e fai saltare in aria il magazzino
+       6. Parla con Cachino 
+   -  Parla con Clanden al piano delle suite 
+       1. Ottieni la chiave della sua cassaforte  
+          -  **Scasso 75**: forza la cassaforte dietro l'armadio
+          -  Borseggiagli la chiave della cassaforte
+       2.  (Opzionale) **Medicina 35**: ispeziona il cadavere della prostituta"
+       3.  Prendi i nastri di snuff dalla cassaforte
+       4.  Porta i nastri a Cachino
+       5.  Confrontati con Claiden
+           -  **Baratto 50**: estorcigli **200 tappi** per lasciargli i nastri
+           -  Dagli i nastri e convincilo ad andarsene
+           -  Tieniti i nastri, rendendolo ostile, e uccidilo
+2.  Confrontati con Big Sal e Nero
+3.  (Opzionale) **Eloquenza 80**: convinci Cachino a vedersela con i boss
+4.  (Opzionale) **Eloquenza 80**: convinci Big Sal a rivelare i piani degli Omerta nel confronto finale e, con una bugia, aizzarlo contro Nero
+5.  Uccidi Big Sal e Nero: **300 PE**, **fama per la Strip**, **50 fiches del Gomorrah** (se Cachino sopravvive), possibile fallimento *Date a Caesar quel che è di Caesar*
+
+Se hai ricattato Cachino e dato il diario a Big Sal...
+1.  Aiuta Clanden e Troike
+   -  Parla con Clanden e aiutalo a creare la bomba al cloro
+        -  Acquista il container di cloro da Ralph o da Blake
+        -  **Scienza 60**: ottieni gratis il container di cloro da Ralph
+        -  Ruba  il container di cloro dall'Ultra-Luxe
+   -  Parla con Troike riguardo la spedizioni di armi smontate
+        -  Recupera la spedizione di armi smontate
+        -  (Opzionale) Contatta Mick al Negozio di Mick e Ralph e chiedigli del traffico d'armi: **Pimp-Boy 3 miliardi** (a fine missione)
+2.  Parla con Big Sal: **300 PE**, **400 tappi**, **infamia per la Strip**
+3.  (Opzionale, se le chiedi a Big Sal) **50 fiches del Gomorrah**
+4.  (Opzionale, se dici a Big Sal di riprendere i traffici con Rick) **Eloquenza 50**: ottieni il **Pimp-Boy 3 miliardi** da Ralph
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

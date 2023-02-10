@@ -21,6 +21,30 @@ private: false # Nascosto dalle ricerche
 
 *Old World Blues* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con Dottor Klein
+2.  (Opzionale) **Scasso 75**, **Riparazione 75**, **Scienza 65**, **Furtivo 45**, **Scienza 85**, **Medicina 85**: per ottenere altre informazioni dal Dottor Klein
+3. Entra nella Cupola della Zona proibita e affronta il roboscorpione gigante X-42
+   - Usa l'olonastro a sinistra della piattaforma dei protettori per ottenere la password di disattivazione
+   - **Scienza 100**: disattivalo dal terminale nella stanza a sinistra
+   - Uccidilo
+4. Affronta il Dottor Mobius e poi il tuo cervello
+5.  (Opzionale) **Riparazione 75**/**Scienza 50**/**Eloquenza 65**/**Intelligenza 7**/**Percezione 7**, **Medicina 65**, **Armi 75**: per ottenere altre informazioni dal Dottor Mobius
+   - Uccidi Mobius: **1066 PE**
+   - Risparmialo
+6.  Occupati del tuo cervello
+   -  Convincilo a tornare con te
+   -  (Opzionale) **Medicina 55**, **Eloquenza 75**, **Uno scapolo incallito**/**Chechez La Femme**/**Donnaiolo**/**Vedova nera**: per convincerlo più facilmente a tornare nel nostro corpo
+   -  Lascialo nella sua teca
+7.  Affronta il Dottor Klein
+   -  Uccidilo assieme agli altri scienziati
+   -  **Eloquenza 75**/**Medicina 85**/**Scienza 100**: risolvi in maniera pacifica
+   -  Sfrutta la fiducia guadagnata dei dottori
+        -  *In fondo è solo un nome*
+        -  *Sulla stessa lunghezza d'onda*
+        -  *Il miglior amico di un cervello*
+        -  *Fuori dal guscio*
+8. Ricompensa: *Completamento Old World Blues*, **Trasmettisportatore di Big Mountain!**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *La città che mi piace* è una missione secondaria di Fallout: New Vegas. È data dall'Agente Beagle o da Johnson Nash a Primm.
 
+**Riassunto**:
+1. Parla con Johnson Nash
+2. Vai all'Hotel Bison Steve e parla con l'Agente Beagle
+   - Ottieni le informazioni su Benny, in cambio di aiuto per la sua fuga
+   - **Eloquenza 40**: ottieni le informazioni e liberalo
+   - Uccidi l'Agente Beagle e prendi il suo diario
+3. Ritorna da Johnson Nash e trova un nuovo sceriffo
+   - Parla con le truppe locali dell'RNC
+      -  **Baratto 20**: convincile a prendere il controllo di Primm
+      -  Completa *Riesci a trovarlo nel tuo cuore?*
+   - Vai da Mayers al Complesso Penitenziario dell'RNC
+      -  **Eloquenza 30**: convinci il Maggiore Knight a perdonare Mayers
+      -  Corrompi il Maggiore Knight con 200 tappi
+   - Assolda Primm Slim
+      -  **Scienza 30**: riprogrammalo
+      -  Usa tre batterie a fissione e quattro conduttori
+4.  Parla con  Johnson Nash o con l'Agente Beagle (se hai assoldato Primm Slim
+5.  Ricompensa: **330 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

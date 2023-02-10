@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Protezione della via dell'acqua* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Bisgley al Jefferson Memorial.
 
+**Riassunto**:
+1. Parla con lo Scriba Bisgley al Jefferson Memorial
+2. Parla con l'Ufficiale Lepelletier a Rivet City
+3. Parla con Davis e Lorin lungo il fiume a nord del Progetto Purezza
+4. Ottieni più informazioni sui predatori delle carovane
+5. Confrontati con Split Jack e la sua banda al molo di Wilhem
+   - Vinci una sfida Eloquenza e convincili a fermarsi
+   - Unisci alla gang di Split Jack e sfida Jack a un combattimento all'ultimo sangue
+   - Uccidi tutti
+6. Torna dall'Ufficiale Lepelletier
+7. Ricompense: **100 PE**, **Armatura atomica** ed **elmo dell'Enclave**, **Laser Gatling**, **Pistola al plasma**, **munizioni**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

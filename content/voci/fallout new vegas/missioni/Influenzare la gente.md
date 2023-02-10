@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Influenzare la gente* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal Pozzo.
 
+**Riassunto**:
+1. Trova i potenziamenti per l'Unità centrale del Pozzo
+2. Trova i potenziamenti per l'Auto-Doc del Pozzo
+3. Trova i potenziamenti per le altre personalità del Pozzo
+4. Installa i potenziamenti nel Pozzo
+5. Ricompensa: **vari PE**, servizi aggiuntivi dalle personalità del Pozzo
+6. Prossima missione: *Ricerca sul campo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

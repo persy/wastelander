@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Nel Pitt* è una missione del DLC *The Pitt* di Fallout 3. È data da Wernher alla Torre della radio.
 
+**Riassunto**:
+1. Indaga sul segnale radio
+2. Parla con Werher
+3. Vai alla torre radio e procurati una tuta da schiavo
+   - Compra gli schiavi e liberali: Karma positivo
+   - Uccidi tutti
+4. Raggiungi Wernher alla galleria del treno
+5. Sopravvivi all'imboscata
+6. Attraversa il ponte
+7. Indossa la tuta da schiavo
+8. Ricompensa: **150 PE**, accesso al Pitt
+9. Prossima missione: *Condizioni di lavoro pericolose*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

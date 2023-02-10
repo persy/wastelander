@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Cry Me a River* è una missione secondaria di Fallout: New Vegas. È data da Jerry the Punk al Red Rock Canyon.
 
+**Riassunto**:
+1. Parla con Jerry the Punk al Red Rock Canyon
+2. **Eloquenza 35**: convincilo a diventare un Seguace dell'Apocalisse
+3. Parla con Julie Farkas all'Old Mormon Fort
+4. Torna da Jerry
+5. Ricompensa: **350 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

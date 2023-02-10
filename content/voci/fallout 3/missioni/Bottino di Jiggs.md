@@ -20,6 +20,15 @@ private: false # Nascosto dalle ricerche
 
 *Bottino di Jiggs* è una missione nascosta di Fallout 3. È data da Prime attraverso i terminali del Museo di Tecnologia.
 
+**Riassunto**:
+1. Vai al Museo di Tecnologia
+2. Vai al piano terra dell'atrio e digita nel terminale 19
+3. Vai nell'ala ovest e digita nel terminale 53
+4. Vai al piano terra vicino al razzo Delta e digita nel terminale 113
+5. Vai all'ufficio sicurezza e apri la cassaforte: **200 tappi**, **nota "Hai meritato la tua parte"**
+6. Viaggia fino al Dot's Diner attraverso la stazione metropolitana di Jury Street
+7. Trova il cadavere di Prime
+8. Ricompensa: **500 tappi**, **Fucile d'assalto Xuanlong**
 
 
 <section class="chart-collapse">

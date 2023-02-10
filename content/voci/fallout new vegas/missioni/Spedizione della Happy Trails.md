@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Spedizione della Happy Trails* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data dalla trasmissione della Happy Trails Caravan Company al passaggio settentrionale.
 
+**Riassunto**:
+1. Trova Jed Masterson con la trasmissione radio della Happy Trails Caravan Company dal tuo Pip-Boy
+2. Fa' sapere a Jed che sei pronto a partire quando sarai da solo e con non più di 75 libbre di carico
+3. (Opzionale) **Medicina 45**: convinci Ricky ad abbandonare la carovana o a comprarti le droghe
+4. (Opzionale) Aggiungi altre 25 libbre
+   - **Sopravvivenza 50**/**Schiena resistente**/**Ladruncolo**: Cconvinci Jed ad aumentare il carico massimo trasportabile
+   - **Scienza 45**/**Eloquenza 50**/**Sopravvivenza 20**/**Armi 45**/ **Addestr. armatura atomica**: convinci Ricky a portare lui il peso in eccesso
+   - **Baratto 50**, **75**, **100**: paga 100/75/50 tappi a Ricky affinché porti il peso in eccesso) 
+5. Parti per il Canyon di Zion
+6. Ricompensa: **175 tappi**
+7. Prossima missione: *Arrivo a Zion*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

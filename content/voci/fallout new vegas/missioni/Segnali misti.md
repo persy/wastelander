@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Segnali misti* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah alla stazione smistamento Puesta del Sol.
 
+**Riassunto**:
+1. Vai con Christine alla Staz. smistamento Puesta del Sol
+2. Ridai corrente all'edificio
+   - Trova tre fusibili di riserva
+   - **Riparazione 60**: ripara la scatola elettrica senza componenti
+3. Raggiungi l'ascensore della Sala di controllo manuale e parla con Christine
+   - Chiedi a Christine di prendere l'ascensore
+   - Accedi al terminale di manutenzione remoto
+      - **Scienza 100**: hackera il terminale
+      - Usa la password di Ennis, rinchiusa in un armadietto
+4. Parla di nuovo con Christine per completare la missione
+5. Ricompensa: **800 PE**
+6. Prossima missione: *Dai inizio all'evento di gala*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

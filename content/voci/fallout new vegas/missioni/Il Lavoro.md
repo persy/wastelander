@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Il Lavoro* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Parla con Ulysses attraverso ED-E
+2. Avventurati nella Base degli sfregiati seguendo il segnalino sulla bussola
+3. Ottieni il detonatore laser e distruggi la testata che blocca il passaggio
+4. Raggiungi l'Ingresso della Strada principale
+5. Fatti strada attraverso la caverna degli scavatori e raggiungi la Strada principale
+6. Ricompensa: **2310 PE**
+7. Prossima missione: *Il Lancio*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

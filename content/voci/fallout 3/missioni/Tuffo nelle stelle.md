@@ -21,6 +21,23 @@ private: false # Nascosto dalle ricerche
 
 *Tuffo nelle stelle* è una missione del DLC *Mothership Zeta* di Fallout 3. È data da Sally.
 
+**Riassunto**:
+1. Parla con Sally
+2. Vai nei crio-laboratori
+3. (Opzionale) Chiedi aiuto a Elliott Tercorien
+4. Distruggi il generatore
+5. Vai nell'hangar
+6. (Opzionale) Chiedi  aiuto a Paulson 
+7. Distruggi il generatore
+8. Vai nell'area di produzione dei robot
+9. (Opzionale) Chiedi aiuto a Somah
+10. Distruggi il generatore
+11. Prendi la tuta spaziale dal Colonnello Hartigan
+12. Entra nella camera di decompressione e attiva la sequenza di pressurizzazione
+13. Trova e attiva i tre pannelli
+14. Entra nel teletrasporto
+15. Ricompensa: **300 PE**
+16. Prossima missione: *Questa galassia mi sta stretta*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

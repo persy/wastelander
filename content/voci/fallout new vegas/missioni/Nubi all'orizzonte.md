@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Nubi all'orizzonte* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Daniel all'accampamento dei Tormenti.
 
+**Riassunto**:
+1. Occupati dell'accampamento degli Zampabianca
+   - Distruggi gli accampamenti al Promontorio dei bighorner
+   - Ruba i totem di guerra degli Zampabianca dagli accampamenti
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Nubi all'orizzonte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Il dito del sospetto* è una missione secondaria di Fallout: New Vegas. È data da Vulpes Inculta al Forte.
 
+**Riassunto**:
+1. Parla con Vulpes Inculta nella tenda di Caesar
+2. Viaggia fino al Vault 21 sulla Strip e parla con Martina Groesbeck
+3. Occupati dei tre scagnozzi degli Omerta
+   - **Eloquenza 50**: convincili ad andarsene
+   - Uccidili
+4. Parla con Martina
+5. Torna da Vulpes:
+6. Ricompensa: **100 PE**, **fama per la Legione di Caesar**
+7. Missione successiva: *Ti ho stregato*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

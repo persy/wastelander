@@ -26,8 +26,6 @@ private: false # Nascosto dalle ricerche
 - Non appena avrai raggiunto la reputazione ''Accettato'' per l'RNC, il Colonnello Hsu ti consegnerà la chiave del rifugio dei Mercenari
 
 
-**Sfide abilità**:
-- 
 
 
 **Ricompense**:

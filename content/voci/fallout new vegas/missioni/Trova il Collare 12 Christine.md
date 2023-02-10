@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Trova il Collare 12: Christine* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah alla clinica.
 
+**Riassunto**:
+1. Vai a ovest della fontana e raggiungi il Distretto Medico
+2. Raggiungi la Clinica
+   - Trova la chiave sul banco al primo piano e usala
+   - **Scasso 75**: scassina la porta del seminterrato
+3. Libera Christine dall'Auto-Doc
+4. Ricompensa: **Coniatore**, Christine possibile seguace
+5. Prossima missione: *Segnali misti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

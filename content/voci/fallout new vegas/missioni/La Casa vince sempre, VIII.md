@@ -21,6 +21,9 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, VIII* è una missione principale di Fallout: New Vegas. È data dal Sig. House a Hoover Dam.
 
+**Riassunto**:
+1. Informa il Sig. House al Lucky 38 che sei pronto per la battaglia finale
+2. Prossima missione: *Tutto o niente*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

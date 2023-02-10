@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Non mi fare mendicare* è una missione secondaria di Fallout: New Vegas. È data da Melissa all'accampamento dei Great Khan.
 
+**Riassunto**:
+1. Vai fino all'Accampamento dei Great Khan e parla con Melissa
+2. Vai Sloan e cerca la valigia nell'ufficio di Chomps Lewis
+3. Parla con Chomps e poi con Tyrone a Primm
+4. Ottieni le droghe da Tyrone
+   - Provocalo facendolo diventare ostile
+   - Ruba le droghe dal suo inventario: **karma negativo**
+   - Forza 7/Eloquenza 40/Baratto 35/Vedova nera: convincilo a cedere le droghe
+   - Uccidilo: **karma negativo**, **infamia per l'RNC**
+5.  Decidi che fazione appoggiare
+   - Torna da Melissa e consegnale le droghe: **100 PE**, **150 tappi**, **droghe**, **fama per i Great Khan**
+   -  Informa il Luogotenente Hayes dei traffici illeciti di Tyrone: **100 PE**, **karma positivo**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

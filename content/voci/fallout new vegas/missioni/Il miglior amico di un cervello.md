@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Il miglior amico di un cervello* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Borous al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Cerca le tracce di Gabe in Higgs Village
+2. Trova la sua ciotola dietro la casa del Dottor Borous all'Higgs Village
+3. Uccidi Gabe al Centro di ricerca X-8
+4. Torna dal Dottor Borous
+5. Ricompensa: **vari PE**
+6. Prossima missione: *Orrore da liceo X-8!*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

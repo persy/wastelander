@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Ispirazione classica* è una missione secondaria di Fallout: New Vegas. È data da Michael Angelo al laboratorio di Michael Angelo.
 
+**Riassunto**:
+1. Parla a Michael Angelo nel suo negozio
+2. Con la Codac R9000 fai le foto alle principali insegne del Mojave
+   - L'insegna del Bison Steve a Primm
+   - Il termometro di Novac
+   - L'insegna di Camp McCarran
+   - L'insegna di HELIOS One
+   - La bottiglia della Sede Sunset Sarsaparilla
+3. Ritorna da Michael Angelo
+4. Ricompensa: **950 PE**, **750 tappi**, **fama per la Strip**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

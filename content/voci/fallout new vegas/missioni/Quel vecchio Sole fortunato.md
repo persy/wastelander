@@ -21,6 +21,21 @@ private: false # Nascosto dalle ricerche
 
 *Quel vecchio Sole fortunato* è una missione secondaria di Fallout: New Vegas. È data da Fantastic o dal Luogotenente Haggerty a HELIOS One.
 
+1. Raggiungi HELIOS One
+2. **Eloquenza 30**/**Scienza 30**/**fama per l'RNC**: convinci il Luogotenente Haggerty a farti entrare
+3. Parla con Ignacio Rivas e Fantastic e ottieni le due password
+   - Ottieni la password da Rivas supportando i Seguaci
+   - Borseggialo per ottenere la password
+4. Usa i due terminali di controllo e e dai corrente al computer centrale
+   - **Scienza 45**: attiva PYTHON
+   - **Riparazione 35**: ripara il generatore
+   - Usa la tessera identificativa dipendente della Poseidon Energy
+5. Seleziona a quale zona di New Vegas erogare la corrente
+   -  Distribuisci l'energia a Camp McCarran e la Strip: **fama per l'RNC**
+   -  Distribuisci l'energia a Westside e Freeside: **fama per i Seguaci dell'Apocalisse**
+   -  Distribuisci l'energia all'intera regione: **fama per i Seguaci dell'Apocalisse**, **Il grande libro della scienza**, **3 stimpak**, **2 borse mediche** da Ignacio Rivas
+   -  Distribuisci l'energia all'intera regione, ma in modalità d'emergenza: nessuna ricompensa
+   -  Convergi l'energia per armare ARCHIMEDES II: rendi utilizzabile il Mirino d'Euclid per *Potrei risvegliare il tuo interesse*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

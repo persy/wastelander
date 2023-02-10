@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Si rimonta in sella* è una missione principale di Fallout: New Vegas. È data da Sunny Smiles a Goodsprings.
 
+**Riassunto**:
+1. Parla con Sunny Smiles al Prospector Saloon di Goodsprings
+2. Seguila e spara contro tre bottiglie vuote di Sunset Sarsaparilla col fucile Varmint
+3. Accompagna Sunny alla Fonte di Goodsprings e ripulisci i tre pozzi dai gechi
+4. Parla con Sunny Smiles
+5. Ricompensa: **50 PE**, **50 tappi**
+6. Prossima missione: *Attorno ad un fuoco da accampamento lungo il sentiero*
+7. (Opzionale) Finisci il tutorial: *Sono andati di là*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

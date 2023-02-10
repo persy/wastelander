@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Giovani cuori* è una missione secondaria di Fallout: New Vegas. È data da Jack alla base aeronautica di Nellis.
 
+**Riassunto**:
+1. Parla con Jack all'hangar della base aeronautica di Nellis
+2. (Opzionale) **Eloquenza 35**/**Uno scapolo incallito**/**Vedova nera**: scopri più dettagli sulla sua cotta
+3. Parla con Pearl
+   - **Eloquenza 50**: convinci Pearl a permettere che Janet entri a Nellis
+   - Completa *Formiche indisciplinate*
+4. Parla con Alice McLafferty alla Crimson Caravan
+5. **Eloquenza 65**/**Eloquenza 75**: sciogli il contratto di Janet con la Crimson Caravan
+6. Parla con Jack o Janet a Nellis
+7. Ricompensa: **300 PE**, **470 tappi**, **SMG da 10mm**, **fama per i Boomer**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

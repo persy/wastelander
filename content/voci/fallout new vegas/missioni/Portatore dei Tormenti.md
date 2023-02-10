@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Portatore dei Tormenti* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Porta la bussola, il kit di scorte mediche, i Walkie-Talkie, i cestini da pranzo Piccoli Scout a Daniel nell'Accampamento dei Tormenti
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Mostri del fiume*, *Gli scout in avanscoperta*, *Grand Staircasa*, *La strada perigliosa*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -20,6 +20,17 @@ private: false # Nascosto dalle ricerche
 
 *Preparare la via* è una missione del DLC *Operation: Anchorage* di Fallout 3. È data dal Generale Chase durante la simulazione della liberazione di Anchorage.
 
+**Riassunto**:
+1. Ascolta il briefing del Generale Chase
+2. Parla con il Sergente Montgomery
+3. Parla con il Luogotenente Morgan
+4. Prendi un olonastro requisizione da Morgan e dallo al Quartiermastro
+5. Combatti e raggiungi il Deposito Chimera
+6. Piazza gli esplosivi sulle cisterne di carburante
+7. Combatti e raggiungi il Punto d'ascolto
+8. Raggiungi il tetto e uccidi le truppe cinesi rimaste
+9. Ricompensa: **100 PE**
+10. Prossima missione: *Operazione: Anchorage!*
 
 
 <section class="chart-collapse">

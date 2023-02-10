@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Extraterrestre* è una missione del DLC *Mothership Zeta* di Fallout 3. È data dal segnale autoguidato alieno.
 
+**Riassunto**:
+1. Raggiungi il sito dell'incidente alieno
+2. Parla con Somah e fingi una rissa
+3. Uccidi le guardie aliene
+4. Incontra Sally
+5. Sovraccarica il modulo d'alimentazione
+6. Attendi che Sally apra la porta
+7. Recupera il tuo equipaggiamento
+8. Raggiungi la sala di progettazione
+9. Ricompensa: **300 PE**
+10. Prossima missione: *Tuffo nelle stelle*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

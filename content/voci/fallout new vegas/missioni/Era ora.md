@@ -21,6 +21,23 @@ private: false # Nascosto dalle ricerche
 
 *Era ora* è una missione secondaria di Fallout: New Vegas. È data da Julie Farkas all'Old Mormon Fort di Freeside.
 
+**Riassunto**:
+1. Vai all'Old Mormon Fort a Freeside e parla con Julie Farkas
+2. Occupati dei drogati
+   - Parla con Jacob Hoff
+      - Dagli 10 Fixer
+      - **Scienza 50**: dagli un Fixer, uno Psycho e un Buffout
+      - **Eloquenza 50**: convincilo a disintossicarsi
+   - Parla con Bill Ronte
+      - Dagli 2 Fixer, un whiskey e un RadAway
+      - **Scienza 50**: dagli due Fixer e un whiskey
+      - **Eloquenza 50**: convincilo a disintossicarsi
+3. Occupati dello spacciatore Dixon
+   -  Corrompilo con 100 tappi
+   -  **Eloquenza 35**: convincilo a smettere di spacciare
+   -  Uccidilo
+4.  Torna da Julie Farkas
+5.  Ricompensa: **500 PE**, **fama per i Seguaci dell'Apocalisse**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

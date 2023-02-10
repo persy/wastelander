@@ -20,6 +20,20 @@ private: false # Nascosto dalle ricerche
 
 *Fare mente locale* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dai dottori al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con il Dottor Klein
+   - (Opzionale) **Scienza 70**/**Eloquenza 55**: convincilo a condividere le conoscenze del Serbatoio del pensiero <!--TODO-->
+   -  (Opzionale) **Scienza 25**/**Medicina 50**: ottieni più informazioni sui roboscorpioni
+2. Parla con il Dottor O
+3. **Eloquenza 65**/**Intelligenza 7**/**Ira matematica**: scopri il vero nome del Dottor O
+4. **Intelligenza 9**: fargli cambiare nome in Dottor 0
+5. Parla con la Dottoressa Dala
+6. **Cherchez La Femme**/**Donnaiolo**: ottieni più informazioni sul suo feticcio per gli orsacchiotti) <!--TODO-->
+7. Parla con il Dottor Borous
+8. Parla con il Dottor 8
+9.  **Scienza 75**/****Percezione 7**: decifra cosa dice
+10. Ricompensa: **vari PE**
+11. Prossime missioni: *Quando attaccano i visitatori!*, *Sulla stessa lunghezza d'onda*, *Il miglior amico di un cervello*, *Lui venne...e andò via*, *In fondo è solo un nome*, *Fuori dal guscio*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

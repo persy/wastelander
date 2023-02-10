@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Sunshine Boogie* è una missione secondaria di Fallout: New Vegas. È data da Loyal all'impianto della base aeronautica di Nellis.
 
+**Riassunto**:
+1. Parla con Loyal alla Base aeronautica di Nellis
+2. (Opzionale) **Scienza 50**: aumenta l'efficienza dell'impianto: **100 PE**
+3. Ripara l'impianto
+   - **Riparazione 65**: ripara i pannelli rotti dell'impianto fotovoltaico
+   - Trova i pezzi di ricambio dell'impianto fotovoltaico a HELIOS One
+4. Torna da Loyal
+5. Ricompensa: **300 PE**, **fama per i Boomer**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

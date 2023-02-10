@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Scappa!* è la quarta missione principale di Fallout 3. È data da Amata al Vault 101.
 
+**Riassunto**:
+1. Parla con Amata del suo piano per fuggire dal Vault
+2. Fatti strada nel Vault
+3. (Opzionale) Aiuta Butch a salvare sua madre: **Vestito da serpente del tunnel**, **karma positivo**
+4. Entra nell'ufficio del Soprintendente e usa il computer per accedere al tunnel segreto
+5. Apri la porta del Vault e fuggi
+6. Ricompensa: **200 PE**, accesso alla zona contaminata 
+7. Prossima missione: *Seguendo le sue orme*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

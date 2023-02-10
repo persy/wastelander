@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Questa vecchia casa* è una missione nascosta e ripetibile di Fallout 3. È data da Winthrop agli Inferi.
 
+**Riassunto**:
+1. Parla con Winthrop agli Inferi
+2. Trova cinque rottami di ferro
+3. Porta i rottami di ferro a Winthrop
+4. Ricompensa: **Stimpak**, **RadAway** o **Rad-X**
 
 
 <section class="chart-collapse">

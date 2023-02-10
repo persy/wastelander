@@ -21,6 +21,25 @@ private: false # Nascosto dalle ricerche
 
 *Ripristino di Hope* è una missione secondaria di Fallout: New Vegas. È data dal Maggiore Polatli o  Quartiermaestro Mayes a Camp Forlorn Hope.
 
+**Riassunto**:
+1. Parla con il Maggiore Polatli nel centro di comando a Camp Forlorn Hope e chiedigli se ha bisogno di aiuto
+   - Occupati della mancanza di scorte
+      1. Parla con il Quartiermaestro Mayes
+      2. Viaggia fino a HELIOS One e parla con il Luogotenente Haggerty delle scorte
+      3. Recupera le scorte e torna da Mayer e Polatli
+   - Occupati dei problemi medici
+      1. Aiuta il Dott. Richards con i suoi pazienti
+         - **Medicina 35**, **50**, **75**: cura i pazienti con le tue conoscenze mediche
+         - Cura i pazienti usando 3 Med-X, un whiskey, dei tubi chirurgici, un tutore medico, un segaossa, delle pinzette e un Super stimpak
+      2. Parla con Richards e poi fai rapporto al Maggiore Polatli
+   -  Aumenta il morale dei soldati
+       -  Completa *Mistero medico*
+       -  Completa *Restituire al mittente*
+       -  Raccogli le medagliette per cani o le orecchie della Legione
+   -  Fai rapporto a Polatli
+2.  Incontra Sergente Cooper fra Nelson e Camp Forlorn Hope, assalta Nelson e uccidi Dead Sea: *(fallimento) Siamo la Legione*
+3.  Ritorna dal Maggiore Polatli fagli il rapporto sulla vittoria per completare la missione
+4.  Ricompensa: **300 PE**, **fama per l'RNC**, **Liberatore**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

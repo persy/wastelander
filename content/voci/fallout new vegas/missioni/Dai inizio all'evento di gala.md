@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Dai inizio all'evento di gala* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah a Salida del Sol.
 
+**Riassunto**:
+1. Dopo che hai assegnato Dog/God, Christine e Dean Domino ai loro compiti, devi dare inizio all'evento di gala
+2. Arrampicati sulla cima del campanile di Salida del Sol nord
+3. Attiva il pannello di controllo dell'evento
+4. Ricompensa: **1600 PE**
+5. Prossima missione: *Uccidi la bestia*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *L'Apocalisse* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Vai al pannello di controllo  dei missili e lancia le testate contro l'RNC o la Legione di Caesar o entrambi
+   - Colpisci la Legione: accesso al Dry Wells, **fama per l'RNC**, **infamia per la Legione**
+   - Colpisci l'RNC e la Legione: accesso a Dry Wells e alla Long 15, **fama per i Boomer** e **per i Powder Ganger**
+   - Colpisci l'RNC, accesso alla Long 15, **fama per la Legione**, **infamia per l'RNC**
+2.  Lascia il Tempio di Ulysses
+3. Ricompensa: **5000 PE**, **+1 punto S.P.E.C.I.A.L.**, **Ricetta della bevanda amara**, **Spolverino del corriere**, **Spolverino di Ulysses**, **Maschera di Ulysses**, **Antica gloria**, **Luce rossa**, **Laccio per morsi di serpente** **Messaggio finale di Ulysses**
+4.  Ricompensa: *Completamento di Lonesome Road*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

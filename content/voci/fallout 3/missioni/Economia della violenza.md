@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Economia della violenza* è una missione nascosta di Fallout 3. È data da Pronto a Paradise Falls.
 
+**Riassunto**:
+1. Parla con Pronto al negozio Colpo in Canna a Paradise Falls
+2. Trova 20 fucili d'assalto cinesi
+3. Porta i fucili a Pronto
+4. Ricompensa: miglior inventario al Lock and Load, 20% di sconto
 
 
 <section class="chart-collapse">

@@ -25,9 +25,6 @@ private: false # Nascosto dalle ricerche
 **Riassunto**:
 - Devi procurarti un badile e scavare tutte le tombe al cimitero di Goodsprings
 
-
-
-
 **Ricompense**:
 - Vari oggetti
 

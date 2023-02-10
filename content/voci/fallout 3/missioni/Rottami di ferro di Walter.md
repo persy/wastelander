@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *Rottami di ferro di Walter* è una missione nascosta e ripetibile di Fallout 3. È data da Walter a Megaton. Segue la missione nascosta *Trattamento*
 
+**Riassunto**:
+1. Parla con Walter a Megaton
+2. Ripara tutte e tre le perdite con Ripara 30
+3. Torna da Walter
+4. Ricompensa: **100 PE**, **200 tappi**
+5. Prossima missione: *Rottami di ferro di Walter*
 
 
 <section class="chart-collapse">

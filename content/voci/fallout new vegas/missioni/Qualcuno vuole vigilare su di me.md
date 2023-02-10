@@ -21,6 +21,30 @@ private: false # Nascosto dalle ricerche
 
 *Qualcuno vuole vigilare su di me* è una missione secondaria di Fallout: New Vegas. È data da Crandon alla piazza di North Vegas.
 
+**Riassunto**:
+1. Parla con Crandon a Piazza di North Vegas
+2. **Eloquenza 45**/**Baratto 35**: dimostragli di essere all'altezza
+3. Occupati di Squatter Bill e dei suoi amici
+   - **Eloquenza 45**: convincilo ad andarsene e tornare a Westside
+   - **Baratto 45**: pagalo 50 tappi per farlo andare via
+   - Uccidilo: **infamia per l'RNC**
+4. Occupati di Greasy Johnny e dei suoi amici
+   - **Eloquenza 65**: intimidiscilo affinché se ne vada
+   -  **Baratto 50**: corrompilo con 50 tappi
+   -  Pagalo 100 tappi
+   -  **Presenza terrificante**: spaventalo
+   -  Uccidilo
+5.  Occupati della Sig.ra Hostetler e sua figlia Alice
+6.  Interroga Jules a proposito di Alice e Andy Scabbs
+7.  Raggiungi la stanza di Scabbs a The Gray e ottieni il messaggio
+8.  Porta il messaggio alla Sig.ra Hostetler
+9.  Parla con Alice
+   -  Uccidi Alice: **karma negativo**
+   -  **Eloquenza 70**/**Intelligenza 7**: convincila ad uccidere la madre
+   -  Convincila a restare o andarsene per sempre
+   -  **Eloquenza 75**: dille che solo lei conosce la risposta: **karma positivo**
+10. Parla con la Sig.ra Hostetler
+11. Ricompensa: **150 PE**, **1000 tappi**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

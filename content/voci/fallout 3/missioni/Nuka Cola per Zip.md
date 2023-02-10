@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Nuka Cola per Zip* è una missione nascosta e ripetibile di Fallout 3. È data da Zip a Little Lamplight.
 
+**Riassunto**:
+1. Parla con Zip a Little Lamplight
+2. Trova delle Nuka-Cola
+3. Porta le Nuka-Cola a Zip
+4. Ricompensa: **Munizioni** o **droghe**
 
 
 <section class="chart-collapse">

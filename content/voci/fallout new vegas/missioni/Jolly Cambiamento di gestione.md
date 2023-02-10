@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Jolly: Cambiamento di gestione* è una missione principale di Fallout: New Vegas. È data da Yes Man al Lucky 38.
 
+**Riassunto**:
+1. Recupera il platinum chip da Benny al Forte
+2. Raggiungi l'attico del Lucky 38
+3. Accedi al terminale sul muro
+   - **Scienza 75**: hackera il terminale
+   - Usa la House Vip Key Card
+   - Usa il platinum chip
+4. Sopravvivi ai securitron e raggiungi il terminale dell'ascensore
+5. Raggiungi la sala di controllo di House
+6. Confrontati con il Sig. House
+7.  Uccidi o disattiva  il Sig. House
+8.  Ricompensa: **300 PE**
+9.  Prossime missioni: *Jolly: Tu e quale esercito?*, *Jolly: puntate supplementari*, *Jolly: Gli ultimi ritocchi*, *Date a Caesar quello che è di Caesar*, *Per la Repubblica, 2ª parte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

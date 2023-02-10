@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Questa galassia mi sta stretta* è una missione del DLC *Mothership Zeta* di Fallout 3. È data da Sally.
 
+**Riassunto**:
+1. Attiva il teletrasporto alla sala macchine
+2. Distruggi le quattro unità d'alimentazione
+3. Raggiungi il ponte della nave aliena
+4. Uccidi il Capitano
+5. Sconfiggi la nave aliena
+6. Ricompensa: **600 PE**, **Arma secondaria del Capitano**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

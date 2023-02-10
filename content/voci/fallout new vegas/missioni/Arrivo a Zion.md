@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Arrivo a Zion* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Jed Masterson arrivando al Canyon Zion.
 
+**Riassunto**:
+1. Segui Jed Masterson
+   - Combatti e uccidi gli Zampabianca
+   - Fuggi dagli Zampabianca
+2. Vai al Accampamento dei Cavalli Morti con o senza Fiutagesso
+3. Ricompensa: **vari PE**
+4. Prossime missioni: *Andato a pesca*, *Attrazioni al bordo della strada*, *Trappola per turisti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

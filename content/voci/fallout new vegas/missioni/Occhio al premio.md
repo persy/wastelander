@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Occhio al premio* è una missione secondaria di Fallout: New Vegas. È data dal Mercenario Ghost all'Avamposto del Mojave.
 
+**Riassunto**:
+1. Parla con il Mercenario Ghost all'Avamposto del Mojave
+2. Vai a Nipton
+   - Parla con Vulpes Inculta: *Cuore freddo freddo*
+   - Parla con Boxcars: *Cacciato*
+3. Torna dal Mercenario Ghost
+4. Ricompensa: **100 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

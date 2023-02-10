@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Solo profitti* è una missione nascosta e ripetibile di Fallout 3. È data da Grouse a Paradise Falls.
 
+**Riassunto**:
+1. Parla con Grouse a Paradise Falls
+2. Prendi il Mesmetron e utilizzalo per stordire un NPC persona
+3. Fagli indossare il collare da schiavo: **karma negativo**
+4. (Opzionale) Prendi gli oggetti dal suo inventario
+5. Ordinagli di correre a Paradise Falls
+6. Torna da Grouse
+7. Ricompensa: **250 tappi**, **collare da schiavo**
 
 
 <section class="chart-collapse">

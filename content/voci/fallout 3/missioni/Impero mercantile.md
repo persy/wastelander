@@ -20,6 +20,16 @@ private: false # Nascosto dalle ricerche
 
 *Impero mercantile* è una missione nascosta di Fallout 3. È data da Zio Roe a Canterbury Commons.
 
+**Riassunto**:
+1. Parla con Zio Roe a Canterbury Commons
+2. Convincilo a investire su una carovana con una sfida Baratto, l'abilità extra Vedova Nera o Abile commerciante o avendo in possesso almeno 250 tappi
+3. Scegli su quale mercante investire i tappi (200 tappi la prima volta, 500 la seconda volta)
+   - Lucky Harith: **Munizione nucleare**
+   - Dott. Hoff: **3-7 Stimpak**
+   - Crow: **Elmo eyebot di Crow** 
+   - Wolfgang il Pazzo: **2-6 Stealth Boy**s
+4. Parla con il mercante dopo 72 ore
+5. Ricompensa: inventario migliorato, maggiore quantità di tappi, abilità Ripara aumentata
 
 
 <section class="chart-collapse">

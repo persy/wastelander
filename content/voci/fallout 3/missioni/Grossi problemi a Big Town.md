@@ -20,7 +20,21 @@ private: false # Nascosto dalle ricerche
 
 *Grossi problemi a Big Town* è una missione secondaria di Fallout 3. È data da Dusty a Big Town.
 
-
+**Riassunto**:
+1. Puoi ottenere la missione in diversi modi 
+   - Parla con Sticky a Little Lamplight; raggiungi la città con o senza Sticky
+   - Trova Big Town
+   - Parla con Red a Germantown
+2. Chiedi agli abitanti di Big Town informazioni sui loro amici catturati 
+3. Libera Red e Tappo (opzionale) dalla centrale di polizia di Germantown
+   - Se Red è sopravvissuto, parlaci: **300 PE**, **300-500 tappi**, **karma positivo**
+   - Se Red e Tappo non sono sopravvissuti: **200 tappi**
+4. Preparati per l'attacco dei supermutanti
+   - Respingi l'attacco
+      - (Opzionale) Use le tue abilità **Esplosivi**, **Scienza**, **Furtivo** e/o **Armi leggere** per preparare la città all'attacco
+      - Ricompensa: cure da Red, riparazioni da Pappy e scorte medicinali
+   - Ignora l'attacco: nessuna ricompensa
+  
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Lavoro libero* è una missione del DLC *The Pitt* di Fallout 3. È data da Krenshaw al Pitt.
 
+**Riassunto**:
+1. Recupera il tuo equipaggiamento
+2. Vai a Haven e parla con Ashur
+   - Schierati con Ashur e occupati Wernher
+   - Schierati con Wernher e ruba la cura
+3. Ricompensa: **150 PE**, **Armatura atomica di Ashur**, **abilità extra: Bonus salute**
+4. Prossime mission: *Operaio del laminatoio*, *Giocattoli per i bambini*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -20,7 +20,16 @@ private: false # Nascosto dalle ricerche
 
 *Primi passi* è la prima missione principale di Fallout 3. È data da James al Vault 101.
 
-
+**Riassunto**:
+1. Primi passi
+2. Cammina verso papà e impara a muoverti
+3. Apri la porta del box
+4. Esci dal box
+5. Leggi Sei S.P.E.C.I.A.L. e seleziona le tue statistiche primarie
+6. Impara a prendere e buttare gli oggetti. Ascolta papà
+7. Segui papà fuori dalla stanza
+8. Ricompensa: **Punti S.P.E.C.I.A.L.** assegnati, progresso all'età di 10 anni
+9. Prossima missione: *Crescita rapida*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

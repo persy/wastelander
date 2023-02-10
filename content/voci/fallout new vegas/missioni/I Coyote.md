@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *I Coyote* è una missione secondaria di Fallout: New Vegas. È data dal Capitano Parker all'Aerotech Office Park.
 
+**Riassunto**:
+1. Parla con il Capitano Parker all'Aerotech Office Park
+2. Parla con Saint James a Westside
+3. Cerca le prove agli Appartamenti Casa Madrid
+   - Prendi l'orsacchiotto dalla stanza di Saint James
+      - **Baratto 30**: persuadi Sweetie a darti le informazioni per soli 100 tappi
+      - **Scasso 50**: scassina la porta della stanza di Saint James
+      - **Vedova nera**: ottieni da Sweetie la stanza di Saint James
+   - Prendi il libro mastro dalla stanza di Dermot
+4. Porta le prove al Capitano Parker
+5. Ricompensa: **250 PE**, **150 tappi**
+6. (Opzionale) Confrontati con Saint James o Dermot: nessun ricompensa
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

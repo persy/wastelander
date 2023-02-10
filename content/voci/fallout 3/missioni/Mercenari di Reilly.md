@@ -20,6 +20,24 @@ private: false # Nascosto dalle ricerche
 
 *Mercenari di Reilly* è una missione secondaria di Fallout 3. È data da Reilly agli Inferi o da Butcher allo Statesman Hotel.
 
+**Riassunto**:
+1. Ricevi il segnale di emergenza del ranger
+2. (Opzionale) Trova e sveglia Reilly nell'infermeria degli Inferi e ottieni il codice della scatola delle munizioni
+3. Esplora l'ospedale Nostra Signora della Speranza e cerca un accesso allo Statesman Hotel
+4. Trova l'area dei mercenari di Reilly
+5. (Opzionale) Individua il cadavere di Theo e la cassa di munizioni 
+6. Ottieni una batteria a fissione dal rottame del protettore per riparare l'ascensore
+7. Conduci in salvo i Mercenari di Reilly dal tetto dell'hotel
+   - Distribuisci le munizione e aiuta i mercenari
+      1. Dai la batteria a fissione a Donovan
+      2. Lascia che Donovan ripari l'ascensore
+   - Ignora o uccidi i mercenari
+      1.  **Ripara 75**: ripara l'ascensore da solo
+      2.  Recupera la chiave inglese di Donovan dal suo cadavere
+8. Lascia lo Statesman Hotel con almeno un sopravvissuto
+9.  Raggiungi Reilly all'area dei mercenari
+10. Ricompensa: **Armatura da battaglia da mercenario** o **Eugene** e **Modulo geomapper**
+11. (Opzionale) Prossima missione: *Geomappare per Reilly*
 
 
 <section class="chart-collapse">

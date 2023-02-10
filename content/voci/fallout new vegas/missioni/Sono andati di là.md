@@ -21,6 +21,27 @@ private: false # Nascosto dalle ricerche
 
 *Sono andati di là* è una missione principale di Fallout: New Vegas. È data da Dott. Mitchell a Goodsprings.
 
+**Riassunto**:
+1. Dirigiti a Primm
+2. (Opzionale) Parla con Victor a Goodsprings"
+3. Parla con Johnson Nash al casinò di Vikki e Vance
+4. Parla con l'agente Beagle all'Hotel Bisonte Steve per ottenere le informazioni
+   - **Eloquenza 25**: convinci Beagle a non scappare ma ad aiutarti
+   - **Eloquenza 40**: convinci Beagle a darti l'informazione
+   - Borseggia o uccidi Beagle e ottieni il suo diario
+5. Dirigiti a Nipton
+6. (Opzionale) Parla con Boxcars al negozio di generi vari: *Cacciato*
+7. Dirigiti a Novac
+8. (Opzionale) Parla con Vulpes Inculta davanti al municipio: *Cuore freddo freddo*
+9.  Parla con Manny Vargas, nella bocca del Dino Dee-lite
+   -  **Uno scapolo incallito**: ottieni le informazioni
+   -  Accedi al terminale nella stanza di Vargas
+   -  Borseggia o uccidi Vargas e ottieni la nota
+   -  Completa *Vola con me*
+10. Dirigiti a Boulder City
+11. Ricompensa: **1000 PE**
+12. (Opzionale) Parla con Jessup e ottieni le informazioni sul platinum chip: *Resa dei conti a Boulder City*
+13. Prossima missione: *Drin drin drin!*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

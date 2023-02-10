@@ -22,6 +22,12 @@ private: false # Nascosto dalle ricerche
 
 *Il corteggiatore addolorato* è una missione nascosta del DLC *Broken Steel* di Fallout 3. È data dall'olonastro "Mi spiace, tesoro" che si trova alla metropolitana presidenziale.
 
+**Riassunto**:
+1. Trova l'olonastro "Mi spiace, tesoro" alla metropolitana presidenziale e ascoltalo
+2. Vai a La Maison Beauregard a Georgetown
+3. Confrontati con Lag-Bolt
+4. Ricompensa: **Abbigliamento notturno malizioso**, **armatura da combattimento di La-Bolt**, **occhiali di Lag-Bolt**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

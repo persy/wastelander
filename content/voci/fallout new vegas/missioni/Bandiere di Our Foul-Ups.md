@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Bandiere di Our Foul-Ups* è una missione secondaria di Fallout: New Vegas. È data dal Sergente McCredie a Camp Golf.
 
+**Riassunto**:
+1. Parla con il Sergente McCredie a Camp Golf
+   - Parla con O'Hanrahan e segui il suo consiglio
+      - **Eloquenza 40**: convinci Mags, Pointdexter e Razz a lavorare di squadra
+   - Parla con Mags e segui il suo consiglio
+      - **Armi 45**: parla con Mags e migliora l'abilità degli Spostati al poligono di tiro
+      - **Esplosivi 45**: parla con Mags e migliora l'abilità degli Spostati con le granate
+   - Parla con Poindexter e segui il suo consiglio
+      - Accedi al terminale nell'abitazione di House e falsifica il rapporto
+      - **Scienza 75**: accedi al terminale all'esterno e falsifica il rapporto
+   - Parla con Razz e segui il suo consiglio
+      1.  Vai al Red Rock Canyon e parla con Jack
+      2.  Riporta le droghe a Razz
+2.
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Fantascienza a Mezzanotte!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dalla trasmissione misteriosa al Drive-In Mojave.
 
+**Riassunto**:
+1. Vai al Drive-in del Mojave fra le 23:00 e le 03:00
+2. Mentre il film viene proiettato, attiva il satellite schiantato
+3. Ricompensa: **vari PE**, accesso a Big MT
+4. Prossima missione: *Benvenuti al Grande Vuoto*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

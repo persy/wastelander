@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Schiavo spia* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Snitch al Mulino.
 
+**Riassunto**:
+1. Parla con lo schiavo Snitch al Mulino
+2. Forniscigli delle informazioni
+3. Ricompensa: **25 PE**, **karma negativo**, **stimpak**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

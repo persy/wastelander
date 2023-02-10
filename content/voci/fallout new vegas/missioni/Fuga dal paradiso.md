@@ -21,6 +21,9 @@ private: false # Nascosto dalle ricerche
 
 *Fuga dal paradiso* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data dal Pip-Boy al passaggio sud.
 
+**Riassunto**:
+1. Torna nel Mojave attraverso il Passaggio sud
+2. Ricompensa: *Completamento di Honest Hearts*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

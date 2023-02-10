@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Il cuore nero di Blackhall* è una missione secondaria del DLC *Point Lookout* di Fallout 3. È data da Obadian Blackhall allsa Tenuta di Blackhall.
 
+**Riassunto**:
+1. Parla con Obadian Blackhall alla sua tenuta
+2. Incontra Marcella fuori dalla tenuta
+3. Raggiungi il sito per rituali e cerca il Krivbeknih nelle catacombe: Krivbeknih e coltello per rituali
+   - Restituisci il Krivbeknih a Obadiah: **100 PE**, **1000 tappi**
+   - Uccidi Obadiah
+4. Porta il Krivbeknih all'avamposto soccorsi disastro per restituirlo a Marcella
+5. Affronta i contrabbandieri e trova il cadavere di Marcella con l'olonastro
+6. Vai nelle camere virulente dell'Edificio Dunwich
+7. Sconfiggi Jaime e porta il Krivbeknih all'obelisco: **100 PE**, **karma positivo**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

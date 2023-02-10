@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *La fine di Wild Bill* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Milly alla periferia del Pitt.
 
+**Riassunto**:
+1. Parla con Milly a proposito dell'amico Wild Bill
+2. Trova il cadavere di Wild Bill nella stadera
+3. Torna da Milly e infomala della sorte dell'amico
+4. Ricompensa: **Arma da fianco di Wild Bill**, **stimpak**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

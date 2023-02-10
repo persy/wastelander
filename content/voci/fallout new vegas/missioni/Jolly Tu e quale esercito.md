@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Jolly: Tu e quale esercito* è una missione principale di Fallout: New Vegas. È data da Yes Man al Forte.
 
+**Riassunto**:
+1. Ottieni l'accesso alla staz. di monitoraggio climatico sotto il Forte
+2. (Opzionale) Riparazione 60: disattiva le difese del bunker dal terminale vicino l'entrata
+   - Distruggi i due generatori del Vault: **500 PE**, (fallimento) *La Casa vince sempre*
+   - Usa il platinum chip per potenziare i securitron del Vault: **750 PE**
+3. Prossime missioni: *Jolly: Puntate supplementari*, *Jolly: Cambiamento di gestione*, *Date a Caesar quel che è di Caesar*, *La Casa vince sempre*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

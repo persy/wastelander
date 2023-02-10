@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *Baratto con i Rinnegati* è una missione nascosta e ripetibile di Fallout 3. È data dal Protettore Casdin a Fort Independence.
 
+**Riassunto**:
+1. Parla con il Difensore Morgan a Fort Independence
+2. Parla con il Protettore Casdin
+3. Trova un pezzo di tecnologia
+4. Portalo al Protettore Casdin
+5. Ricompensa: **munizioni**, **granate** o **scorte mediche**
 
 
 <section class="chart-collapse">

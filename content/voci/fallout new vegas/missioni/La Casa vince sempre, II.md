@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, II* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Ottieni il Marchio di Caesar da Vulpes Inculta o da Alerio: *Date a Caesar quello che è di Caesar*
+2. Ottieni l'accesso al Forte
+3. Parla con Caesar e ascolta cosa vuole che tu faccia sotto la staz. di monitoraggio climatico
+   - Ottieni il permesso per andare nel bunker, evitando il conflitto
+   - Combatti per trovare un accesso al bunker
+4. Fatti strada nel bunker
+   - Distruggi i due generatori del Vault: *fallimento missione*
+   - Installa l'aggiornamento Mk II OS e convinci Caesar che il Vault è stato distrutto
+5. Ricompensa: **500 PE**
+6. Prossima missione: *La Casa vince sempre, III*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

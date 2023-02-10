@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Il nostro piccolo segreto* è una missione nascosta di Fallout 3. È data dall'Anziano signor Harris ad Andale.
 
+**Riassunto**:
+1. Parla con l'Anziano signor Harris ad Andale
+2. Ottieni la chiave o usa Scasso per accedere alla baracca abbandonata o il seminterrato degli Smith
+3. Scopri le scorte di carne umana
+4. Esci dall'area e parla con i residenti
+   - Uccidi i cannibali: **karma positivo**
+   - Fiancheggia i cannibali: **Torta di carne strana**
 
 
 <section class="chart-collapse">

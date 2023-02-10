@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Cose che scoppiano* è una missione principale di Fallout: New Vegas. È data dall'Ambasciatore Dennis Crocker all'Ambasciata dell'RNC.
 
+**Riassunto**:
+1. Parla con l'Ambasciatore Dennis Crocker all'Ambasciata dell'RNC
+2. Viaggia fino alla base aeronautica di Nellis
+3. Chiedi a Pearl su come aiutare i Boomer: *Volare!*
+4. Torna da Crooker all'Ambasciata RNC e digli che i Boomer hanno promesso il loro sostegno
+5. Ricompensa: **200 PE**, **300-500 tappi**
+6. Prossima missione: *Mossa dei King*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Prigionieri di guerra* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Rilascia i Tormenti imprigionati alla Sottostazione Mercenari Osprey
+2. (Opzionale) Uccidi gli Zampabianca
+   - Trova la chiave della gabbia, sulla cassetta degli attrezzi nella torre
+   - **Scasso 75**: scassina la serratura della gabbia
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Fuga dal paradiso*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

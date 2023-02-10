@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Attrazioni al bordo della strada* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham all'accampamento dei Cavalli Morti.
 
+**Riassunto**:
+1. Trova la bussola rotta
+   - **Riparazione 30**: riparala senza altri elementi
+   - Riparala con un modulo sensore per bussola
+   - Riparala presso un banco da lavoro
+2. Portala a Daniel
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Portatore dei Tormenti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

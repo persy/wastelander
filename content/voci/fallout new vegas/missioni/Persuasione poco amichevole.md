@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Persuasione poco amichevole* è una missione secondaria di Fallout: New Vegas. È data da Marcus a Jacobstown.
 
+**Riassunto**:
+1. Parla con Marcus
+2. Occupati dei mercenari
+   - Uccidi i mercenari: **infamia per l'RNC**
+   - **Eloquenza 65**/**fama per l'RNC**: convincili ad andarsene
+   - Chiedi a Marcus i 2500 tappi per pagarli
+   - Chiedi a Marcus 3000 tappi: **karma negativo**
+3. Ricompensa: **250-350 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Trova il Collare 8: "Dog"* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah alla stazione di polizia.
 
+**Riassunto**:
+1. Vai alla Stazione di polizia nella sezione sudovest del Sierra Madre
+2. Vai nel seminterrato della stazione e prendi il nastro comandi Dog sulla scrivania
+3. Torna indietro e fai partire il nastro davanti alla cella di Dog
+   - Convinci God a seguirti
+   - Fai sentire il nastro e convinci Dog a seguirti
+4. Ricompensa: **Fame insaziabile**/**Passo felpato**, Dog/God possibile seguace
+5. Prossima missione: *Fuochi nel cielo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

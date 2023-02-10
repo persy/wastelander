@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Jolly: Gli ultimi ritocchi* è una missione principale di Fallout: New Vegas. È data da Yes Man al Lucky 38.
 
+**Riassunto**:
+1. Vai alla sottostazione di El Dorado
+2. installa il chip per estendere il raggio d'azione delle trasmissioni di Yes Man
+3. Ricompensa: **500 PE**, **infamia dell'RNC**
+4. Prossima missione: *Lo saprai quando succederà*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

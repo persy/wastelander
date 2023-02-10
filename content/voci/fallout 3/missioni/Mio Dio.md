@@ -20,6 +20,26 @@ private: false # Nascosto dalle ricerche
 
 *Mio Dio!* è una missione secondaria di Fallout 3. È data da Bryan Wilks a Grayditch.
 
+**Riassunto**:
+1. Incontra Bryan Wilks vicino a Grayditch
+2. Trova il cadavere del padre nella loro casa
+3. Informa Bryan della morte del padre
+4. Indaga nella stazione di Marigold e incontra il Dottor Lesko
+5. (Opzionale) Chiedi un incentivo: Camice di Lesko
+6. Uccidi le cinque formiche di fuoco guardiane
+   - Lascia viva la regina delle formiche
+      1. Invia la pulsazione inibitrice dal terminale portatile di Lesko
+      2. Ricompensa: **Abilità extra: Forza delle formiche** o **Vista delle formiche**
+   - Uccidi la regina delle formiche
+      - Convinci Lesko che era meglio così: **Abilità extra: Forza delle formiche** o **Vista delle formiche**
+      - Fallisci o non convincerlo: nessuna ricompensa
+7. Aiuta Bryan a trovare una nuova casa
+   - Mandalo a Rivet City da Vera Weatherly: **karma positivo**
+   - Mandalo a Little Lamplight
+   - Vendilo agli schiavisti di Paradise Falls: **karma negativo**
+8. Ricompensa: **300 PE**
+9. (Opzionale) Prossima missione: *Raccolta di nettare*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

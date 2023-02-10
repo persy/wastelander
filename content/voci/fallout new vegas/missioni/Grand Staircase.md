@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Grand Staircase* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Daniel all'accampamento dei Tormenti.
 
+**Riassunto**:
+1. Trova la mappa topografica di Grand Staircase
+   - Dalla a Daniel
+   - Dalla a Joshua Graham
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Nubi all'orizzonte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

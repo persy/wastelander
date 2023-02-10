@@ -21,6 +21,30 @@ private: false # Nascosto dalle ricerche
 
 *Guarda tra l'erba* è una missione secondaria di Fallout: New Vegas. È data da Thomas Hildern a Camp McCarran.
 
+**Riassunto**:
+La missione si può svolgere in due modi diversi: seguendo le istruzioni del Dottor Thomas  Hildern o quelle di Angela Williams e della dottoressa Keely
+
+Se segui le istruzioni di Hildern...
+1. Parla con il Dottor Thomas Hildern a Camp McCarran
+2. Raggiungi il quinto livello del Vault 11
+   - **Riparazione 50**: ripara l'ascensore
+   - Prendi la chiave dall'ufficio del Soprintendente al quarto piano
+   - **Scasso 75**: scassina la porta dell'area di stoccaggio al quinto livello
+3. Recupera i dati di ricerca e portali a Hildern
+4. Ricompensa: **1200 PE**, **1200 tappi** da Hildern (+600 con **Baratto**/**Eloquenza 50**
+
+Se segui le istruzioni di Angela Williams...
+1. Parla con il Dottor Thomas Hildern e poi con Angela Williams a Camp McCarran
+2. Raggiungi Keely dalle caverne e poi al secondo piano
+3. Trova gli sfiatatoi attraverso cui Keely sta pompando il gas
+4. Incendia in qualche modo il gas
+5.  Torna da Keely e comunicale che le spore sono state eliminate
+6.  Accordati con Keely
+   -  Distruggi i dati di ricerca: **1200 PE**, **800 tappi** da Angela, **karma positivo**
+   -  Rifiutati di cancellare i dati e uccidi Keely: **infamia per l'RNC**, **1500 PE**, **1200 tappi** da Hildern (+600 con **Baratto**/**Eloquenza 50**)
+   -  Mentile sui dati di ricerca: **karma negativo**, **1500 PE**, **2000 tappi** da Hildern e Angela (+600 con **Baratto**/**Eloquenza 50**)
+   -  **Scienza 70**: convincila che i dati della ricerca, sebbene fallimentare, restano preziosi* **1500 PE**, **2000 tappi** da Hildern e Angela (+600 con **Baratto**/**Eloquenza 50**)
+   -  Se hai già iniziato *Potrei risvegliare il tuo interesse*, dille che i dati potrebbero salvare delle vite: **1500 PE**, **2000 tappi** da Hildern e Angela (+600 con **Baratto**/**Eloquenza 50**)
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

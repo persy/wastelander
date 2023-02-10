@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Uccidi la bestia* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah alla Cantina Madrid nel Casinò Sierra Madre.
 
+**Riassunto**:
+1. Accedi all'armadietto dei contatori del casinò e ripristina la corrente al resto del Sierra Madre
+   - Ottieni il codice di sicurezza casinò dal bancone del bar
+   - **Scienza 75**: hackera il terminale nell'ufficio del cassiere
+2. Trova la chiave della porta di emergenza per la cucina della Cantina Madrid
+3. Accedi alla cucina della cantina Madrid attraverso la porta di emergenza del casinò
+4. Ripara le tre valvole del gas rotte nella cucina, senza che Dog/God ti veda
+5. Confrontati con God/Dog
+   - **Eloquenza 50**: convincilo a togliersi il collare, facendosi esplodere
+   -  **Eloquenza 75**: elimina la personalità di Dog e fai prevalere God
+   -  **Eloquenza 85**: fondi le due personalità
+   - Uccidi Dog/God
+6. Ricompensa: **vari PE**, **karma positivo** (se God/Dog sopravvive) o **karma negativo** (se God/Dog muore)
+7.  Prossima missione: *Chiamata alla ribalta al Tampico*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *ED-E amore mio* è una missione secondaria di Fallout: New Vegas. È data da ED-E a Primm.
 
+**Riassunto**:
+1. Trova ED-E nella residenza di Nash a Primm e riparalo
+   - **Riparazione 65**
+   - **Scienza 55**, **Riparazione 35**
+   - 3 rottami di ferro, 2 moduli sensore, 1 rottame elettronico
+2. Attiva la prima registrazione
+3. Lascia trascorrere cinque giorni
+4. Attiva la prima registrazione
+   - Consegna ED-E ai Seguaci all'Old Mormon Fort:  **+5 DAM**, **+5 CRIT**, **+5 colpo/sec**, **+169 DPS**
+   - Consegna ED-E alla Confraternita a: **+12 SD**
+5. Lascia trascorrere tre giorni e recupera ED-E potenziato
+6. Ricompensa: ED-E potenziato
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

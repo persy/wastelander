@@ -18,7 +18,16 @@ private: false # Nascosto dalle ricerche
 
 <div class="fo3">
 
-*Futuro imperfetto* è la terza missione principale di Fallout 3. È data da James al Vault 101
+*Futuro imperfetto* è la terza missione principale di Fallout 3. È data da James al Vault 101.
+
+**Riassunto**:
+1. Vai in classe e parla al Sig. Brotch del G.O.A.T.
+   - Fai il G.O.A.T.
+   - Convincilo a manipolare i risultati
+2. Restituisci il G.O.A.T. al Sig. Brotch
+3. Esci dalla classe
+4. Ricompensa: specializzazione in 3 abilità
+5. Prossima missione: *Scappa!*
 
 
 <section class="chart-collapse">

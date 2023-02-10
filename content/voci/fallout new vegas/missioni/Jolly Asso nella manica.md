@@ -19,8 +19,13 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Jolly Asso nella manica* è una missione principale di Fallout: New Vegas. È data da Yes Man al The Tops.
+*Jolly: Asso nella manica* è una missione principale di Fallout: New Vegas. È data da Yes Man al The Tops.
 
+**Riassunto**:
+1. Accordati con Benny al The Tops
+2. Vai nella suite presidenziale
+3. Parla con Yes Man
+4. Prossime missione: *Jolly: Cambiamento di gestione*, *Jolly: Puntate supplementari*, *Jolly: Tu e quale esercito*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

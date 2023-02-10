@@ -20,7 +20,16 @@ private: false # Nascosto dalle ricerche
 
 *Pacco di Grady* è una missione nascosta di Fallout 3. È data interagendo con il cadavere di Grady alla stazione di Marigold.
 
-
+**Riassunto**:
+1. Trova il cadavere di Grady e la sua ultima registrazione alla stazione di Marigold
+2. Prendi la chiave della cassaforte di Grady dalla scatola della manichetta antincendio nella sala manutenzione
+3. **Scasso**/**Scienza 25**: Apri la stanza con la cassaforte  
+4. Prendi il pigiama sexy dalla cassaforte
+5. Parla con Lug-Nut
+   - Convincilo con una sfida Eloquenza a tenere il pigiama sexy
+   - Uccidilo
+6. Ricompensa: **Pigiama sexy**
+7. (Opzionale) Vendilo a Ronald Laren a Girdershade: **100-300 tappi**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">
@@ -54,7 +63,8 @@ graph TD;
 </div>
 </section>
 
-
+Note:
+- Questa missione è connessa con *Il corteggiatore addolorato*, che fa ottenere da Lag-Bolt, fratello di Lug-Nut, un altro tipo di abbigliamento notturno malizioso 
 
 
 </div>

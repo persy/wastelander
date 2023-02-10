@@ -20,7 +20,28 @@ private: false # Nascosto dalle ricerche
 
 *Furto della Dichiarazione d'Indipendenza* è una missione secondaria di Fallout 3. È data da Abraham Washington a Rivet City e da Sydney agli Archivi nazionali.
 
-
+**Riassunto**:
+1. Parla con Abraham Washington a Rivet City
+2. Trova gli Archivi nazionali
+   - Difendi la rotonda con Sydney e usa l'ascensore della rotonda per raggiungere lo scantinato
+   - Ignora la rotonda e attraversa i locali infestati dai supermutanti
+   - Uccidi Sydney: **"Super" mitragliatrice da 10mm di Sydney**
+3. Raggiungi lo scantinato
+4. Scegli un percorso attraverso i corridoi degli archivi
+   - Disattiva le torrette con Ripara 
+   - Ripara la porta di manutenzione con Scienza
+   - Usa Scasso per bypassare la porta di sicurezza
+   - Combatti i robot
+5. (Opzionale) Cerca nella camere laterali: **Magna Carta** e **Carta dei diritti**
+6. Raggiungi Button Gwinnett e affrontalo
+   - Ordina a Gwinnett di autodistruggersi o uccidilo: **karma negativo**
+   - Usa l'Eloquenza per convincerlo che sei Thomas Jefferson: **Dichiarazione d'Indipendenza** e **Parrucca di Button**
+   - Accetta d'aiutarlo
+      1. Vai alla Biblioteca di Arlington e procurati l'inchiostro ferrogallico 
+      2. Torna da Button per preparare una finta Dichiarazione
+      3. Di' a Gwinnett di tenersi la vera Dichiarazione: **karma positivo**, **Dichiarazione d'Indipendenza**
+7. Torna da Abraham Washington a Rivet City e consegnagli la Dichiarazione d'Indipendenza
+8. Ricompensa: **400 PE**, **Schemi - Sparachiodi**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

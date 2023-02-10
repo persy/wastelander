@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Ovunque io vaghi* è una missione secondaria di Fallout: New Vegas. È data dal Soldato semplice Renolds a Miniera Techatticup.
 
+**Riassunto**:
+1. Parla con il Soldato semplice Renolds, nei pressi di Nelson
+2. (Opzionale) **Baratto 67**: chiedi un piccolo incoraggiamento in tappi
+3. Entra nella miniera e trova i due soldati RNC presi in ostaggio
+   - Se hai una buona reputazione con la Legione, raggiungi Alexus
+   - Se hai una cattiva reputazione con la Legione, uccidi tutti i legionari
+4. Ottieni la chiave delle celle da Alexus o scassina le porte
+5. Libera i prigionieri e scortali fino all'uscita
+6. Ricompensa: **100 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

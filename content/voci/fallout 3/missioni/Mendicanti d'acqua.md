@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Mendicanti d'acqua* è una missione nascosta e ripetibile di Fallout 3. È data da Micky fuori da Megaton, Carlos fuori da Rivet City e Willy fuori dalla Torre Tenpenny.
 
+**Riassunto**:
+1. Si può ottenere questa missione in modi diversi:
+   - Parla con Micky fuori da Megaton
+   - Parla con Carlos fuori da Rivet City
+   - Parla con Willy fuori dalla Torre Tenpenny
+2. Offri dell'acqua purificata: **karma positivo**
+3. (Opzionale) Rifiutati di dare dell'acqua purificata: morte del mendicante
 
 
 <section class="chart-collapse">

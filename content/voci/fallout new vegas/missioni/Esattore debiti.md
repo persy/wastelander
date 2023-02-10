@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Esattore debiti* è una missione secondaria di Fallout: New Vegas. È data da Francine Garret all'Atomic Wrangler di Freeside.
 
+**Riassunto**:
+1. Parla con Francine Garret all'Atomic Wrangler
+2. Colleziona i tappi da Grecks
+   - **Eloquenza 40**, **60**: estorcigli i tappi a Grecks
+   - Dagli un pugno o minaccialo
+3. Colleziona i tappi da Santiago
+   - Parlagli della sua taglia
+   - Dagli un pugno o minaccialo
+   - Se *Il tango atomico di Wang Dang* non è stato completato, offrigli un lavoro
+4. Colleziona i tappi da Lady Jane
+   -  **Eloquenza 40**, **Baratto 40**, **Percezione 7**, **Donnaiolo**: convincila a pagare
+   -  Prendi i tappi dal suo caravan nella Caverna di Broc Flower
+5.  Torna da Francine Garret
+6.  Occupati di Caleb McCaffery
+   -  Uccidilo e prendigli il cappello
+   -  **Eloquenza 40**: convincilo a cedere i tappi e il cappello
+7.  Torna da Francine Garret
+8.  Ricompensa: **600 PE**, **300 tappi**, **fama per Freeside**, camera all'Atomic Wrangler
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Una terra antica* è una missione secondaria del DLC *Point Lookout* di Fallout 3. 
 
+**Riassunto**:
+1. Sali a bordo della USS Ozymandias
+2. Ottieni il primo campione di suolo a nord del mucchio di spazzatura
+3. Ottieni il secondo campione di suolo a nordest della casetta delle bambole di Lil' Tyke
+4. Ottieni il terzo campione di suolo a nordovest del sito del jet precipitato
+5. Inserisci i dati nel terminale
+6. Raccogli il bottino contenuto nella cassaforte
+7. Ricompensa: **50 PE**, **10 bombole di biogas**, **3 tute antiradiazioni**, **droghe**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

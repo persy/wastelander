@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Controllo del pensiero* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+**Riassunto**:
+1. Parla con Desmond alla Villa di Calvert
+2. Ottieni il disturbatore di frequenze sinaptiche
+3. Raggiungi la ruota panoramica all'Attracco del pellegrino e ascolta la Mente
+   - Schierati con Desmond e installa il disturbatore sulla ruota
+   - Schierati con la Mente e getta il disturbatore nel cassonetto
+4. Torna alla Villa di Calvert
+5. Ricompensa: **300 PE**
+6. Prossima missione: *Un incontro tra menti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

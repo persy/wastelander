@@ -20,7 +20,16 @@ private: false # Nascosto dalle ricerche
 
 *Solo affari* è una missione secondaria di Fallout 3. È data da Grouse a Paradise Falls.
 
-
+**Riassunto**:
+1. Parla con Grouse a Paradise Falls e accetta l'offerta: **Mesmetron** e un **collare per schiavo**
+2. Trova le quattro persone da schiavizzare: **karma negativo**
+   - Trova il cecchino Arkansas a Minefield e schiavizzalo: **karma negativo**
+   - Trova Susan Lancaster alla Torre Tenpenny e schiavizzala: **karma negativo**
+   - Trova Red a Big Town e schiavizzalo: **karma negativo**
+   - Trova Flak a Rivet City e schiavizzalo: **karma negativo**
+3. Torna da Grouse
+4. Ricompensa: **75 PE**, **250 tappi**, **karma negativo**, collare per ogni schiavo, accesso a Paradise Falls
+5. Missione successiva *Solo profitti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

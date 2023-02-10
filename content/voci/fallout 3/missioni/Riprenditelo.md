@@ -20,6 +20,19 @@ private: false # Nascosto dalle ricerche
 
 *Riprenditelo!* è la dodicesima missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
+**Riassunto**:
+1. Preparati per la battaglia, quindi fai rapporto a Sarah Lyons
+2. Segui Liberty Prime mentre si fa strada verso il Progetto purezza
+3. Combatti fino alla rotonda e parla con il colonnello Autumn
+4. Uccidi Autumn o convincilo ad andarsene
+5. Parla con la Dottoressa Li attraverso l'intercom
+   - Sacrificati: **karma positivo**
+   - Sacrifica Sarah Lyons
+   - Sacrifica un tuo companion (Broken Steel)
+   - Non fare nulla
+6. (Opzionale) Contamina l'acqua con la fiala di FEV: **karma negativo**
+7. Ricompensa: **1200 PE**, **finale di gioco** 
+8. Prossima missione: *Morte dall'alto* (Broken Steel)
 
 
 <section class="chart-collapse">

@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Geomappare per Reilly* è una missione nascosta e ripetibile di Fallout 3. È data da Relly all'area dei mercenari di Reilly.
 
+**Riassunto**:
+1. Parla Reilly all'area dei mercenari di Reilly
+2. Scopri un nuovo luogo sulla mappa
+3. Torna da Reilly
+4. Ricompensa: **30 tappi** per luogo scoperto
 
 
 <section class="chart-collapse">

@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *La leggenda di Zeta* è una missione nascosta del DLC *Mothership Zeta* di Fallout 3. È data non appena veniamo teletrasportati sulla nave aliena.
 
+**Riassunto**:
+1. Ottieni tutte e 25 le registrazioni dei prigionieri
+   - 6 nelle celle dei prigionieri
+   - 4 nella sala di progettazione
+   - 1 nello smaltimento rifiuti
+   - 6 nel laboratorio criogenico e conservazione criogenica
+   - 2 nel laboratorio di ricerca
+   - 1 nel laboratorio armi
+   - 3 nel laboratorio esperimenti
+   - 1 nel laboratorio ricerca biologica
+   - 1 nei quartieri abitati
+2.  Ricompensa: **Trofeo**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

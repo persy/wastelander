@@ -21,6 +21,34 @@ private: false # Nascosto dalle ricerche
 
 *Date a Caesar quel che è di Caesar* è una missione principale di Fallout: New Vegas. È data da Caesar al Forte.
 
+**Riassunto**:
+1. Raggiungi il Forte e parla con Caesar
+2. (Opzionale) Occupati di Benny, nel caso non lo avessi già ucciso al The Tops
+   - Libera Benny: *fallimento della missione*
+   - Uccidi Benny
+3. Ottieni l'accesso alla staz. di monitoraggio climatico
+   - (Opzionale) **Riparazione 60**: disattiva le difese del bunker dal terminale vicino l'entrata
+   - Distruggi i due generatori del Vault: *(fallimento) La Casa vince sempre*
+   - Usa il platinum chip per potenziare i securitron
+   - Convinci Caesar che il Vault è stato distrutto
+4.  Occupati del Sig. House al Lucky 38
+   -  Uccidi o disattiva il Sig. House
+   -  Sostituisci il Sig. House con Yes Man: *Jolly: Cambiamento di gestione*
+5.  Occupati dei Boomer alla base aeronautica di Nellis
+   -  Uccidi Pearl e Loyal rimuovendo la minaccia dei Boomer
+   -  Assicurati il supporto dei Boomer: *Volare!*
+6.  Occupati della White Glove Society all'Ultra Luxe
+   -  Parla con Mortimer e Marjorie di una possibile alleanza con Caesar: *Oltre il manzo*
+   -  Aiuta Mortimer a reintrodurre il cannibalismo: *(fallimento) Per la Repubblica*
+7.  Aiuta Ted Gunderson a salvare il figlio: chiedi a Caesar il suo perdono
+8.  Determina il destino della Confraternita d'Acciaio a Hidden Valley
+   -  Completa: *Ancora nel buio*
+   -  Distruggi la Confraternita d'acciaio
+9.  Informa Caesar
+   - Occupati della salute di Caesar: *Et Tumor, Brute?*
+   - Occupati del Presidente Kimball a Hoover Dam: *Killer dell'Arizona*
+   - Informa il Legato Lanius: *Veni, Vidi, Vici*
+10. Ricompensa: **500 PE**, **fama per la Legione**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

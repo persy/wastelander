@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Un bel giorno per un bel matrimonio* è una missione nascosta di Fallout 3. È data da Angela Staley a Rivet City.
 
+**Riassunto**:
+1. Parla con Angela Staley a Rivet Rivet a proposito del suo amore per Diego
+   - Dai ad Angela dei ferormoni di formica regina
+   - Convinci Diego ad abbandonare la chiesa per Angela
+   - (Bugia) Rivela a Padre Clifford la relazione segreta fra Angela e Diego
+2. Partecipa al matrimonio alle ore 15:00 nella Chiesa di Rivet City
+3. Ricompensa: **karma positivo** 
 
 
 <section class="chart-collapse">

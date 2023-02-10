@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *La Fine* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Vai al pannello di controllo dei missili e tenta di fermare il loro lancio
+2. Usa ED-E per hackerare i missili 
+3. Ricompensa: **5000 PE**, **+1 punto S.P.E.C.I.A.L.**, **fama per la Confraternita d'Acciaio** e **per i Seguaci dell'Apocalisse**, **Ricetta della bevanda amara**, **Spolverino del corriere**, **Spolverino di Ulysses**, **Maschera di Ulysses**, **Antica gloria**, **Messaggio finale di Ulysses** e *completamento di Lonesome Road*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

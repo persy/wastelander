@@ -20,6 +20,31 @@ private: false # Nascosto dalle ricerche
 
 *Torre Tenpenny* è una missione secondaria di Fallout 3. È data da Capo Gustavo alla Torre Tenpenny o Roy Phillips alla stazione di Warrington.
 
+**Riassunto**:
+1. Ascolta il dialogo fra Roy Phillips e Capo Gustavo all'entrata della Torre Tenpenny
+2. (Opzionale) Accetta di aiutare Capo Gustavo con la questione dei ghoul: Fucile d'assalto o Fucile d'assalto cinese
+3. Cerca Roy Phillips nella stazione di Warrington
+4. Scegli da che parte stare:
+   - Aiuta i residenti a liberarsi della minaccia ghoul
+     1. Uccidi Roy e gli altri ghoul
+     2. Torna da Capo Gustavo
+     3. Ricompensa: **300 PE**, **500-700 tappi**, **mina da tappo**
+   - Aiuta Roy a far entrare i ghoul nella Torre Tenpenny..
+     4. (Facoltativo) Uccidi tutti gli abitanti della Torre Tenpenny
+     5. Trova la chiave della sala generatori
+     6. Lascia che i ghoul entrino nella Torre per uccidere tutti
+     7. Torna da Roy Phillips
+     8. Ricompensa: **300 PE**, **Maschera ghoul**
+   - Cerca un accordo fra le due fazioni
+     9. Parla con Allistair Tenpenny sulla possibilità di far entrare i ghoul pacificamente nella torre
+     10. Convinci gli abitanti a lasciare entrare i ghoul
+       - Lydia Montenegro
+       - Anthony King
+       - Millicent Wellington
+       - Edgar Wellington III 
+     11. Riferisci a Tenpenny dell'accordo 
+     12. Torna da Roy Phillips
+     13. Ricompensa: **300 PE**, **Maschera ghoul**
 
 
 <section class="chart-collapse">

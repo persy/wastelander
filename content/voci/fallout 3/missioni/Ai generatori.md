@@ -20,6 +20,20 @@ private: false # Nascosto dalle ricerche
 
 *Ai generatori* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla Cittadella.
 
+**Riassunto**:
+1. Parla con il Paladino Tristan alla Cittadella e accetta di recuperare la bobina di Tesla
+2. (Opzionale) Parla con lo Scriba Vallincourt e ottieni il disturbatore di frequenze Deathclaw
+3. Viaggia fino al Vecchio Olney ed entra nelle fogne
+4. Raggiungi la metropolitana
+5. Incontra Wint e Kidd e raggiungi l'entrata dell'Edificio S. Wilson
+6. Raggiungi l'entrata per l'impianto
+7. Trova la bobina di Tesla
+   - Disattiva i tre interruttori d'emergenza
+   - Hackera il terminale nel laboratorio sperimentale
+8. Prendi la bobina di Tesla
+9. Porta la bobina di Tesla al Paladino Trisan 
+10. Ricompensa: **1400 PE**
+11. Prossima missione: *Chi osa vince*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

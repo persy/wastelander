@@ -20,7 +20,15 @@ private: false # Nascosto dalle ricerche
 
 *Ricerca Giardino dell'Eden* è la decima missione principale el gioco. È data dallo Scriba Rothchild alla Cittadella.
 
-
+**Riassunto**:
+1. Entra nel Vault 87
+2. Procedi per i Test Labs
+   - Ignora Fawkes
+   - Libera Fawkes  
+3. Ottieni il K.R.E.G.
+4. Affronta il Colonnello Autumn
+5. Ricompensa: **1000 PE**
+6. Prossima missione: *Il sogno americano*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Tutti i miei amici hanno interruttori per spegnersi* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal Pozzo.
 
+**Riassunto**:
+1. Vai al Pozzo e installa il modulo della personalità dell'Unità centrale del Pozzo
+2. Trova i moduli mancanti a Big MT
+3. Torna al Pozzo e installa tutti i moduli
+4. Ricompensa: vari servizi del Pozzo
+5. Prossime missioni: *Influenzare la gente*, *Ricerca sul campo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

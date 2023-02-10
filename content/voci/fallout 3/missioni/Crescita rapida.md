@@ -20,7 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Crescita rapida* è la seconda missione principale di Fallout 3. È data da James al Vault 101.
 
-           
+**Riassunto**:
+1. Divertiti alla festa e parla con gli ospiti: **Grognak il barbaro**, rotolo dolce, poesia
+2. Incontra Jonas al Livello reattore
+3. Colpisci tutti e tre i bersagli e lo scarafaggio radioattivo con il fucile ad aria compressa
+4. Stai accanto a papà in modo che Jonas possa scattare la foto
+5. Ricompensa: **Pip-Boy 3000**, , **fucile ad aria compressa**, **50 piombini**  
+6. Prossima missione: *Futuro imperfetto*          
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

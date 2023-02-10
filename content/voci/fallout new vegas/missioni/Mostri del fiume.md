@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Mostri del fiume* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Daniel alla caverna degli Yao Guai.
 
+**Riassunto**:
+1. Occupati degli Yao Guai al Tunnel di Pine Creek
+   - Uccidi gli Yao Guai che bloccano la strada
+   - Distruggi la Caverna degli Yao Guai con gli esplosivi
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Nubi all'orizzonte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

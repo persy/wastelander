@@ -21,6 +21,31 @@ private: false # Nascosto dalle ricerche
 
 *Oh, Papa* è una missione secondaria di Fallout: New Vegas. È data da Regis al Red Rock Canyon.
 
+**Riassunto**:
+1. (Opzionale) Se sei già idolatrato con l'RNC, elimina tutti i Great Khan
+2. Parla con Papa Khan
+3.  Convincilo a sciogliere l'alleanza con Caesar
+4. Parla con Regis fuori dalla casa lunga
+5. Ottieni la fiducia di Papa Khan
+   - Infama Karl davanti a Papa Khan
+      - Trova il suo libro mastro al Forte e consegnalo a Regis
+      - **Eloquenza 75**: provocalo e rivela i suoi piani davanti agli altri Khan
+   - Ottieni il supporto dei Great Khan più influenti
+      - Ottieni il supporto di Regis
+      - Ottieni il supporto Jack e Diane: 
+         - Completa la missione *Aba Daba Honeymoon*
+         - **Eloquenza 50**: convinci Jack a supportarti
+      -  Ottieni il supporto di Melissa dicendo che la Legione non ammetterà mai una donna fra i soldati
+6.  Torna da Papa Khan e decidi il destino della tribù
+   -  **Eloquenza 75**: convinci Papa Khan a lasciare il Mojave o a condurre un attacco suicida a Hoover Dam
+   -  Vai da Julie Farkas all'Old Mormont Fort
+        1. Vai da Ezekiel alla Base commerciale 188 
+        2. Ottieni il libro "Trotta trotta cavallino: La storia dell'Impero Mongolo" e dallo a Papa Khan
+   -  Se si è amati dall'RNC, parla con il Colonnello Cassandra Moore per cingere un'alleanza fra i Khan l'RNC
+        -  Uccidi furtivamente Papa Khan e sostituiscilo con Regis
+7.  Sancisci l'alleanza fra i Great Khan e l'RNC
+8.  Parla con il Colonnello Cassandra Moore
+9.  Ricompensa: **700 PE**, **500 tappi** oppure **5 SMG da 10mm** oppure **2 Super Stimpak**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

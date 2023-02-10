@@ -20,6 +20,22 @@ private: false # Nascosto dalle ricerche
 
 *Legami di sangue* è una missione secondaria di Fallout 3. È data da Lucy West a Megaton e da Evan King ad Arefu.
 
+**Riassunto**:
+1. Parla con Evan King ad Arefu a proposito dei loro problemi con la Famiglia
+2. Parla con Lucy West a Megaton e accetta di aiutarla a portare un messaggio ad Arefu
+3. Controlla i residenti di Arefu e trova i cadaveri dei West
+4. Fai rapporto ad Evan King e trova la Famiglia
+5. Cerca al deposito di Meresti
+6. Trova la Famiglia, convinci Robert a farti passare e cerca Ian West
+   - Parla con i membri della Famiglia per ottenere la password del terminale
+   - Convinci Vance a darti la password del terminale
+   - Fai una ricerca sui modi del vampiro
+   - Uccidi la Famiglia
+7.  Parla con Ian
+8.  Informa Vance della decisione di Ian e stipula una tregua con Arefu 
+9.  Torna da Evan King e finalizza la tregua
+10. Ricompensa: **300 PE**, **karma positivo**, **Schemi - Shishkebab** (da Vance)
+11. (Opzionale) Passa una sfida Eloquenza, Medicina o Intelligenza: **Ematofago**
 
 
 <section class="chart-collapse">

@@ -20,6 +20,15 @@ private: false # Nascosto dalle ricerche
 
 *Elezioni* è una missione nascosta di Fallout 3. È data da Dave alla Repubblica di Dave.
 
+**Riassunto**:
+1. Parla con Dave alla Repubblica di Dave
+2. Invita Jessica, Shawna, Rosie e Bob a votare
+3. Convinci Rosie o Bob a candidarsi
+4. Assisti alle elezioni
+5. (Opzionale) Manipola l'urna dei voti
+6. Comunica a Dave che le elezioni sono finite
+7. Ascolta i risultati
+8. Ricompensa: **L'indolore**, **25 tappi**
 
 
 <section class="chart-collapse">

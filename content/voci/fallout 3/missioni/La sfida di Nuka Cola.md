@@ -20,7 +20,20 @@ private: false # Nascosto dalle ricerche
 
 *La sfida di Nuka Cola* è una missione secondaria di Fallout 3. È data da Sierra Petrovita a Girdershade.
 
-
+**Riassunto**:
+1. Parla con Sierra Petrovita a Girdershade e partecipa al suo giro turistico. Accetta di trovarle 30 Nuka-Cola Quantum: **Nuka-Cola ghiacciata**
+2. Parla con Ronald e ascolta la sua offerta
+3. Trova lo stabilimento Nuka-Cola
+4. Persuadi o uccidi Milo
+5. Ottieni gli elenchi dei carichi
+6. Ottieni la chiave della cassaforte degli uffici: *Per il gusto*
+7. Trova 30 Nuka-Cola Quantum
+   - Vendi le Nuka-Cola Quantum a Sierra: **40 tappi per bottiglia**, **Schemi - Granata Nuka**
+   - Vendi le Nuka-Cola Quantum a Ronald: **40-80 tappi** per bottiglia
+8. Continua la ricerca delle Nuka-Cola Quantum
+   - Porta a Sierra una Nuka-Cola Quantum, della farina e della vodka: **Torta Mississippi Quantum**
+   - Porta a Sierra altre Nuka-Cola Quantum: **40 tappi** per bottiglia
+   - Porta a Ronald altre Nuka-Cola Quantum: **40-80 tappi** per bottiglia
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

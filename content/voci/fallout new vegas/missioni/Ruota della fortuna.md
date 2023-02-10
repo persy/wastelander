@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Ruota della fortuna* è una missione secondaria di Fallout: New Vegas. È data da Logan a Camp Searchlight.
 
+**Riassunto**:
+1. Parla con Logan nel magazzino dell'RNC a Camp Searchlight
+2. Vai a Nipton e parla con Boxcars
+3. Trova alcune tute antiradiazioni vicino a Nipton
+4. Torna da Logan
+5. Accompagna Logan e i suoi scagnozzi nella stazione di polizia e recupera gli oggetti
+6. Accompagna Logan e i suoi scagnozzi nella stazione dei pompieri e recupera gli oggetti
+7. Affronta Logan e i suoi scagnozzi
+8. Ricompensa: **100 PE**, **tutte le armi trovate**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

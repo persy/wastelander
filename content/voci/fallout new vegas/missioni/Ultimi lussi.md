@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Ultimi lussi* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah alle Suite di Lusso nel Casinò Sierra Madre.
 
+**Riassunto**:
+1. Confrontati con Christine nelle Suite di lusso
+   - **Percezione 7**: persuadila ad aiutarti) %%TODO%%
+   - Uccidila
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Furto del secolo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

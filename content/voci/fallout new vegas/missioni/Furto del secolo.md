@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Furto del secolo* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah al caveau del Casinò Sierra Madre.
 
+**Riassunto**:
+1. Crea la sequenza musicale sul terminale della reception all'ingresso
+   - Usa l'olonastro di Vera per dire la password
+   - Fai dire la password a Christine, con la sua nuova voce
+2. Entra nel caveau e accedi al computer centrale nella camera
+   - **Bassa reputazione con l'RNC**: stringi un'alleanza con Padre Elijah per conquistare il Mojave: *Finale del gioco*
+   - **Baratto**, **Esplosivi**, **Scasso**, **Riparazione**, **Scienza**, **Furtivo 75**: confrontati con Padre Elijah e uccidilo
+   - Raggira furtivamente Padre Elijah e rinchiudilo nel caveau
+3. Fuggi dal caveau del Sierra Madre prima che il tuo collare esploda
+4. Ricompensa: *Completamento di Dead Money*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

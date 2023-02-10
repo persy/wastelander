@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Andato a pesca* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham all'accampamento dei Cavalli Morti.
 
+**Riassunto**:
+1. Trova due Walkie-Talkie nell'armadietto del Capanno di pesca di Zion
+2. Torna da Daniel in preparazione della battaglia
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Portatore dei Tormenti*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Operazioni sotto copertura* è una missione nascosta del DLC *Operation: Anchorage* di Fallout 3. È data dal Generale Chase durante la simulazione della liberazione di Anchorage.
 
+**Riassunto**:
+1. Parla con il Generale Chase
+2. Colleziona tutte e 10 le valigette sparse nella simulazione (*Vedi* Note)
+3. Parla con il Generale Chase
+4. Ricompensa: **Operazioni sotto copertura**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

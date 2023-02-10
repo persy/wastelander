@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, VI* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Parla con il Sig. House
+   - Ottieni una bassa reputazione per l'RNC: *(fallimento) missione*
+   - Proteggi il Presidente Kimball: *Lo saprai quando succederà*
+2. Prossima missione: *La Casa vince sempre, VII*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

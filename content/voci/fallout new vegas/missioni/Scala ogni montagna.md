@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Scala ogni montagna* è una missione secondaria di Fallout: New Vegas. È data dal Capitano Gilles a Bitter Springs.
 
+**Riassunto**:
+1. Parla con il Capitano Gilles a Bitter Springs
+2. Vai nella Caverna di rifornimento dei Great Khan a nord e trova Oscar Velasco
+   - Uccidi Oscar
+   - Chiedigli i motivi dei  suoi attacchi
+      - **Eloquenza 50**: convincilo a vendicarsi su chi ha ucciso la sua famiglia: **karma negativo**
+      - **Eloquenza 50**: convincilo a lasciarsi il passato alle spalle e a riunirsi con gli altri Khan: **karma positivo**, chiave per le scorte
+3. Torna dal Capitano Gilles e dille che il problema è stato risolto
+4. Ricompensa: **100 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

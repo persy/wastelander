@@ -20,6 +20,12 @@ private: false # Nascosto dalle ricerche
 
 *Giocattoli per i bambini* è una missione nascosta del DLC *The Pitt* di Fallout 3. È data da Midea alla periferia del Pitt, dopo aver completato *Lavoro libero*.
 
+**Riassunto**:
+1. Parla con Midea
+2. Cerca degli orsacchiotti
+3. Porta gli orsacchiotti a Midea
+4. Ricompensa: **10 PE** e **30 tappi** per ogni orsacchiotto
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

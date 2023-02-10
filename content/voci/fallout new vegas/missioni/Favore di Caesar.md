@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Favore di Caesar* è una missione secondaria di Fallout: New Vegas. È data dal Pip-Boy un volta raggiunta Cottonwood Cove.
 
+**Riassunto**:
+1. Ricevi la notifica da un Frumentarius camuffato
+2. Viaggia fino al nascondiglio vicino a Cottonwood Cove
+3. Ricompensa: **denarius della Legione**, oggetti vari
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

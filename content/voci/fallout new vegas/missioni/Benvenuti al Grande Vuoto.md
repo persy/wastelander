@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Benvenuti al Grande Vuoto* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal Pip-Boy al Pozzo.
 
+**Riassunto**:
+1. Arriva al balcone del Pozzo
+2. Prendi l'ascensore per il Serbatoio del pensiero
+3. Accetta di aiutare i dottori
+   - (Opzionale) **Armi a energia 50**: ottieni più munizioni energetiche
+   - (Opzionale) **Armi 50**: ottieni l'Arma Cybercane K900
+   - (Opzionale) **Armi 75**: ottieni più munizioni
+   - (Opzionale) **Baratto 25**, **50**, **75**, **90**: per ottenere borse mediche, stimpak, tappi e riviste abilità
+4. Ricompensa: **vari PE**, **Emettitore sonoro**
+5. Prossime missioni: *Tutti i miei amici hanno interruttori per spegnersi*, *Strane trasmissioni X-2!*, *Orrore da liceo X-8!*, *Attacco dell'infiltrato X-13!*, *Potenziamento dell'emettitore sonoro*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

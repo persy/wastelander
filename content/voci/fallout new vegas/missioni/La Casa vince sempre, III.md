@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, III* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Raggiungi la Base aeronautica di Nellis
+   - Uccidi Pearl e Loyal rimuovendo la minaccia dei Boomer
+   - Assicurati il supporto dei Boomer: *Volare!*
+2. Informa il Sig. House
+3. Prossime missioni: *La Casa vince sempre, IV*, *Per la Repubblica*, *Date a Caesar quello che è di Caesar*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

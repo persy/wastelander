@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Galaxy News Radio* è una missione principale di Fallout 3. È data da Tre Cani all'edificio di GNR.
 
+**Riassunto**:
+1. Trova il Museo di Tecnologia
+2. Recupera il disco ripetitore per le comunicazioni
+3. Trova il Washington Monument e ripara il ripetitore radio danneggiato: **karma positivo**
+4. Parla con Tre Cani: 
+5. Ricompensa: **400 PE** 
+6. Prossima missione: *Ricerche scientifiche*
+7. (Opzionale) Vinci una sfida Eloquenza e ottieni la chiave del deposito armi, nel nascondiglio di Hamilton: **Pistole e proiettili**, **munizione nucleare** e **Stealth Boy**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

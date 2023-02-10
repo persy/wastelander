@@ -21,6 +21,28 @@ private: false # Nascosto dalle ricerche
 
 *Occhio per occhio* è una missione secondaria di Fallout: New Vegas. È data dal Sergente maggiore Astor a Camp Searchlight.
 
+**Riassunto**:
+1. Parla con il Sergente maggiore Astor a Camp Searchlight a proposito di Cottonwood Cove
+   - I legionari di Cottonwood sono già morti: **1000 PE**, **200 tappi**, **fama per l'RNC**
+   - Accetta di mettere una cimice e trova i documenti della Legione
+2. Torna a Cottonwood Cove e decidi da che parte stare
+
+Se decidi di supportare l'RNC...
+1. Pianta la cimice dell'RNC
+2. Trova i piani d'attacco della Legione e le note della pattuglia della Legione
+3. Porta le vere informazioni al Sergente maggiore Astor
+4. Ricompensa: **500 PE**, **fama per l'RNC**
+
+Se decidi di uccidere i legionari...
+1. Raggiungi il crinale con il rimorchio carico di barili radioattivi
+2. **Scasso 50**: scardina il portellone del vano del carico e rilascia i barili
+3. Ricompensa: **1000 PE**, **250 tappi**, **fama per l'RNC**, **infamia per la Legione**, (fallimento) *Ho lasciato il mio cuore*
+
+Se decidi di supportare la Legione...
+1.  Rivela la cimice ad Aurelius of Phoenix
+2.  Ottieni le vecchie scartoffie della Legione, le vecchie note della pattuglia della Legione e i vecchi piani di attacco della Legione
+3.  Porta le informazioni obsolete al Sergente maggiore Astor
+4.  Ricompensa: **500 PE**, **150 tappi**, **fama per la Legione**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

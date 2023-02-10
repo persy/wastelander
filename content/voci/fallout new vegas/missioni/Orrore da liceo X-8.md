@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Orrore da liceo X-8!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Viaggia fino al Centro di ricerca X-8
+2. Avvia il Test di guardia Cybercani residenziali al terminale di test X-8
+3. Entra nella Struttura di test sui residenti X-8
+4. Esamina i punti di scavo di Gabe nella Struttura di test sui residenti X-8 per trovare i campioni audio del latrato di Gabriel
+5. Ricompensa: **vari PE**, **Campione audio - Latrato di Gabriel**
+6. Prossima missione: *Test di recupero dati X-8*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

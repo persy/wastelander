@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Bombardamento di Murphy* è una missione nascosta e ripetibile di Fallout 3. È data da Murphy alla stazione Seneca Nord Ovest.
 
+**Riassunto**:
+1. Parla con Murphy alla stazione Seneca Nord Ovest
+2. Trova delle bombe di zucchero
+3. Porta le bombe di zucchero a Murphy
+4. Ricompensa: **tappi**, **Ultrajet**
 
 
 <section class="chart-collapse">

@@ -21,6 +21,22 @@ private: false # Nascosto dalle ricerche
 
 *Lo saprai quando succederà* è una missione principale di Fallout: New Vegas. È data da Yes Man, il Sig. House o il Mercenario Grant a Hoover Dam.
 
+**Riassunto**:
+1. Parla con il Mercenario Grant a Hoover Dam
+2. (Opzionale) Parla con Allison Valentine e cerca gli indizi
+   - **Percezione 6**: esamina la macchia di sangue nello sgabuzzino
+   - **Scienza 50**: esamina il terminale e controlla gli accessi non autorizzati
+3. Conferma a Grant che sei pronto e che il discorso del presidente può iniziare
+4. Trova la bomba sul Vertibird
+   - **Eloquenza 50**/**fama RNC**: ottieni l'accesso al Vertibird
+   - Ruba il detonatore dall'ingegnere
+   - Provoca l'ingegnere affinché diventi ostile
+5. **Riparazione**/**Esplosivi 50**: disinnesca la bomba
+6.  Trova e neutralizza il cecchino della Legione, sulla torre di guardia dietro al palco
+7.  Neutralizza il soldato legionario camuffato da ingegnere, fra il pubblico
+8.  Decidi se informare Grant dell'attentato e di far evacuare il presidente prima che finisca il discorso
+9.  Ricompensa: **1000 PE**, **fama per l'RNC**
+10. Prossime missioni: *Niente dei, niente padroni*, *Eureka!*, *Tutto o niente*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

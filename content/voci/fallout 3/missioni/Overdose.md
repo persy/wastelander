@@ -20,7 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Overdose* è una missione nascosta di Fallout 3. È data da Paulie Cantelli a Rivet City.
 
-
+**Riassunto**:
+1. Parla con Paulie Cantelli a Rivet City
+2. Dagli uno psycho
+3. Paulie muore di overdose
+4. Ricompensa: **karma negativo**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

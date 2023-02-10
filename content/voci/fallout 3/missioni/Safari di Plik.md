@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Safari di Plik* è una missione secondaria del DLC *Point Lookout* di Fallout 3. È data da Plik alla grotta marina.
 
+**Riassunto**:
+1. Entra nella grotta marina
+2. (Opzionale) Leggi il Diario di Plik: Abilità extra: Ecologia ghoul
+3. Paga 1000 tappi a Plik per unirti al safari
+4. Entra nell'arena e sopravvivi alle ondate di ghoul
+5. Esci dall'arena e parla con Plik
+6. Ricompensa: **100 PE**, **L'accetta**
+7. (Opzionale) Uccidi o borseggia Plik: **1800 tappi**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

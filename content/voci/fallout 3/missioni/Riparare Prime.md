@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Riparare Prime* è una missione del DLC *Broken Steel* di Fallout 3. È data dallo Scriba Rothchild alla Cittadella.
 
+**Riassunto**:
+1. Parla con lo Scriba Rothchild a proposito delle riparazioni richieste per Libert Prime
+2. Porta una macchina fotografica: **25 PE**, **100 tappi**
+3. Porta un modulo sensore: **10 PE**, **75 tappi** 
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Voglia di apprendimento* è una missione nascosta e ripetibile di Fallout 3. È data dalla Scriba Yearling alla Biblioteca di Arlington.
 
+**Riassunto**:
+1. Parla con la Scriba Yearling alla Biblioteca di Arlington
+2. Trova i libri prebellici
+3. Porta i libri prebellici alla Scriba Yearling
+4. Ricompensa: **10 PE**, **100 tappi** per ogni libro consegnato
 
 
 <section class="chart-collapse">

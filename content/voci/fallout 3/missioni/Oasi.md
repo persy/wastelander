@@ -20,6 +20,18 @@ private: false # Nascosto dalle ricerche
 
 *Oasi* è una missione secondaria di Fallout 3. È data da Harold all'Oasi.
 
+**Riassunto**:
+1. Raggiungi l'Oasi
+2. Esegui la cerimonia del Guardiano degli alberi
+3. Parla con Harold
+4. (Opzionale) Uccidi Harold dandogli fuoco: **karma negativo** 
+5. Lascia il Grove
+6. Ascolta Pioppo ed Edera e prendi la chiave per caverne da Cipresso
+7. Esplora le caverne e raggiungi il cuore di Harold
+   - Applica la linfa di Pioppo al Cuore di Harold e interrompi la sua crescita: **Lanciamissile**, **Veste di Acero**
+   - Applica l'unguento di Edera al Cuore di Harold e accelera la sua crescita: **Armatura atomica dei Rinnegati di Linden**, **Cappuccio di Betulla**
+   - Distruggi il cuore di Harold: **Abilità extra Pelle dura**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

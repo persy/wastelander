@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Sconfiggi gli Zampabianca* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Vai con Joshua Graham a incontrare le forze d'attacco alle Tre Marie
+2. Incontra Joshua Graham e decidi il destino di Sale sulle Ferite
+   - Lascia che Joshua Graham uccida Sale sulle Ferite
+   - **Eloquenza 75**, **90**: convinci Joshua Graham a risparmiare Sale sulle Ferite
+3. Abbandona Zion
+4. Ricompensa: **vari PE**, **Una luce nell'oscurità**, **Armatura di Joshua Graham**, **Vestito di Daniel**, **Cappello di Daniel**, **Elmo di Sale sulle Ferite**, **Pugno potenziato di Sale sulle Ferite**, **Copricapo Fiutagesso**, **Scrittura**
+5. Prossima missione: *Fuga dal paradiso*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

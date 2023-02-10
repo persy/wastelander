@@ -20,6 +20,17 @@ private: false # Nascosto dalle ricerche
 
 *Posto nel consiglio* è una missione nascosta di Fallout 3. È data da Bannon a Rivet City.
 
+**Riassunto**:
+1. Parla con Bannon a Rivet City
+2. Cerca gli indizi di colpevolezza nella stanza di Seagrave Holmes
+   - Parla della lettera a Seagrave
+      1. Parla col comandante Lana Danvers sul tentativo di ricatto di Bannon
+      2. Torna da Seagrave
+      3. Ricompensa: **10% di sconto al Rivet City Supply**
+   - Parla della lettera a Bannon
+      4. Parla della lettera al comandante Lana Danvers
+      5. Torna da Bannon
+      6. Ricompensa: **Schemi - Guanto da deathclaw**, **10% sconto al Potomac Attire**
 
 
 <section class="chart-collapse">

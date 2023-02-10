@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Et Tumor, Brute?* è una missione principale di Fallout: New Vegas. È data da Caesar al Forte.
 
+**Riassunto**:
+1. Trova un modo per curare il tumore cerebrale di Caesar
+   - Riparare l'Auto-Doc: vai al Vault 34 e trova un ricambio per il modulo di scansione diagnostica
+   - **Eloquenza 65**/**Medicina 75**: decidi di operarlo da solo
+      - Compra una borsa medica e degli strumenti chirurgici dalla Clinica Medica New Vegas
+      - **Fortuna di 9**/**Medicina 75**: esegui l'operazione
+   - (Opzionale) Vendi Arcade Gannon come medico personale a Caesar: **karma negativo**, **10 Aureus**
+2. Esegui l'operazione
+   - Uccidi Caesar durante l'operazione
+      - **Eloquenza 50**/**rep. con la Legione**: convinci Lucius che non è colpa tua se Caesar è morto: **fama per la Legione**
+      - Se non riesci a convincere Lucius: **infamia per la Legione**
+   - Cura il tumore di Caesar: **fama per la Legione**, **10 Aureus**
+3. Ricompensa: **1000 PE**
+4. Prossima missione: *Killer dell'Arizona*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

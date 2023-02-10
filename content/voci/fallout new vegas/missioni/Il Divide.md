@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Il Divide* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Attiva l'ascensore per silo missilistico di Ashton e dirigiti al Divide
+2. Sopravvivi alla corsa dell'ascensore per il silo missilistico di Ashton
+3. Viaggia fino al Tetto della torre Sunstone
+4. Raggiungi fino a Caverna di Abaddon
+5. Attraversa la caverna
+6. Raggiungi il Tempio di Ulysses
+7. Ricompensa: **4400 PE**
+8. Prossima missione: *Gli Scavatori*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

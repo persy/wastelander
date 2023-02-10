@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Fuga da Zion* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Fatti strada fino al tunnel di Tunnel di Pine Creek
+   - Prigionieri di guerra
+   - Riconquista il ponte
+   - Completa *Santità dei morti*
+2. Occupati di Sale sulle Ferite
+   - **Eloquenza 75**: convincilo ad andarsene
+   - Uccidilo
+3. Parla con Daniel
+4. Usa il detonatore per far crollare Tunnel di Pine Creek
+5. Ricompensa: **vari PE**, **Armatura di Joshua Graham**, **Vestito di Daniel**, **Cappello di Daniel**, **Elmo di Sale sulle Ferite**, **Pugno potenziato di Sale sulle Ferite**, **Copricapo Fiutagesso**, **Scrittura**
+6.  Prossima missione: *Fuga dal paradiso*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

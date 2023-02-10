@@ -21,6 +21,35 @@ private: false # Nascosto dalle ricerche
 
 *Mossa dei King* è una missione principale di Fallout: New Vegas. È data dall'Ambasciatore Dennis Crocker all'Ambasciata dell'RNC.
 
+**Riassunto**:
+1. Convinci il Re a cessare ogni ostilità con l'RNC
+   - Occupati di Pacer
+      - Altera la sua scorta personale
+         1. Parla con Rotface e, dopo almeno 30 offerte, ottieni il segreto su Pacer
+         2.  Ottieni la cartella clinica di Pacer, all'Old Mormon Fort
+         3.  **Medicina 60**: informa l'Ambasciatore Crooker
+         4.  Aggiungi lo Psycho alla scorta personale di Pacer, fra le 8 e le 21: *(fallimento) Malinconia dei militari*
+      - Uccidilo e dai la colpa della sua morte ai Van Graff
+         - Crea una nota contraffatta
+            1.  Esamina la scorta personale di jet di Pacer
+            2.  Vai da Ralph e procurati la nota falsificata sul furto di Jet
+                -  **Eloquenza 50**: per convincerlo a creare la nota
+                -  Ottieni da Rotface informazioni sulla rivalità fra King e Van Graff
+            3.  Sostituisci la scorta di Pacer con la nota contraffatta
+            4.  Attendi che Pacer torni nella sua stanza, a notte fonda: *(fallimento) Malinconia dei militari*, **1200 PE**, (+200 tappi con **Baratto 60**) 
+         - Attendi che Pacer raggiunga il Silver Rush e venga ucciso durante *Dio li fa...*: *(fallimento) Malinconia dei militari*, **1200 PE**, (+200 tappi con **Baratto 60**)  
+         - Piazza una granata al plasma nel suo inventario o uccidilo con un'arma a energia: *(fallimento) Malinconia dei militari*, **1200 PE**, (+200 tappi con **Baratto 60**) 
+   - Usa il favore del Re o la diplomazia
+      - Parla con il Colonnello Cassandra Moore a Hoover Dam
+         1.  Torna dal Re
+         2.  Torna di nuovo dall'Ambasciatore Crooker: *fallimento della missione*
+      - Parla con il Colonnello James Hsu a Camp McCarran
+         -  Rimani gentile e in buon rapporti con il Re
+            -  Uccidi Pacer, quando diventa ostile: *fallimento della missione*
+            -  Lascia che le truppe RNC uccidano Pacer: **1200 PE**, **600 tappi**, (+200 tappi con **Baratto 60**), **fama per l'RNC**
+         -  Provoca il Re e rendi ostile i King: *fallimento della missione*
+2.  (Opzionale) Se hai fallito la missione, chiedi scusa all'Ambasciatore Crooker
+3.  Prossima missione: *Per la Repubblica, 2ª parte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">
@@ -62,10 +91,10 @@ graph TD;
     id28(Uccidi Pacer, <br />quando diventa ostile)
     id29(Lascia che le <br />truppe RNC uccidano <br />Pacer)
     id30(Sostituisci la scorta <br />di Pacer con la nota <br />contraffatta)
-    id31(Fallimento della missione):::questfnv
+    id31(fallimento della missione):::questfnv
     id32(Attendi che Pacer <br />raggiunga il Silver Rush <br />e venga ucciso)
     id33("1200 PE, <br />600 tappi, <br />(+200 tappi con Baratto 60), <br />fama per l'RNC"):::rewardfnv
-    id34("(Fallimento) <br />Malinconia dei militari"):::questfnv
+    id34("(fallimento) <br />Malinconia dei militari"):::questfnv
     id35(Chiedi scusa <br />all'Ambasciatore Crooker)
     id36("1200 PE, <br />(+200 tappi con Baratto 60)"):::rewardfnv
     id37(Prossima missione: <b>Per la Repubblica, 2ª parte</b>):::questfnv

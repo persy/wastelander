@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Il gambetto superumano* è una missione secondaria di Fallout 3. È data da Zio Roe a Canterbury Commons.
 
+**Riassunto**:
+1. Raggiungi Canterbury Commons ed assisti al confronto fra il Meccanicista e l'AntAgonizer
+2. Parla con Zio Roe e accetta la sua richiesta d'aiuto
+3. Trova l'AntAgonizer nei suo covo o il Meccanicista al centro riparazione robot
+   - Procurati il costume da Meccanicista o minaccia di rivelare la vera identità di AntAgonizer: **Costume da AntAgonizer**, **Morso di formica** 
+   - Procurati il costume da AntAgonizer o minaccia di rivelare la vera identità del Meccanicista: **Costume da Meccanicista**, **Sguardo del Protettore**
+4. Fai rapporto a Zio Roe: **300 PE**, **200-400 tappi**
 
 
 <section class="chart-collapse">

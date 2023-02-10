@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Strane trasmissioni X-2!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Viaggia fino all'Impianto delle antenne di trasmissione X-2
+2. Arrampicati sull'antenna parabolica e recupera l'Antenna X-2 in cima
+3. Riporta l'Antenna X-2 al Serbatoio del pensiero
+4. Ricompensa: **Antenna X-2**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

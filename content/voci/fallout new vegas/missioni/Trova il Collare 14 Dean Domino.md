@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Trova il Collare 14: Dean Domino* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah al distretto residenziale.
 
+**Riassunto**:
+1. Raggiungi il Distretto Residenziale
+2. Oltrepassa le trappole e sconfiggi i fantasmi
+3. Trova Dean nel suo nascondiglio e parlaci
+4. Ricompensa: **Assuefazione**, Dean Domino possibile seguace
+5. Prossima missione: *Fai suonare la banda*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

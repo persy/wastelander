@@ -21,7 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Affare di funghi* è una missione nascosta e ripetibile di Fallout 3. È data da Lucy o Eclair a Little Lamplight.
 
-
+**Riassunto**:
+1. Parla con Lucy o Eclair a Little Lamplight
+2. Ottieni il permesso di commerciare dal sindaco MacCready
+3. (Opzionale) Vinci una sfida Baratto o sfrutta l'abilità extra Bambino dentro per ottenere più funghi
+4. Scambia buffout e carne strana con funghi delle caverne
+5. Ricompensa: **Fungo delle caverne** ogni 3 Buffout/carne strana
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

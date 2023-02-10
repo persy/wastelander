@@ -26,8 +26,7 @@ private: false # Nascosto dalle ricerche
 - Puoi ottenere informazioni utili su Freeside dando dei tappi a Rotface. Dopo aver comprato abbastanza informazioni, Rotface avrà un nuovo cappello unico, il Cappello di Eulogy Jones, che può essere saccheggiato dal suo cadavere
 
 
-**Sfide abilità**:
-- 
+
 
 
 **Ricompense**:

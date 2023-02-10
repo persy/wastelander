@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Morte dai cieli* è una missione del DLC *Broken Steel* di Fallout 3. È data dall'Anziano Lyons alla Cittadella.
 
+**Riassunto**:
+1. Svegliati nella Cittadella e parla con lo Scriba Rothchild
+2. Incontra il Paladino Tristan al tunnel di Rockland
+3. Accompagna il Paladino Tristan e incontra Liberty Prime fuori dal tunnel
+   - Supporta l'attacco
+   - Non dare alcun supporto
+4. Assisti alla distruzione di Liberty Prime e parla di nuovo con Paladino Tristan
+5. Recupera i dati dalla stazione ripetitore del satellite
+6. Trona alla Cittadella e consegna i dati allo Scriba Rothchild
+7. Parla con Lyons l'Anziano
+8. Ricompensa: **1300 PE**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

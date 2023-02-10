@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Radio di emergenza* è una missione secondaria di Fallout: New Vegas. È data dal walkie-talkie dell'RNC.
 
+**Riassunto**:
+1. Seleziona "Hai chiesto il supporto dei rifornimenti RNC", dopo aver attivato la Radio di emergenza RNC
+2. Segui l'indicatore l'indicatore del deposito di rifornimento sul Pip-Boy
+3. Prendi le scorte
+4. Ricompensa: **supporto dei rifornimenti RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

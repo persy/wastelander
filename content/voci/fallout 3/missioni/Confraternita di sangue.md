@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Confraternita di sangue* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla Cittadella.
 
+**Riassunto**:
+1. Parla con il Paladino Tristan alla Cittadella
+2. Ottieni i campioni di sangue Supermutante uccidendo i supermutanti
+3. Porta i campioni di sangue Supermutante al Paladino Tristan
+4. Ricompensa: **10 PE**, **50 tappi**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

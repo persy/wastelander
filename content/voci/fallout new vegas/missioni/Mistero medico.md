@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Mistero medico* è una missione secondaria di Fallout: New Vegas. È data dal Dott. Richards a Camp Forlorn Hope.
 
+**Riassunto**:
+1. Parla con il Dott. Richards a Bitter Springs
+   - Sorveglia la tenda medica dall'1 alle 2:30
+   - **Medicina 50**: chiedi al Dott. Richards gli effetti dell'Hydra
+   - Parla con il Soldato semplice Sexton a proposito delle scorte mancanti
+   - Borseggia Stone, prendendogli una siringa vuota come prova di colpevolezza
+2. Affronta il Soldato semplice Stone
+   - Segnalalo al Dott. Richards
+   - **Eloquenza 60**: convincilo a costituirsi
+   - **Eloquenza 50**: convincilo a smettere di drogarsi: *nessuna ricompensa*
+3.  Ricompensa: **300 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

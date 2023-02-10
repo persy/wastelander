@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Alla ricerca di Cheryl* è una missione nascosta di Fallout 3. È data consultando l'olonastro "Registro Gruppo di ricerca #1" che si può raccogliere in una tomba a L'Enfant Sud.
 
+**Riassunto**:
+1. Ottieni gli olonastri:
+   - **Registro Gruppo di ricerca #1**, in una tomba a L'Enfant Sud
+   - **Registro Gruppo di ricerca #2**, in una terminale nell'area dei mercenari di Reilly. È necessaria la password, recuperabile durante la missione *Mercenari di Reilly*, o superare una sfida **Scienza 100**
+   - **Registro Gruppo di ricerca #3**, in una tomba a nord del Potomac Bridge, a sud della casa di Dukov
+   - **Registro Gruppo di ricerca #4**, in una tomba a sud-ovest della stazione metropolitana di Jury Street
+2. Trova il cadavere di Manny Kock, all'accampamento dei supermutanti a nord di Calverton
+3. Ricompensa: **Munizione nucleare**
 
 
 <section class="chart-collapse">

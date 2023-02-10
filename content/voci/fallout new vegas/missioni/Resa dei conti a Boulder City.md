@@ -21,6 +21,30 @@ private: false # Nascosto dalle ricerche
 
 *Resa dei conti a Boulder City* è una missione secondaria di Fallout: New Vegas. È data dal Luogotenente Monroe a Boulder City.
 
+**Riassunto**:
+Risolvi pacificamente...
+1. Parla al Luogotenente Monroe a Boulder City
+2. Risolvi la situazione con i Great Khan
+3. Parla con Jessup
+   - Recupera l'accendino inciso: *Drin drin drin!*
+   - Chiedigli del platinum chip: *Sono andati di là*
+   - **Eloquenza 45**: convinci Jessup ad andarsene con i Khan
+4. Torna dal Luogotenente Monroe
+5.  (Opzionale) Corrompilo con 500 tappi (400 con **Baratto 45**)
+6.  Digli di onorare l'accordo
+7.  Ricompensa: **300 PE**, **fama per i Great Khan**, **fama per l'RNC**
+
+Risolvi violentemente in favore dell'RNC...
+1. Parla al Luogotenente Monroe a Boulder City
+2.  Uccidi i Great Khan e libera gli ostaggi
+3.  Torna dal Luogotenente Monroe
+4.  Ricompensa: **300 PE**, **infamia per i Great Khan**, **fama per l'RNC**
+
+Risolvi violentemente in favore dei Great Khan...
+1.  Uccidi i soldati RNC
+2.  (Opzionale) Uccidi anche gli ostaggi: **karma negativo**
+3.  Torna da Jessup
+4.  Ricompensa: **300 PE**, **fama per i Great Khan**, **infamia per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

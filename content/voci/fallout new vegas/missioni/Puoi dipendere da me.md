@@ -21,6 +21,22 @@ private: false # Nascosto dalle ricerche
 
 *Puoi dipendere da me* è una missione secondaria di Fallout: New Vegas. È data da Alice McLafferty alla Crimson Caravan Company.
 
+**Riassunto**:
+1. Parla con Alice McLafferty alla Crimson Caravan Company
+2. Porta la fattura della Crimson Caravan al Dott. Thomas Hildern a Camp McCarran
+3. Occupati di Henry Jamison all'Atomic Wrangler
+   - **fama per l'RNC**/**Eloquenza 50**: convincilo ad andarsene: **500 tappi**
+   - Recupera 300 tappi (400 con **Baratto 50**)
+   -  Uccidilo
+4.  Ottieni l'offerta d'acquisto della Cassidy Caravan da Cass
+5.  Prosegui in *Heartache by the Number*
+   -  **Baratto 50**: pagala 750 tappi
+   -  **Baratto 75**: sfidala ad una gara di bevute (servono anche 12 whiskey)
+   -  **Eloquenza 75**: convincila che non è colpa sua se la carovana è stata distrutta
+6.  (Opzionale) Recupera le specifiche delle armi dei Gun Runner
+7.  (Opzionale) Entra furtivamente a Gun Runner, durante il cambio di guardia, fra le 22:00 e le 23:00
+8.  Torna da Alice McLafferty
+9.  Ricompensa: **550 PE**, **500 tappi**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

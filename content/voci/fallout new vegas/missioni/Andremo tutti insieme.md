@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Andremo tutti insieme* è una missione secondaria di Fallout: New Vegas. È data dal Sergente maggiore Astor a Camp Searchlight.
 
+**Riassunto**:
+1. Parla con il Sergente maggiore Astor a Camp Searchlight
+2. Colleziona le 9 medagliette per cane RNC irradiate dalle truppe RNC ghoulificate a Camp Searchlight
+3. Ottieni l'ultima medaglietta dal Soldato semplice Edwards
+4. Entra nella casa a sudest della chiesa di Camp Searchlight
+   - **Eloquenza 60**/**Forza 7**: convinci Edward a cedere la sua medaglietta
+   - Spaventa Edwards facendo leva sulla sua aracnofobia
+   - Uccidi Edwards e ruba la medaglietta
+5. Una volta che hai ottenuto tutte le medagliette, consegnale al Sergente maggiore Astor
+6. Ricompensa: **250 PE**, **250 tappi**, **Fucile d'ordinanza**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Recluta di Caesar* è una missione secondaria di Fallout: New Vegas. È data una volta lasciato il Forte.
 
+**Riassunto**:
+1. Ricevi la notifica da un Frumentarius camuffato
+2. Viaggia fino al nascondiglio vicino a Cottonwood Cove
+3. Apri le scatole metalliche
+4. Ricompensa: **Denarius della Legione**, **oggetti vari**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *La vista ai ciechi* è una missione secondaria di Fallout: New Vegas. È data dall'Anziano McNamara nel bunker di Hidden Valley.
 
+**Riassunto**:
+1. Parla con l'Anziano McNamara
+2. Vai nell'ufficio delle trasmissioni a Black Mountain e raggiungi la sala comandi
+3. Installa il trasmettitore di segnale remoto in uno dei terminali
+4. Torna dall'Anziano McNamara
+5. Ricompensa: **addestramento per l'armatura atomica**, **Armatura atomica T-45d**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

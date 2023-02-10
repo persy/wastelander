@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Pazzo, pazzo, pazzo* è una missione secondaria di Fallout: New Vegas. È data da Neil a Black Mountain.
 
+**Riassunto**:
+1. Parla con Neil alla sua baracca
+2. (Opzionale) **Eloquenza 50**: convinci Neil ad accompagnarci fino in cima alla montagna"
+3. Trova un modo per raggiungere la vetta di Black Mountain
+4. Una volta arrivato all'edificio delle comunicazioni, accedi alla porta sul retro
+5. Prendi la chiave delle attrezzature, sotto le scale
+6. Occupati di Tabitha
+   - **Scienza 60**: ripara Rhonda: **karma positivo**
+   - Uccidila
+7. Ricompensa: **1000 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

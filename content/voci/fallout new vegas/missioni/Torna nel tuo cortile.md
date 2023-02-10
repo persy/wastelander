@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Torna nel tuo cortile* è una missione secondaria di Fallout: New Vegas. È data dal Mercenario Milo a Nelson.
 
+**Riassunto**:
+1. Parla al Mercenario Milo al checkpoint RNC, a sudovest di Nelson
+   - Uccidi tutti i Legionari e salva gli ostaggi RNC: **150 PE**, **50 tappi**, **fama per l'RNC**, **infamia per la Legione di Caesar**
+   - Uccidi tutti gli ostaggi: **150 PE**, **50 tappi**, **infamia per la Legione di Caesar**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

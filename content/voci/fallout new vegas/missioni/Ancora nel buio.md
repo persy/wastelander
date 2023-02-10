@@ -21,6 +21,45 @@ private: false # Nascosto dalle ricerche
 
 *Ancora nel buio* è una missione secondaria di Fallout: New Vegas. È data dall'Anziano McNamara nel bunker di Hidden Valley.
 
+**Riassunto**:
+1. Trova la Confraternita d'Acciaio a Hidden Valley
+   - Trova uno dei 3 olonastri dai Paladini caduti (vedi sotto)
+   - **Scasso 100**: forza la porta ed entra nel bunker
+   - Portati Veronica per ottenere l'accesso al bunker
+   - Ottieni due registrazioni di ED-E: *ED-E amore mio*
+   - Prosegui con la trama principale: *Jolly: puntate supplementari*, *La Casa vince sempre V*, *Per la Repubblica, 2ª parte*
+2.  Parla con il Paladino Ramos
+3.  Parla con l'Anziano McNamara
+4.  Se Veronica non ti garantisce l'accesso, occupati del mercenario Dobson
+   -  **Eloquenza 50**: convincilo ad abbandonare il bunker
+   -  Sabota la sua radio
+   -  Uccidilo
+   -  Rivelagli la presenza della Confraternita: *fallimento della missione*
+5.  Parla con l'Anziano McNamara
+6. Trova uno dei 3 olonastri dai Paladini caduti
+   - Nei pressi della base aeronautica di Nellis
+   - Al secondo piano della Sede REPCONN
+   - Nei pressi di Black Mountain
+7. Torna dall'Anziano McNamara e dagli i tre olonastri
+8. Incontra i tre scout della Confraternita e ottieni i rapporti degli Scout della Confraternita
+   -  Vicino al Complesso Penitenziario dell'RNC
+   -  A nordest di Nipton
+   -  A sudovest di Camp Forlorn Hope
+9.  Dai all'Anziano McNamara i rapporti degli Scout
+10. Recupera i componenti per aggiustare sistema di filtraggio dell'aria
+   -  Recupera la cartuccia-filtro HEPA 20 dal Vault 22
+   -  Recupera il filtro a impulsi invertiti dal Vault 3
+   -  Recupera il regolatore di pressione differenziale dal Vault 11
+11. Torna a Hidden Valley e dai i componenti al Cavaliere anziano Lorenzo
+12. (Opzionale) Scegli di spodestare l'Anziano McNamara
+   -  Parla con il Paladino Ramos e accedi agli archivi
+   -  Parla con lo Scriba Capo Ibsen sull'accesso al datastore della Confraternita
+   -  Chiedi al Paladino Ramos informazioni sulla Catena che Vincola
+   -  Torna da Hardin con le tue scoperte sulla Catena che Vincola
+13. Ricompensa: **1000 PE**, **1400 tappi**, **fama per la Confraternita d'Acciaio**, **chiave per il rifugio**
+   -  Se McNamara è ancora l'Anziano: *La vista ai ciechi*
+   -  Se Hardin è il nuovo Anziano: *Fatti gli affari tuoi*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

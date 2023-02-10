@@ -21,6 +21,17 @@ private: false # Nascosto dalle ricerche
 
 *Indovina chi ho visto oggi?* è una missione secondaria di Fallout: New Vegas. È data dal Dottor Henry a Jacobstown.
 
+**Riassunto**:
+1. Vai a Jacobstown e parla con il Dottor Henry
+2. Prendi lo Stealth Boy masticato dalla Caverna di Charleston
+3. Torna dal Dottor Henry
+4. Parla con Lily
+5. Affronta Keene
+   - Uccidilo assieme agli altri nightkin
+   - **Eloquenza 80**: convincilo ad andarsene
+6. (Opzionale) **Scienza 90**: convincilo a usare gli Stealth Boy MK II sui nightstalker"
+7. Parla con il Dottor Henry
+8. Ricompensa: **500 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

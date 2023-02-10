@@ -21,6 +21,28 @@ private: false # Nascosto dalle ricerche
 
 *Heartache by the Number* è una missione secondaria di Fallout: New Vegas. È data da Cass all'Avamposto del Mojave.
 
+**Riassunto**:
+1. Lavora per la Crimson Caravan Company
+2. Continua la missione *Puoi dipendere da me*
+3. Convinci Cass a vendere la sua carovana
+   - **Baratto 50**: pagala 750 tappi
+   - **Baratto 75**: sfidala ad una gara di bevute (servono anche 12 whiskey)
+   - **Eloquenza 75**: convincila che non è colpa sua se la carovana è stata distrutta
+   - **Eloquenza 50**: convincila ad abbandonare l'Avamposto del Mojave
+      - Completa *Riesci a trovarlo nel tuo cuore*
+      - Uccidi il Mercenario Jackson
+4.  Viaggia insieme a Cass e investiga sui resti della sua carovana
+5.  Scegli il tipo di vendetta
+   -  Se scegli di risolsere la questione pacificamente 
+        -  Trova la prova di colpevolezza dei Van Graff
+            -  **Scasso 75**/**Scienza 75**: scassina la cassaforte al Silver Rush
+            -  Borseggia la chiave della cassaforte da qualsiasi membro dei Van Graff
+        -  Trova la prova di colpevolezza di Alice McLafferty
+            -  **Scasso 50**: scassina la cassaforte nell'ufficio di McLafferty
+            -  Borseggia la chiave della cassaforte da Alice
+        -  Ottieni le prove e consegnale al Mercenario Jackson: Cass ottiene **Cuore calmo** (+50 TP)
+   - Se scegli di vendicarti, uccidendo i Van Graff e Alice McLafferty: Cass ottiene **Mano vendicatrice** (+15% danno)
+ 6.  (Fallimento) *Dio li fa...*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,23 @@ private: false # Nascosto dalle ricerche
 
 *Niente dei, niente padroni* è una missione principale di Fallout: New Vegas. È data da Yes Man al Lucky 38.
 
+**Riassunto**:
+1. Entra negli uffici di Hoover Dam
+   - **Eloquenza 75**:  persuadi le guardie affinché ti lascino passare
+   - Entra furtivamente o uccidi le guardie
+2. Permetti a Yes Man di ottenere il controllo della diga
+   - Attiva i Securitron nel bunker sotto al Forte
+   - Disattiva l'erogazione di energia nella diga
+3. Raggiungi e attiva l'override del controllo manuale
+4. Torna in superficie e combatti contro i soldati RNC e i legionari
+5. Entra nell'accampamento del Legato
+6. Confrontati con il Legato Lanius
+   -  **Eloquenza 55**, **65**, **75**, **85**, **100**: persuadi Lanius a lasciare il campo di battaglia
+   -  Uccidi Lanius
+7.  Confrontati con il Generale Lee Oliver
+   -  Uccidi Oliver
+   -  Convinci Oliver a lasciare il campo di battaglia
+8.  Ricompensa: *Finale di gioco*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

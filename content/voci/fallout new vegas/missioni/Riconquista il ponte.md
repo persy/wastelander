@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Riconquista il ponte* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham.
 
+**Riassunto**:
+1. Sconfiggi gli Zampabianca che occupano il ponte per Pine Creek
+2. (Opzionale) Disarma tutte le trappole d'orso sul ponte
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Fuga dal paradiso*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

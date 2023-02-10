@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Hard Luck Blues* è una missione secondaria di Fallout: New Vegas. È data da Morgan Blake alla stazione di pompaggio est.
 
+**Riassunto**:
+1. (Opzionale) Parla con Morgan Blake alla Fattoria dei mezzadri dell'RNC
+2. Vai in una delle stazioni di pompaggio
+3. **Scienza 50**: attiva il terminale e ripristina la connessione
+4. Vai al Vault 34 e trova il terminale nella sala del reattore
+   - Scegli di salvare Horowitz e gli altri abitanti intrappolati: **200 PE**
+   - Scegli di salvare le fattorie dei mezzadri dell'RNC: **250 PE**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

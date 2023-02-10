@@ -21,6 +21,21 @@ private: false # Nascosto dalle ricerche
 
 *Tutto o niente* è una missione principale di Fallout: New Vegas. È data dal Sig. House a Hoover Dam.
 
+**Riassunto**:
+1. Entra negli uffici di Hoover Dam
+   - **Eloquenza 75**:  persuadi le guardie affinché ti lascino passare
+   - Entra furtivamente o uccidi le guardie
+2. Permetti al Sig. House di ottenere il controllo della diga
+3. Raggiungi e attiva l'override del controllo manuale
+4. Torna in superficie e combatti contro i soldati RNC e i legionari
+5. Entra nell'accampamento del Legato
+6. Confrontati con il Legato Lanius
+   - **Eloquenza 55**, **65**, **75**, **85**, **100**: persuadi Lanius a lasciare il campo di battaglia
+   - Uccidi Lanius
+7.  Confrontati con il Generale Lee Oliver
+   -  **Eloquenza**/**Baratto**/**Scienza 100**: convinci Oliver a lasciare il campo di battaglia
+   -  Uccidi Oliver
+8.  Ricompensa: *Finale di gioco*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

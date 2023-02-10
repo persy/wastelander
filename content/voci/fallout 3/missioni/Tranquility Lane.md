@@ -20,6 +20,18 @@ private: false # Nascosto dalle ricerche
 
 *Tranquillity Lane* è la settima missione principale di Fallout 3. È data dal robocervello al Vault 112, sotto il garage di Smith Casey.
 
+**Riassunto**:
+1. Entra in Tranquillity Lane
+2. (Opzionale) Entra nell'abitazione abbandonata e componi la sequenza del codice Esito-certo (*vedi* Note): **600 PE**
+3. Parla con Betty
+4. Fai piangere Timmy: **karma negativo**
+5. Rovina il matrimonio dei Rockwells: **karma negativo**
+6. Uccidi Mabel Henderson: **karma negativo**
+7. Uccidi tutti i residenti: **karma negativo**
+8. Esci da Tranquility Lane
+9. Parla con papà
+10. Ricompensa: **600 PE**
+11. Prossima missione: *Le acque della vita*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">
@@ -79,7 +91,7 @@ graph TD;
 
 
 **Note**:
-- Il codice di Esito-certo va composto nella casa abbandonata interagendo con (nell'ordine): 
+- Il codice di Esito-certo va composto nella casa abbandonata interagendo con gli oggetti, nel seguente ordine: 
 	1. la radio rotta
 	2. la brocca di vetro
 	3. lo gnomo da giardino
@@ -87,6 +99,7 @@ graph TD;
 	5. il blocco di cemento
 	6. lo gnomo da giardino
 	7. la bottiglia di soda vuota
+	8. Selezionare "invasione cinese" dal terminale ausiliario e avvia il programma Esito-certo
 
 
 

@@ -21,6 +21,23 @@ private: false # Nascosto dalle ricerche
 
 *Valzer delle candele* è una missione secondaria di Fallout: New Vegas. È data da Arcade Gannon.
 
+**Riassunto**:
+1. Guadagna la fiducia di Arcade Gannon
+2. Prosegui con la trama principale
+   - Distruggi la Confraternita d'Acciaio a Hidden Valley: *La Casa vince sempre, V*
+   - Installa Yes Man al posto del Sig. House al Lucky 38: *Jolly: cambiamento di gestione*
+   - Uccidi il Sig. House: *Per la Repubblica, 2ª parte*
+3. Contatta i Superstiti dell'Enclave (in qualsiasi ordine)
+   -  Parla con Judah Kreger a Westside
+   -  Parla con Orion Moreno alla Fattoria dei mezzadri dell'RNC
+   -  Parla con il Dottor Henry a Jacobstown
+   -  Parla con Cannibale Johnson nella sua caverna
+   -  Parla con Daisy Whitman a Novac
+4.  Convincili a riunirsi al Bunker dei Superstiti
+5.  Usa la password ed entra nel bunker dei Superstiti
+6.  Convincili a combattere al tuo fianco durante la battaglia finale a Hoover Dam
+7.  (Opzionale) **Eloquenza 80**: convinci Moreno a non abbandonare gli altri nel caso appoggiassi l'RNC
+8. Ricompensa: **500 PE**, **addestramento per l'armatura atomica**, **Armatura Tesla dei Superstiti**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

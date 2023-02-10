@@ -20,6 +20,56 @@ private: false # Nascosto dalle ricerche
 
 *Chi osa vince* è una missione del DLC *Broken Steel* di Fallout 3. È data dal Paladino Tristan alla piazza della Casa Bianca <!--TODO-->.
 
+**Riassunto**:
+1. Localizza ed entra nel tunnel centrale da Pennsylvania Avenue
+2. Raggiungi la il sottolivello metro e trova M.A.R.Go.T.
+   - Ignora M.A.R.Go.T. e usa Scasso per entrare nella metropolitana presidenziale: M.A.R.Go.T. ti considera ostile
+   - Informa M.A.R.Go.T. che sei alla ricerca della Base aeronautica Adams
+   - Con una sfida Eloquenza convinci M.A.R.Go.T. che fai parte dell'esercito americano
+   - Con una sfida Scienza sovrascrivi i parametri di sicurezza di M.A.R.Go.T.
+   - Usa l'ID dipendente del Senato
+3. Se fallisci il secondo tentativo: M.A.R.Go.T. ti considera ostile; se ottieni l'accesso: M.A.R.Go.T. ti considera amichevole
+4. Entra nella metropolitana presidenziale e affronta il robot sentinella
+   - Sbarazzati del robot sentinella e ottieni il fusibile principale
+   - Uccidi tutti i ghoul e lascia che il robot sentinella attivi il sistema d'alimentazione
+5. Con la metro raggiungi la Base aeronautica Adams
+6. Uccidi o raggira le sentinelle
+7. Raggiungi la Base aeronautica Adams e recupera gli ordini e l'equipaggiamento dalla cassa di rifornimenti
+8.  Trova il terminale di accesso nella torre di controllo e abbassa la rampa sulla piattaforma mobile
+9.  Localizza ed entra nel cingolato della base mobile
+10. Entra nella base e cerca un modo per raggiungere il livello superiore
+    1.  Con Scienza spegni il campo a impulsi
+    2.  Con Esplosivi fai saltare il campo a impulsi
+    3.  Distruggi il campo a impulsi
+11. Incontra Stiggs
+12. Incontra la Squadra Sigma
+13. Ottieni l'accesso al mainframe
+    1.  Con Scienza hackera il terminale d'accesso
+    2.  Con Scasso forza l'entrata
+    3.  Usa la chiave ottenuta dall'ufficiale dell'Enclave
+14. Accedi al terminale di sicurezza oppure con Scienza accedi al controllo dei robot
+    1.  Sblocca tutte le porte e l'armeria
+    2.  Disattiva i robot
+    3.  Con Esperto in robotica fai in modo che i robot attacchino i soldati Enclave
+15. Esci per la rampa di lancio e individua la torre di controllo del satellite
+16. Entra nella torre di controllo del satellite e individua la sala di controllo
+    1.  Accedi al terminale di comunicazione
+    2.  Accedi al terminale di controllo di sicurezza e sblocca le porte
+17. Accedi al terminale di collegamento satellitare
+    1.  Colpisci la Cittadella: **karma negativo**
+    2.  Colpisci la Base aeronautica Adams: **karma positivo**
+18. Entra nell'armeria della base: **1500 PE**, **Laser Gatling di precisione**, **Blaster alieno**, **munizioni** e **scorte medicinali**
+    1. Se hai distrutto la Cittadella:
+       1. Esci dalla torre di controllo satellitare ed entra nel verti-bird 
+       2. Viaggia fino alle rovine della Cittadella e combatti i sopravvissuti della Confraternita d'Acciaio
+       3. Entra nell'armeria
+       4. Ricompensa: **Magnum di Callahan**, **armi** e **munizioni**
+    2. Se hai distrutto la Base aeronautica Adams:
+       1. Esci dalla torre di controllo satellitare ed entra nel verti-bird
+       2. Vai al laboratorio della Cittadella e raggiungi la testa di Liberty Prime
+       3. Ricompensa: **Cannone Tesla**
+       4. Prossime missioni: *Riparare Prime*, *Confraternita di sangue*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Mi sono dimenticato di ricordarmi di dimenticare* è una missione secondaria di Fallout: New Vegas. È data da Boone a Novac.
 
+**Riassunto**:
+1. Guadagna la fiducia di Boone (*vedi* Note)
+2. Visita la scena del massacro di Bitter Springs con Boone
+3. Sconfiggi le truppe della Legione
+   - Scegli il perdono: **Armatura di sopravvivenza 1° Ricognitori** per Boone
+   - Scegli la vendetta: **Armatura d'assalto 1° Ricognitori** per Boone
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

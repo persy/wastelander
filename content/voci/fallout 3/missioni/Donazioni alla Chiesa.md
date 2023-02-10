@@ -21,7 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Donazioni alla Chiesa* è una missione nascosta e ripetibile di Fallout 3. È data dal Confessore Cromwell a Megaton e Padre Clifford a Rivet City.
 
-
+**Riassunto**:
+1. Parla con il Confessore Cromwell a Megaton o con Parla con Padre Clifford a Rivet City
+2. Dona 10, 50 o 100 tappi
+3. Ricompensa: **karma positivo** per ogni donazione
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

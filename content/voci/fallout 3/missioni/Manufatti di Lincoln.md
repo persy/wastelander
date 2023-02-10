@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Manufatti di Lincoln* è una missione nascosta di Fallout 3. È data da Abraham Washington a Rivet City, Leroy Walker al Lincoln Memorial o da Hannibal Hamlin al Tempio dell'Unione.
 
+**Riassunto**:
+1. Vai al Museo di Storia e recupera un oggetto appartenuto ad Abramo Lincoln
+2. Vendi gli oggetti
+   - Ad Abraham Washington a Rivet City
+   - A Leroy Walker al Lincoln Memorial
+   - A Hannibal Hamlin al Tempio dell'Unione
+3. Ricompensa: **Tappi**
 
 
 <section class="chart-collapse">

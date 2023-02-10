@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Attacco dell'infiltrato X-13!* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Raggiungi la Struttura di ricerca X-13
+2. Recupera il prototipo di stivali X-13, il prototipo di guanti X-13 e il prototipo di corazza superiore X-13
+3. Attiva il test di infiltrazione di base per avviare l'inizializzazione della tuta mimetica
+4. Acquisisci il documento X-13 dalla cassaforte da muro dell'amministratore per completare l'inizializzazione della tuta mimetica
+5. Ricompensa: varie **riviste delle abilità** e **munizioni**
+6. Prossima missione: *Progetto X-13*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

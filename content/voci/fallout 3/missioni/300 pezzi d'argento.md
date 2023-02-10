@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *300 pezzi d'argento* è una missione nascosta di Fallout 3. È data da Silver a Springvale o da Moriarty a Megaton.
 
+**Riassunto**:
+1. (Opzionale) *Seguendo le sue orme*
+2. (Opzionale) Parla con Moriarty a Megaton per ottenere informazioni su James
+3. Incontra Silver a Springvale
+   - Convincila con una sfida Eloquenza a darti tutti i tappi: **400 tappi**
+   - Convincila a darti i soldi per Moriarty: **300 tappi**
+   - Non chiederle soldi: **karma positivo**
+4. (Opzionale) Uccidila e saccheggia il suo cadavere: **karma negativo**, **100 tappi**
 
 
 <section class="chart-collapse">

@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Non faccio più male a nessuno* è una missione secondaria di Fallout: New Vegas. È data dal Luogotenente Gorobets a Camp McCarran o a Camp Forlorn Hope.
 
+**Riassunto**:
+1. Parla con il Luogotenente Gorobets a Camp McCarran a proposito del Caporale Betsy
+2. Parla con il Caporale Betsy
+   - **Medicina 40**: diagnosticale un trauma psicologico
+   - **Eloquenza 60**: convincila che il trauma la fa sembrare debole
+   - Consulta gli altri membri del 1° Ricognitori"
+      - Parla con 10 of Spades
+      - Parla con il Caporale Sterling
+      - Parla con il Sergente Bitter-Root
+3. Parla al Luogotenente Gorobets
+4. Parla con il Dottor Usanagi alla Clinica Medica New Vegas: 
+5. Ricompensa: **250 PE**, **karma positivo**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

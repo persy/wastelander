@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Il Silo* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Libera ED-E, nella stanza di controllo a destra dell'entrata
+2. (Opzionale) **Riparazione 50**: disattiva le torrette dal terminale vicino al missile"
+3. Trova il modo di decodificare  la crittografia sul terminale della porta di isolamento
+4. Ottieni i codici  dalla scrivania del Generale Martin  Retslaf, sull'altro lato del livello
+5. Sblocca le porte esterne del silo
+6. Ricompensa: **2200 PE**
+7. Prossima missione: *Il Lavoro*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

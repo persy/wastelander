@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Killer dell'Arizona* è una missione principale di Fallout: New Vegas. È data da Caesar o da Lucius al Forte.
 
+**Riassunto**:
+1. Incontrati con Cato Hostilius, vicino alla Stazione Mercenari Delta
+2. Ottieni l'armatura e camuffati da soldato RNC e raggiungi Hoover Dam
+   - **Esplosivi 50**: ottieni la bomba e piazzala sul Vertibird prima che decolli
+      - **Eloquenza 50**: persuadi il Soldato semplice Jensen affinché ti lasci raggiungere la piattaforma d'atterraggio
+      - Camuffati da meccanico, indossando la tuta presente nell'ufficio turistico
+   - **Scienza 50**: sabota il computer di volo del Bear Force One dal terminale nell'ufficio turistico
+   - **Scienza 50**: riprogramma l'obice affinché abbatta il Vertibird, accedendo al terminale sulle scale all'esterno
+   - **Riparazione 50**: manometti l'obice esploda, accedendo al terminale sulle scale all'esterno
+   - Abbatti il Vertibird con un fucile o un lanciamissili
+   - Uccidi Kimball con un arma da fuoco dalla distanza o furtivamente
+3. Ricompensa: **fama per la Legione**
+4. Prossima missione: *Veni, Vidi, Vici*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

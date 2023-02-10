@@ -20,7 +20,15 @@ private: false # Nascosto dalle ricerche
 
 *Aiuto ai Rinnegati* è una missione del DLC *Operation: Anchorage* di Fallout 3. È data dal segnale di soccorso dei Rinnegati proveniente dall'incrocio di Bailey e si svolge all'interno dell'avamposto dei Rinnegati. 
 
-
+**Riassunto**:
+1. Viaggia fino all'incrocio di Bailey
+2. Parla con il Difensore Morrill
+3. Combatti fino a raggiungere l'avamposto dei Rinnegati
+4. Usa l'ascensore
+5. Parla con il Protettore McGraw e con lo Specialista Olin
+6. Indossa la tuta con interfaccia neurale ed entra nella simulazione
+7. Ricompensa: **100 PE**
+8. Prossima missione: *Le armi di Anchorage*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

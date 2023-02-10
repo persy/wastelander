@@ -21,6 +21,27 @@ private: false # Nascosto dalle ricerche
 
 *Aba Daba Honeymoon* è una missione secondaria di Fallout: New Vegas. È data da Diane al laboratorio chimico di Red Rock.
 
+**Riassunto**:
+1. Parla con Diane al laboratorio chimico di Red Rock Canyon
+2. Trova Anders nei pressi di Cottonwood Cove
+   - Se lo uccidi o è già morto: nessuna ricompensa
+   - Liberalo dalla croce e torna da Diane: **Ricetta per Turbo** da Jack o **250 tappi**, **fama per i Great Khan**
+3. Trova Don Hostetler alla Crimson Caravan Company
+   -  Se la moglie o la figlia di Don sono morte: nessuna ricompensa
+4.  Consegnagli il pacchetto mediamente sospetto
+5.  Torna da Diane: **150 tappi**
+6.  Raggiungi il Vault 3
+   -  **Eloquenza 64**: convinci i Demoni del Vault a lasciarti passare 
+   -  Motor-Runner è morto: nessuna ricompensa
+   -  Fatti strada nel Vault, uccidendo tutti i Demoni tranne Motor-Runner e i suoi cani
+7.  Consegna il pacco a Motor-Runner
+8.  (Opzionale) **Baratto 65**: convinci i Demoni a comprare le droghe a un prezzo maggiore
+9.  Torna da Diane
+10.  (Opzionale) **Scienza 50**: insegna a Jack a sintetizzare Mentats da sballo, razzi e squartatori: **Jet** e **psycho**, **fama per i Great Khan** o **50 tappi**
+11. (Opzionale) **Eloquenza 66**/**Baratto 50**: convinci Diana o Jack ad espandere il loro business e a creare altre droghe: **Jet** e **psycho**, **fama per i Great Khan** o **50 tappi**
+12. (Opzionale) **Scienza 50**, **Sopravvivenza 75**: insegna a Jack a sintetizzare super stimpak e hydra: **karma positivo**
+13. Ricompensa: **300 PE**, **300 tappi**, **Trucco Khan**, **fama per i Great Khan**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

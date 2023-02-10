@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Fuori dal guscio* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dalla dottoressa Dala al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con la Dottoressa Dala
+   - Portale il suo orsacchiotto, che si trova nell'abitazione #104 all'Higgs Village
+   - **Percezione 8**/**Vedova nera**/**Cherchez La Femme**: scopri la sua ossessione per gli orsacchiotti
+2. Ricompensa: varie **munizioni** e altri oggetti
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

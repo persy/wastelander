@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Trappola per turisti* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Joshua Graham all'accampamento dei Cavalli Morti.
 
+**Riassunto**:
+1. Vai all'Emporio e trova cinque cestini da pranzo Piccoli Scout
+2. Vai alla Stazione Mercenari di Zion e trova il kit di scorte mediche
+   - Utilizza l'equipaggiamento trovato per rimpiazzare o sterilizzare le parti contaminate
+   - **Medicina 30**: recupera il kit di scorte mediche con le tue conoscenze
+3. Ricompensa: **vari PE**
+4. Prossima missione: *Portatore dei Tormenti*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

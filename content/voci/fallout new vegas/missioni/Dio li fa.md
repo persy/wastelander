@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *Dio li fa...* è una missione secondaria di Fallout: New Vegas. È data da Gloria Van Graff o Jean-Baptiste Cutting al Silver Rush di Freeside.
 
+**Riassunto**:
+1. Parla con Gloria Van Graff al Silver Rush per un lavoro
+2.  Fai la guardia al Silver Rush
+   - (Opzionale) **Eloquenza 75**: ottieni 200 tappi dal legionario travestito
+   - **Eloquenza 65**: perquisisci la terza persona oppure provocala e uccidila
+   -  Perquisisci la quarta persona
+3.  Occupati di Pacer
+   -  Fallo passare
+   -  Provocalo e uccidilo: *Mossa dei King*
+4.  Torna da Gloria
+5.  Consegna il pacchetto di Van Graff all'uomo misterioso
+6. Trova Cass all'Avamposto del Mojave e portala al Silver Rush: *Puoi dipendere da me*, (fallimento) *Heartache by the Number*
+7. Supervisiona l'accordo fra i Van Graff e la Legione al Magazzino abbandonato
+8. Ricompensa: **600 PE**, **1000 tappi**, **fama per Freeside**, **Armatura da combattimento di Van Graff**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

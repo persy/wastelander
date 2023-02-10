@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Ciao ciao amore* è una missione secondaria di Fallout: New Vegas. È data da Joana al Gomorrah della Strip.
 
+**Riassunto**:
+1. Ottieni la missione in uno dei seguenti modi:
+   - **Eloquenza 75**/**Medicina 50**: parla con Joana al Gomorrah
+   - **Eloquenza 50**: parla con Carlitos al Vault 21
+2. Ricompensa: **200 tappi**
+3. Porta i messaggi e pianifica la loro fuga
+4. **Eloquenza 40**, **50**: dopo aver parlato a Carlito, convinci Joana a lasciare il Gomorrah 
+5. (Opzionale) Assolda Barbona e Barbetta all'Atomic Wrangler
+6. Aspetta la mezzanotte, poi scorta Joana e Carlitos fino a Freeside
+7. Occupati dei sicari
+   -  Uccidili
+   -  **Forza 8**, **9**: intimidiscili
+   -  **Eloquenza 75**, **85**: convincili ad andarsene
+   -  **Baratto 75**, **85**: pagali con 1000 o 500 tappi
+8. Se Carlitos o Joana (o entrambi) muoiono: *fallimento della missione*
+9. Parla con Carlitos
+10. Ricompensa: **300 PE**, **karma positivo** o **200 tappi**, (400 tappi con **Baratto 65**)
+11. Prossima missione: *Che poco ne sappiamo*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

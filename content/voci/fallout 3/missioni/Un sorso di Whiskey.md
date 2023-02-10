@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Un sorso di Whiskey* è una missione secondaria del DLC *Point Lookout* di Fallout 3. 
 
+**Riassunto**:
+1. Raggiungi la baracca di Marguerite
+2. (Opzionale) Con una sfida Medicina diagnostica il disturbo mentale di Margherita e, con una sfida Eloquenza, convincila che non è malata: 20 PE
+3. Ottieni la lista degli ingredienti per il moonshine
+4. Trova 10 frutti di Punga coltivati o 20 frutti di Punga selvatici, 3 sacchi di farina e 6 batterie a fissione
+5. (Opzionale) Accetta di riparare il distillatore: **100-200 tappi**
+6. (Opzionale) Con una sfida Eloquenza chiedile più soldi
+8. Porta gli ingredienti a Marguerite
+9. Ricompensa: **50 PE**, **300 tappi**, **6 moonshine** ogni 3 giorni
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

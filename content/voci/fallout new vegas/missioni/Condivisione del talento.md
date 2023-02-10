@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Condivisione del talento* è una missione secondaria di Fallout: New Vegas. È data da Tommy Torini al The Tops.
 
+**Riassunto**:
+1. Parla con Tommy Torini al The Aces, al The Tops, sul reclutamento di nuovi attori
+   - Accetta l'offerta del 3% per la commissione
+   - **Baratto 50**: negozia l'offerta per ottenere il 5% per la commissione
+2. Torna da Tommy ogni volta che recluti un nuovo talento
+   - Vai al cartellone pubblicitario al Lago prosciugato di El Dorado e recluta Il solitario
+      -  (Opzionale) **Baratto 50**: convincilo a pagare una tassa aggiuntiva
+      -  Ricompensa: **100/166 tappi**, **fama per la Strip**, (opzionale) **Magnum misteriosa**
+   - Vai all'Atomic Wrangler e recluta Hadrian
+      -  **Baratto 50**/**Eloquenza 50**: libera Hadrian dal suo contratto con James Garret
+      -  Paga il contratto di Hadrian, versando 150 tappi James Garrett (100 tappi con **Baratto 50**)
+      -  Ricompensa: **125/210 tappi**, **fama per la Strip**
+   - Recluta Billy Knight fuori dal The Tops
+      -  (Opzionale) **Baratto 25**: digli che merita di più
+      -  (Opzionale) **Baratto 25**: ottieni altri tappi da Tommy
+      -  Ricompensa: **45/75 tappi** o **90/150 tappi** (con **Baratto 25**), **fama per la Strip**
+   -  Vai al Dino Dee-lite Motel a Novac e recluta Bruce Isaac: **150/250 tappi**, **fama per la Strip**
+3. Ricompensa: **550 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

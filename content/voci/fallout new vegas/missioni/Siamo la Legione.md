@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Siamo la Legione* è una missione secondaria di Fallout: New Vegas. È data da Dead Sea a Nelson.
 
+**Riassunto**:
+1. (Opzionale) Vai a Camp Forlorn Hope e parla con il Maggiore Polatli: *Torna nel tuo cortile*, *fallimento della missione*
+2. Raggiungi Nelson e parla con Dead Sea: fallimento *Ripristino di Hope*, *Mistero medico* e *Restituire al mittente*
+3. Uccidi i quattro ufficiali RNC a Camp Forlorn Hope
+   - Maggiore Polatli
+   -  Quartiermaestro Mayes
+   -  Sergente Reyes
+   -  Dott. Richards
+4.  Torna da Dead Sea e informalo della tua vittoria
+5.  Ricompensa: **300 PE**, **fama per la Legione di Caesar**, **Liberatore**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

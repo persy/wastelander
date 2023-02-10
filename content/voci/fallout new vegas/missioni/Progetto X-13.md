@@ -21,6 +21,13 @@ private: false # Nascosto dalle ricerche
 
 *Progetto X-13* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal terminale del test alla struttura di ricerca X-13.
 
+**Riassunto**:
+1. Raggiungi la Struttura di ricerca X-13
+2. Completa: *Attacco dell'infiltrato X-13!*
+3. Completa il test di infiltrazione base: Sensori di attenuazione passi online (+10 Furtivo)
+4. Completa il test di infiltrazione avanzato: Sottorete uditiva online (+1 Percezione)
+5. Completa il test di infiltrazione esperto: Adattamento torso alla fisiologia dell'utente (+1 Agilità)
+6. Completa il test di conformità robotica: Acceleratore di impulsi online (+20% di velocità di movimento in modalità furtivo)
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Potenziamento dell'emettitore sonoro* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor Klein al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Viaggia fino al Centro di ricerca X-8
+2. Potenzia l'emettitore sonoro con il test istituzionale avanzato
+3. Ricompensa: capacità dell'emettitore sonoro di disattivare i campi di forza
+4. Prossima missione: *Old World Blues*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

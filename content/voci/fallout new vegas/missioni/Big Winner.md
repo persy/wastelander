@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: "Big Winner, .." 
+linktitle: "Big Winner, ..." 
 summary: ""
 weight: 10
 icon: message-question
 icon_pack: fas
 
 # Page metadata.
-title: "Big Winner, .."
+title: "Big Winner, ..."
 date: 2022-11-15
 type: book # Do not modify.
 commentable: true
@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Big Winner, ..* è una missione nascosta di Fallout: New Vegas. È data dal Pip-Boy entrando in un qualsiasi casinò di New Vegas o al Sierra Madre.
+*Big Winner, ...* è una missione nascosta di Fallout: New Vegas. È data dal Pip-Boy entrando in un qualsiasi casinò di New Vegas o al Sierra Madre.
 
 
 **Riassunto**:

@@ -21,6 +21,26 @@ private: false # Nascosto dalle ricerche
 
 *Potrei risvegliare il tuo interesse* è una missione secondaria di Fallout: New Vegas. È data da Veronica.
 
+**Riassunto**:
+1. Ottieni la missione reclutando Veronica e parlando in giro con le persone della Zona contaminata del Mojave
+2. Porta Veronica dall'Anziano McNamara a Hidden Valley
+3. Consulta il terminale di Elijah nella baracca di Gibson
+4. Ottieni almeno una delle tre tecnologie indicate
+   - Mirino di Euclid e Archimedes I
+      1. Alimenta Archimides II in *Quel vecchio Sole fortunato*
+      2. Recupera il Mirino di Euclid da Max a Freeside
+         - Rubaglielo
+         - **Baratto 45**: compraglielo per 20 tappi, invece di 1000
+   -  Nuova tecnologia di coltivazione: *Guarda tra l'erba*, non permettere a Keely di cancellare i dati e assicurati di averli copiati nel Pip-Boy
+   -  Pistola a impulsi
+       1.  Recupera la chiave dell'armadietto dalla caserma di Pearl alla Base aeronautica di Nellis
+       2.  Accedi all'armeria del Vault 34
+5.  Consegna la tecnologia all'Anziano McNamara
+6.  Esci dal bunker e confrontarti con i Paladini
+   -  **Eloquenza 95**: se Veronica resta nella Confraternita, devi persuaderli a non attaccare: **1000 PE**, Veronica guadagna **Bonds of Steel** (+4 SD)
+   -  Se Veronica lascia la Confraternita potrà farlo pacificamente
+        1.  Se le suggerisci di unirsi ai Seguaci dell'Apocalisse, contatta il Dottor Alvarez all'Avamposto dei Seguaci
+        2.  Aspetta 24 ore, torna all'Avamposto e uccidi i Paladini: Veronica ottiene **Causeless Rebel** (+30% attacco Disarmato)
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

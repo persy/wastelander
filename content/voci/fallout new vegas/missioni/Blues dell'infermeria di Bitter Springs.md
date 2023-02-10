@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Blues dell'infermeria di Bitter Springs* è una missione secondaria di Fallout: New Vegas. È data dal Luogotenente Markland a Bitter Springs.
 
+**Riassunto**:
+1. Parla con il Capitano Gilles a Bitter Springs
+2. Completa *No, non molto*
+3. Parla con il Luogotenente Markland
+   - Trova 3 borse mediche
+   - Fornisci delle nozioni di psicologia e pediatria a Markland
+      - Ottieni due libri da Blake alla Crimson Caravan Company
+      - Lascia che Arcade Gannon lo istruisca
+4. Parla con Markland
+5. Ricompensa: **200 PE**, **fama per l'RNC** oppure **200 PE**, **droghe** oppure **200 PE**, **40 tappi** (140 con **karma negativo**)
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

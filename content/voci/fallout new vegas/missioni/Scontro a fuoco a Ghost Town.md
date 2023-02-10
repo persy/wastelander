@@ -81,7 +81,7 @@ graph TD;
 
 
 **Note**:
-- Non è possibile iniziare questa missione se è già in corso *Corri Goodsprings, corri*
+- Non è possibile iniziare questa missione se hai già iniziato o completato *Corri Goodsprings, corri*
 - Non partecipando attivamente alle uccisioni dei Powder Ganger, guadagnerai una reputazione "mista", rendendo possibile entrare nel Complesso Penitenziario dell'RNC senza venir attaccati
 - Se nello scontro si colpisce accidentalmente uno degli abitanti di Goodsprings, l'intera cittadina diventerà ostile 
 

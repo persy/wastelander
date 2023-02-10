@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Ricerca sul campo* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal Pozzo.
 
+**Riassunto**:
+1. Potenzia Diodo cieco Jefferson e la Stazione di ricerca biologica
+   - Cerca i potenziamenti per il Diodo cieco Jefferson
+   - Cerca le tre scatole dei campioni per la Stazione di ricerca biologica
+2. Installa tutti i potenziamenti al Pozzo
+3. Ricompensa: **vari PE**, abilità di cambiare la frequenza dell'emettitore sonoro, piantare semi nel giardino del Pozzo
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -20,6 +20,11 @@ private: false # Nascosto dalle ricerche
 
 *Collezionare olomedagliette* è una missione nascosta e ripetibile di Fallout 3. È data dallo Scriba Jameson alla Cittadella.
 
+**Riassunto**:
+1. Parla con lo Scriba Jameson alla Cittadella
+2. Trova le olomedagliette della Confraternita d'Acciaio
+3. Porta le olomedagliette allo Scriba Jameson
+4. Ricompensa: **25 PE**, **100 tappi** per ogni olomedaglietta
 
 
 <section class="chart-collapse">

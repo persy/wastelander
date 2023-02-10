@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *In fondo è solo un nome* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dal dottor O al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con il Dottor O
+2. **Eloquenza 65**: convincilo a parlare del problema del suo nome 
+3. **Intelligenza 7**, **9**: dagli un consiglio su come differenziare la O dalla 0
+4. Ricompensa: **vari PE**, **rottami di ferro**, **rottami elettronici**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

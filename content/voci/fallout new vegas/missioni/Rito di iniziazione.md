@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Rito di iniziazione* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Uccello Bianco all'accampamento dei Tormenti.
 
+**Riassunto**:
+1. Colleziona 3 datura sacra
+2. Torna da Uccello Bianco
+3. Vai alla Tana del fantasma
+4. Uccidi il Fantasma di Lei
+5. Saccheggia il suo corpo e ottieni la zampa del Fantasma di Lei
+6. Torna da Uccello Bianco
+7. Ricompensa: **vari PE**, **Abbraccio di Lei**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

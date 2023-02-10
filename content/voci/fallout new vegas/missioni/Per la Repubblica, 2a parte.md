@@ -21,6 +21,39 @@ private: false # Nascosto dalle ricerche
 
 *Per la Repubblica, 2a parte* è una missione principale di Fallout: New Vegas. È data dal Colonnello Cassandra Moore a Hoover Dam.
 
+**Riassunto**:
+1. Determina il destino dei Great Khan al Red Rock Canyon: *Oh, Papa*
+   - Se hai già sciolto l'alleanza fra i Great Khan e la Legione o ucciso Papa Khan: uccidi almeno 15 Great Khan a Red Rock Canyon
+   - Se hai già convinto i Great Khan a lasciare il Mojave: *impossibile completare la missione*
+   - Se hai già convinto i Great Khan a sferrare un attacco suicida a Hoover Dam
+   - Se non li hai ancora incontrati, informa il Colonnello Cassandra Moore, prima di uccidere Papa Khan o sciogliere l'alleanza con la Legione
+      - Se sciogli l'alleanza fra i Great Khan e la Legione: *(fallimento) Date a Caesar quel che è di Caesar*
+      - Uccidi Papa Khan e diventa capo dei Great Khan
+2. Rivela il segreto degli Omerta al Gomorrah
+   - Parla con Liza O'Malley: *Che poco ne sappiamo*
+      - Se hai appoggiato Nero e Big Sal: **Eloquenza 70**, per convincere il Colonnello Cassandra Moore che gli Omerta attaccheranno New Reno
+      - Se hai appoggiato Cachino: *(fallimento) Date a Caesar quel che è di Caesar*
+      - Se uccidi Nero e Big Sal o Clanden: *(fallimento) Date a Caesar quel che è di Caesar*
+3. Rimuovi la minaccia del Sig. House al Lucky 38
+   - Se uccidi o disattiva il Sig. House: *(Fallimento) La Casa vince sempre*
+   - Se sostituisci il Sig. House con Yes Man: *Jolly: Cambiamento di gestione*
+4. Occupati della Confraternita d'Acciaio a Hidden Valley: *Ancora nel buio*
+   - Se Hardin è il nuovo Anziano: distruggi la Confraternita
+   - Se McNamara è ancora l'Anziano: sigla un accordo fra la Confraternita e l'RNC
+   - Distruggi la Confraternita
+	   - (Opzionale) **Scienza 75**: hackera il terminale di sicurezza delle torrette affinché uccidano i membri della CdA
+	   - Trova il terminale per il sistema d'autodistruzione
+	      1. **Scienza 100**: hackera il terminale per l'autodistruzione
+	      2. Procurati le tre chiavi
+	          -  Prendi la chiave dal Paladino Capo Hardin
+	          -  Prendi la chiave dallo Scriba anziano Taggart
+	          -  Prendi la chiave dall'Anziano McNamara
+   	   3.  Attiva il sistema d'autodistruzione
+	   - Uccidi tutti i membri della Confraternita d'Acciaio
+5. Proteggi il Presidente Kimball a Hoover Dam: *Lo saprai quando succederà*
+6. Informa il Colonnello Cassandra Moore
+7. Ricompensa: **475 PE**
+8. Prossima missione: *Eureka!*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

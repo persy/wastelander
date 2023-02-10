@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, IV* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Vai al Gomorrah sulla Strip e occupati degli Omerta
+   - Uccidi gli Omerta rimuovendo la loro minaccia
+   - Assicurati il supporto degli Omerta: *Che poco ne sappiamo*
+      - Appoggia Cachino
+      - Appoggia Big Sal e Nero: *fallimento missione*
+      - **Eloquenza 50**: per convincere il Sig. House che appoggiare Big Sal faceva parte del piano per infiltrarsi negli Omerta
+2. Informa il  Sig. House
+3. Ricompensa: *(fallimento) Per la Repubblica*, *(fallimento) Date a Caesar quello che è di Caesar*
+5.  Prossima missione: *La Casa vince sempre, V*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

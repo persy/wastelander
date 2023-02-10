@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Buon compleanno* è una missione nascosta di Fallout 3. È data da Sticky a Little Lamplight.
 
+**Riassunto**:
+1. Parla con Sticky a Little Lamplight
+2. Accetta di portarlo a Big Town
+3. Sopravvivi al viaggio assieme a lui
+4. Ricompensa: **Cappello da festa**
 
 
 <section class="chart-collapse">

@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Questioni pressanti* è una missione secondaria di Fallout: New Vegas. È data da Alice McLafferty alla Crimson Caravan Company.
 
+**Riassunto**:
+1. Vai alla Crimson Caravan Company e parla con Alice McLafferty
+2. Vai alla Sede Sunset Sarsaparilla e disattiva la pressa per tappi di bottiglia
+3. (Opzionale) **Scienza 50**: attiva il Sig. Custode: **~500 tappi**
+4. Torna da Alice
+5. Ricompensa: **100 PE**, **500 tappi**, **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

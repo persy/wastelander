@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *Bighorner del ramo orientale del Virgin* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Fiutagesto.
 
+**Riassunto**:
+1. Parla con Fiutagesso della vita selvaggia nel canyon
+2. Raggiungi le rupi sopra l'Accampamento dei Cavalli Morti e trova il cucciolo di bighorner. Cerca di non uccidere gli altri animali
+3. Riporta il cucciolo dalla madre
+4. Ricompensa: **vari PE**, **Pistola automatica .45**, **Mazza da guerra**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

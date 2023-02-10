@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Lui venne... e andò via* è una missione del DLC *Old World Blues* di Fallout: New Vegas. È data dalla dottoressa Dala al Serbatoio del pensiero.
 
+**Riassunto**:
+1. Parla con la Dottoressa Dala a proposito dell'altro "visitatore" di Big MT
+2. Scopri le domande che l'altro corriere ha fatto al Dottor Klein
+3. Ricompensa: **450 PE**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *La luna appare sulla torre* è una missione secondaria di Fallout: New Vegas. È data da Emily Ortal davanti al Lucky 38, sulla Strip.
 
+**Riassunto**:
+1. Parla con Emily Ortal davanti al Lucky 38
+2. Metti una cimice in un punto di accesso della rete dati del Lucky 38 per i Seguaci dell'Apocalisse
+3. Torna da Emily Ortal
+4. Ricompensa: **500 PE**, **fama per i Seguaci dell'Apocalisse**, scorte di medicinali( con **Baratto 40**)
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

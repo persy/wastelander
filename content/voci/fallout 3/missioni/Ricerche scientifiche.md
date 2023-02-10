@@ -20,6 +20,19 @@ private: false # Nascosto dalle ricerche
 
 *Ricerche scientifiche* è la sesta missione principale di Fallout 3. È data da Tre Cani all'edificio di GNR o dalla Dottoressa Li a Rivet City.
 
+**Riassunto**:
+1. Investiga nella vicina città di Megaton per raccogliere informazioni su James
+2. Parla di James con Colin Moriarty
+3. (Opzionale) Occupati di Silver a Springvale
+   - Paga 100 tappi a Moriarty per ottenere degli indizi su James
+   - Ottieni le informazioni dal terminale di Moriarty
+4. Raggiungi Galaxy News Radio
+5. Aiuta la Confraternita d'Acciaio a sconfiggere i supermutanti
+6. Parla con Tre Cani a proposito di James
+   - Supera una sfida Eloquenza
+   - Completa *Galaxy News Radio*
+7. Ricompensa: **vari PE**
+8. Prossima missione: *Ricerche scientifiche*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

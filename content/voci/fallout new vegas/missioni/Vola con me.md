@@ -21,6 +21,36 @@ private: false # Nascosto dalle ricerche
 
 *Vola con me* è una missione secondaria di Fallout: New Vegas. È data da Manny Vargas o da Noonan No-bark a Novac e da Jason Bright al sito test REPCONN.
 
+**Riassunto**:
+1. Parla con Manny Vargas, Jeannie May Crawford o da Noonan No-bark
+2. Parla con Jason Bright al sito test REPCONN
+3. Raggiungi il seminterrato e occupati dei nightkin
+   - Procedi furtivamente, senza farti scoprire dai nightkin
+      1. Parla con Davison e poi con Harland
+      2. Trova il cadavere dell'amica di Harlem e torna da lui
+      3. Accedi al terminale e scarica la nota di spedizione
+      4. Dai la nota a Davison e aspetta che i nightkin abbandonino il seminterrato
+      5. Torna da Bright e seguilo nel seminterrato
+   -  Uccidi i nightkin
+4.  Parla con Haversam
+5.  (Opzionale) **Eloquenza 50**/**Vedova nera**: convincilo a sabotare i razzi
+   -  Procurati tre bombe di zucchero: Karma negativo
+6.  Procurati l'agente di ignizione isotopo-239
+   -  Trova il contenitore sul corpo di uno sciacallo nei pressi di Novac
+   -  Prendi almeno 5 dinosauri souvenir
+        1.  **Scienza 40**: chiedi a Cliff a Novac se i dinosauri souvenir contengono materiale radioattivo
+            1.  **Baratto 30**: compra la chiave del ripostiglio
+            2.  Ruba la chiave
+        2.  Prendi quelli al secondo piano del negozio di Mick & Ralph a Freeside
+7.  Procurati i moduli di comando propulsione dall'Anziana signora Gibson
+   -  Comprali per 500 tappi
+   -  **Eloquenza 50**/**Baratto 50**: comprali per 250 tappi
+   -  **Donnaiolo**: ottienili gratuitamente
+   -  **Scasso 50**: rubali da una cassetta di metallo all'interno dell'abitazione Gibson
+8.  Raggiungi la piattaforma d'osservazione
+9.  (Opzionale) **Scienza 55**/**Intelligenza < 3**: altera le coordinate della traiettoria dei razzi: **karma negativo**
+10. Attiva la sequenza di lancio
+11. Ricompensa: **800-1000 PE**, **fama per Novac**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

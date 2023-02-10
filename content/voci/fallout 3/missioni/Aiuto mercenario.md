@@ -20,7 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Aiuto mercenario* è una missione nascosta di Fallout 3. È data da Ahzrukhal al Nono Cerchio o agli Inferi.
 
-
+**Riassunto**:
+1. Parla con Ahzrukhal
+   - Compra il contratto di Caronte per 1000-2000 tappi
+   - Uccidi Greta (con discrezione) per ottenere il contratto
+2. Torna da Ahzrukhal
+3. Parla con Caronte
+4. Ricompensa: **Caronte come compagno**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

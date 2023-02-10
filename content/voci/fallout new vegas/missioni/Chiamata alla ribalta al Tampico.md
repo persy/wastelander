@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Chiamata alla ribalta al Tampico* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah al Tampico, nel Casinò Sierra Madre.
 
+**Riassunto**:
+1. Entra al teatro Tampico
+2. Raggiungi il palco, evitando gli altoparlanti
+3. Prendi lo spartito dal leggio
+4. Vai dietro le quinte e confrontati con Dean Domino
+   - **Eloquenza 75**: convincilo a cedere la chiave
+   - Uccidilo
+5. Prossima missione: *Ultimi lussi*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

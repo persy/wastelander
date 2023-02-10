@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Drin drin drin!* è una missione principale di Fallout: New Vegas. È data da Jessup a The Tops.
 
+**Riassunto**:
+1. Parla con Swank alla reception del The Tops
+   - **Eloquenza 15, 30, 45**: convinci Swank a lasciarci passare e confrontarci con Benny
+   - Dai uno dei tre indizi distintivi di Benny a Swank
+      - Mozzicone caratteristico: si trova nella tomba aperta al cimitero di Goodsprings
+      - Accendino inciso: posseduto da Jessup a Boulder City
+      - Olonastro "Messaggio: Ospitalità dei Khan": dato da Manny Vargas a Novac
+2. Confrontati con Benny
+   - **Vedova nera**: passa una notte con Benny
+   - **Eloquenza 35, 50**: convinci Benny che non si ha intenzione di ucciderlo e ottenere la chiave della sua suite
+3. (Opzionale) **Eloquenza 60**: fai un'offerta a Benny e convincilo ad accompagnarti nella sua suite
+4. Vai nella suite presidenziale con o senza di lui
+5.  Sopravvivi all'imboscata
+   -  Uccidi Benny
+   -  Lascia in vita Benny
+6.  Lascia il The Tops
+7.  Ricompensa: **1000-1200 PE**
+8.  Prossime missioni: *Date a Caesar quello che è di Caesar*, *Cose che scoppiano*, *La Casa vince sempre*, *Jolly: Cambiamento di gestione*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *No, non molto* è una missione secondaria di Fallout: New Vegas. È data dal Capitano Gilles a Bitter Springs.
 
+**Riassunto**:
+1. Parla con il Capitano Gilles a Bitter Springs
+2. Parla con il Luogotenente Markland a proposito delle scorte di medicine
+3. Completa *Blues dell'infermeria di Bitter Springs*
+4. Trova le scorte nelle caverne di rifornimento dei Great Khan
+   - **Scienza 25**: decontamina la caverna: **karma negativo**
+   - Menti a Markland sulla sicurezza della caverna
+5. Se non sei già idolatrato dall'RNC, richiedi i rinforzi dagli altri campi
+   - Parla con il Sergente McCredie a Camp Golf: *Bandiere di Our Foul-Ups*
+   - Parla con il Maggiore Polatli a Camp Forlorn Hope: *Ripristino di Hope*
+   - Parla con il Colonnello James Hsu a Camp McCarran: *Ti ho stregato*
+7.  Ritorna dal Capitano Gilles
+8.  Ricompensa: **300 PE**, **fama per l'RNC** e **karma positivo** o scorte cibo e **20$ RNC** o munizioni e **100$ RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

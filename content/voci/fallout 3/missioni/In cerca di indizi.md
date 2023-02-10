@@ -20,6 +20,17 @@ private: false # Nascosto dalle ricerche
 
 *In cerca di indizi* è la nona missione principale di Fallout 3. È data da Lyons l'Anziano alla Cittadella.
 
+**Riassunto**:
+1. Accompagna la Dottoressa Li all'interno della Cittadella. 
+2. Chiedi allo Scriba Rothchild l'accesso al computer
+3. Chiedi allo Scriba Rothchild informazioni sul Vault 87
+4. Ottieni l'accesso a Little Lamplight  
+   - Attraversa il Sentiero della Morte
+   - Accedi al terminale per la camera del reattore
+5. Entra nel Vault 87
+6. Ricompensa: **800 PE**
+7. Prossima missione: *Ricerca Giardino dell'Eden*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

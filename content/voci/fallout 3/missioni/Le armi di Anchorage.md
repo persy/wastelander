@@ -20,6 +20,14 @@ private: false # Nascosto dalle ricerche
 
 *Le armi di Anchorage* è una missione del DLC *Operation: Anchorage* di Fallout 3. È data dal Generale Chase durante la simulazione della liberazione di Anchorage.
 
+**Riassunto**:
+1. Fatti strada fino all'avamposto
+2. Incontrati con il Sergente Montgomery
+3. Raggiungi l'area dell'artiglieria
+4. Piazza gli esplosivi sui tre obici
+5. Parla con Montgomery
+6. Ricompensa: **100 PE**
+7. Prossima missione: *Preparare la via*
 
 
 <section class="chart-collapse">

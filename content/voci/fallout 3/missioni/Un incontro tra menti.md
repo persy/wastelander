@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Un incontro tra menti* è una missione del DLC *Point Lookout* di Fallout 3. È data da Desmond alla Villa di Calvert.
 
+**Riassunto**:
+1. Trova il bunker fra le rovine della Villa di Calvert
+2. Raggiungi il faro
+3. Entra nel laboratorio sotterraneo
+4. Segui Desmond fino a incontrare Calvert
+5. Raggiungi Calvert
+6. Raggira o distruggi i sistemi di sicurezza
+7. Confrontati con Calvert e Desmond
+   - Uccidi Calvert: **300 PE**, **Emettitore di microonde**
+   - Uccidi Desmond: **Occhiali di Desmond**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

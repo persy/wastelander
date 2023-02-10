@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *Il rapitore di bambini* è una missione nascosta di Fallout 3. È data da Eulogy Jones a Paradise Falls.
 
+**Riassunto**:
+1. Parla con Eulogy Jones a Paradise Falls
+2. Vai a Little Lamplight e cerca Ape
+3. Con una sfida Eloquenza o con l'abilità extra Bambino dentro convinci Ape a seguirti
+4. Consegna Ape allo schiavista fuori da Little Lamplight: Karma negativo
+5. Torna da Eulogy
+6. Ricompensa: **Cappuccio dell'Uomo nero**
 
 
 <section class="chart-collapse">

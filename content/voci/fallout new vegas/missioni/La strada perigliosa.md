@@ -21,6 +21,12 @@ private: false # Nascosto dalle ricerche
 
 *La strada perigliosa* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data da Daniel al ponte di Old Rockville.
 
+**Riassunto**:
+1. Viaggia fino al Ponte di Old Rockville
+   - Disattiva le trappole sul ponte
+   - Uccidi gli Zampabianca che piantano le trappole
+2. Ricompensa: **vari PE**
+3. Prossima missione: *Nubi all'orizzonte*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

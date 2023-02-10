@@ -20,7 +20,20 @@ private: false # Nascosto dalle ricerche
 
 *Problemi sul fronte interno* è una missione secondaria di Fallout 3. È data dal segnale d'emergenza del Vault 101.
 
+**Riassunto**:
+1. Scegli uno scieramento
+   - Appoggia il Soprintendente
+     - Uccidi Amata (**karma negativo**) o persuadila (**karma positivo**): **Tuta centrale modificata**
+   - Appoggia i ribelli
+     - Persuadi il Soprintendente (**karma positivo**, **Tuta centrale modificata**) oppure uccidilo: **Butch possibile companion**
+   - Sabota il Vault
+     - Distruggi il chip: **karma negativo**, **Butch possibile companion**
+2. Ricompensa: **300 PE**
 
+Note:
+- Durante questa missione sarà ancora possibile ottenere la **Bambolina - Medicina** dall'ufficio di James, se non è stata già presa durante la missione *Scappa!*
+- Nella stessa stanza, all'interno della cassaforte che è dietro il quadro, è possibile trovare gli **Schemi - Lanciatutto**
+- Durante la missione sarà possibile fare il reverse pickpocketing a Butch e ottenere la sua arma unica, lo **Stuzzicadenti di Butch**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

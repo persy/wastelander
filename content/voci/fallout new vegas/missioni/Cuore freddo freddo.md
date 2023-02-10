@@ -21,6 +21,9 @@ private: false # Nascosto dalle ricerche
 
 *Cuore freddo freddo* è una missione secondaria di Fallout: New Vegas. È data da Vulpes Inculta a Nipton.
 
+**Riassunto**:
+1. Spargi la voce dell'attacco della Legione a Nipton, parlando con il Sergente Kilborn all'Avamposto del Mojave
+2. Ricompensa: **150 PE**, (opzionale) **fama per la Legione di Caesar**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

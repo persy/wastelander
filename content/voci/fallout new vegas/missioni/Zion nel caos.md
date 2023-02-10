@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Zion nel caos* è una missione del DLC *Honest Hearts* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Uccidi almeno uno fra Joshua Graham, Daniel, Fiutagesso o Nuvola Nascente
+2. Ottieni la mappa dalla Caverna di Uccello Bianco
+3. Scappa da Zion
+4. Ricompensa: **vari PE**, vari oggetti dai cadaveri dei personaggi uccisi
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

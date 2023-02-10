@@ -21,6 +21,33 @@ private: false # Nascosto dalle ricerche
 
 *Malinconia dei militari* è una missione secondaria di Fallout: New Vegas. È data dal Re alla King's School of Impersonation.
 
+**Riassunto**:
+1. Parla con il Re
+2. Assumi Orris come guardia del corpo e seguilo fino all'imboscata sospetta
+   - **Intelligenza 6**, **Baratto 60**: smaschera la truffa
+   - **Medicina 30**: scopri che gli assalitori stavano fingendo
+   - Spara agli assalitori o uccidi Orris
+3. Torna dal Re
+4. Parla con Roy e Wayne all'Old Mormon Fort a proposito del loro assalto
+5. (Opzionale) Parla con Julie Farkas per ottenere ulteriori informazioni
+6. Parla con i missionari dell'RNC
+   - **Eloquenza 50**: menti al missionario per poter passare
+   - **Baratto 70**: corrompi il missionario con 100 tappi
+   -  Usa le parole d'ordine  "Tandi",  "Shady Sands" e "Un orso a due teste""
+   -  Borseggia la password dal missionario
+7.  Parla con Elizabeth Kieran al Negozio rovinato
+8.  (Opzionale) Ottieni maggiori informazioni sull'assalto nominando Julie Farkas
+9.  Torna dal Re e accordati con Pacer
+   -  **Baratto 50**: Mantieni il silenzio per 300 tappi
+   -  Malmenalo per 200 tappi
+   -  Ignoralo e spiffera tutto al Re
+10. Risolvi la sparatoria fra Pacer e l'RNC
+   -  Uccidi le truppe RNC: **infamia dell'RNC**
+   -  Convinci Kieran che è stato un malinteso
+        -  Se hai detto al Re che Kieran sfamava solo i membri dell'RNC, dovrai aiutare Pacer: **infamia dell'RNC**
+        -  Se hai spifferato tutto al Re, Pacer proporrà una soluzione pacifica
+11. Torna dal Re
+12. Ricompensa: **1500 PE**, favore del Re
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

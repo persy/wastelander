@@ -20,7 +20,7 @@ private: false # Nascosto dalle ricerche
 
 *Rifugio della famiglia Keller* è una missione nascosta di Fallout 3. È data da non appena si prende uno dei 5 olonastri della famiglia Keller, sparsi nella Zona Contaminata.
 
-Riassunto:
+**Riassunto**:
 1. Trova tutte le trascrizioni della famiglia Keller
    - 1 di 5, capanna del traliccio, su uno scaffale
    - 2 di 5, cimitero di Hallowed Moors, sul leggio della chiesa

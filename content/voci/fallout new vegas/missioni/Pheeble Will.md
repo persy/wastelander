@@ -21,6 +21,18 @@ private: false # Nascosto dalle ricerche
 
 *Pheeble Will* è una missione secondaria di Fallout: New Vegas. È data da Walter Phebus alla Stazione Las Vegas Boulevard sulla Strip.
 
+**Riassunto**:
+1. Parla con Walter Phebus
+   - **Baratto 70**: accetta la missione e ricevi 400 tappi
+   - **Percezione 7**: per scoprire il motivo della sua visita a New Vegas
+   - **Eloquenza 75**: ascolta Esthel e persuadilo a lasciar perdere: **375 PE**
+2. Parla con Heck Gunderson
+3. Torna da Walter Phebus
+4. Occupati della famiglia Gunderson
+   - Uccidi Heck: **100 PE**, **500 tappi**, (1000 con **Baratto 90**)
+   - Uccidi Ted: **100 PE**, **250 tappi** (500 tappi con **Baratto 80**)
+   - Uccidi sia Heck che Ted: **200 PE**, **1500 tappi**
+   - Accetta di aiutare Heck nel trovare il figlio Ted: *Oltre il manzo*; se scegli di salvare Ted: *fallimento della missione*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

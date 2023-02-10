@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Grande inaugurazione del Sierra Madre* è una missione del DLC *Dead Money* di Fallout:New Vegas. È data da Padre Elijah nel bunker abbandonato della Confraternita d'Acciaio.
 
+**Riassunto**:
+1. Scopri da dove proviene l'invito del Sierra Madre
+2. Entra nel Bunker abbandonato della Confraternita d'Acciaio e avvicinati alla radio
+3. Ricompensa: **Olofucile**, **Tuta del Sierra Madre**, **Collare di Dead Money**
+4. Prossime missioni: *Trova il Collare 8: "Dog"*, *Trova il Collare 12: Christine*, *Trova il Collare 14: Dean Domino*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

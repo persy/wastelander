@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, I* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Parla con Swank alla reception del The Tops
+   - **Eloquenza 15**, **30**, **45**: convinci Swank a lasciarci passare e confrontarci con Benny
+   - Dai uno dei tre indizi distintivi di Benny a Swank
+      - Mozzicone caratteristico: si trova nella tomba aperta al cimitero di Goodsprings
+      - Accendino inciso: posseduto da Jessup a Boulder City
+      - Olonastro "Messaggio: Ospitalità dei Khan": dato da Manny Vargas a Novac
+2. Confrontati con Benny
+   - **Eloquenza 35**, **50**: convinci Benny che non si ha intenzione di ucciderlo e ottenere la chiave della sua suite
+   -  **Eloquenza 60**: fai un'offerta a Benny e convincilo ad accompagnarti nella sua suite
+   - **Vedova nera**: passa una notte con Benny
+   - Vai nella suite presidenziale con o senza di lui
+3.  Lascia in vita o uccidi Benny
+4.  Sopravvivi all'imboscata
+5.  Raggiungi il Forte, passando per Cottonwood Cove
+6.  Recupera il platinum chip e consegnalo al Sig. House
+7.  Ricompensa: **600 PE**, **1000 tappi**, (**1250 tappi** con **Baratto 50**), Suite presidenziale nel Lucky 38
+8.  Prossima missione: *La Casa vince sempre, II*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Attorno ad un fuoco da accampamento lungo il sentiero* è una missione principale di Fallout: New Vegas. È data da Sunny Smiles a Goodsprings.
 
+**Riassunto**:
+1. Trova del broc flower e dello xander root
+2. Raccogli lo xander root vicino al ceppo nei pressi della scuola di Goodsprings
+3. Raccogli il broc flower al cimitero di Goodsprings
+4. Porta i due elementi a Sunny Smiles e usali nel fuoco da accampamento per creare della polvere curativa
+5. Parla con Sunny Smiles
+6. Ricompensa: **30 PE** 
+7. Prossima missione: *Sono andati di là*
 
 
 <section class="chart-collapse">

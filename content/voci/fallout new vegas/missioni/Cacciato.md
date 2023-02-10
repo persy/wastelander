@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Cacciato* è una missione secondaria di Fallout: New Vegas. È data da Boxcars a Nipton.
 
+**Riassunto**:
+1. Parla con Boxcars a Nipton
+2. Vai all'accampamento attacco Legione
+3. Libera i due schiavi
+4. Ricompensa: **100 PE**, **fama per i Powder Ganger**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

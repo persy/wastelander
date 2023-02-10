@@ -21,6 +21,41 @@ private: false # Nascosto dalle ricerche
 
 *Ti ho stregato* è una missione secondaria di Fallout: New Vegas. È data dal Colonnello James Hsu a Camp McCarran o da Vulpes Inculta al Forte.
 
+**Riassunto**:
+Puoi svolgere la missione in due modi diversi: a favore dell'RNC o a favore della Legione
+
+A favore dell'RNC...
+1. Parla con il Colonnello James Hsu a Camp McCarran
+2. Parla con il Capitano Ronald Curtis e poi con il Luogotenente Carrie Boyd
+   - Non rivelare al Capitano Curtis che stai investigando sulle incursioni notturne
+      1. Visita la torre di controllo fra la mezzanotte e l'1:40"
+      2.  Entra e origlia la discussione, restando nascosto
+          -  Parla della bomba al Colonnello Hsu
+          -  **Scienza 45**/**Esplosivi 35**: disinnesca la bomba
+   - Rivela al Capitano Curtis che stai investigando sulle incursioni notturne
+      3. Sopravvivi all'imboscata
+      4. Confrontarti con Curtis e uccidilo
+      5. Prendi il codice di attivazione dal cadavere di Curtis
+3.  La bomba è in uno degli sfiatatoi nella carrozza della monorotaia
+4.  Torna dal Colonnello Hsu
+5.  Ricompensa: **600 PE**, **250 tappi**, **fama per l'RNC**
+
+A favore della Legione...
+1. Parla con il Colonnello James Hsu a Camp McCarran
+   - Completa *Il dito sospetto*
+   - **Intelligenza 8**/**fama per la Legione**: rivela al Capitano Curtis di lavorare per la Legione 
+2.  Parla con Curtis e seleziona l'opzione di dialogo "Hsu non ha abbastanza fiducia in me per permettermi di indagare""
+3.  Prendi il materiale  all'interno del cestino, davanti alla biglietteria, per far saltare la monorotaia
+4.  Parla col Colonnello Hsu e digli che stai investigando su una fuga di informazioni
+5.  Accedi alla monorotaia, furtivamente o indossando un'armatura dell'RNC
+6.  Entra nella monorotaia e piazza la bomba, attivando lo sfiatatoio sulla carrozza
+7.  Raggiungi il Viale di Camp McCarran e trova l'armadietto del Soldato semplice Davey Crenshaw
+8.  Piazza del detergente Abraxo, un conduttore, una batteria a fissione, della colla prodigiosa e i piani di sabotaggio nell'armadietto
+9.  Esci dall'edificio e uccidi il Soldato semplice Davey Crenshaw
+10. (Opzionale) **Furtivo 40**: uccidilo furtivamente
+11. Torna da Hsu e accusa Crenshaw del sabotaggio della monorotaia
+12. Parla con Curtis e digli che può stare tranquillo
+13. Ricompensa: **540 PE**, **150 tappi**, **fama per la Legione**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,20 @@ private: false # Nascosto dalle ricerche
 
 *L'incredibile Acqua Cura!* è una missione secondaria del DLC *Broken Steel* di Fallout 3. È data da Griffon al Museo di Storia, dallo Scriba Bigsley o trovando un olonastro all'Edificio autorità del museo.
 
+**Riassunto**:
+1. Si può ottenere la missione in diversi modi:
+   - Parla con Griffon al Museo di Storia, chiedi una bottiglia di acqua pura e scopri dal Pip-Boy che è irradiata
+   - Vinci una sfida Eloquenza con lo Scriba Bigsley
+   - Hackera il terminale dello Scriba Bigsley
+   - Trova l'olonastro all'Edificio autorità del museo
+2. Parla con lo Scriba Bigsley al Jefferson Memorial a proposito delle operazioni di imbottigliamento
+3. Trova l'olonastro all'Edificio autorità del museo
+4. Occupati di Griffon
+   - Ricattalo superando una serie di sfide Eloquenza: **100 PE**, **300 tappi** o **40-100** a settimana
+   - Convincilo a confessare, aizzandogli contro la folla: **100 PE**, **400-600 tappi**
+   - Convincilo a vendere vera Aqua Pura: **100 PE** 
+   - Se hai già terminato la missione *Progetto impurità*, convincilo a vendere l'Aqua Pura contaminata: **100 PE**, **karma negativo**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

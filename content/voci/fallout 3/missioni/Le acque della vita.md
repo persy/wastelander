@@ -20,6 +20,21 @@ private: false # Nascosto dalle ricerche
 
 *Le acque della vita* è l'ottava missione principale di Fallout 3. È data da James al Jefferson Memorial.
 
+**Riassunto**:
+1. Parla con gli scienziati a Rivet City
+2. Elimina ogni minaccia mutante residua dal Progetto purezza
+3. Sostituisci i fusibili danneggiati nel computer centrale
+4. Scarica i tubi di aspirazione e torna alla sala di controllo
+5. Accompagna gli scienziati alla Cittadella attraverso il Tunnel di Taft
+6. Risolvi la "situazione" di Garza
+   - Uccidi Garza: **karma negativo**
+   - Dagli 5 stimpak
+   - Dagli 3 buffout
+   - Abbandonalo o lascialo indietro
+7.  Raggiungi la Cittadella
+8.  Ricompensa: **700 PE**
+9.  Prossima missione: *In cerca di indizi*
+   
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

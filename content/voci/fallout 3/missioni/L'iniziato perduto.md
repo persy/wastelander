@@ -20,6 +20,13 @@ private: false # Nascosto dalle ricerche
 
 *L'iniziato perduto* è una missione nascosta di Fallout 3. È data dal Paladino Hoss a Falls Church.
 
+**Riassunto**:
+1. Parla con il Paladino Hoss a Falls Church
+2. Fatti strada fino all'edificio degli uffici
+3. Salva l'Iniziato Pek
+4. (Opzionale) Ripara la sua pistola con una sfida Ripara o Armi leggere
+5. Riunisciti con il Paladin Hoss fuori dall'edificio degli uffici
+6. Ricompensa: **karma positivo**, **tappi**
 
 
 <section class="chart-collapse">

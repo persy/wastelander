@@ -20,7 +20,10 @@ private: false # Nascosto dalle ricerche
 
 *Progetto impurità* è una missione principale di Fallout 3. È data dal presidente Eden al Jefferson Memorial ed è correlata con la missione *[Riprenditelo!](../riprenditelo)*.
 
-
+**Riassunto**:
+1. Viaggia fino al Jefferson Memorial
+2. Infetta il purificatore con il FEV modificato
+3. Ricompensa: **karma negativo**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

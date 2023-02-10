@@ -21,6 +21,19 @@ private: false # Nascosto dalle ricerche
 
 *Volare!* è una missione secondaria di Fallout: New Vegas. È data da Pearl alla base aeronautica di Nellis.
 
+**Riassunto**:
+1. Ottieni l'idolatria dai Boomer
+   - Completa *Formiche indisciplinate*
+   - Completa *Sunshine Boogie*
+   - Completa *Giovani cuori*
+   - **Medicina 60**: Aiuta Argyll a curare i pazienti nell'infermeria di Nellis
+   - Ascolta la storia dei Boomer da Pete, al Museo dei Boomer
+      - (Opzionale) **Esplosivi 40**, **Scienza 35**, **Sopravvivenza 40**, **Riparazione 40**, **Eloquenza 40**, **55**: per ottenere ulteriore **fama per i Boomer**
+2. Parla con Pearl e poi con Loyal
+3. (Opzionale) **Scienza 45**: ottieni un rebreather da Jack
+4.  Vai al Lake Mead e installa i ballast sotto le ali del B-29
+5.  Attiva il detonatore e torna da Pearl e da Loyal
+6. Ricompensa: **500 PE**, **Tuta di volo da Boomer**, **Elmo da Boomer**, **fama per i Boomer**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

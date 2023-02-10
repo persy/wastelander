@@ -20,6 +20,17 @@ private: false # Nascosto dalle ricerche
 
 *Il sogno americano* è l'undicesima missione principale di Fallout 3. È data dal Presidente Eden a Raven Rock.
 
+**Riassunto**:
+1. Svegliati a Raven Rock e parla con il Colonnello Autumn
+2. Liberati e recupera l'equipaggiamento
+3. Passa attraverso i livelli 3 e 2 fino alla sala di controllo 
+4. Parla con il presidente Eden e recupera la fiala di FEV modificato
+   - Forza o convinci Eden ad autodistruggersi
+   - Non manomettere Eden 
+5. Attraversa il livello 1 ed esci da Raven Rock
+6. Torna alla Cittadella e parla con Lyons l'Anziano
+7. Ricompensa: **Armatura atomica** o **armatura da ricognizione**
+8. Prossima missione: *Riprenditelo!*
 
 
 <section class="chart-collapse">

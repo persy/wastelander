@@ -84,9 +84,9 @@ features:
       language_code: it
       mapping: pathname
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+      app_id: 'CQKSNX8XYS'
+      api_key: '9b1f1d8ea96d757800cf4edf0c65d327'
+      index_name: 'wastelander'
+      show_logo: true

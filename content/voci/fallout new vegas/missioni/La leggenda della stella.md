@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *La leggenda della stella* è una missione secondaria di Fallout: New Vegas. È data da Festus alla sede Sunset Sarsaparilla.
 
+**Riassunto**:
+1. Parla con Festus alla Sede Sunset Sarsaparilla
+2. Trova 50 tappi di bottiglia stella Sunset Sarsaparilla
+3. Torna da Festus
+4. Missione successiva: *Una preziosa lezione*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

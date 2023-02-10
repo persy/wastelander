@@ -20,6 +20,29 @@ private: false # Nascosto dalle ricerche
 
 *Capo di Stato* è una missione secondaria di Fallout 3. È data da Hannibal Hamlin al Tempio dell'Unione e da Leroy Walker al Lincoln Memorial.
 
+**Riassunto**:
+Se fiancheggi gli abolizionisti...
+1. Trova il Tempio dell'Unione e parla con Hannibal Hamlin
+2. Diventa membro del Tempio e accetta di aiutare Hannibal
+   - Trova il Museo di Storia e impossessati degli oggetti di Lincoln: **Fucile**, **cappello**, **voce**, **diario**, **antica collezione di monete di Lincoln**, **pupazzo di Action Abe**, **poster della guerra civile**, **poster segnaletico del tavolo di John Wilkes**, **poster del Lincoln Memorial**
+   - Trova il Lincoln Memorial e uccidi tutti i supermutanti e gli schiavisti: **Nuka-Cola Quantum**
+3. Torna al Tempio dell'Unione
+4. Vai al Lincoln Memorial con gli abolizionisti
+5. Conquista il Memorial con gli abolizionisti
+6. Ricompensa: **300 PE**, **Schemi - Pistola a dardi**
+
+Se fiancheggi gli schiavisti...
+1. Ottieni l'accesso al Lincoln Memorial parlando con Silas 
+2. Ascolta Leroy Walker
+   - Ignora o perdi la sfida Eloquenza con Leroy 
+       1. Trova il Museo di Storia
+       2. Impossessati degli oggetti di Lincoln: **Fucile**, **cappello**, **voce**, **diario**, **antica collezione di monete di Lincoln**, **pupazzo di Action Abe**, **poster della guerra civile**, **poster segnaletico del tavolo di John Wilkes**, **poster del Lincoln Memorial**
+   - Vinci la sfida Eloquenza con Leroy
+3.  Trova il Tempio dell'Unione e riferisci la sua posizione a Leroy: **100 tappi**
+4.  Assalta il Tempio con gli schiavisti
+    -  Uccidi Hannibal: **300 PE**, **50 tappi**
+    -  Lascia che sia Leroy ad uccidere Hannibal: **300 PE**, **100 tappi**
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

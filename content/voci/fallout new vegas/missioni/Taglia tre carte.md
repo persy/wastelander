@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Taglia tre carte* è una missione secondaria di Fallout: New Vegas. È data dal Maggiore Dhatri a Camp McCarran.
 
+**Riassunto**:
+1. Parla con il Maggiore Dhatri a  Camp McCarran a  proposito delle taglie
+2. Vai a sud della  Stazione di rifornimento  Poseidon,  uccidi Violet e  prendi la sua testa
+3. Vai alle Rovine  di South Vegas , uccidi Cook-Cook e  prendi la sua testa
+4. (Opzionale) Ottieni il supporto  del 1° Ricognitori dal  Luogotenente Goroberts
+5. Vai allo Stabilimento  macinazione rocce Samson, uccidi Driver Nephi e prendi la sua testa
+6. Porta le teste  al Maggiore Dhatri
+   - Le teste sono intatte: **100 PE**,  **250 tappi**
+   - Le teste sono menomate: **50 PE**,  **125 tappi**
+7. Ricompensa: **500 PE**,  **500 tappi**,  **fama per l'RNC**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

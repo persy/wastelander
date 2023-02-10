@@ -20,6 +20,21 @@ private: false # Nascosto dalle ricerche
 
 *Il Potere dell'Atomo* è una missione secondaria di Fallout 3. È data da Lucas Simms a Megaton e da Mister Burke alla Torre Tenpenny.
 
+**Riassunto**:
+Se vuoi disarmare la bomba...
+1. Vai a Megaton
+2. Parla con Lucas Simms e proponi di disarmare la bomba di Megaton
+3. (Opzionale) Eloquenza: chiedi dei tappi per disarmarla
+4. **Esplosivi 25**: disarma la bomba: **karma positivo** 
+5. Fai rapporto a Simms che la bomba è disarmata
+6. Ricompensa: **300 PE**, **karma positivo**, **500-1000 tappi** (Eloquenza), residenza a Megaton
+
+Se vuoi far detonare la bomba...
+1. Parla con il Sig. Burke al Saloon di Moriarty e proponi di far saltare la bomba di Megaton
+2. Installa la carica nucleare a impulsi nella bomba
+3. Fai rapporto a Burke alla Torre Tenpenny e attiva il detonatore
+4. Ricompensa: **300 PE**, **karma negativo**, **500-1000 tappi** (Eloquenza), residenza alla Torre Tenpenny
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

@@ -21,6 +21,15 @@ private: false # Nascosto dalle ricerche
 
 *Prosciuga tutto il mio sangue* è una missione secondaria di Fallout: New Vegas. È data da Red Lucy al The Thorn.
 
+**Riassunto**:
+1. Vai al The Thorn e parla con Red Lucy
+2. Raccogli le uova di mantide gigante al terzo livello del Vault 22 e portale a Lucy: **200 tappi** (300 tappi con **Baratto 50**)
+3. Raccogli le uova di scorpione radioattivo nei pressi del cimitero di Goodsprings e portale a Lucy: **300 tappi** (400 tappi con **Baratto 60**)
+4. Raccogli le uova di geco del fuoco a est dell'Accampamento Viper della Highway 95 e portale a Lucy: **500 tappi** (700 tappi con **Baratto 70**)
+5. Raccogli le uova di nightstalker nella Caverna Bloodbornee portale a Lucy: **700 tappi** (1000 tappi con **Baratto 80**)
+6. Raccogli le uova di cazador nei pressi della Miniera argento Peak Mine e portale a Lucy: **1000 tappi** (1500 tappi con **Baratto 90**)
+7.  Raccogli le uova di deathclaw a Quarry Junction o nella Caverna del vento morto e portale a Lucy: **2500 tappi**
+8.  Ricompensa: **Campanello della cena**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

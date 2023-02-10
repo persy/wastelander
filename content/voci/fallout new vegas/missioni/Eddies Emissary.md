@@ -19,7 +19,7 @@ private: false # Nascosto dalle ricerche
 <div class="fnv">
 
 
-*Eddies Emissary* è una missione nascosta di Fallout: New Vegas. È data da Eddie al Complesso Penitenziario dell'RNC .
+*Eddies Emissary* è una missione nascosta di Fallout: New Vegas. È data da Eddie al Complesso Penitenziario dell'RNC.
 
 
 **Riassunto**:

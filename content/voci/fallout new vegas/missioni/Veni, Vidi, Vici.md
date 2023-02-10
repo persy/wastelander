@@ -21,6 +21,16 @@ private: false # Nascosto dalle ricerche
 
 *Veni, Vidi, Vici* è una missione principale di Fallout: New Vegas. È data dal Legato Lanius all'accampamento del Legato.
 
+**Riassunto**:
+1. Parla con il Legato Lanius all'accampamento del Legato
+2. Attraversa la diga di Hoover Dam e fatti strada fino alla centrale elettrica occidentale
+   - (Opzionale) Neutralizza i cecchini che si sono appostati nella parte occidentale della diga"
+   - (Opzionale) Libera i rinforzi della Legione in attesa all'interno della torre di aspirazione"
+3. Trova il Generale Lee Oliver nella centrale elettrica 04
+   - Uccidi il Generale Oliver e i soldati della sua scorta
+   - **Eloquenza 100**: convinci il Generale Oliver e i soldati della sua scorta a lasciare il campo di battaglia
+4. Torna dal Legato Lanius e riferiscigli che il Generale Oliver è stato ucciso o allontanato
+5. Ricompensa: *Finale di gioco*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

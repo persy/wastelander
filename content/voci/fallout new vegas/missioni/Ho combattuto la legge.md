@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Ho combattuto la legge* è una missione secondaria di Fallout: New Vegas. È data da Eddie al Complesso Penitenziario dell'RNC.
 
+**Riassunto**:
+1. Parla con Eddie e chiedigli se ci sono dei lavoretti
+2. Occupati di Chavez
+   - Uccidilo
+   - **Eloquenza 30**: convincilo ad andarsene
+3. Torna da Eddie per un nuovo lavoretto
+4. Occupati del mercante sospetto vicino a Jean Sky Diving
+   - Uccidilo
+   - **Eloquenza 30**/**Intelligenza 6**: smaschera il finto mercante
+5. Vai a Primm e scopri i piani d'attacco dell'RNC
+   - Parla con Johnson Nash
+      -  Dagli 100 tappi
+      -  **Baratto 30**: dagli 50 tappi
+      -  **Eloquenza 30**: convincilo a darti gratis le informazioni
+   - Ruba gli ordini militari dal Luogotenente Hayes
+6.  Decidi che fazione appoggiare
+   -  Tradisci Eddie e supporta l'attacco dell'RNC al Penitenziario: **300 PE**, **fama per l'RNC**
+   -  Uccidi il mercante sospetto e torna da Eddie per difendere il Penitenziario: **200 PE**, **100 tappi**, **droghe**, **fama per i Powder Ganger**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

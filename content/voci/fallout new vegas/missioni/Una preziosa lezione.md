@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Una preziosa lezione* è una missione secondaria di Fallout: New Vegas. È data da Festus alla sede Sunset Sarsaparilla.
 
+**Riassunto**:
+1. Completa: *La leggenda della stella*
+2. Trova la stanza con il premio, dopo aver sentito il discorso di Festus
+3. Ricompensa: **1600 PE**, **~1500 tappi**, **Pew Pew**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

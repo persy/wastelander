@@ -20,6 +20,10 @@ private: false # Nascosto dalle ricerche
 
 *Torta Mississippi* è una missione nascosta e ripetibile di Fallout 3. È data da Sierra Petrovita a Girdershade.
 
+**Riassunto**:
+1. Parla con Sierra Petrovita a Girdershade
+2. Portale farina, vodka e una Nuka-Cola Quantum
+3. Ricompensa: **Torta Mississippi**
 
 
 <section class="chart-collapse">

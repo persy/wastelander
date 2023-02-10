@@ -21,6 +21,24 @@ private: false # Nascosto dalle ricerche
 
 *Dissimulazione* è una missione secondaria di Fallout: New Vegas. È data da Luogotenente Carrie Boyd a Camp McCarran.
 
+**Riassunto**:
+1. Parla con il Luogotenente Carrie Boyd a Camp McCarran a proposito di alcune persone scomparse e del Caporale White
+2. Parla con Dazzle, una prostituta del Gomorrah
+3. Parla con Trent Bascom, un contadino della fattoria dei mezzadri dell'RNC
+4. Parla con il Luogotenente Romanowski
+5. (Facoltativo) Borseggia Romanowski e prendigli il messaggio di rimprovero
+6. Parla con Anderson agli Appartamenti Casa Madrid
+   - Scopri cos'è successo interrogando gli abitanti di Westside
+   - **Intelligenza 6**/**reputazione Seguaci**: scopri la verità da Anderson
+7. Nel caso l'interrogatorio fallisse, segui Hector e scopri che ruba l'acqua dalla cisterna nord dell'RNC e ricattalo
+8.  (Opzionale) **Eloquenza 80**: interroga Hector
+9.  Accordati con Anderson
+   -  Convinci Anderson a consegnarsi, mantenendo però il segreto
+   -  Smaschera Anderson e uccidilo, ottenendo la nota della sua confessione
+   -  Mantieni il segreto: **fama per i Seguaci**
+   -  **Baratto 50**: mantieni il segreto ed estorci il 20% dei profitti da Etienne
+10. Parla con il Luogotenente Carrie Boyd
+11. Ricompensa: **600 PE**, chiave per il baule
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

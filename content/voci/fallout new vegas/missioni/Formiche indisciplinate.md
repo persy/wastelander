@@ -21,6 +21,14 @@ private: false # Nascosto dalle ricerche
 
 *Formiche indisciplinate* è una missione secondaria di Fallout: New Vegas. È data da Raquel all'impianto della base aeronautica di Nellis.
 
+**Riassunto**:
+1. Parla con Raquel e poi raggiungi l'impianto di Nellis
+   - **Scienza**/**Eloquenza 50**: ottieni l'emettitore sonoro da Loyal e posizionalo"
+   - **Eloquenza 55**: convinci Raquel che l'edificio è stato ripulito
+   - Uccidi le formiche e ripulisci l'edificio
+2. Riattiva i due generatori
+3. Torna da Raquel
+4. Ricompensa: **400 PE**, **fama per i Boomer**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

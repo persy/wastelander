@@ -21,6 +21,10 @@ private: false # Nascosto dalle ricerche
 
 *Gli Scavatori* è una missione del DLC *Lonesome Road* di Fallout: New Vegas. È data dal Pip-Boy.
 
+**Riassunto**:
+1. Attraversa la Caverna di Abaddon e prosegui fino al Tempio
+2. Ricompensa: **2200 PE**
+3. Prossima missione: *Il corriere*
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

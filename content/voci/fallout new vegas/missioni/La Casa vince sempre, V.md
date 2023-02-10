@@ -21,6 +21,28 @@ private: false # Nascosto dalle ricerche
 
 *La Casa vince sempre, V* è una missione principale di Fallout: New Vegas. È data dal Sig. House al Lucky 38.
 
+**Riassunto**:
+1. Raggiungi il bunker di Hidden Valley
+2. (Opzionale) Fatti accompagnare da Veronica per ottenere l'accesso al bunker
+3. Completa *Ancora nel buio*
+4. Risolvi il problema con il mercenario Dobson
+   - **Eloquenza 50**: convinci Dobson a lasciare il bunker
+   - Uccidi Dobson
+   - Sabota la radio e costringilo ad andarsene
+   - Rivela a Dobson la presenza della Confraternita: (fallimento) *Ancora nel buio*
+5. Distruggi la Confraternita d'Acciaio
+   - (Opzionale) **Scienza 75**: hackera il terminale di sicurezza delle torrette affinché uccidano i membri della CdA
+   - Uccidi tutti i membri della Confraternita d'Acciaio
+   - Trova il terminale per il sistema d'autodistruzione
+      - **Scienza 100**: hackera il terminale per l'autodistruzione
+      - Procurati le tre chiavi
+          -  Prendi la chiave dal Paladino Capo Hardin
+          -  Prendi la chiave dallo Scriba anziano Taggart
+          -  Prendi la chiave dall'Anziano McNamara
+   -  Attiva il sistema d'autodistruzione
+6.  Ritorna dal Sig. House e informalo che la Confraternita non è più una minaccia
+7.  Prossima missione: *La Casa vince sempre, VI*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

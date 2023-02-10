@@ -22,6 +22,17 @@ private: false # Nascosto dalle ricerche
 
 *Condizioni di lavoro pericolose* è una missione del DLC *The Pitt* di Fallout 3. È data da Midea alla periferia del Pitt.
 
+**Riassunto**:
+1. Vai agli appartamenti di Midea e parlale
+2. Vai da Everett al Mulino
+3. Porta almeno 10 barre d'acciaio a Everett
+4. (Opzionale) Porta altre barre d'acciaio a Everett: *Operaio del laminatoio*
+5. Torna da Midea
+6. Ascolta il discorso di Ashur
+7. Combatti nella Fossa
+8. Ricompensa: **150 PE**, **Esperto ascia automatica**, **Combattente del Pitt**, **Infiltrato**
+9. Prossima missione: *Lavoro libero*
+
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">

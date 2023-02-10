@@ -21,6 +21,11 @@ private: false # Nascosto dalle ricerche
 
 *Riesci a trovarlo nel tuo cuore?* è una missione secondaria di Fallout: New Vegas. È data dal Mercenario Jackson all'Avamposto del Mojave.
 
+**Riassunto**:
+1. Parla con il Mercenario Jackson all'Avamposto del Mojave
+2. Uccidi le formiche giganti sulla strada per l'Area di sosta Nipton Road
+3. Ritorna dal Mercenario Jackson
+4. Ricompensa: **200 PE**, **100 tappi**, **fama per l'RNC**, **fucile di servizio**, **pranzo Caravan**, **kit di riparazione**, **munizioni**
 
 <section class="chart-collapse">
 <input type="checkbox" name="collapse2" id="handle2">
