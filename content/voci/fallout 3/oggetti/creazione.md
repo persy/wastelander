@@ -14,6 +14,8 @@ commentable: true
 hidden: true
 ---
 
+<div class="fo3">
+
 In Fallout 3 è possibile creare diverse armi partendo da oggetti comuni. Per poterlo fare è necessario recarsi a un banco da lavoro e avere in possesso almeno uno schema del corrispettivo oggetto.
 
 ## Schemi e oggetti necessari
@@ -73,3 +75,5 @@ In Fallout 3 è possibile creare diverse armi partendo da oggetti comuni. Per po
 - Avendo Ripara a 100 con un solo schema si crea un'arma al 75% di condizione
 - Con due e tre schemi l'arma avrà una condizione rispettivamente del 100% e del 125%
 - Per le armi esplosive (mine da tappo e granate Nuka) il numero di schemi posseduti determina, invece che la condizione dell'arma ottenuta, il numero di oggetti ottenuti (uno schema = un oggetto, due schemi = due oggetti, tre schemi = tre oggetti)
+
+</div>
