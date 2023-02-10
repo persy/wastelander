@@ -1,7 +1,7 @@
 ---
 # Titolo, sommario, posizione e icona
 linktitle: New Vegas
-summary: ""
+summary: "Le località principali di New Vegas"
 weight: 20
 icon: location-dot # in alternativa location-question
 icon_pack: fas

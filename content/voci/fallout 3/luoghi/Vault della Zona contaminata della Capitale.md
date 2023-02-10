@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Vault
-summary: ''
+summary: 'Vault della Zona contaminata della Capitale'
 weight: 10
 
 # Page metadata.

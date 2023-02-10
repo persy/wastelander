@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: "Washington, D.C."
-summary: ''
+summary: 'Le località principali di Washington, D.C.'
 weight: 10
 icon: map-location-dot
 icon_pack: fas
